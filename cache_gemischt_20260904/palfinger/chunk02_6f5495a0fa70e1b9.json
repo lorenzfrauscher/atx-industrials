@@ -1,0 +1,48 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Kontinuierliche Ausweitung des After-Sales-Geschaefts",
+      "zitat": "Die strategische Initiative zur kontinuierlichen Ausweitung des After-Sales-Geschäfts wird konsequent umgesetzt. Neue Service-Standorte stärken die Kundennähe und Verfügbarkeit von Produkten, Ersatzteilen und Reparaturmöglichkeiten"
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Naher Osten",
+      "aussage": "Suedeuropa und der Mittlere Osten zaehlen innerhalb von EMEA zu den wesentlichen Wachstumsmaerkten.",
+      "zitat": "Im 3. Quartal setzte eine erneut positive Trendwende ein, insbesondere in Südeuropa und im Mittleren Osten, die innerhalb von EMEA zu den wesentlichen Wachstumsmärkten zählen."
+    },
+    {
+      "region": "Indien",
+      "aussage": "Indien hat sich als treibender Zukunftsmarkt herauskristallisiert, weshalb PALFINGER dort nach einem Produktionsstandort sucht.",
+      "zitat": "Als treibende Kraft und langfristiger Zukunftsmarkt kristallisierte sich Indien heraus. Um die Potenziale dieses Marktes bestmöglich zu nutzen, startete PALFINGER die Suche nach einem geeigneten Produktionsstandort in Indien."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Zollpolitik der US-Regierung und Einfuehrung von Zoellen",
+      "kategorie": "Regulierung",
+      "zitat": "Die Einführung von zusätzlichen Zöllen seitens der US-Regierung seit März 2025 betrifft PALFINGER aufgrund des Imports von Materialien und Waren in die USA. Die Zolltarife können auch im Jahr 2026 Auswirkungen auf Lieferketten sowie Absatzmöglichkeiten haben."
+    },
+    {
+      "risiko": "Eskalation zwischen China und Taiwan mit Auswirkungen auf Lieferketten",
+      "kategorie": "Lieferkette",
+      "zitat": "Eine mögliche Eskalation der Situation zwischen China und Taiwan könnte zu Sanktionen, einer Blockade oder einem Krieg führen. Dies würde besonders internationale Lieferketten in der Elektronikindustrie betreffen, was sich wiederum negativ auf nachgelagerte Produktionsschritte auswirken würde."
+    },
+    {
+      "risiko": "Verlust der Wettbewerbsfaehigkeit des Produktportfolios",
+      "kategorie": "Technologie",
+      "zitat": "Der Verlust der Wettbewerbsfähigkeit in einzelnen Produktlinien könnte zu einem strategischen Nachteil führen und die Marke PALFINGER schädigen. Maßnahmen wie der standardisierte Entwicklungsprozess (der PALFINGER Development Process \"PDP\"), ein klares Strategie Programm"
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "PALFINGER plant den Bau eines neuen Werks in Pune, Indien, und steht kurz vor dem Abschluss des Grundstueckskaufs.",
+      "zitat": "Die Übernahme eines geeigneten Grundstücks in Pune steht kurz vor dem Abschluss. Die Planungsarbeiten für das neue Werk haben begonnen, ebenso wie die Vorbereitungen für die Einholung der erforderlichen Genehmigungen für die Fabrik."
+    },
+    {
+      "aussage": "Erwerb eines Grundstuecks fuer ein neues Lackier- und Logistikzentrum in Slowenien.",
+      "zitat": "Für das neue Lackier- und Logistikzentrum in Ormož, Slowenien (EMEA), wurde ein Grundstück erworben, die Gemeinde hat die ersten Bodenarbeiten bereits abgeschlossen. Der Baubeginn ist im 1. Quartal 2026 geplant."
+    }
+  ],
+  "_modell": "gemini-3.5-flash"
+}

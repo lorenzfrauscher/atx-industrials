@@ -1,0 +1,47 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Integration der Taxonomieanforderungen",
+      "zitat": "Besonderes Augenmerk lag dabei auf der weiteren Integration der Anforderungen in die Bauprozesse, um eine praxisnahe und effiziente Umsetzung sicherzustellen. Ziel bleibt es, die Qualität und Nachhaltigkeit der Projekte laufend zu steigern."
+    },
+    {
+      "prioritaet": "Digitalisierung des Prüfprozesses",
+      "zitat": "Zur effizienten und transparenten Abbildung des Prozesses wurde ein internes digitales Tool entwickelt, mit welchem die Konformitätsüberprüfung ab 2025 vollzogen wird. Das bisher verwendete Tool wurde durch dieses abgelöst."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Oesterreich",
+      "aussage": "Oesterreich wird als einer der Heimmärkte definiert, in denen nahezu die gesamte Geschäftstätigkeit abgewickelt wird.",
+      "zitat": "Dabei handelt es sich um die Heimmärkte Österreich, Deutschland, die Schweiz, Polen, Tschechien, die Slowakei und Rumänien. 98,2 % der Produktionsleistung der nichtfinanziellen Erklärung entfallen auf diese Heimmärkte."
+    },
+    {
+      "region": "DACH",
+      "aussage": "Die DACH-Region (Oesterreich, Deutschland, Schweiz) gehoert zu den strategischen Heimmärkten des Konzerns.",
+      "zitat": "Dabei handelt es sich um die Heimmärkte Österreich, Deutschland, die Schweiz, Polen, Tschechien, die Slowakei und Rumänien. 98,2 % der Produktionsleistung der nichtfinanziellen Erklärung entfallen auf diese Heimmärkte."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Klimawandel und Treibhausgasemissionen",
+      "kategorie": "Markt",
+      "zitat": "Insgesamt wurden 32 Auswirkungen und 35 Risiken und Chancen als wesentlich identifiziert und werden in der Nachhaltigkeitsberichterstattung entsprechend verfolgt. Folgende Nachhaltigkeitsaspekte sind für die PORR wesentlich: ESRS E1 Klimawandel."
+    },
+    {
+      "risiko": "Physische Klimarisiken",
+      "kategorie": "Technologie",
+      "zitat": "Diese Einteilung dient der Bündelung der Komponenten (etwa Baugeräte oder temporäre Infrastruktur), die in ähnlicher Weise von physischen Klimarisiken betroffen sein könnten. Das bedeutet, dass die potenziellen Risiken pro Systemelement betrachtet werden."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Abschluss der Übernahme der VAMED Standortentwicklung und Engineering GmbH.",
+      "zitat": "Mit Wirkung zum 31. Dezember 2025 hat die PORR die Übernahme der VAMED Standortentwicklung und Engineering GmbH (VSG), einer Tochtergesellschaft der VIACAMA (vormals VAMED AG), abgeschlossen."
+    },
+    {
+      "aussage": "Investitionen in Baugeräte, Fuhrpark und Gebäudeeffizienzmaßnahmen.",
+      "zitat": "Taxonomiefähige CAPEX beinhalten Investitionen entweder der Kategorie (a) oder (c) der Delegierten Verordnung (EU) 2021/2178 zu Art. 8 Abs. 1.1.2.2. Dazu gehören: Investitionen in Baugeräte und Fuhrpark."
+    }
+  ],
+  "_modell": "gemini-3-flash-preview"
+}

@@ -1,0 +1,93 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Erreichen der Marktposition als Komplettanbieter in allen Geschäftsbereichen durch organisches Wachstum und komplementäre Akquisitionen",
+      "zitat": "Eines der wesentlichen strategischen Ziele der ANDRITZ -Gruppe besteht darin, durch organisches Wachstum und komplementäre Akquisitionen in allen Geschäftsbereichen zum Komplettanbieter zu werden."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "China",
+      "aussage": "Strukturelle Transformation der Zellstoff- und Papierindustrie in China hin zu Upstream-Integration und vollintegrierten Produktionskapazitäten",
+      "zitat": "In China setzte die Zellstoff - und Papierindustrie ihre strukturelle Transformation mit dem Ziel einer zunehmenden Upstream -Integration fort. Führende Marktteilnehmer investierten verstärkt in vollständig integrierte Produktionskapazitäten, um sich einen größeren Anteil an der Wertschöpfungskette zu sichern."
+    },
+    {
+      "region": "Lateinamerika",
+      "aussage": "Wiederaufnahme und Initiierung neuer Greenfield-Wasserkraftprojekte wie Pumpspeicherkraftwerke",
+      "zitat": "Während in westlichen Märkten wie Nordamerika und Europa weiterhin Sanierungs - und Modernisierungsprojekte dominierten, wurden in Schwellen regionen wie Afrika, Asien und Lateinamerika wieder vermehrt neue Greenfield -Projekte (bspw. Pumpspeicher) initiiert."
+    },
+    {
+      "region": "Afrika",
+      "aussage": "Neubau und Initiierung von Greenfield-Wasserkraftprojekten",
+      "zitat": "Während in westlichen Märkten wie Nordamerika und Europa weiterhin Sanierungs - und Modernisierungsprojekte dominierten, wurden in Schwellen regionen wie Afrika, Asien und Lateinamerika wieder vermehrt neue Greenfield -Projekte (bspw. Pumpspeicher) initiiert."
+    },
+    {
+      "region": "Nordamerika",
+      "aussage": "Wachstum im Bereich Clean Air Technologies durch Nachfrage nach Neuanlagen und Modernisierungen in den USA",
+      "zitat": "Demgegenüber entwickelten sich die Märkte für Clean Air Technologies sehr positiv. Die größten Treiber dieser Entwicklung waren die steigende Nachfrage nach Neuanlagen sowie nach Modernisierungen bestehender Anlagen, insbesondere in etablierten Industrieregionen wie den USA."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Auftragsunterbrechungen und geänderte Rahmenbedingungen durch kriegerische Konflikte, Terrorismus oder Gesetzesänderungen in politisch riskanten Ländern",
+      "kategorie": "Regulierung",
+      "zitat": "Unterbrechungen von Aufträgen könnten die Folge terroristischer oder kriegerischer Aktivitäten oder politischer Veränderungen sein. Die politischen Entwicklungen werden für alle Länder bzw. Regionen, in denen der Konzern tätig ist, kontinuierlich beobachtet und wesentliche politische Risiken werden vor dem Eintritt in neue Länder überprüft."
+    },
+    {
+      "risiko": "Nachträgliche Steuer- und Zollbelastungen sowie finanzielle und Reputationsschäden durch Nichteinhaltung rechtlicher Bestimmungen",
+      "kategorie": "Regulierung",
+      "zitat": "Eine Änderung von Gesetzen oder sonstigen Bestimmungen – darunter fallen auch Regelungen zu Importzöllen etc. – sowie unterschiedliche Auslegungen der jeweils geltenden Bestimmungen können zu nachträglichen Steuer - und Zollbelastungen führen."
+    },
+    {
+      "risiko": "Verlust von Marktanteilen und Margendruck durch intensiven Wettbewerb und Verlust von Großkunden",
+      "kategorie": "Markt",
+      "zitat": "Die ANDRITZ -Gruppe agiert in sehr wettbewerbsintensiven Märkten, in denen einige wenige große Anbieter um einige wenige Großaufträge bieten. Darüber hinaus gibt es lokal eine Vielzahl kleiner konkurrierenden Unternehmen, die über eine vergleichsweise niedrige Kostenbasis verfügen."
+    },
+    {
+      "risiko": "Verletzung und Diebstahl von geistigem Eigentum durch Produktpiraterie, Cyberattacken und Industriespionage",
+      "kategorie": "Technologie",
+      "zitat": "Da die Wettbewerbsposition der Gruppe auch auf proprietären Technologien beruht, können die durch das digitale Zeitalter begünstigte Zunahme von Produktpiraterie, Cyberattacken und Industriespionage sowie der damit einhergehende Diebstahl von geistigem Eigentum ebenfalls negative Auswirkungen auf die Wettbewerbsposition der Gruppe haben."
+    },
+    {
+      "risiko": "Kundenseitige Nachfrageschwankungen und Volatilität bei Auftragseingang und Projektvergaben",
+      "kategorie": "Markt",
+      "zitat": "Einige Kundengruppen und Industrien, die ANDRITZ beliefert, sind direkt von der allgemeinen Wirtschaftsentwicklung abhängig und unterliegen damit häufig Nachfrageschwankungen hinsichtlich ihrer Produkte. Dies trifft vor allem auf die Geschäftsbereiche Pulp & Paper sowie Metals zu"
+    },
+    {
+      "risiko": "Risiken bei der Identifikation, Finanzierung, Durchführung und Integration komplementärer Unternehmenskäufe",
+      "kategorie": "Finanzierung",
+      "zitat": "Es kann jedoch nicht garantiert werden, dass die Gruppe auch künftig in der Lage sein wird, geeignete Akquisitionsziele zu identifizieren und zu erwerben, dass überhaupt geeignete Unternehmen zur Verfügung stehen und ausreichend Finanzmittel für große Akquisitionen aufgebracht werden können."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investitionen in Sachanlagen und immaterielle Vermögenswerte mit Fokus auf Modernisierung und Erweiterung",
+      "zitat": "Die Investitionsschwerpunkte betrafen – wie in den Vorjahren – insbesondere Modernisierungen von Fertigungs - stätten sowie vereinzelte Erweiterungsinvestitionen zur Unterstützung des Wachstums im Wesentlichen in Nordamerika, Europa und China."
+    },
+    {
+      "aussage": "Erwerb der LDX-Gruppe (Dustex LLC und Western Pneumatics) in den USA im Bereich Environment & Energy",
+      "zitat": "ANDRITZ hat im Februar 2025 die in den USA ansässige Dustex LLC samt Tochtergesellschaft Western Pneumatics, LLC (gemeinsam LDX -Gruppe) erworben. LDX zählt zu den führenden Anbietern von Technologien und Dienstleistungen zur Emissionsreduktion"
+    },
+    {
+      "aussage": "Übernahme der italienischen A.Celli Paper S.P.A. zur Erweiterung des Bereichs Pulp & Paper",
+      "zitat": "ANDRITZ erwarb im Juli 2025 die A.Celli Paper S.P.A. mit Sitz in Italien, samt weiteren Tochtergesellschaften in Italien und China. A.Celli verfügt über jahrzehntelange Erfahrung in der Lieferung von Maschinen und Kernkomponenten für die Produktion von Tissue"
+    },
+    {
+      "aussage": "Erwerb der Salico-Gruppe für den Geschäftsbereich Metals",
+      "zitat": "Des weiteren hat ANDRITZ im Juli 2025 die Salico -Gruppe, mit Hauptsitz in Italien und Spanien erworben. Der Erwerb umfasst auch Tochtergesellschaften in Großbrita nnien, den USA und Indien."
+    },
+    {
+      "aussage": "Erwerb der Diamond-Gruppe im Bereich Zellstoff-, Papier- und Energietechnologie",
+      "zitat": "Im Juli 2025 wurde außerdem von ANDRITZ die Diamond -Gruppe mit Hauptsitz in den USA und Großbritannien erworben. Die Akquisition umfasst ebenso auch Tochtergesellschaften in Deutschland, Schweden, Finnland, Brasilien, Thailand , China , Südafrika und der Tschechischen Republik ."
+    },
+    {
+      "aussage": "Asset-Deal-Erwerb wesentlicher Bereiche von Allen-Sherman-Hoff (ASH) für Pulp & Paper",
+      "zitat": "Im November 2025 hat ANDRITZ wesentliche Bereiche von Allen -Sherman-Hoff (ASH) im Rahmen eines Asset Deals erworben. ASH ist ein anerkannter Marktführer für Asche -Handhabungssysteme und beliefert Kraftwerke, Biomasseanlagen, die Papier - und Zellstoffindustrie"
+    },
+    {
+      "aussage": "Mehrheitsübernahme von 51 % an Baoding Sanzheng Electrical Equipment Co., Ltd. in China",
+      "zitat": "ANDRITZ hat im Dezember 2025 51% der Anteile an Boading Sanzheng Electrical Equipment Co., Ltd. mit dem Hauptsitz in China unterzeichnet. Die Integration von Sanzheng bringt ANDRITZ ein vollständiges Portfolio von Induktionserwärmungstechnologien"
+    }
+  ],
+  "_modell": "gemini-3.7-flash"
+}

@@ -1,0 +1,50 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Erhöhung des Frauenanteils",
+      "zitat": "Eines davon ist die deutliche Erhöhung des Frauenanteils im Unternehmen und auf den Führungsebenen. Um ihr Engagement für Gleichstellung und Diversität weiter zu unterstreichen unterstützt die PORR darüber hinaus die Charta der Vielfalt"
+    },
+    {
+      "prioritaet": "Dekarbonisierung",
+      "zitat": "Im Mittelpunkt stehen die schrittweise Dekarbonisierung emissionsintensiver Prozesse und Materialien, der Ausbau erneuerbarer Energien sowie eine effiziente Energie- und Ressourcennutzung. Thema: 5. Dekarbonisierung"
+    },
+    {
+      "prioritaet": "Kreislaufwirtschaft",
+      "zitat": "In diesem Handlungsfeld steht die konsequente Umsetzung der Kreislaufwirtschaft im Vordergrund. Ziel ist es, Materialien möglichst lange im Nutzungskreislauf zu halten, Abfälle zu vermeiden und Recyclingquoten zu erhöhen."
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Klimarisiken",
+      "kategorie": "Markt",
+      "zitat": "Dazu gehören die Analyse physischer und transitorischer Klimarisiken entlang der gesamten Lieferkette sowie die Berechnung der finanziellen Auswirkungen regulatorischer ESG-Vorgaben. Eine detaillierte Übersicht der Klimarisiken findet sich in Kapitel E1"
+    },
+    {
+      "risiko": "Materialknappheit und Abfallentsorgung",
+      "kategorie": "Lieferkette",
+      "zitat": "Steigende Kosten durch (a) Verzögerungen im Betrieb aufgrund von Materialknappheit (b) lineare Abfallentsorgung bei „Business as usual“ Abfallrechtliche Konsequenzen durch veränderte Grundlagen bei „Business as usual“"
+    },
+    {
+      "risiko": "Regulatorische Änderungen Landnutzung",
+      "kategorie": "Regulierung",
+      "zitat": "Regulatorisches Risiko durch gesetzliche Änderungen im Zusammenhang mit Landnutzungsänderungen langfristig Operatives Risiko durch Abhängigkeiten von Ökosystemdienstleistungen alle Zeithorizonte Chance Neue Aufträge im Zusammenhang mit Biodiversitätsschutz und Renaturierung"
+    },
+    {
+      "risiko": "Lohnkosten und Gender-Pay-Gap",
+      "kategorie": "Finanzierung",
+      "zitat": "Potenzielle Kosten durch (a) Anstieg der Lohnkosten im Rahmen des Tarifvertrags (b) Angleichung des Gender-Pay-Gaps in den einzelnen Vergleichsgruppen (c) Ausgleichszahlungen aufgrund unzureichender Anstellung von Menschen mit Behinderung"
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investitionen im Rahmen der Stakeholder-Interessen",
+      "zitat": "Aktionäre, Investoren und Banken Betroffene, Nutzerinnen und Nutzer Eigene Tätigkeiten – Direkter Dialog durch Hauptversammlungen, Roadshows, Konferenzen, Messeauftritte, Conference Calls, E-Mails, regelmäßige Einzeltermine – Indirekte Dialog über diverse Ratings – Investitionen"
+    },
+    {
+      "aussage": "Investitionsbedarf für Kreislaufwirtschaft",
+      "zitat": "Vermehrte Investitionen beim Übergang zur Kreislaufwirtschaft Chance Effizienzsteigerung durch optimierte Ressourcennutzung beim Übergang zur Kreislaufwirtschaft kurz- und mittelfristig Wettbewerbsvorteil und Marktpositionierung beim Übergang zur Kreislaufwirtschaft kurzfristig"
+    }
+  ],
+  "_modell": "gemini-3-flash-preview"
+}

@@ -1,0 +1,44 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Fokus auf margenstarke Marktsegmente und Premiumfasern bei Rueckzug aus Commodity-Segmenten",
+      "zitat": "Lenzing wird sich zukünftig auf margenstarke Marktsegmente und Premiumfasern fokussieren, während man sich schrittweise aus margenschwachen Commodity-Segmenten zurückziehen wird."
+    },
+    {
+      "prioritaet": "Fokus auf Kernsaeulen Premiumisierung, Exzellenz, Innovation und Nachhaltigkeit",
+      "zitat": "Um dies zu erreichen, setzen wir verstärkt auf die strategischen Kernsäulen Premiumisierung und Exzellenz, und bleiben führend bei Innovation und Nachhaltigkeit."
+    },
+    {
+      "prioritaet": "Klimaneutralitaet und Reduktion von Treibhausgasemissionen",
+      "zitat": "Lenzing verfolgt wissenschaft- lich fundierte Ziele zur Reduktion von Treibhausgas emissionen und strebt an, bis 2050 klimaneutral zu werden."
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Geopolitische Spannungen, internationale Zoelle und Handelskonflikte mit Belastung der Wertschoepfungsketten",
+      "kategorie": "Markt",
+      "zitat": "Die Rahmen - bedingungen für die globale Textil- und Vliesstoffindustrie blieben herausfordernd: geopolitische Spannungen mit wechselnden Handelszöllen, ein volatiles Marktumfeld sowie anhaltender Kosten- und Wettbewerbsdruck entlang der Wertschöpfungs - ketten belasten Nachfrage und Preise."
+    },
+    {
+      "risiko": "US-Zoelle und globaler Zoll- und Handelskonflikt mit negativen Auswirkungen auf das Konsumentenvertrauen",
+      "kategorie": "Markt",
+      "zitat": "Auf die Ankündigung hoher internationaler US-Zölle und den darauffolgenden globalen Zoll- und Handelskonflikt erfolgte allerdings erneut eine deutliche Marktverwerfung, mit negativen Implikationen auf Konsumentenvertrauen und die globale Textilwertkette."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investition von 15 Mio. EUR in den Ausbau der Produktion von VEOCEL Viscostar-Fasern",
+      "zitat": "Lenzing investiert EUR 15 Mio. in den Ausbau der Produktion von VEOCEL™ Viscostar-Fasern, um seine Marktstellung im Bereich Damenhygieneprodukte zu stärken und eine umweltfreundliche Alternative zu synthetischen Fasern zu bieten."
+    },
+    {
+      "aussage": "Strategische Pruefung und Evaluierung verschiedener Optionen einschliesslich Verkauf des Produktionsstandortes in Indonesien",
+      "zitat": "Im dritten Quartal 2025 wurde eine strategische Überprüfung des Produktionsstandortes in Indonesien eingeleitet, um verschiedene Optionen einschließlich eines möglichen Verkaufs zu evaluieren."
+    },
+    {
+      "aussage": "Investitionen in erneuerbare Energien und Ausbau des Photovoltaik-Parks am Standort Lenzing",
+      "zitat": "Dazu investiert das Unternehmen in erneuerbare Energien, wie den Ausbau des Photovoltaik-Parks am Standort Lenzing."
+    }
+  ],
+  "_modell": "gemini-3.7-flash"
+}

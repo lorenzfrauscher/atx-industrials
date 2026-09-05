@@ -1,0 +1,47 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Dekarbonisierung bis 2030",
+      "zitat": "Der Dekarbonisierungsplan bildet den strategischen Fahrplan für die Reduktion der THG-Emissionen bis 2030. Er orientiert sich an wissenschaftsbasierten Zielen und den sieben Hebeln der Emissionsreduktion. Fortschritte werden jährlich gemessen und bewertet."
+    },
+    {
+      "prioritaet": "Anpassung an den Klimawandel",
+      "zitat": "Für die PORR ist die systematische Anpassung an diese Entwicklungen ein wesentlicher Bestandteil der Unternehmens- und Nachhaltigkeitsstrategie. Ziel ist es, klimabedingte Risiken entlang der gesamten Wertschöpfungskette frühzeitig zu identifizieren."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Oesterreich",
+      "aussage": "Verlagerung der Produktionsleistung in emissionsärmere Märkte.",
+      "zitat": "Gleichzeitig verlagert sich die Produktionsleistung stärker in Märkte mit vergleichsweise niedriger Emissionsintensität wie Österreich und Deutschland, während sie in emissionsintensiveren Märkten, insbesondere Rumänien und Polen, geringer bzw. stabil blieb."
+    },
+    {
+      "region": "DACH",
+      "aussage": "Verlagerung der Produktionsleistung nach Deutschland.",
+      "zitat": "Gleichzeitig verlagert sich die Produktionsleistung stärker in Märkte mit vergleichsweise niedriger Emissionsintensität wie Österreich und Deutschland, während sie in emissionsintensiveren Märkten, insbesondere Rumänien und Polen, geringer bzw. stabil blieb."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Transitorische Klimarisiken",
+      "kategorie": "Regulierung",
+      "zitat": "Zu den wesentlichen Risiken zählen insbesondere die in der Klimarisikenübersicht auf S. 94 dargestellten transitorischen Risiken (IRO5), die sich unter anderem aus verschärften regulatorischen Vorgaben, steigenden CO2e-Preisen sowie veränderten Marktanforderungen ergeben."
+    },
+    {
+      "risiko": "Physische Klimarisiken",
+      "kategorie": "Markt",
+      "zitat": "Umsatzeinbußen durch Bauunterbrechungen aufgrund von: – Überflutungen – Arbeitstopp bei großer Hitze – Kranstopp bei Sturm Verringerung der Produktivität und damit steigende Kosten durch: – Liefer- und Transportschwierigkeiten – Hitzebelastung der Beschäftigten"
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Geplante jährliche Investitionen in Sachanlagen für den Dekarbonisierungsplan.",
+      "zitat": "Die derzeitigen Planannahmen sehen jährliche Investitionen in Sachanlagen (CAPEX) von rund EUR 5,5 Mio. sowie laufende betriebliche Aufwendungen (OPEX) von rund EUR 14,7 Mio. vor. Dem stehen erwartete Effizienz- und Kosteneinsparungen gegenüber."
+    },
+    {
+      "aussage": "Investitionen in klimafreundliche Technologien und Infrastruktur.",
+      "zitat": "Die Umsetzung des Dekarbonisierungsplans erfordert gezielte Investitionen in klimafreundlichere Technologien, Prozesse und Infrastruktur. Die Investitionsplanung orientiert sich an den priorisierten Maßnahmen im Rahmen der sieben strategischen Hebel und berücksichtigt dabei die Anforderungen."
+    }
+  ],
+  "_modell": "gemini-3-flash-preview"
+}

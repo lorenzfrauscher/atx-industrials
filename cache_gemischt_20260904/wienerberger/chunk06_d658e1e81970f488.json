@@ -1,0 +1,35 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Gesundheit und Sicherheit",
+      "zitat": "Gesundheit und Sicherheit haben bei wienerberger nach wie vor oberste Priorität. Strenge Konzepte und Präventivmaßnahmen sollen ein sicheres und unterstützendes Arbeitsumfeld für alle Mitarbeitenden schaffen."
+    },
+    {
+      "prioritaet": "Nachhaltigkeitsprogramm 2026",
+      "zitat": "Anhand des Nachhaltigkeitsprogramms 2026 wurden die am besten geeigneten Maßnahmen umgesetzt. Angesichts des großen Umfangs der gesamten Gruppe ist die Einführung dieser Maßnahmen schrittweise geplant."
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Negative Auswirkungen auf Menschenrechte",
+      "kategorie": "Regulierung",
+      "zitat": "Darüber hinaus überwacht wienerberger aktiv , ob über öffentlich zugängliche Datenbanken der OECD Vorwürfe in Bezug auf negative Auswirkungen auf die Menschenrechte gegen Konzerngesellschaften vorliegen."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Auszahlungen für Unternehmensakquisitionen im Jahr 2025",
+      "zitat": "Netto-Auszahlungen für Unternehmensakquisitionen beliefen sich im Jahr 2025 auf 24 Millionen Euro, verglichen mit 634 Millionen Euro im vorangegangenen Geschäftsjahr 2024 laut der Konzern-Kapitalflussrechnung."
+    },
+    {
+      "aussage": "Investitionen in Sachanlagen und immaterielle Vermögenswerte",
+      "zitat": "Auszahlungen für Investitionen in Sachanlagen und immaterielle Vermögenswerte betrugen im Geschäftsjahr 2025 insgesamt 281 Millionen Euro, nach 312 Millionen Euro im Jahr 2024."
+    },
+    {
+      "aussage": "Growth Capex nach Segmenten",
+      "zitat": "Die Growth Capex beliefen sich im Jahr 2025 auf insgesamt 133 Millionen Euro, wobei 68 Millionen auf Europe West und 58 Millionen auf Europe East entfielen."
+    }
+  ],
+  "_modell": "gemini-3-flash-preview"
+}

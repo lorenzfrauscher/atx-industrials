@@ -1,0 +1,51 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Bewusstseinsförderung für Nachhaltigkeit",
+      "zitat": "Ziel ist es, Wissen, Haltung und Eigenverantwortung für nachhaltiges Handeln bei allen Mitarbeitenden zu stärken und Nachhaltigkeit, Klimaschutz sowie Integrität dauerhaft in der Unternehmenskultur zu verankern."
+    },
+    {
+      "prioritaet": "Operative Integration von ESG-Schulungen",
+      "zitat": "Bis 2030 soll ein gruppenweites, umfassendes und zielgruppenorientiertes Schulungskonzept etabliert sein, das allen Mitarbeitendengruppen zugänglich ist und die operative Umsetzung der ESG-Ziele unterstützt."
+    },
+    {
+      "prioritaet": "Nachhaltiges Wassermanagement",
+      "zitat": "Ziel ist es, die Nutzung von alternativen Wasserquellen, wie z. B. Brunnenwasser, zu erhöhen und die Abhängigkeit von Leitungswasser zu verringern."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Global",
+      "aussage": "Wachsende Nachfrage nach ESG-konformen Investitionen und Erschließung neuer Märkte.",
+      "zitat": "Verstärkte Kapitalströme in nachhaltige Bau- und Infrastrukturprojekte Wachsende Nachfrage nach ESG- konformen Investitionen von institu tionellen und privaten Anlegerinnen und Anlegern Potenzielle Erschließung neuer Märkte"
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Höhere Bepreisung von Treibhausgasemissionen",
+      "kategorie": "Markt",
+      "zitat": "Erhöhte Kosten durch: Ressourcenintensive Materialien (Bepreisung von THG-Emissionen) Beeinträchtigung der Wettbewerbsfähigkeit aufgrund höherer Baupreise Komplexität und Volatilität rechtlicher Vorgaben"
+    },
+    {
+      "risiko": "Regulatorische Änderungen bei Landnutzung",
+      "kategorie": "Regulierung",
+      "zitat": "Transitorische Risiken entstehen insbesondere durch regulatorische Änderungen im Zusammenhang mit Landnutzungs änderungen (IRO3), die unmittelbare Auswirkungen auf die Geschäftstätigkeit haben."
+    },
+    {
+      "risiko": "Verfügbarkeit emissionsärmerer Technologien",
+      "kategorie": "Technologie",
+      "zitat": "Begrenzte Verfügbarkeit emissionsarmer Technologien, Logistik, Bau maschinen und Baustoffe Erschwerter Umstieg durch langen Lebenszyklus von Baumaschinen Hohe Nachfrage bei begrenztem Angebot"
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investitionen in wassersparende Technologien und Recyclinglösungen.",
+      "zitat": "Ein gezieltes Wassermanagement bildet die Grundlage für Investitionen in wassersparende Technologien und Recyclinglösungen, wodurch langfristig die Ressourceneffizienz erhöht, Betriebskosten gesenkt, die Wasserverfügbarkeit stabilisiert und die Wettbewerbsfähigkeit gestärkt werden können."
+    },
+    {
+      "aussage": "Investitionen beim Übergang zur Kreislaufwirtschaft.",
+      "zitat": "Der Übergang zu einem kreislauforientierten Wirtschaftsmodell ist mit finanziellen Effekten verbunden, die sich unmittelbar auf die Einkaufstätigkeit der PORR auswirken."
+    }
+  ],
+  "_modell": "gemini-3-flash-preview"
+}

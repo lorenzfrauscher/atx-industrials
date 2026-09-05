@@ -1,0 +1,43 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Klimaziele und Nachhaltigkeit",
+      "zitat": "Um die Klimaziele zu erreichen, ersetzt wienerberger ausgewählte Produktionslinien, Maschinen und sonstigen Anlagen schrittweise durch effizientere und nachhaltigere Alternativen. Diese Erneuerungen erfolgen in der Regel gegen Ende der Nutzungsdauer einer Anlage."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Nordamerika",
+      "aussage": "Das Unternehmen ist in Nordamerika aktiv, wobei dort eine Schätzungsänderung bei Markenrechten vorgenommen wurde.",
+      "zitat": "In der Region Bricks North America wurde die Nutzungsdauer eines Markenrechts von unbegrenzt auf begrenzt geändert und wurde in 2025 über die Restnutzungsdauer abgeschrieben."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Finanzierungs- und Ratingrisiken",
+      "kategorie": "Finanzierung",
+      "zitat": "Sollte sich das allgemeine Zinsniveau erhöhen, das Rating der Gruppe verschlechtern oder Covenants nicht eingehalten werden, können die zu zahlenden Zinsen durch höhere Referenzzinssätze oder höhere Kreditrisikoaufschläge steigen."
+    },
+    {
+      "risiko": "Währungsrisiken",
+      "kategorie": "Markt",
+      "zitat": "Umsätze, Ergebnisse und Bilanzwerte der nicht im Euro-Raum ansässigen Gesellschaften sind daher vom jeweiligen Euro-Wechselkurs abhängig. Die Risikostrategie von wienerberger sieht vor, das Translationsrisiko aus den Nettoinvestitionen in ausländische Tochtergesellschaften zu überwachen."
+    },
+    {
+      "risiko": "Kartellrechtliche Sammelklagen",
+      "kategorie": "Regulierung",
+      "zitat": "In den Klagen werden Verstöße gegen Kartellgesetze geltend gemacht. Im Zusammenhang mit derselben Angelegenheit wurde zudem eine Untersuchung durch das Department of Justice (DOJ) eingeleitet. PipeLife Jet Stream bestreitet die Vorwürfe."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Es bestehen signifikante Verpflichtungen zum Erwerb von Sachanlagen.",
+      "zitat": "Zum Abschlussstichtag bestanden Verpflichtungen zum Kauf von Sachanlagen in Höhe von EUR 45 Mio (2024: EUR 27 Mio). Diese Erneuerungen erfolgen in der Regel gegen Ende der Nutzungsdauer einer Anlage."
+    },
+    {
+      "aussage": "Das Unternehmen tätigt Akquisitionen, die zu bedingten Kaufpreisverbindlichkeiten führen.",
+      "zitat": "Die bedingten Kaufpreisverbindlichkeiten betreffen Verbindlichkeiten aus Unternehmenserwerben, die von der Erreichung bestimmter Ergebnisziele abhängen. Im Geschäftsjahr 2025 betrugen diese Verbindlichkeiten EUR 23 Mio nach EUR 4 Mio im Vorjahr."
+    }
+  ],
+  "_modell": "gemini-3-flash-preview"
+}

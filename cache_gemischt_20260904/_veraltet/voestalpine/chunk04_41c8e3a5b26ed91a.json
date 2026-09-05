@@ -1,0 +1,46 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Klimatransformation und schrittweise Dekarbonisierung bis zu Netto-Null-Emissionen bis 2049/50",
+      "zitat": "Dieser beinhaltet eine langfristige 1,5-°C-Zielsetzung bis 2050 zur Begrenzung der Erderwärmung, die validierten Ziele in Phase 1 bis zum Geschäftsjahr 2029/30 folgen einem „well below 2° C“-Reduktionspfad."
+    },
+    {
+      "prioritaet": "Industrielle Elektrifizierung und Ablöse von kohlebasierten Hochöfen durch Elektrolichtbogenöfen",
+      "zitat": "Dazu zählen die industrielle Elektrifizierung mit dem Ersatz kohlebasierter Hochöfen durch Elektrolichtbogenöfen (EAF) als wesentlichste Maßnahme, die Nutzung erneuerbarer Energien zur Reduktion des CO2-Ausstoßes, der Rohstoffeinsatz in den Prozessen zur Eisen- und Stahlerzeugung"
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Technische Umstellung auf emissionsarme Technologien unter unsicheren Rahmenbedingungen und operativen Risiken",
+      "kategorie": "Technologie",
+      "zitat": "Die Transformation hin zu einer emissionsarmen Stahlproduktion im Rahmen von greentec steel erfordert von der voestalpine erhebliche Investitionen in neue Technologien und Anlagen, die unter teils unsicheren gesetzlichen Rahmenbedingungen getätigt werden"
+    },
+    {
+      "risiko": "Kostenbelastungen und Wettbewerbsnachteile durch CO2e-Bepreisungsmechanismen wie ETS und CBAM",
+      "kategorie": "Regulierung",
+      "zitat": "CO2e-Bepreisungsmechanismen wie das EU-Emissionshandelssystem (ETS) und der CO2-Grenzausgleichsmechanismus (CBAM) führen zu steigenden finanziellen Belastungen, die potenziell Wettbewerbsnachteile gegenüber Nicht-EU-Wettbewerber:innen verursachen"
+    },
+    {
+      "risiko": "Lieferengpässe und Preisvolatilität bei kritischen Rohstoffen",
+      "kategorie": "Lieferkette",
+      "zitat": "Im Zuge der Transformation steigt die Nachfrage nach kritischen Rohstoffen wie Stahlschrott sowie speziellen Metallen und Legierungen, wodurch das Risiko von Versorgungsengpässen zunimmt. Die voestalpine sieht sich mit einem wachsenden Bedarf konfrontiert"
+    },
+    {
+      "risiko": "Versorgungsengpässe und steigende Kosten bei der Energiebeschaffung",
+      "kategorie": "Lieferkette",
+      "zitat": "Das transitorische Risiko für die voestalpine umfasst mögliche Versorgungsengpässe an großen Produktionsstandorten (insbesondere Linz und Donawitz) sowie steigende Energiebeschaffungskosten (erneuerbare und nicht erneuerbare Quellen) vor dem Hintergrund der europäischen Energiewende."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investitionen in zwei Elektrolichtbogenöfen in Linz und Donawitz im Rahmen des CapEx-Plans mit 1,5 Mrd. EUR Gesamtvolumen",
+      "zitat": "Im ersten Schritt des Stufenplans werden ein grünstrombetriebener Elektrolichtbogenofen (Electric Arc Furnace; EAF) in Linz und eine grünstrombetriebene Elektrolichtbogenofenanlage in Donawitz errichtet. So ist es möglich, ab 2027 nach erfolgtem Hochlauf jährlich ca."
+    },
+    {
+      "aussage": "Investitionsbudget von 1,5 Mrd. EUR für Phase 1 des Klimaübergangsplans genehmigt",
+      "zitat": "Die erste Phase des Plans und die erforderlichen finanziellen Mittel (1,5 Mrd. EUR Investitionsbudget) zur Umsetzung sind von Vorstand und Aufsichtsrat genehmigt. Die finanziellen Mittel zur Umsetzung von Phase 1 dieser Transformation"
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

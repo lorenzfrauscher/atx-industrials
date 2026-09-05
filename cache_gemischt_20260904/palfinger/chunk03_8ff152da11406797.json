@@ -1,0 +1,80 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Rasche Umsetzung der Strategie 2030+",
+      "zitat": "Die PALFINGER AG fokussiert 2026 auf die rasche Umsetzung seiner strategischen Programme, wie sie in der Strategie 2030+ definiert sind."
+    },
+    {
+      "prioritaet": "Erreichung der neuen Finanzziele 2030",
+      "zitat": "Auf den Finanzzielen 2027 aufbauend, hat PALFINGER im Rahmen der neuen Strategie die Finanzziele 2030 definiert: Angestrebt wird ein Umsatz von mehr als 3 Mrd. EUR, eine EBIT-Marge von 12 Prozent und eine Rendite auf das eingesetzte Kapital (ROCE) von 15 Prozent."
+    },
+    {
+      "prioritaet": "Reduktion der Treibhausgasemissionen (Scope 1 und 2)",
+      "zitat": "Ziel ist es, die eigenen Emissionen Scope 1 und 2 bis 2030 um jährlich ein Prozent bezogen auf das Referenzjahr 2022 zu reduzieren. Ein Ziel in Bezug auf Mitarbeitende ist, die Unfallrate TRIR bis 2028 auf einen Wert von 8,5 zu senken."
+    },
+    {
+      "prioritaet": "Transformation zu einer Kreislaufwirtschaft und zirkulären Produktstrategie",
+      "zitat": "Die Transformation hin zu einer Kreislaufwirtschaft ist eine zentrale strategische Aufgabe. Ein kontinuierlich reduzierter Ressourcenverbrauch steht dabei im Fokus. Ergänzend wird der Übergang zu einer zirkulären Produktstrategie vorangetrieben, die auf eine höhere Materialeffizienz und langfristige Wertsteigerung der Produkte abzielt."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Europa uebrig",
+      "aussage": "EMEA bleibt neben Nordamerika ein zentraler Wachstumstreiber, wenngleich eine spürbare Erholung noch ausbleibt.",
+      "zitat": "EMEA und NAM bleiben weiterhin die zentralen Wachstumstreiber für PALFINGER. Die Entwicklung beider Regionen ist jedoch maßgeblich von externen Faktoren abhängig: In EMEA bleibt eine spürbare Markterholung bislang aus, während in Nordamerika (NAM) die Zollpolitik der USA weiterhin Mehrbelastungen mit sich bringt."
+    },
+    {
+      "region": "Nordamerika",
+      "aussage": "Nordamerika bleibt ein zentraler Wachstumstreiber, obwohl die US-Zollpolitik Mehrbelastungen verursacht.",
+      "zitat": "EMEA und NAM bleiben weiterhin die zentralen Wachstumstreiber für PALFINGER. Die Entwicklung beider Regionen ist jedoch maßgeblich von externen Faktoren abhängig: In EMEA bleibt eine spürbare Markterholung bislang aus, während in Nordamerika (NAM) die Zollpolitik der USA weiterhin Mehrbelastungen mit sich bringt."
+    },
+    {
+      "region": "Lateinamerika",
+      "aussage": "In Lateinamerika wird mit der Fortsetzung der positiven wirtschaftlichen Entwicklung gerechnet, getrieben durch Brasilien.",
+      "zitat": "In LATAM ist mit der Fortsetzung der positiven wirtschaftlichen Entwicklung, die vor allem von Brasilien getragen wird, zu rechnen. In APAC entwickelt sich Indien als zukünftiger wichtiger Wachstumsmarkt für PALFINGER."
+    },
+    {
+      "region": "Indien",
+      "aussage": "Indien entwickelt sich zu einem künftigen wichtigen Wachstumsmarkt.",
+      "zitat": "In LATAM ist mit der Fortsetzung der positiven wirtschaftlichen Entwicklung, die vor allem von Brasilien getragen wird, zu rechnen. In APAC entwickelt sich Indien als zukünftiger wichtiger Wachstumsmarkt für PALFINGER."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Cyberkriminalität und Verlust sensibler Informationen durch Spionage",
+      "kategorie": "Technologie",
+      "zitat": "Das Risiko von Cyberkriminalität bleibt durch die zunehmende Digitalisierung auf einem hohen Niveau und wird von seiner Bedeutung her mittelfristig weiter steigen. Als international tätiges Unternehmen ist PALFINGER ein potenziell interessantes Ziel."
+    },
+    {
+      "risiko": "Produktmängel und Gewährleistungskosten durch Outsourcing und Reifegrad der Qualitätssicherung",
+      "kategorie": "Lieferkette",
+      "zitat": "Ein unterschiedlicher Reifegrad bei der Umsetzung von Qualitätssicherungsstandards und -prozessen stellt ein wesentliches Risiko in Bezug auf Gewährleistung und Garantiekosten dar. Längerfristig führt zudem die Outsourcing-Strategie zu steigenden Mengen und höherer Abhängigkeit von externen Lieferanten."
+    },
+    {
+      "risiko": "Anforderungen an CO2-Fußabdruck und Pariser Klimaziele",
+      "kategorie": "Regulierung",
+      "zitat": "Sowohl durch regulatorische Vorgaben (v.a. in der EU) als auch steigende Anforderungen bestimmter Stakeholder-Gruppen (z.B. Investmentfonds, Banken und bestimmte Kundengruppen) steigt der Druck, den CO₂-Fußabdruck in der eigenen Produktion sowie der gesamten Wertschöpfungskette zu reduzieren."
+    },
+    {
+      "risiko": "Zunehmende Rechtsstreitigkeiten weltweit",
+      "kategorie": "Regulierung",
+      "zitat": "Die Konfliktbereitschaft zwischen Wirtschaftsteilnehmern nimmt weltweit zu, insbesondere in den Regionen NAM und EMEA, darüber hinaus bspw. auch in China und Indien. Diese Entwicklung könnte langfristig zu erheblichen finanziellen und reputationsbezogenen Risiken führen und die Zielerreichung beeinträchtigen."
+    },
+    {
+      "risiko": "Impairment Firmenwerte bei Verschlechterung der Marktsituation",
+      "kategorie": "Markt",
+      "zitat": "Bei Verschlechterung der Marktsituation besteht das Risiko, dass einzelne Wirtschaftsgüter aus rechtlichen Gründen an eine geänderte Bewertung angepasst werden müssen oder Investitionen sich nicht amortisieren."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Veräußerung aller per Ende 2024 gehaltenen eigenen Aktien via beschleunigtes Privatplatzierungsverfahren im Juli 2025.",
+      "zitat": "Sämtliche per 31.12.2024 gehaltenen eigenen Aktien wurden von der PALFINGER AG mittels beschleunigtem Privatplatzierungsverfahrens im Juli 2025 veräußert. PALFINGER hält zum 31. Dezember 2025 folglich keine eigenen Aktien mehr."
+    },
+    {
+      "aussage": "Bei Partnerschaften und Akquisitionen wird zur Risikominimierung eine gründliche Due-Diligence-Prüfung vorgenommen.",
+      "zitat": "Aktives Vertragsmanagement mit Geschäftspartnern auf Vertriebs- sowie Einkaufsseite mitigiert das Risiko in Abhängigkeit der jeweiligen Verhandlungsposition. Bei Partnerschaften und Akquisitionen erfolgt eine gründliche Due-Diligence-Prüfung."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

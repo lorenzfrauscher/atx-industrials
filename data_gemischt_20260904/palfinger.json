@@ -1,0 +1,472 @@
+{
+  "unternehmen": "PALFINGER AG",
+  "schluessel": "palfinger",
+  "berichtsjahr": "2025",
+  "gruppe": "Hersteller",
+  "quelldatei": "palfinger_2025.pdf",
+  "modell": "gemini-3.5-flash",
+  "tatsaechlich_benutzte_modelle": [
+    "gemini-3.5-flash",
+    "gemini-3.8-flash"
+  ],
+  "chunks_gesamt": 8,
+  "chunks_fehlgeschlagen": [],
+  "seiten_im_pdf": 286,
+  "seiten_ausgewertet": 102,
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Lifting Customer Value",
+      "zitat": "Die Strategie 2030+ fokussiert sich auf drei klar definierte strategische Ausrichtungen, die als Orientierung für alle unternehmerischen Entscheidungen und Maßnahmen dienen. Lifting Customer Value Aus den Bedürfnissen der Kunden entwickelt PALFINGER nahtlos integrierte Lösungen.",
+      "beleg_seite": 16,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Balanced Profitable Growth",
+      "zitat": "Balanced Profitable Growth Das breite Produktportfolio und der regionale Footprint ermöglichen ausbalanciertes profitables Wachstum. PALFINGER baut auf seine Stärken: eine globale Präsenz und ein diversifiziertes Produktportfolio.",
+      "beleg_seite": 16,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Execution Excellence",
+      "zitat": "Execution Excellence PALFINGER liefert Spitzenleistung und schafft effiziente, optimierte Prozesse für noch bessere Resultate. Exzellenz ist Auftrag und Ziel von PALFINGER. PALFINGER setzt Maßstäbe in der Industrie – von der Produktentwicklung bis zum Service.",
+      "beleg_seite": 16,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Kontinuierliche Ausweitung des After-Sales-Geschaefts",
+      "zitat": "Die strategische Initiative zur kontinuierlichen Ausweitung des After-Sales-Geschäfts wird konsequent umgesetzt. Neue Service-Standorte stärken die Kundennähe und Verfügbarkeit von Produkten, Ersatzteilen und Reparaturmöglichkeiten",
+      "beleg_seite": 28,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Rasche Umsetzung der Strategie 2030+",
+      "zitat": "Die PALFINGER AG fokussiert 2026 auf die rasche Umsetzung seiner strategischen Programme, wie sie in der Strategie 2030+ definiert sind.",
+      "beleg_seite": 51,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Erreichung der neuen Finanzziele 2030",
+      "zitat": "Auf den Finanzzielen 2027 aufbauend, hat PALFINGER im Rahmen der neuen Strategie die Finanzziele 2030 definiert: Angestrebt wird ein Umsatz von mehr als 3 Mrd. EUR, eine EBIT-Marge von 12 Prozent und eine Rendite auf das eingesetzte Kapital (ROCE) von 15 Prozent.",
+      "beleg_seite": 51,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Reduktion der Treibhausgasemissionen (Scope 1 und 2)",
+      "zitat": "Ziel ist es, die eigenen Emissionen Scope 1 und 2 bis 2030 um jährlich ein Prozent bezogen auf das Referenzjahr 2022 zu reduzieren. Ein Ziel in Bezug auf Mitarbeitende ist, die Unfallrate TRIR bis 2028 auf einen Wert von 8,5 zu senken.",
+      "beleg_seite": 61,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Transformation zu einer Kreislaufwirtschaft und zirkulären Produktstrategie",
+      "zitat": "Die Transformation hin zu einer Kreislaufwirtschaft ist eine zentrale strategische Aufgabe. Ein kontinuierlich reduzierter Ressourcenverbrauch steht dabei im Fokus. Ergänzend wird der Übergang zu einer zirkulären Produktstrategie vorangetrieben, die auf eine höhere Materialeffizienz und langfristige Wertsteigerung der Produkte abzielt.",
+      "beleg_seite": 62,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Vertiefung des Verständnisses der Auswirkungen auf Beschäftigte in der Wertschöpfungskette und stärkere Ausrichtung an ethischen Arbeitspraktiken",
+      "zitat": "In Zukunft will PALFINGER das Verständnis der tatsächlichen und potenziellen Auswirkungen auf die Beschäftigten in der Wertschöpfungskette vertiefen und diese Erkenntnisse nutzen, um die Strategie anzupassen",
+      "beleg_seite": 150,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Europa uebrig",
+      "aussage": "Die Produktlinie Hubarbeitsbühnen bietet aufgrund weltweit steigender Nachfrage, insbesondere in Europa, großes Potenzial für Wachstum und Wertschöpfung.",
+      "zitat": "Die Produktlinie Hubarbeitsbühnen bietet dank einer weltweit steigenden Nachfrage – insbesondere in Europa, Nordamerika und weiteren aufstrebenden Märkten – besonders großes Potenzial für Wachstum und Wertschöpfung.",
+      "beleg_seite": 17,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "region": "Nordamerika",
+      "aussage": "Nordamerika verzeichnet eine steigende Nachfrage nach Hubarbeitsbühnen und bietet großes Potenzial für Wachstum.",
+      "zitat": "Die Produktlinie Hubarbeitsbühnen bietet dank einer weltweit steigenden Nachfrage – insbesondere in Europa, Nordamerika und weiteren aufstrebenden Märkten – besonders großes Potenzial für Wachstum und Wertschöpfung.",
+      "beleg_seite": 17,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "region": "Indien",
+      "aussage": "Indien festigt seine Rolle als wesentlicher globaler Wachstumstreiber.",
+      "zitat": "Die Schwellen- und Entwicklungsländer trugen auch im Berichtsjahr 2025 maßgeblich zum globalen Wachstum bei und erzielten eine durchschnittliche Zunahme von 4,2 Prozent. Besonders hervorzuheben ist Indien, das mit 6,6 Prozent seine Rolle als Wachstumstreiber festigte.",
+      "beleg_seite": 26,
+      "treffertyp": "teilweise",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "region": "Naher Osten",
+      "aussage": "Suedeuropa und der Mittlere Osten zaehlen innerhalb von EMEA zu den wesentlichen Wachstumsmaerkten.",
+      "zitat": "Im 3. Quartal setzte eine erneut positive Trendwende ein, insbesondere in Südeuropa und im Mittleren Osten, die innerhalb von EMEA zu den wesentlichen Wachstumsmärkten zählen.",
+      "beleg_seite": 28,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "region": "Indien",
+      "aussage": "Indien hat sich als treibender Zukunftsmarkt herauskristallisiert, weshalb PALFINGER dort nach einem Produktionsstandort sucht.",
+      "zitat": "Als treibende Kraft und langfristiger Zukunftsmarkt kristallisierte sich Indien heraus. Um die Potenziale dieses Marktes bestmöglich zu nutzen, startete PALFINGER die Suche nach einem geeigneten Produktionsstandort in Indien.",
+      "beleg_seite": 29,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "region": "Europa uebrig",
+      "aussage": "EMEA bleibt neben Nordamerika ein zentraler Wachstumstreiber, wenngleich eine spürbare Erholung noch ausbleibt.",
+      "zitat": "EMEA und NAM bleiben weiterhin die zentralen Wachstumstreiber für PALFINGER. Die Entwicklung beider Regionen ist jedoch maßgeblich von externen Faktoren abhängig: In EMEA bleibt eine spürbare Markterholung bislang aus, während in Nordamerika (NAM) die Zollpolitik der USA weiterhin Mehrbelastungen mit sich bringt.",
+      "beleg_seite": 51,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "region": "Nordamerika",
+      "aussage": "Nordamerika bleibt ein zentraler Wachstumstreiber, obwohl die US-Zollpolitik Mehrbelastungen verursacht.",
+      "zitat": "EMEA und NAM bleiben weiterhin die zentralen Wachstumstreiber für PALFINGER. Die Entwicklung beider Regionen ist jedoch maßgeblich von externen Faktoren abhängig: In EMEA bleibt eine spürbare Markterholung bislang aus, während in Nordamerika (NAM) die Zollpolitik der USA weiterhin Mehrbelastungen mit sich bringt.",
+      "beleg_seite": 51,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "region": "Lateinamerika",
+      "aussage": "In Lateinamerika wird mit der Fortsetzung der positiven wirtschaftlichen Entwicklung gerechnet, getrieben durch Brasilien.",
+      "zitat": "In LATAM ist mit der Fortsetzung der positiven wirtschaftlichen Entwicklung, die vor allem von Brasilien getragen wird, zu rechnen. In APAC entwickelt sich Indien als zukünftiger wichtiger Wachstumsmarkt für PALFINGER.",
+      "beleg_seite": 51,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "region": "Indien",
+      "aussage": "Indien entwickelt sich zu einem künftigen wichtigen Wachstumsmarkt.",
+      "zitat": "In LATAM ist mit der Fortsetzung der positiven wirtschaftlichen Entwicklung, die vor allem von Brasilien getragen wird, zu rechnen. In APAC entwickelt sich Indien als zukünftiger wichtiger Wachstumsmarkt für PALFINGER.",
+      "beleg_seite": 51,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "region": "Asien-Pazifik uebrig",
+      "aussage": "Die Region APAC bietet das hoechste Wachstumspotenzial bei moderaten Risiken.",
+      "zitat": "In den Regionen zeigen sich deutliche Unterschiede. Die Region APAC bietet das höchste Wachstumspotenzial mit moderaten Risiken. Die Region NAM zeigt eine hohe Resilienz begründet durch niedrige CO₂-Preise.",
+      "beleg_seite": 78,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "US-Zölle und volatile Zollpolitik",
+      "kategorie": "Markt",
+      "zitat": "Im Jahr 2025 wurde eine Krisen-Taskforce als Reaktion auf die US-Zölle eingerichtet, um die negativen finanziellen Auswirkungen zu minimieren.",
+      "beleg_seite": null,
+      "treffertyp": "nicht_gefunden",
+      "zitat_gefunden": false,
+      "quelle_abschnitt": "unbekannt"
+    },
+    {
+      "risiko": "Geopolitische Unsicherheiten und Protektionismus",
+      "kategorie": "Markt",
+      "zitat": "Die Weltwirtschaft befindet sich im Wandel. Sie ist geprägt von anhaltender geopolitischer Unsicherheit, steigender globaler Verschuldung, zunehmendem Protektionismus sowie veränderten wirtschaftspolitischen Rahmenbedingungen.",
+      "beleg_seite": 26,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Zollpolitik der US-Regierung und Einfuehrung von Zoellen",
+      "kategorie": "Regulierung",
+      "zitat": "Die Einführung von zusätzlichen Zöllen seitens der US-Regierung seit März 2025 betrifft PALFINGER aufgrund des Imports von Materialien und Waren in die USA. Die Zolltarife können auch im Jahr 2026 Auswirkungen auf Lieferketten sowie Absatzmöglichkeiten haben.",
+      "beleg_seite": 46,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Eskalation zwischen China und Taiwan mit Auswirkungen auf Lieferketten",
+      "kategorie": "Lieferkette",
+      "zitat": "Eine mögliche Eskalation der Situation zwischen China und Taiwan könnte zu Sanktionen, einer Blockade oder einem Krieg führen. Dies würde besonders internationale Lieferketten in der Elektronikindustrie betreffen, was sich wiederum negativ auf nachgelagerte Produktionsschritte auswirken würde.",
+      "beleg_seite": 46,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Verlust der Wettbewerbsfaehigkeit des Produktportfolios",
+      "kategorie": "Technologie",
+      "zitat": "Der Verlust der Wettbewerbsfähigkeit in einzelnen Produktlinien könnte zu einem strategischen Nachteil führen und die Marke PALFINGER schädigen. Maßnahmen wie der standardisierte Entwicklungsprozess (der PALFINGER Development Process \"PDP\"), ein klares Strategie Programm",
+      "beleg_seite": 47,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Cyberkriminalität und Verlust sensibler Informationen durch Spionage",
+      "kategorie": "Technologie",
+      "zitat": "Das Risiko von Cyberkriminalität bleibt durch die zunehmende Digitalisierung auf einem hohen Niveau und wird von seiner Bedeutung her mittelfristig weiter steigen. Als international tätiges Unternehmen ist PALFINGER ein potenziell interessantes Ziel.",
+      "beleg_seite": 48,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Produktmängel und Gewährleistungskosten durch Outsourcing und Reifegrad der Qualitätssicherung",
+      "kategorie": "Lieferkette",
+      "zitat": "Ein unterschiedlicher Reifegrad bei der Umsetzung von Qualitätssicherungsstandards und -prozessen stellt ein wesentliches Risiko in Bezug auf Gewährleistung und Garantiekosten dar. Längerfristig führt zudem die Outsourcing-Strategie zu steigenden Mengen und höherer Abhängigkeit von externen Lieferanten.",
+      "beleg_seite": 48,
+      "treffertyp": "teilweise",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Anforderungen an CO2-Fußabdruck und Pariser Klimaziele",
+      "kategorie": "Regulierung",
+      "zitat": "Sowohl durch regulatorische Vorgaben (v.a. in der EU) als auch steigende Anforderungen bestimmter Stakeholder-Gruppen (z.B. Investmentfonds, Banken und bestimmte Kundengruppen) steigt der Druck, den CO₂-Fußabdruck in der eigenen Produktion sowie der gesamten Wertschöpfungskette zu reduzieren.",
+      "beleg_seite": 48,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Zunehmende Rechtsstreitigkeiten weltweit",
+      "kategorie": "Regulierung",
+      "zitat": "Die Konfliktbereitschaft zwischen Wirtschaftsteilnehmern nimmt weltweit zu, insbesondere in den Regionen NAM und EMEA, darüber hinaus bspw. auch in China und Indien. Diese Entwicklung könnte langfristig zu erheblichen finanziellen und reputationsbezogenen Risiken führen und die Zielerreichung beeinträchtigen.",
+      "beleg_seite": 49,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Impairment Firmenwerte bei Verschlechterung der Marktsituation",
+      "kategorie": "Markt",
+      "zitat": "Bei Verschlechterung der Marktsituation besteht das Risiko, dass einzelne Wirtschaftsgüter aus rechtlichen Gründen an eine geänderte Bewertung angepasst werden müssen oder Investitionen sich nicht amortisieren.",
+      "beleg_seite": 49,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Klimabedingte Uebergangsrisiken durch ploetzlichen Wandel, strengere Vorgaben und steigende CO2-Preise",
+      "kategorie": "Regulierung",
+      "zitat": "Unternehmen und Märkte müssen sich kurzfristig auf strengere Vorgaben, steigende CO₂-Preise und tiefgreifende Umstellungen einstellen. Dieses Szenario gilt als wahrscheinlicher Fall, da es die gegenwärtigen Verzögerungen in der globalen Klimapolitik realistisch widerspiegelt.",
+      "beleg_seite": 77,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Steigende Kosten aufgrund der Erhöhung der CO2-Bepreisung",
+      "kategorie": "Regulierung",
+      "zitat": "PALFINGER hat ein wesentliches klimabezogenes Risiko im Zuge seiner Wesentlichkeitsanalyse identifiziert: Steigende Kosten aufgrund der Erhöhung der CO2-Bepreisung. Hierbei handelt es sich um ein Übergangsrisiko.",
+      "beleg_seite": 95,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Mangelnde Verfügbarkeit qualifizierter Mitarbeitender",
+      "kategorie": "Markt",
+      "zitat": "Das Risiko der mangelnden Verfügbarkeit qualifizierter Mitarbeitender hat wesentlichen Einfluss auf die Strategie von PALFINGER. Mehrere langfristige Trends wirken sich auf dieses strategische Risiko aus - Wettbewerb um Talente,",
+      "beleg_seite": 115,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Risiken in Bezug auf Menschenrechte und ethische Beschaffung durch Konfliktmineralien in globalen Lieferketten",
+      "kategorie": "Lieferkette",
+      "zitat": "Der Abbau und Handel dieser Mineralien birgt für Unternehmen mit komplexen globalen Lieferketten, darunter auch PALFINGER, Risiken in Bezug auf Menschenrechte und ethische Beschaffung.",
+      "beleg_seite": 150,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Zinsrisiko durch Wertänderungs- und Zinsergebnisrisiken",
+      "kategorie": "Finanzierung",
+      "zitat": "Sich ändernde Zinssätze haben Einfluss auf den Wert von Finanzinstrumenten (vor allem bei langfristiger Zinsbindung) und auf das Zinsergebnis (Aufwendungen oder Ertrag), das aus den Finanzinstrumenten resultiert.",
+      "beleg_seite": 251,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Fremdwährungsrisiken aus Forderungen, Verbindlichkeiten und internationalem Projektgeschäft",
+      "kategorie": "Finanzierung",
+      "zitat": "Die Fremdwährungsrisiken der PALFINGER AG resultieren primär aus Forderungen und Verbindlichkeiten in Fremdwährung gegenüber Konzerngesellschaften und aus dem internationalen Projektgeschäft.",
+      "beleg_seite": 251,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Eröffnung eines neuen Ersatzteillogistikzentrums in Nordamerika.",
+      "zitat": "Wesentliche Investitionen wurden in den Regionen getätigt. So wurde im September das neue Ersatzteillogistikzentrum für Nordamerika in Huntley, USA (NAM) eröffnet.",
+      "beleg_seite": 20,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Freigabe und Planung für ein neues Montagewerk in Indien.",
+      "zitat": "Im Frühling 2025 wurde vom Aufsichtsrat die Freigabe für ein neues Montagewerk in Indien erteilt. Die Übernahme eines geeigneten Grundstücks in Pune steht kurz vor dem Abschluss.",
+      "beleg_seite": 20,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Erwerb einer Minderheitsbeteiligung am norwegischen Marinekranhersteller Storm.",
+      "zitat": "Im Dezember erwarb PALFINGER einen Minderheitsanteil am norwegischen Hersteller von Marinekranen Storm. Ziel dieser strategischen Partnerschaft ist es, das Portfolio an Marinekranen zu erweitern",
+      "beleg_seite": 20,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Veräußerung des Megarme-Geschäfts in Dubai und Hereinnahme eines Mehrheitseigentümers bei StrucInspect.",
+      "zitat": "Schritte zu einer Verbesserung der Bilanzstruktur und Fokussierung der Ressourcenallokation wurden mit der Hereinnahme eines strategischen Mehrheitseigentümers an StrucInspect sowie der Veräußerung des Megarme-Geschäfts in Dubai erreicht.",
+      "beleg_seite": 21,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "PALFINGER plant den Bau eines neuen Werks in Pune, Indien, und steht kurz vor dem Abschluss des Grundstueckskaufs.",
+      "zitat": "Die Übernahme eines geeigneten Grundstücks in Pune steht kurz vor dem Abschluss. Die Planungsarbeiten für das neue Werk haben begonnen, ebenso wie die Vorbereitungen für die Einholung der erforderlichen Genehmigungen für die Fabrik.",
+      "beleg_seite": 20,
+      "treffertyp": "exakt_mehrdeutig",
+      "zitat_gefunden": true,
+      "weitere_fundstellen": [
+        29
+      ],
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Erwerb eines Grundstuecks fuer ein neues Lackier- und Logistikzentrum in Slowenien.",
+      "zitat": "Für das neue Lackier- und Logistikzentrum in Ormož, Slowenien (EMEA), wurde ein Grundstück erworben, die Gemeinde hat die ersten Bodenarbeiten bereits abgeschlossen. Der Baubeginn ist im 1. Quartal 2026 geplant.",
+      "beleg_seite": 32,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Veräußerung aller per Ende 2024 gehaltenen eigenen Aktien via beschleunigtes Privatplatzierungsverfahren im Juli 2025.",
+      "zitat": "Sämtliche per 31.12.2024 gehaltenen eigenen Aktien wurden von der PALFINGER AG mittels beschleunigtem Privatplatzierungsverfahrens im Juli 2025 veräußert. PALFINGER hält zum 31. Dezember 2025 folglich keine eigenen Aktien mehr.",
+      "beleg_seite": 50,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Bei Partnerschaften und Akquisitionen wird zur Risikominimierung eine gründliche Due-Diligence-Prüfung vorgenommen.",
+      "zitat": "Aktives Vertragsmanagement mit Geschäftspartnern auf Vertriebs- sowie Einkaufsseite mitigiert das Risiko in Abhängigkeit der jeweiligen Verhandlungsposition. Bei Partnerschaften und Akquisitionen erfolgt eine gründliche Due-Diligence-Prüfung.",
+      "beleg_seite": 49,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Im Umweltziel Klimaschutz wurden taxonomiefaehige CapEx-Einzelmassnahmen in Energieeffizienz, Ladestationen und erneuerbare Energien erfasst.",
+      "zitat": "Für das Umweltziel (1) Klimaschutz erfolgte die Erhebung der taxonomiefähigen Investitionen mithilfe des konzernweiten Reporting Systems. Die taxonomiefähigen CapEx-Einzelmaßnahmen sind dabei den wirtschaftlichen Tätigkeiten „7 .3 Installation, Wartung und Reparatur von energieeffizienten Geräten”",
+      "beleg_seite": 86,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "aussage": "Investitionen in Sachanlagevermögen im Zusammenhang mit Photovoltaikanlagen",
+      "zitat": "Im Berichtsjahr ergaben sich somit konforme Investitionen aus Einzelmaßnahmen ausschließlich in Sachanlagevermögen (IAS 16) in Höhe von 1.227 TEUR (2024: 1.330 TEUR), das entspricht einem Anteil von 0,9 Prozent",
+      "beleg_seite": 91,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "aussage": "Installation von Ladestationen für Elektrofahrzeuge in Österreich und Deutschland",
+      "zitat": "Installation, Wartung und Reparatur von Ladestationen für Elektrofahrzeuge in Gebäuden (und auf zu Gebäuden gehörenden Parkplätzen). Aufwendungen für neu installierte Ladestationen in Österreich und Deutschland",
+      "beleg_seite": 87,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "aussage": "Installation von Photovoltaikanlagen in Deutschland und Serbien sowie KWK in Rumänien",
+      "zitat": "Installation, Wartung und Reparatur von Technologien für erneuerbare Energien vor Ort. Installation neuer PV-Anlagen in Deutschland und Serbien, sowie Kraft-Wärme-Kopplungs Applikation in Rumänien",
+      "beleg_seite": 87,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "aussage": "Investitionen in den Ausbau von Produktionskapazitäten in mehreren Ländern und Erwerb eines Grundstücks im Geschäftsjahr 2025.",
+      "zitat": "Die Zugänge betreffen im Wesentlichen Investitionen in den Ausbau von Produktionskapazitäten in Österreich, Slowenien, den USA, Rumänien und Bulgarien sowie den Erwerb eines Grundstücks in Slowenien.",
+      "beleg_seite": 222,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Tilgung einer bedingten Gegenleistung für eine Minderheitsakquisition in Portugal sowie bestehende gestundete Kaufpreisforderung.",
+      "zitat": "Die bedingte Gegenleistung für die Minderheitsakquisition von Palfinger Portugal (Palfinger comércio e aluguer de máquinas, S.A.) in Höhe von 1.100 TEUR wurde in 2025 getilgt.",
+      "beleg_seite": 236,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Aktivierung von selbst erstellten Entwicklungskosten im Geschäftsjahr 2025.",
+      "zitat": "Als selbst erstellte immaterielle Vermögenswerte wurden von PALFINGER im Geschäftsjahr 2025 Entwicklungskosten in Höhe von 28.601 TEUR (Vorjahr: 28.286 TEUR) aktiviert.",
+      "beleg_seite": 219,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Investitionsvolumen wird am Konzernumsatz bemessen; Weiterführung von mehrjährigen Großprojekten in der Mehrjahresplanung.",
+      "zitat": "Das Investitionsvolumen wird im Verhältnis zum Konzernumsatz geplant. Im Budget ist das Investitionsvolumen mit einzelnen Projekten hinterlegt, in den Folgejahren werden die mehrjährigen Großprojekte in der Planung fortgeführt.",
+      "beleg_seite": 217,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    }
+  ],
+  "zitatpruefung": {
+    "exakt": 47,
+    "teilweise": 2,
+    "nicht_gefunden": 1,
+    "exakt_mehrdeutig": 1
+  },
+  "abschnittsverteilung": {
+    "elemente_nachhaltigkeitsberichterstattung": 10,
+    "elemente_geschaeftsbericht": 41,
+    "ausgewertete_seiten_nachhaltigkeitsberichterstattung": 36
+  }
+}

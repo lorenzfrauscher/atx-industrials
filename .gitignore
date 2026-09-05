@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Geschaeftsberichte liegen eine Ebene hoeher und gehoeren nicht ins Repository.
+# Sicherheitsnetz, falls doch einmal eine Kopie hier landet:
+*.pdf
+
+# Die Rohantworten des Modells unter cache/ werden BEWUSST versioniert.
+# Begruendung: Sie machen die gesamte Auswertung ohne API-Schluessel
+# nachvollziehbar und sind die Beleggrundlage des Modellvergleichs.
+# Groesse rund 800 KB, das ist vertretbar.

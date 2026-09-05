@@ -1,0 +1,2 @@
+2026-09-04 20:26:30 | gemini-3.6-flash | 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Request contains an invalid argument.', 'status': 'INVALID_ARGUMENT'}}
+

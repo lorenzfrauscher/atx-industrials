@@ -1,0 +1,65 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "EBIT-Marge 2030",
+      "zitat": "Wir sind überzeugt, dass uns People. Planet. Progress. auch wirtschaftlich erfolgreicher macht: Bis zum Jahr 2030 streben wir daher eine EBIT-Marge von nachhaltig 6 % an."
+    },
+    {
+      "prioritaet": "Klimaneutralität 2040",
+      "zitat": "Wir unternehmen etwas gegen den Klimawandel. Dabei leitet uns der Vorsatz, unsere Projekte bis 2040 klimaneutral zu gestalten und verstärkt im Energiesektor zu bauen."
+    },
+    {
+      "prioritaet": "Emissionsreduktion",
+      "zitat": "Zur Erreichung unserer durch die Science Based Targets initiative (SBTi) validierten Reduktionsziele haben wir die wichtigsten Hebel erarbeitet, mit denen wir einen Beitrag zum 1,5 °C-Ziel leisten."
+    },
+    {
+      "prioritaet": "EDI-Strategie 2030",
+      "zitat": "2023 hat der STRABAG-Vorstand erstmals eine EDI-Strategie verabschiedet und damit drei klare Ziele definiert, die auch an die Mitarbeiter:innen kommuniziert und auf der Website der STRABAG SE veröffentlicht wurden."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "DACH",
+      "aussage": "Modernisierungsoffensive der Infrastruktur in Deutschland.",
+      "zitat": "Substanzielle öffentliche Investitionen, wie Deutschlands € 500 Mrd.-Modernisierungsoffensive und Mittel aus dem EU-Kohäsionsfonds, kommen den Kernmärkten von STRABAG zugute."
+    },
+    {
+      "region": "Europa uebrig",
+      "aussage": "Ausbaubedarf der Verkehrsnetze in Zentral- und Osteuropa.",
+      "zitat": "Während die Verkehrsnetze in reifen Märkten zunehmend überaltern, besteht in Zentral- und Osteuropa noch erheblicher Ausbaubedarf. Die Nachfrage nach nachhaltiger, sicherer und intelligenter Mobilitätsinfrastruktur nimmt rasant zu."
+    },
+    {
+      "region": "Global",
+      "aussage": "Bedarf an Infrastruktur durch weltweite Urbanisierung.",
+      "zitat": "Bis zum Jahr 2050 werden laut den Vereinten Nationen (UN) 68 % der globalen Bevölkerung in Städten leben – dies entspricht einer Erhöhung der städtischen Einwohnerzahl um 2,4 Mrd. Menschen."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Arbeitskräftemangel",
+      "kategorie": "Markt",
+      "zitat": "Bis zum Jahr 2040 werden mehr als 10 % der heute erwerbstätigen Arbeitskräfte in unseren Kernmärkten fehlen. Die sogenannte Babyboomer-Generation wird dann in den Ruhestand getreten sein."
+    },
+    {
+      "risiko": "Projektrisiken",
+      "kategorie": "Markt",
+      "zitat": "Denn die Vielzahl der – jedes für sich – einzigartigen Projekte bringt ein erhöhtes Risikopotenzial mit sich. Um dieses unter Kontrolle zu halten, bedarf es einer konsequent darauf ausgerichteten Organisationsstruktur."
+    },
+    {
+      "risiko": "Lieferkettenengpässe",
+      "kategorie": "Lieferkette",
+      "zitat": "Denn in Zeiten angespannter Lieferketten sichert uns beispielsweise unser dichtes Baustoffnetzwerk die Verfügbarkeit benötigter Materialien und wirkt ausgleichend bei dynamischen Preisentwicklungen."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Strategische Bedeutung von Akquisitionen für die Technologieführerschaft.",
+      "zitat": "Wir gestalten die Zukunft des Bauens, indem wir neue Technologien einsetzen. Dafür entwickeln wir eigene Innovationen zur Marktreife, verfolgen Partnerschaften und Akquisitionen und stärken konzernweit Kompetenzen."
+    },
+    {
+      "aussage": "Finanzielle Stärke ermöglicht Akquisitionen.",
+      "zitat": "Finanzielle Stärke ist die Grundvoraussetzung dafür, dass unser Angebot berücksichtigt wird. Sie trägt auch entscheidend dazu bei, Geschäftschancen flexibel wahrnehmen zu können, etwa die Beteiligung an Konzessionsprojekten oder die Umsetzung von Akquisitionen."
+    }
+  ],
+  "_modell": "gemini-3-flash-preview"
+}

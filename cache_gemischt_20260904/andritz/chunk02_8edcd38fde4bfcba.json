@@ -1,0 +1,44 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Fokus auf die Entwicklung digitaler Produkte und Lösungen mit Schwerpunkt Cybersicherheit, KI und neuesten Technologien",
+      "zitat": "ANDRITZ sieht in der Digitalisierung ein wesentliches Wachstumsfeld für die Zukunft und wird daher weiterhin stark auf die Entwicklung digitaler Produkte und Lösungen fokussiert sein. Das Hauptaugenmerk liegt dabei auf Cybersicherheit, der Verwendung von Künstlicher Intelligenz (KI)"
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "China",
+      "aussage": "Wachstum im Bereich Metals Forming gleicht Herausforderungen im Automobilsektor ab",
+      "zitat": "Im Bereich Metals Forming werden strukturelle Herausforderungen im Automobilsektor durch relativ stabile Nachfrage nach Nicht‑Automobil‑Anwendungen sowie durch Wachstum in China abgefedert. Im Bereich Metals Processing wird für 2026 ein weiterhin robustes Marktumfeld erwartet."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Risiko von Cyberangriffen und unbefugtem Datenzugriff bei zunehmender Digitalisierung",
+      "kategorie": "Technologie",
+      "zitat": "Der unbefugte Zugriff auf oder der Abzug sensibler Unternehmensdaten sowie die mangelnde Verfügbarkeit der Systeme als Folge von Cyber-Angriffen sind wesentliche Risiken, denen ANDRITZ in zunehmendem Maße ausgesetzt ist."
+    },
+    {
+      "risiko": "Lieferausfälle und Verzögerungen durch geopolitische Krisen und Handelskonflikte",
+      "kategorie": "Lieferkette",
+      "zitat": "Globale und regionale Krisen, politische bzw. wirtschaftliche Konflikte oder Naturkatastrophen können dazu führen, dass Lieferanten nicht in der Lage sind, von ANDRITZ bestellte Produkte rechtzeitig zu fertigen und zu liefern"
+    },
+    {
+      "risiko": "Wechselkursschwankungen insbesondere beim US-Dollar mit Einfluss auf das Konzernergebnis",
+      "kategorie": "Finanzierung",
+      "zitat": "Obwohl die Gruppe bestrebt ist, die Nettowährungsposition von nicht in der jeweiligen funktionalen Währung der Konzerngesellschaft abgeschlossenen Aufträge durch den Abschluss von Termingeschäften abzusichern, können sich Währungsschwankungen mit Wechselkursverlusten im Konzernabschluss niederschlagen."
+    },
+    {
+      "risiko": "Rechtliche Risiken und nachteilige Änderungen gesetzlicher Rahmenbedingungen",
+      "kategorie": "Regulierung",
+      "zitat": "Zusätzlich bestehen rechtliche Risiken, die über laufende Verfahren hinausgehen. Dazu zählen potenzielle zivil- oder strafrechtliche Folgen im Falle von Verstößen gegen einschlägige gesetzliche Bestimmungen sowie mögliche Auswirkungen nachteiliger Änderungen der gesetzlichen Rahmenbedingungen oder der Rechtsprechung."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investition in eine neue DMF Pilotanlage am Standort Montbonnot in Frankreich",
+      "zitat": "ANDRITZ forciert seinen Eintritt in die Dry Molded Fiber (DMF) Technologie durch Investitionen in eine neue DMF Pilotanlage am Standort in Montbonnot in Frankreich. Die Anlage ist mit mehreren Innovationen ausgestattet"
+    }
+  ],
+  "_modell": "gemini-3.7-flash"
+}

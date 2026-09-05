@@ -1,0 +1,58 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Umsetzung der Vorgaben des europäischen Green Deal mit dem Ziel der Netto-Null-Emissionen bis 2050 über das Nachhaltigkeitsprogramm 2023–2026.",
+      "zitat": "Um dieses Ziel zu verwirklichen, setzen wir uns für den Klimaschutz ein und tragen dazu bei, die Vorgaben des europäischen Green Deal umzusetzen, mit dem klaren Ziel der Netto-Null-Emissionen bis 2050."
+    },
+    {
+      "prioritaet": "Geografische und Endmarkt-Diversifizierung bei gleichzeitiger Konzentration auf das Kerngeschäft.",
+      "zitat": "Zur bestmöglichen Vermeidung von Ergebnisschwankungen verfolgt wienerberger eine Strategie der geografischen als auch der Endmarkt-Diversifizierung bei gleichzeitiger Konzentration auf das Kerngeschäft, zu welchem Lösungen für Wand, Dach und Fassade sowie Flächenbefestigungen und Rohrsysteme zählen."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Europa uebrig",
+      "aussage": "Zentral- und osteuropäische Märkte werden aufgrund des Nachholbedarfs im Wohnungsneubau und der Infrastruktur langfristig als Wachstumsmärkte betrachtet.",
+      "zitat": "Die zentral- und osteuropäischen Märkte betrachtet wienerberger auch aufgrund des Nachholbedarfs im Wohnungsneubau und in der Infrastruktur langfristig als Wachstumsmärkte."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Konjunktur- und Nachfrageschwankungen in der Bauindustrie",
+      "kategorie": "Markt",
+      "zitat": "Unvorteilhafte Entwicklungen einiger oder all dieser Einflussgrößen können einen negativen Einfluss auf die Nachfrage nach Produkten und Systemlösungen von wienerberger , die abgesetzten Mengen und das Preisniveau haben."
+    },
+    {
+      "risiko": "Preisvolatilität und Versorgungssicherheit bei Rohstoffen",
+      "kategorie": "Lieferkette",
+      "zitat": "Die Volatilität der Rohstoffpreise hat sich in den letzten Jahren verstärkt. Starke Schwankungen innerhalb eines Monats verlangen eine flexible Preispolitik, um diese Preisschwankungen zu kontrollieren bzw. an den Markt anzupassen."
+    },
+    {
+      "risiko": "Störungen internationaler Lieferketten durch geopolitische Spannungen",
+      "kategorie": "Lieferkette",
+      "zitat": "Mögliche Risiken ergeben sich insbesondere aus Störungen internationaler Lieferketten, steigenden Energie- und Rohstoffpreisen, Handelsbeschränkungen oder erhöhten politischen Unsicherheiten in einzelnen Märkten."
+    },
+    {
+      "risiko": "Verschärfung von Umwelt-, ESG- und Klimaschutzvorschriften",
+      "kategorie": "Regulierung",
+      "zitat": "wienerberger ist in vielen Ländern von umfassenden und zunehmend verschärften Vorschriften in den Bereichen Umwelt, Soziales und Unternehmensführung (Environment, Social, Governance - ESG) betroffen, wodurch Investitionen in die Einhaltung dieser Vorschriften entstehen können."
+    },
+    {
+      "risiko": "Kartellrechtliche Genehmigungsverfahren und Untersagungsrisiken bei M&A-Transaktionen",
+      "kategorie": "Regulierung",
+      "zitat": "Abhängig von der Marktstellung in einzelnen Ländern sowie der Größe von beabsichtigten Akquisitionen unterliegen Transaktionen wettbewerbsrechtlichen Genehmigungsverfahren. Dadurch könnten sich bei Akquisitionen bzw. Zusammenschlüssen Verzögerungen bzw. in einzelnen Fällen auch Untersagungen von Übernahmen ergeben."
+    },
+    {
+      "risiko": "Ausfall von Systemen durch Cyberangriffe oder Elementarereignisse",
+      "kategorie": "Technologie",
+      "zitat": "Risiken eines Ausfalls unserer zentral geführten konzernweiten Datenverarbeitung aufgrund von Elementarereignissen oder Cyberangriffen werden durch parallele Installation der Systeme in räumlich getrennten Rechenzentren und Cloud-Lösungen vermindert."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investitionen in Produktinnovationen sowie interne und externe Wachstumsprojekte zur Steigerung des Unternehmenswerts müssen spezifische Rentabilitätsziele erfüllen.",
+      "zitat": "Zur Steigerung des wienerberger Unternehmenswerts werden neben der laufenden Optimierung (Operational Excellence) Produktinnovationen sowie interne und externe Wachstumsprojekte durchgeführt. Die zukünftige Rentabilität dieser Projekte ist in hohem Maße von der Investitionshöhe bzw. den Akquisitionspreisen sowie der Marktentwicklung abhängig."
+    }
+  ],
+  "_modell": "gemini-3.7-flash"
+}

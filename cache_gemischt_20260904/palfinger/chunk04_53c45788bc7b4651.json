@@ -1,0 +1,24 @@
+{
+  "strategische_prioritaeten": [],
+  "wachstumsmaerkte": [
+    {
+      "region": "Asien-Pazifik uebrig",
+      "aussage": "Die Region APAC bietet das hoechste Wachstumspotenzial bei moderaten Risiken.",
+      "zitat": "In den Regionen zeigen sich deutliche Unterschiede. Die Region APAC bietet das höchste Wachstumspotenzial mit moderaten Risiken. Die Region NAM zeigt eine hohe Resilienz begründet durch niedrige CO₂-Preise."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Klimabedingte Uebergangsrisiken durch ploetzlichen Wandel, strengere Vorgaben und steigende CO2-Preise",
+      "kategorie": "Regulierung",
+      "zitat": "Unternehmen und Märkte müssen sich kurzfristig auf strengere Vorgaben, steigende CO₂-Preise und tiefgreifende Umstellungen einstellen. Dieses Szenario gilt als wahrscheinlicher Fall, da es die gegenwärtigen Verzögerungen in der globalen Klimapolitik realistisch widerspiegelt."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Im Umweltziel Klimaschutz wurden taxonomiefaehige CapEx-Einzelmassnahmen in Energieeffizienz, Ladestationen und erneuerbare Energien erfasst.",
+      "zitat": "Für das Umweltziel (1) Klimaschutz erfolgte die Erhebung der taxonomiefähigen Investitionen mithilfe des konzernweiten Reporting Systems. Die taxonomiefähigen CapEx-Einzelmaßnahmen sind dabei den wirtschaftlichen Tätigkeiten „7 .3 Installation, Wartung und Reparatur von energieeffizienten Geräten”"
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

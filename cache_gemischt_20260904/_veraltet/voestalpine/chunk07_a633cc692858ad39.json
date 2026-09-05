@@ -1,0 +1,47 @@
+{
+  "strategische_prioritaeten": [],
+  "wachstumsmaerkte": [
+    {
+      "region": "Europa uebrig",
+      "aussage": "In Europa wird eine leichte Erholung und mittelfristig ein gedaempftes Wachstum prognostiziert.",
+      "zitat": "In Europa wird eine leichte Erholung und mittelfristig ein ge- dämpftes Wachstum erwartet."
+    },
+    {
+      "region": "China",
+      "aussage": "In China wird von einer stetigen Erholung des Marktes ausgegangen.",
+      "zitat": "In Asien wird von einer stetigen Erholung in China ausgegangen, wobei der Rest Asiens sich langsam wieder von dem derzeit schwachen Wachstum erholen wird."
+    },
+    {
+      "region": "Indien",
+      "aussage": "Indien verfuegt laut Konzern ueber grosses Wachstumspotenzial.",
+      "zitat": "In Asien wird von einer stetigen Erholung in China ausgegangen, wobei der Rest Asiens sich langsam wieder von dem derzeit schwachen Wachstum erholen wird. Indien hat großes Wachstumspotenzial."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Liquiditaetsrisiko im Rahmen der Finanzierung",
+      "kategorie": "Finanzierung",
+      "zitat": "Das Liquiditätsrisiko bezeichnet das Risiko, Zahlungsverpflichtungen nicht durch Lieferung von Zahlungsmitteln erfüllen zu können."
+    },
+    {
+      "risiko": "Kredit- und Bonitaetsrisiko gegenueber Geschaeftspartnern",
+      "kategorie": "Finanzierung",
+      "zitat": "Das Bonitätsrisiko bezeichnet Vermögensverluste, die aus der Nichterfüllung von Vertragsverpflichtungen einzelner Geschäftspartner:innen entstehen können."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Im Rahmen von greentec steel sind Investitionen in Elektrolichtbogenoefen sowie CO2-Abscheidetechnologien vorgesehen.",
+      "zitat": "In dieser sind die Investitionen in Richtung greentec steel – Ersatz von zwei der drei Hochöfen durch Elektrolichtbogenöfen mit geplanten Inbetriebnahmen ab dem Jahr 2027 und 2032 – sowie Investitionen für CO2 -Abscheidetechnologien (CCUS) enthalten."
+    },
+    {
+      "aussage": "Die Portfoliobereinigung der HPM Division wurde mit Unternehmensverkaufen und Standortkonsolidierungen weitgehend abgeschlossen.",
+      "zitat": "Die Portfoliobereinigung der HPM Division ist mit den Unternehmensverkäufen (Buderus Edelstahl und BÖHLER Profil), den Kapazitätsan- passungen bei der voestalpine BÖHLER Bleche und den weltweiten Standortkonsolidierungen weit - gehend abgeschlossen."
+    },
+    {
+      "aussage": "Im Bereich Railway Systems sind Investitionen in eine Elektrolichtbogenofen-Anlage im Rahmen von greentec steel geplant.",
+      "zitat": "Ebenso sind die Investitionen in Richtung greentec steel in der 5-Jahres-Mittelfristplanung sowie in der Grobplanungsphase für eine Elektrolichtbogenofen-Anlage und deren Erweiterung in der Vorproduktionsstufe enthalten."
+    }
+  ],
+  "_modell": "gemini-3.7-flash"
+}

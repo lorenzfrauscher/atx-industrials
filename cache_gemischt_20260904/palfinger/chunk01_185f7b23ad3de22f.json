@@ -1,0 +1,64 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Lifting Customer Value",
+      "zitat": "Die Strategie 2030+ fokussiert sich auf drei klar definierte strategische Ausrichtungen, die als Orientierung für alle unternehmerischen Entscheidungen und Maßnahmen dienen. Lifting Customer Value Aus den Bedürfnissen der Kunden entwickelt PALFINGER nahtlos integrierte Lösungen."
+    },
+    {
+      "prioritaet": "Balanced Profitable Growth",
+      "zitat": "Balanced Profitable Growth Das breite Produktportfolio und der regionale Footprint ermöglichen ausbalanciertes profitables Wachstum. PALFINGER baut auf seine Stärken: eine globale Präsenz und ein diversifiziertes Produktportfolio."
+    },
+    {
+      "prioritaet": "Execution Excellence",
+      "zitat": "Execution Excellence PALFINGER liefert Spitzenleistung und schafft effiziente, optimierte Prozesse für noch bessere Resultate. Exzellenz ist Auftrag und Ziel von PALFINGER. PALFINGER setzt Maßstäbe in der Industrie – von der Produktentwicklung bis zum Service."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Europa uebrig",
+      "aussage": "Die Produktlinie Hubarbeitsbühnen bietet aufgrund weltweit steigender Nachfrage, insbesondere in Europa, großes Potenzial für Wachstum und Wertschöpfung.",
+      "zitat": "Die Produktlinie Hubarbeitsbühnen bietet dank einer weltweit steigenden Nachfrage – insbesondere in Europa, Nordamerika und weiteren aufstrebenden Märkten – besonders großes Potenzial für Wachstum und Wertschöpfung."
+    },
+    {
+      "region": "Nordamerika",
+      "aussage": "Nordamerika verzeichnet eine steigende Nachfrage nach Hubarbeitsbühnen und bietet großes Potenzial für Wachstum.",
+      "zitat": "Die Produktlinie Hubarbeitsbühnen bietet dank einer weltweit steigenden Nachfrage – insbesondere in Europa, Nordamerika und weiteren aufstrebenden Märkten – besonders großes Potenzial für Wachstum und Wertschöpfung."
+    },
+    {
+      "region": "Indien",
+      "aussage": "Indien festigt seine Rolle als wesentlicher globaler Wachstumstreiber.",
+      "zitat": "Die Schwellen- und Entwicklungsländer trugen auch im Berichtsjahr 2025 maßgeblich zum globalen Wachstum bei und erzielten eine durchschnittliche Zunahme von 4,2 Prozent. Besonders hervorzuheben ist Indien, das mit 6,6 Prozent seine Rolle als Wachstumstreiber festigte."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "US-Zölle und volatile Zollpolitik",
+      "kategorie": "Markt",
+      "zitat": "Im Jahr 2025 wurde eine Krisen-Taskforce als Reaktion auf die US-Zölle eingerichtet, um die negativen finanziellen Auswirkungen zu minimieren."
+    },
+    {
+      "risiko": "Geopolitische Unsicherheiten und Protektionismus",
+      "kategorie": "Markt",
+      "zitat": "Die Weltwirtschaft befindet sich im Wandel. Sie ist geprägt von anhaltender geopolitischer Unsicherheit, steigender globaler Verschuldung, zunehmendem Protektionismus sowie veränderten wirtschaftspolitischen Rahmenbedingungen."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Eröffnung eines neuen Ersatzteillogistikzentrums in Nordamerika.",
+      "zitat": "Wesentliche Investitionen wurden in den Regionen getätigt. So wurde im September das neue Ersatzteillogistikzentrum für Nordamerika in Huntley, USA (NAM) eröffnet."
+    },
+    {
+      "aussage": "Freigabe und Planung für ein neues Montagewerk in Indien.",
+      "zitat": "Im Frühling 2025 wurde vom Aufsichtsrat die Freigabe für ein neues Montagewerk in Indien erteilt. Die Übernahme eines geeigneten Grundstücks in Pune steht kurz vor dem Abschluss."
+    },
+    {
+      "aussage": "Erwerb einer Minderheitsbeteiligung am norwegischen Marinekranhersteller Storm.",
+      "zitat": "Im Dezember erwarb PALFINGER einen Minderheitsanteil am norwegischen Hersteller von Marinekranen Storm. Ziel dieser strategischen Partnerschaft ist es, das Portfolio an Marinekranen zu erweitern"
+    },
+    {
+      "aussage": "Veräußerung des Megarme-Geschäfts in Dubai und Hereinnahme eines Mehrheitseigentümers bei StrucInspect.",
+      "zitat": "Schritte zu einer Verbesserung der Bilanzstruktur und Fokussierung der Ressourcenallokation wurden mit der Hereinnahme eines strategischen Mehrheitseigentümers an StrucInspect sowie der Veräußerung des Megarme-Geschäfts in Dubai erreicht."
+    }
+  ],
+  "_modell": "gemini-3.5-flash"
+}

@@ -1,0 +1,47 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Bestandshaltung von Immobilien",
+      "zitat": "Die Position Investment Property stieg durch den Aufbau des Portfolios von STRABAG Hold Estate – die langfristige, strategische Bestandshaltung von Immobilien – erwartungsgemäß an."
+    },
+    {
+      "prioritaet": "Liquiditätssicherung",
+      "zitat": "Das oberste Ziel für das Treasury Management der STRABAG SE ist die Bestandssicherung der Unternehmensgruppe durch die Aufrechterhaltung der jederzeitigen Zahlungsfähigkeit."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Naher Osten",
+      "aussage": "Stärkung der Präsenz im strategisch wichtigen Markt Oman durch den Bau eines eigenen Headquarters.",
+      "zitat": "Mit dem geplanten Bau eines eigenen Headquarters im Westen Maskats soll die Präsenz im strategisch wichtigen Markt Oman weiter gestärkt werden."
+    },
+    {
+      "region": "Global",
+      "aussage": "Tätigkeit auf anderen Kontinenten zur Streuung des Länderrisikos und Nutzung von Marktchancen.",
+      "zitat": "Um das Länderrisiko noch weiter zu streuen und von Marktchancen zu profitieren, ist STRABAG auch auf anderen Kontinenten tätig."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Liquiditätsrisiken",
+      "kategorie": "Finanzierung",
+      "zitat": "Die Steuerung der Liquiditätsrisiken ist ein zentrales Element der Unternehmensführung bei STRABAG. Liquiditätsrisiken treten in der Praxis in verschiedenen Erscheinungsformen auf."
+    },
+    {
+      "risiko": "Wirtschaftliche Unsicherheit und Investitionszurückhaltung",
+      "kategorie": "Markt",
+      "zitat": "Der sonstige Hochbau, der 2025 um 1,0 % schrumpfte, blieb von wirtschaftlicher Unsicherheit und der Investitionszurückhaltung von Unternehmen sowie der öffentlichen Hand, insbesondere Gemeinden, belastet."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investitionen in Building Solutions, Kreislaufwirtschaft und Akquisitionen in Australien.",
+      "zitat": "Anstiege waren bei den Investment Properties sowie bei den Investitionen in Finanzanlagen und Unternehmensakquisitionen – unter anderem in den Bereichen Building Solutions, Kreislaufwirtschaft und durch die Übernahme in Australien – zu verzeichnen."
+    },
+    {
+      "aussage": "Unternehmensakquisitionen im Rahmen der Strategie 2030.",
+      "zitat": "Infolge von Unternehmensakquisitionen im Einklang mit der Strategie 2030 zeigten auch die Firmenwerte eine Erhöhung. Die Position Investment Property stieg durch den Aufbau des Portfolios von STRABAG Hold Estate."
+    }
+  ],
+  "_modell": "gemini-3-flash-preview"
+}

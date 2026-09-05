@@ -1,0 +1,18 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Vertiefung des Verständnisses der Auswirkungen auf Beschäftigte in der Wertschöpfungskette und stärkere Ausrichtung an ethischen Arbeitspraktiken",
+      "zitat": "In Zukunft will PALFINGER das Verständnis der tatsächlichen und potenziellen Auswirkungen auf die Beschäftigten in der Wertschöpfungskette vertiefen und diese Erkenntnisse nutzen, um die Strategie anzupassen"
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Risiken in Bezug auf Menschenrechte und ethische Beschaffung durch Konfliktmineralien in globalen Lieferketten",
+      "kategorie": "Lieferkette",
+      "zitat": "Der Abbau und Handel dieser Mineralien birgt für Unternehmen mit komplexen globalen Lieferketten, darunter auch PALFINGER, Risiken in Bezug auf Menschenrechte und ethische Beschaffung."
+    }
+  ],
+  "capex_ma_signale": [],
+  "_modell": "gemini-3.8-flash"
+}

@@ -1,0 +1,36 @@
+{
+  "strategische_prioritaeten": [],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Störungen entlang von Lieferketten, Logistikströmen sowie Rohstoffversorgung",
+      "kategorie": "Lieferkette",
+      "zitat": "Seither ist neben Störungen entlang von Lieferketten und Logistikströmen eine erhöhte Volatilität an den globalen Rohstoff- und Energiemärkten zu beobachten. Die Auswirkungen beschränken sich daher nicht nur auf höhere Energiepreise, sondern umfassen breitere Störungen bei der Rohstoffversorgung und Logistik."
+    },
+    {
+      "risiko": "Preissteigerungen bei Energie, Rohstoffen und Logistik sowie Versorgungsengpässe infolge geopolitischer Konflikte",
+      "kategorie": "Markt",
+      "zitat": "Für wienerberger kann dies zu deutlichen Preissteigerungen insbesondere in den Bereichen Energie, Rohstoffe und Logistik führen und in Versorgungsengpässen resultieren. wienerberger überwacht die Situation kontinuierlich und ergreift Maßnahmen, um die Versorgungssicherheit sicherzustellen."
+    },
+    {
+      "risiko": "Klimabezogene physische und Übergangsrisiken wie regulatorische Risiken und Technologierisiken",
+      "kategorie": "Regulierung",
+      "zitat": "Seit 2020 unterstützen wir daher die Empfehlungen der Task Force on Climate-related Financial Disclosures (TCFD) in Bezug auf die Identifizierung, Analyse und Bewertung von physischen Risiken und Übergangsrisiken im Zusammenhang mit der Auswirkung der Wende zu einer kohlenstoffarmen Wirtschaft"
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Verbindliche Vereinbarung zur Akquisition der Italcer Group im Februar 2026 unterzeichnet.",
+      "zitat": "Am 24. Februar 2026 hat wienerberger eine verbindliche Vereinbarung zum Erwerb von Italcer unterzeichnet, einem führenden Hersteller hochwertiger keramischer Lösungen mit Produktionsstandorten in Italien und Spanien. Der Abschluss der Transaktion wird – vorbehaltlich der behördlichen Genehmigungen – im zweiten Quartal 2026 erwartet."
+    },
+    {
+      "aussage": "Übernahme von MFP Ltd. in Irland/Großbritannien und VETA France im Jahr 2025 zur Stärkung der Marktposition.",
+      "zitat": "In Irland und Großbritannien wurde durch die Übernahme von MFP Ltd., einem Spezialisten für Entwässerungs-, Dachrinnen- und Kabelkanalsysteme, die Plattform für Rohrlösungen und die regionale Präsenz weiter gestärkt. Die Übernahme von VETA France, einem Hersteller von Fassadenpaneelen mit integrierten Dämmsystemen, stärkte das Fassadengeschäft der Gruppe."
+    },
+    {
+      "aussage": "M&A-Ausgaben im Geschäftsjahr 2025 sowie Erwerb der verbleibenden Anteile an GSEi.",
+      "zitat": "Im Geschäftsjahr 2025 beliefen sich die Ausgaben für Unternehmensakquisitionen auf EUR 24 Mio (2024: EUR 637 Mio). Alle Transaktionen standen in vollem Einklang mit den strategischen und finanziellen Kriterien des Konzerns und konzentrierten sich auf wertsteigerndes Wachstum ohne Beeinträchtigung der Bilanzstärke."
+    }
+  ],
+  "_modell": "gemini-3.7-flash"
+}

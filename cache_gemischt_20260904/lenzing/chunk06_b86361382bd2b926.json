@@ -1,0 +1,37 @@
+{
+  "strategische_prioritaeten": [],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Nichtverfügbarkeit von Holz aufgrund von Waldschäden",
+      "kategorie": "Lieferkette",
+      "zitat": "Da Holz einer der wichtigsten Rohstoffe für Lenzing ist, kann das Risiko der Nichtverfügbarkeit von Holz aufgrund von Waldschäden (Krankheiten, Schädlinge usw.) als direkte Folge höherer Durchschnittstemperaturen das Kerngeschäft beeinträchtigen."
+    },
+    {
+      "risiko": "Steigende Holzpreise aufgrund des Klimawandels und Wettbewerbs",
+      "kategorie": "Markt",
+      "zitat": "Trotz der nachhaltigen Beschaffungspolitik von Lenzing und der rückwärtsintegrierten Produktion besteht die Gefahr, dass die Holzpreise aufgrund des Klimawandels und des zunehmenden Wettbewerbs um Biomasse und Landnutzung steigen."
+    },
+    {
+      "risiko": "Unvorhergesehene Energieengpässe",
+      "kategorie": "Lieferkette",
+      "zitat": "Unvorhergesehene Energieengpässe könnten die Geschäftstätigkeit von Lenzing beeinträchtigen, was ein finanzielles Risiko darstellen kann."
+    },
+    {
+      "risiko": "Einstufung von Biomasse unter RED II/III",
+      "kategorie": "Regulierung",
+      "zitat": "Mit der Richtlinie über erneuerbare Energien (RED II /III) könnte Biomasse neu eingestuft werden und nicht mehr als erneuerbar gelten."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investition in die Umstellung von Kohle auf Erdgas am Standort Nanjing in China",
+      "zitat": "Lenzing hat an ihrem Viscosestandort in Nanjing (China) rund EUR 30 Mio. investiert, um von Kohle auf Erdgas umzustellen."
+    },
+    {
+      "aussage": "Prüfung einer Investition in ein Dekarbonisierungsprojekt am Standort Heiligenkreuz in Österreich",
+      "zitat": "So erwägt Lenzing beispielsweise eine Investition an ihrem Standort Heiligenkreuz (Österreich) in ein Projekt, das den Verbrauch fossiler Brennstoffe und die Treibhausgasemissionen erheblich reduzieren würde."
+    }
+  ],
+  "_modell": "gemini-3.5-flash"
+}

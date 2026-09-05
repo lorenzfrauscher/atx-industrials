@@ -1,0 +1,65 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Umsetzung der strategischen Programme der Strategie 2030+",
+      "zitat": "Die PALFINGER AG fokussiert 2026 auf die rasche Umsetzung seiner strategischen Programme, wie sie in der Strategie 2030+ definiert sind."
+    },
+    {
+      "prioritaet": "Transformation zur Kreislaufwirtschaft",
+      "zitat": "Die Transformation hin zu einer Kreislaufwirtschaft ist eine zentrale strategische Aufgabe."
+    },
+    {
+      "prioritaet": "Etablierung von Nachhaltigkeit als strategisches Programm",
+      "zitat": "Sie ist Teil der strategischen Säulen und wurde als eigenes strategisches Programm „Sustainability as an Opportunity“ definiert."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Nordamerika",
+      "aussage": "Nordamerika bleibt neben EMEA ein zentraler Wachstumstreiber für das Unternehmen.",
+      "zitat": "EMEA und NAM bleiben weiterhin die zentralen Wachstumstreiber für PALFINGER."
+    },
+    {
+      "region": "Lateinamerika",
+      "aussage": "In Lateinamerika wird mit einer Fortsetzung der positiven wirtschaftlichen Entwicklung gerechnet, die vor allem von Brasilien getragen wird.",
+      "zitat": "In LATAM ist mit der Fortsetzung der positiven wirtschaftlichen Entwicklung, die vor allem von Brasilien getragen wird, zu rechnen."
+    },
+    {
+      "region": "Indien",
+      "aussage": "Indien entwickelt sich in der Region APAC als zukünftiger wichtiger Wachstumsmarkt.",
+      "zitat": "In APAC entwickelt sich Indien als zukünftiger wichtiger Wachstumsmarkt für PALFINGER."
+    },
+    {
+      "region": "Asien-Pazifik uebrig",
+      "aussage": "Die Region APAC bietet das höchste Wachstumspotenzial bei moderaten Risiken.",
+      "zitat": "Die Region APAC bietet das höchste Wachstumspotenzial mit moderaten Risiken."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Geopolitische Konflikte und volatile Wirtschaftsentwicklung",
+      "kategorie": "Markt",
+      "zitat": "Viele Unsicherheiten, wie die amerikanische Zollpolitik, der andauernde Krieg in der Ukraine und weitere geopolitische Konflikte haben Auswirkungen auf die weltweite wirtschaftliche Entwicklung und machen Prognosen schwierig."
+    },
+    {
+      "risiko": "Compliance-Verstöße durch eine Vielzahl lokaler und internationaler Gesetze",
+      "kategorie": "Regulierung",
+      "zitat": "Als international agierendes Unternehmen unterliegt PALFINGER einer Vielzahl von lokalen Gesetzen, internationalen Normen und Rechtsprechungen."
+    },
+    {
+      "risiko": "Einschränkungen durch Softwarepatente von Wettbewerbern mit höheren Entwicklungsbudgets",
+      "kategorie": "Technologie",
+      "zitat": "Die zunehmende Digitalisierung führt vermehrt zu Softwarepatenten anderer Marktteilnehmer mit ungleich höheren Entwicklungsbudgets auf diesem Gebiet."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Veräußerung sämtlicher eigener Aktien im Juli 2025 mittels eines beschleunigten Privatplatzierungsverfahrens.",
+      "zitat": "Sämtliche per 31.12.2024 gehaltenen eigenen Aktien wurden von der PALFINGER AG mittels beschleunigtem Privatplatzierungsverfahrens im Juli 2025 veräußert."
+    },
+    {
+      "aussage": "Anstieg der taxonomiefähigen Investitionen aus Einzelmaßnahmen in Sachanlagen im Berichtsjahr.",
+      "zitat": "Im Berichtsjahr ergaben sich somit taxonomiefähige Investitionen aus Einzelmaßnahmen in Sachanlagevermögen in Höhe von 5.260 TEUR (2024: 4.535 TEUR), das entspricht einem Anteil von 3,9 Prozent"
+    }
+  ]
+}

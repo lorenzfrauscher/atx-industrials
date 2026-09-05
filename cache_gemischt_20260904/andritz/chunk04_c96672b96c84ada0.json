@@ -1,0 +1,23 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Steigerung des Umsatzanteils nachhaltiger Technologien durch neue Produkte",
+      "zitat": "Das Unternehmen generiert bereits heute rund 45% seines Gesamtumsatzes aus Produkten und Lösungen, die zur Herstellung von erneuerbarer Energie, zu Umweltschutz, Kreislaufwirtschaft und E -Mobilität beitragen. Dieser Anteil soll künftig durch neue Produkte (zB Green Hydrogen und Carb on Storage) noch gesteigert werden."
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Risiken des Klimawandels (physische Risiken und Übergangsrisiken)",
+      "kategorie": "Markt",
+      "zitat": "Zu den Risiken des Klimawandels für die ANDRITZ -Gruppe zählen einerseits physische Risiken sowie auch Übergangsrisiken. Diesen Risiken begegnet ANDRITZ durch ein breites Produktportfolio im Bereich der „nachhaltigen Technologien“."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Closing der Akquisition von Sanzheng im Dezember 2025",
+      "zitat": "Das Closing der Akquisition Sanzheng fand im Dezember 2025 nach dem jährlichen Werthaltigkeitstest zum 30. September 2025 statt. Diese ZGE wurde zum 31. Dezember 2025 getestet."
+    }
+  ],
+  "_modell": "gemini-3.7-flash"
+}

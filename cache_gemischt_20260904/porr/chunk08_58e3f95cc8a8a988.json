@@ -1,0 +1,47 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Konsequentes Risikomanagement",
+      "zitat": "Ein besonderer Fokus liegt dabei auf dem konsequenten Risikomanagement. Aufkommende Chancen und Projektakquisitionen werden nur bei entscheidenden Vorteilen für die PORR verfolgt."
+    },
+    {
+      "prioritaet": "Konzentration auf Heimmärkte",
+      "zitat": "Das Unternehmen reagiert auf die Schwankungen in den nationalen Märkten und Geschäftssegmenten sowie auf die gegenwärtigen geopolitischen Unsicherheiten mit einer Konzentration auf die Heimmärkte Österreich, Deutschland, Schweiz, Polen, Tschechien, Slowakei und Rumänien."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Global",
+      "aussage": "Der Tief- und Infrastrukturbau bleibt der wichtigste Wachstumstreiber für die PORR.",
+      "zitat": "Der Tief- und Infrastrukturbau bleibt dabei der wichtigste Wachstumstreiber. Öffentliche Investitionen, getragen von EU-Programmen wie der Recovery and Resilience Facility sowie dem NextGenerationEU-Budget, sorgen weiterhin für eine hohe Nachfrage."
+    },
+    {
+      "region": "DACH",
+      "aussage": "In Deutschland werden deutliche Impulse aus öffentlichen Investitionen in Infrastruktur und Klimaneutralität erwartet.",
+      "zitat": "Die deutsche Bundesregierung hat ein Sondervermögen zur Stärkung von Infrastruktur und Klimaneutralität eingerichtet, aus dem im Jahr 2026 rund EUR 40 Mrd. für Investitionen vorgesehen sind."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Geopolitische Spannungen und Handelsbeschränkungen",
+      "kategorie": "Markt",
+      "zitat": "Gleichzeitig bleiben geopolitische Spannungen, protektionistische Tendenzen und politische Unsicherheiten wesentliche Risikofaktoren für die globale Konjunktur. Eine Verschärfung geopolitischer Spannungen, neue Handelshemmnisse oder eine erneute Volatilität an den Finanzmärkten könnten jedoch negative Auswirkungen haben."
+    },
+    {
+      "risiko": "Materialpreissteigerungen durch geopolitische Konflikte",
+      "kategorie": "Lieferkette",
+      "zitat": "Sollten die Spannungen länger andauern, könnten sich Auswirkungen auf die Materialpreise ergeben. Für den Auftragsbestand bestehen jedoch Preisfixierungen beziehungsweise Preisgleitklauseln. Zusätzlich erfolgt eine Absicherung der Kosten durch frühzeitige Beschaffung."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Vollständiger Erwerb der VAMED Standortentwicklung und Engineering GmbH zur Stärkung des Healthcare-Bereichs.",
+      "zitat": "Der Erwerb der VSG erfolgte zur strategischen Stärkung der operativen Kompetenzen und zur Erweiterung des Leistungsportfolios der PORR Gruppe, insbesondere im Hinblick auf integrierte Projektabwicklung im Bereich Healthcare."
+    },
+    {
+      "aussage": "Erwerb einer Mehrheitsbeteiligung an der Knape Bahnbau GmbH.",
+      "zitat": "Mit Kaufvertrag vom 21. Dezember 2024, rechtswirksam mit Closing Protokoll vom 25. März 2025, hat die PORR Bau GmbH 74,97 % der Anteile an der Knape Bahnbau GmbH zu einem Kaufpreis in Höhe von TEUR 13.820 erworben."
+    }
+  ],
+  "_modell": "gemini-3-flash-preview"
+}

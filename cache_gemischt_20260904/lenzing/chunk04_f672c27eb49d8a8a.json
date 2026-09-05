@@ -1,0 +1,26 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Systemischen Wandel vorantreiben",
+      "zitat": "Durch aktive Beiträge zu branchenweiten Methoden, Standards und Benchmarking-Tools trägt Lenzing dazu bei, die Nachhaltigkeitsleistung in der gesamten Branche zu beschleunigen."
+    },
+    {
+      "prioritaet": "Förderung der Kreislaufwirtschaft",
+      "zitat": "Lenzing ist bestrebt, die Wertschöpfung bei minimalem Einsatz neuer Rohstoffe zu maximieren und den Einsatz von fossilen Rohstoffen sowohl im eigenen Betrieb als auch entlang der gesamten Wertschöpfungskette zu reduzieren."
+    },
+    {
+      "prioritaet": "Ökologisierung der Wertschöpfungskette",
+      "zitat": "Lenzing ermöglicht ihren Kunden und Partnern in der Wertschöpfungskette, durch verantwortungsbewusstes Handeln und innovative Produkte ihre Umwelt- und Sozialleistung zu verbessern und ihre Nachhaltigkeitsziele und -verpflichtungen zu erreichen."
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Umsetzung des Klimaaktionsplans",
+      "kategorie": "Markt",
+      "zitat": "Die größte künftige Herausforderung ist die Umsetzung von Lenzings Klimaaktionsplan. Der Fortschritt wird durch mehrere externe Faktoren beeinträchtigt."
+    }
+  ],
+  "capex_ma_signale": [],
+  "_modell": "gemini-3.5-flash"
+}

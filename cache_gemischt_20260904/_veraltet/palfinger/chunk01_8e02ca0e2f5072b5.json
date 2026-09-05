@@ -1,0 +1,65 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Reach Higher-Strategie 2030+",
+      "zitat": "Ziel der PALFINGER-Wachstumsstrategie ist es, den langfristigen Unternehmenserfolg durch konsequente Kundenorientierung, nachhaltiges und profitables Wachstum sowie gesteigerte Effizienz zu sichern."
+    },
+    {
+      "prioritaet": "Execution Excellence",
+      "zitat": "Durch eine schlanke Organisation, standardisierte Systeme, umfassende Digitalisierungsinitiativen und kompetente Mitarbeitende strebt PALFINGER nach Exzellenz – in allen Bereichen."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Indien",
+      "aussage": "Indien hat sich als treibende Kraft und langfristiger Zukunftsmarkt herauskristallisiert, weshalb PALFINGER dort nach einem Produktionsstandort sucht.",
+      "zitat": "Als treibende Kraft und langfristiger Zukunftsmarkt kristallisierte sich Indien heraus. Um die Potenziale dieses Marktes bestmöglich zu nutzen, startete PALFINGER die Suche nach einem geeigneten Produktionsstandort in Indien."
+    },
+    {
+      "region": "Naher Osten",
+      "aussage": "Südeuropa und der Mittlere Osten zählen innerhalb von EMEA zu den wesentlichen Wachstumsmärkten.",
+      "zitat": "Im 3. Quartal setzte eine erneut positive Trendwende ein, insbesondere in Südeuropa und im Mittleren Osten, die innerhalb von EMEA zu den wesentlichen Wachstumsmärkten zählen."
+    },
+    {
+      "region": "Nordamerika",
+      "aussage": "Die Produktlinie Hubarbeitsbühnen bietet in Nordamerika besonders großes Potenzial für Wachstum und Wertschöpfung.",
+      "zitat": "Die Produktlinie Hubarbeitsbühnen bietet dank einer weltweit steigenden Nachfrage – insbesondere in Europa, Nordamerika und weiteren aufstrebenden Märkten – besonders großes Potenzial für Wachstum und Wertschöpfung."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Illiquidität des Russlandgeschäfts",
+      "kategorie": "Finanzierung",
+      "zitat": "In der Folge erhöht sich das Risiko von Liquiditätsengpässen, was zu einer möglichen Illiquidität von Tochtergesellschaften führen könnte."
+    },
+    {
+      "risiko": "China / Taiwan Eskalation",
+      "kategorie": "Lieferkette",
+      "zitat": "Eine mögliche Eskalation der Situation zwischen China und Taiwan könnte zu Sanktionen, einer Blockade oder einem Krieg führen. Dies würde besonders internationale Lieferketten in der Elektronikindustrie betreffen"
+    },
+    {
+      "risiko": "Zölle",
+      "kategorie": "Regulierung",
+      "zitat": "Die Einführung von zusätzlichen Zöllen seitens der US-Regierung seit März 2025 betrifft PALFINGER aufgrund des Imports von Materialien und Waren in die USA."
+    },
+    {
+      "risiko": "Wettbewerbsfähigkeit des Produktportfolios",
+      "kategorie": "Technologie",
+      "zitat": "Der Verlust der Wettbewerbsfähigkeit in einzelnen Produktlinien könnte zu einem strategischen Nachteil führen und die Marke PALFINGER schädigen."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Erwerb eines Minderheitsanteils am norwegischen Marinekranhersteller Storm zur Portfolioerweiterung.",
+      "zitat": "Im Dezember erwarb PALFINGER einen Minderheitsanteil am norwegischen Hersteller von Marinekranen Storm. Ziel dieser strategischen Partnerschaft ist es, das Portfolio an Marinekranen zu erweitern"
+    },
+    {
+      "aussage": "Veräußerung des Megarme-Geschäfts in Dubai und Hereinnahme eines strategischen Mehrheitseigentümers an StrucInspect.",
+      "zitat": "Schritte zu einer Verbesserung der Bilanzstruktur und Fokussierung der Ressourcenallokation wurden mit der Hereinnahme eines strategischen Mehrheitseigentümers an StrucInspect sowie der Veräußerung des Megarme-Geschäfts in Dubai erreicht."
+    },
+    {
+      "aussage": "Freigabe für ein neues Montagewerk in Indien und bevorstehende Übernahme eines Grundstücks in Pune.",
+      "zitat": "Im Frühling 2025 wurde vom Aufsichtsrat die Freigabe für ein neues Montagewerk in Indien erteilt. Die Übernahme eines geeigneten Grundstücks in Pune steht kurz vor dem Abschluss."
+    }
+  ]
+}

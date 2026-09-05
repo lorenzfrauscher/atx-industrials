@@ -1,0 +1,451 @@
+{
+  "unternehmen": "Strabag SE",
+  "schluessel": "strabag",
+  "berichtsjahr": "2025",
+  "gruppe": "Bau",
+  "quelldatei": "strabag_2025.pdf",
+  "modell": "gemini-3.5-flash",
+  "tatsaechlich_benutzte_modelle": [
+    "gemini-3-flash-preview",
+    "gemini-3.5-flash",
+    "gemini-3.7-flash",
+    "gemini-3.8-flash"
+  ],
+  "chunks_gesamt": 8,
+  "chunks_fehlgeschlagen": [],
+  "seiten_im_pdf": 412,
+  "seiten_ausgewertet": 127,
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "EBIT-Marge 2030",
+      "zitat": "Wir sind überzeugt, dass uns People. Planet. Progress. auch wirtschaftlich erfolgreicher macht: Bis zum Jahr 2030 streben wir daher eine EBIT-Marge von nachhaltig 6 % an.",
+      "beleg_seite": 21,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Klimaneutralität 2040",
+      "zitat": "Wir unternehmen etwas gegen den Klimawandel. Dabei leitet uns der Vorsatz, unsere Projekte bis 2040 klimaneutral zu gestalten und verstärkt im Energiesektor zu bauen.",
+      "beleg_seite": 23,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Emissionsreduktion",
+      "zitat": "Zur Erreichung unserer durch die Science Based Targets initiative (SBTi) validierten Reduktionsziele haben wir die wichtigsten Hebel erarbeitet, mit denen wir einen Beitrag zum 1,5 °C-Ziel leisten.",
+      "beleg_seite": 25,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "EDI-Strategie 2030",
+      "zitat": "2023 hat der STRABAG-Vorstand erstmals eine EDI-Strategie verabschiedet und damit drei klare Ziele definiert, die auch an die Mitarbeiter:innen kommuniziert und auf der Website der STRABAG SE veröffentlicht wurden.",
+      "beleg_seite": 74,
+      "treffertyp": "teilweise",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Steigerung des Frauenanteils im Management um jaehrlich 6 %",
+      "zitat": "Gemäß der EDI-Strategie soll der Anteil von Frauen in Management jährlich um 6 % gesteigert werden, insbesondere durch interne Beförderungen. STRABAG ermöglicht dies unter anderem durch den Ausbau des konzerninternen Potenzialmanagements.",
+      "beleg_seite": null,
+      "treffertyp": "nicht_gefunden",
+      "zitat_gefunden": false,
+      "quelle_abschnitt": "unbekannt"
+    },
+    {
+      "prioritaet": "Dekarbonisierung und Reduktion von Emissionen bis 2030 sowie Klimaneutralitaet bis 2040",
+      "zitat": "Bis zum Jahr 2030 sollen unsere Scope 1- und Scope 2-Emissionen um 42 % und unsere Scope 3-Emissionen um 25 % reduziert und bis 2040 Klimaneutralität erreicht werden.",
+      "beleg_seite": 105,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Dekarbonisierung und Kreislaufwirtschaft",
+      "zitat": "Im Umweltbereich tragen insbesondere die konzernweiten Dekarbonisierungsmaßnahmen, der verantwortungsvoller Umgang mit natürlichen Ressourcen sowie der Ausbau von Kreislaufwirtschaft und Ressourceneffizienz im Bauwesen zur langfristigen Anpassungsfähigkeit bei.",
+      "beleg_seite": 121,
+      "treffertyp": "teilweise",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Soziale Widerstandsfähigkeit",
+      "zitat": "Auf sozialer Ebene wird die Widerstandsfähigkeit durch die Bewältigung des Fachkräftemangels, ein präventives Managementsystem zur Sicherstellung von Arbeitssicherheit und Gesundheit sowie die verantwortungsvolle Gestaltung von Lieferketten gestärkt.",
+      "beleg_seite": 121,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Kreislaufwirtschaft und Expertise im Energiesektor als strategische Geschäftsmodelle ausbauen",
+      "zitat": "Kreislauffähiges Bauen und Expertise im Energiesektor werden dabei eine zentrale Rolle spielen. Aus diesem Grund hat die STRABAG diese Bereiche als strategische Kernthemen definiert und wird betreffende Geschäftsmodelle weiter ausbauen.",
+      "beleg_seite": 137,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Konzernweite Implementierung des Social Compliance Management-Systems und Einhaltung von Sorgfaltspflichten",
+      "zitat": "Für das Fokusthema „Menschenrechte entlang der Wertschöpfungskette“ sind die konzernweite Implementierung des Social Compliance Management-Systems (SCMS), die Einhaltung von Menschenrechten sowie die Erfüllung unserer unternehmerischen Sorgfaltspflichten als strategische Ziele festgehalten.",
+      "beleg_seite": 193,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Bestandshaltung von Immobilien",
+      "zitat": "Die Position Investment Property stieg durch den Aufbau des Portfolios von STRABAG Hold Estate – die langfristige, strategische Bestandshaltung von Immobilien – erwartungsgemäß an.",
+      "beleg_seite": 252,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Liquiditätssicherung",
+      "zitat": "Das oberste Ziel für das Treasury Management der STRABAG SE ist die Bestandssicherung der Unternehmensgruppe durch die Aufrechterhaltung der jederzeitigen Zahlungsfähigkeit.",
+      "beleg_seite": 255,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Kreislaufwirtschaft",
+      "zitat": "Die im Segment Süd + Ost gebündelten Baustoffaktivitäten zeigen in Summe eine zufriedenstellende Tendenz und sind für das Handlungsfeld Kreislaufwirtschaft der Strategie 2030 von wesentlicher Bedeutung.",
+      "beleg_seite": 264,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Energiesektor",
+      "zitat": "Im Rahmen der Konzernstrategie 2030 beabsichtigt STRABAG u. a. verstärkt im Energiesektor zu bauen. Erneuerbare Energie- bzw. Wärmeerzeugung sowie deren Speicherung stehen dabei im Vordergrund.",
+      "beleg_seite": 272,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "DACH",
+      "aussage": "Modernisierungsoffensive der Infrastruktur in Deutschland.",
+      "zitat": "Substanzielle öffentliche Investitionen, wie Deutschlands € 500 Mrd.-Modernisierungsoffensive und Mittel aus dem EU-Kohäsionsfonds, kommen den Kernmärkten von STRABAG zugute.",
+      "beleg_seite": 27,
+      "treffertyp": "teilweise",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "region": "Europa uebrig",
+      "aussage": "Ausbaubedarf der Verkehrsnetze in Zentral- und Osteuropa.",
+      "zitat": "Während die Verkehrsnetze in reifen Märkten zunehmend überaltern, besteht in Zentral- und Osteuropa noch erheblicher Ausbaubedarf. Die Nachfrage nach nachhaltiger, sicherer und intelligenter Mobilitätsinfrastruktur nimmt rasant zu.",
+      "beleg_seite": 27,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "region": "Global",
+      "aussage": "Bedarf an Infrastruktur durch weltweite Urbanisierung.",
+      "zitat": "Bis zum Jahr 2050 werden laut den Vereinten Nationen (UN) 68 % der globalen Bevölkerung in Städten leben – dies entspricht einer Erhöhung der städtischen Einwohnerzahl um 2,4 Mrd. Menschen.",
+      "beleg_seite": 30,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "region": "Global",
+      "aussage": "Wachstumschancen durch umweltfreundlichere Dienstleistungen aufgrund veränderter Auftraggeberanforderungen.",
+      "zitat": "Es werden langfristig veränderte Anforderungen der Auftraggeber:innen in Richtung emissionsarmer und energieeffizienter Baudienstleistungen erwartet, womit der Entwicklung und dem Ausbau von umweltfreundlicheren Dienstleistungen und Produkten im Bausektor Wachstumschancen prognostiziert werden.",
+      "beleg_seite": 114,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "region": "Naher Osten",
+      "aussage": "Stärkung der Präsenz im strategisch wichtigen Markt Oman durch den Bau eines eigenen Headquarters.",
+      "zitat": "Mit dem geplanten Bau eines eigenen Headquarters im Westen Maskats soll die Präsenz im strategisch wichtigen Markt Oman weiter gestärkt werden.",
+      "beleg_seite": 230,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "region": "Global",
+      "aussage": "Tätigkeit auf anderen Kontinenten zur Streuung des Länderrisikos und Nutzung von Marktchancen.",
+      "zitat": "Um das Länderrisiko noch weiter zu streuen und von Marktchancen zu profitieren, ist STRABAG auch auf anderen Kontinenten tätig.",
+      "beleg_seite": 231,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "region": "Europa uebrig",
+      "aussage": "Rumaenien wird als vielversprechender Wachstumsmarkt mit hohem Infrastrukturbedarf eingestuft.",
+      "zitat": "Rumänien gilt weiterhin als vielversprechender Wachstumsmarkt mit erheblichem Infrastrukturbedarf, der teilweise durch EU-finanzierte Investitionen unterstützt wird. Belastend wirken derzeit vor allem fiskalpolitische Maßnahmen zur Reduzierung des Haushaltsdefizits.",
+      "beleg_seite": 264,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "region": "Europa uebrig",
+      "aussage": "In Tschechien wird ein deutliches Wachstum bei Ausschreibungen im Verkehrswegebau beobachtet.",
+      "zitat": "Im tschechischen Verkehrswegebau ist ein deutliches Wachstum der Ausschreibungsvolumina zu beobachten. Insbesondere im Bahnbau zeigt sich eine positive Marktdynamik, in der für 2026 weitere Ausschreibungen in Höhe von rund € 3,6 Mrd. vorgesehen sind.",
+      "beleg_seite": 264,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Arbeitskräftemangel",
+      "kategorie": "Markt",
+      "zitat": "Bis zum Jahr 2040 werden mehr als 10 % der heute erwerbstätigen Arbeitskräfte in unseren Kernmärkten fehlen. Die sogenannte Babyboomer-Generation wird dann in den Ruhestand getreten sein.",
+      "beleg_seite": 31,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Projektrisiken",
+      "kategorie": "Markt",
+      "zitat": "Denn die Vielzahl der – jedes für sich – einzigartigen Projekte bringt ein erhöhtes Risikopotenzial mit sich. Um dieses unter Kontrolle zu halten, bedarf es einer konsequent darauf ausgerichteten Organisationsstruktur.",
+      "beleg_seite": 34,
+      "treffertyp": "teilweise",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Lieferkettenengpässe",
+      "kategorie": "Lieferkette",
+      "zitat": "Denn in Zeiten angespannter Lieferketten sichert uns beispielsweise unser dichtes Baustoffnetzwerk die Verfügbarkeit benötigter Materialien und wirkt ausgleichend bei dynamischen Preisentwicklungen.",
+      "beleg_seite": 34,
+      "treffertyp": "teilweise",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Klimawandelbedingte Extremwetterereignisse",
+      "kategorie": "Markt",
+      "zitat": "Risiko Klimawandelbedingte Extremwettereignisse und damit verbundene Schäden an Anlagevermögen, eingeschränkte Produktionskapazitäten, Lieferengpässe, Bauzeitverzögerungen Kurz-, mittel- und langfristig Vorgelagert Anpassung an den Klimawandel",
+      "beleg_seite": 118,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Regulatorische Anforderungen durch EU-Mandate",
+      "kategorie": "Regulierung",
+      "zitat": "Mandate der Europäischen Union wie der Circular Economy Action Plan, die europäische Entwaldungsverordnung, die europäische Lieferkettenrichtlinie oder produktspezifische Verordnungen wie die Baustoffverordnung, Ökodesign-Richtlinie und die EU-Gebäuderichtlinie bringen veränderte Anforderungen mit sich.",
+      "beleg_seite": null,
+      "treffertyp": "nicht_gefunden",
+      "zitat_gefunden": false,
+      "quelle_abschnitt": "unbekannt"
+    },
+    {
+      "risiko": "Volatile Energiekosten",
+      "kategorie": "Markt",
+      "zitat": "Transitorische Auswirkungen für Bauunternehmen aufgrund steigender Rohstoff- und Energiepreise können stark variieren. Anhand der Szenarien der Internationalen Energieagentur und des World Economic Outlook lässt sich ableiten, dass bestimmte Rohstoffe nicht ausreichen.",
+      "beleg_seite": null,
+      "treffertyp": "nicht_gefunden",
+      "zitat_gefunden": false,
+      "quelle_abschnitt": "unbekannt"
+    },
+    {
+      "risiko": "Verletzungen gegen das Verbot von Zwangsarbeit und daraus resultierende Lieferkettenstörungen",
+      "kategorie": "Lieferkette",
+      "zitat": "Verletzungen gegen das Verbot von Zwangsarbeit können ein finanzielles Risiko darstellen, etwa durch die Notwendigkeit, Geschäftsbeziehungen unmittelbar zu beenden, was zu Störungen in der Lieferkette führen kann.",
+      "beleg_seite": 195,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Liquiditätsrisiken",
+      "kategorie": "Finanzierung",
+      "zitat": "Die Steuerung der Liquiditätsrisiken ist ein zentrales Element der Unternehmensführung bei STRABAG. Liquiditätsrisiken treten in der Praxis in verschiedenen Erscheinungsformen auf.",
+      "beleg_seite": 255,
+      "treffertyp": "teilweise",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Wirtschaftliche Unsicherheit und Investitionszurückhaltung",
+      "kategorie": "Markt",
+      "zitat": "Der sonstige Hochbau, der 2025 um 1,0 % schrumpfte, blieb von wirtschaftlicher Unsicherheit und der Investitionszurückhaltung von Unternehmen sowie der öffentlichen Hand, insbesondere Gemeinden, belastet.",
+      "beleg_seite": 235,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Marktrisiko durch zyklische Schwankungen",
+      "kategorie": "Markt",
+      "zitat": "Die gesamte Bauindustrie ist zyklischen Schwankungen unterworfen und reagiert regional und nach Sektoren unterschiedlich stark. Die allgemeine wirtschaftliche Entwicklung, die Entwicklung der Baumärkte, die Wettbewerbssituation, aber auch die Verhältnisse auf den Kapitalmärkten",
+      "beleg_seite": 270,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Fachkräftemangel und Personalengpässe",
+      "kategorie": "Markt",
+      "zitat": "Wesentlichen Personalrisiken wie Engpässen bei der Personalbeschaffung, Fachkräftemangel, Fluktuation sowie arbeitsrechtlichen Risiken wird mit einer strategischen Personalplanung, einer nachhaltigen, bedarfsorientierten Personalentwicklung und einer zentralen Personalverwaltung gegengesteuert.",
+      "beleg_seite": 271,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Cyberkriminalität und IT-Sicherheit",
+      "kategorie": "Technologie",
+      "zitat": "Aufgrund zunehmender Bedrohungen durch IT-Risiken werden verschiedene Maßnahmen in Form von mehrstufigen Sicherheits- und Antivirenkonzepten, der Vergabe von Zugriffsrechten, Zugangskontrollsystemen mit Passwort-Policy, zweckmäßigen Datensicherungen und einer unabhängigen Energieversorgung umgesetzt.",
+      "beleg_seite": 271,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Kreditrisiko",
+      "kategorie": "Finanzierung",
+      "zitat": "Ausfallrisiken entstehen, wenn Vertragsparteien ihren Zahlungsverpflichtungen zum Fälligkeitszeitpunkt nicht nachkommen. Ein solches Risiko besteht in Bezug auf die Bezahlung von Forderungen aus dem operativen Geschäft.",
+      "beleg_seite": 386,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Zinsrisiko",
+      "kategorie": "Finanzierung",
+      "zitat": "Das Risiko der variabel verzinsten passivseitigen Finanzinstrumente besteht in steigenden Aufwandszinsen, die sich aus einer nachteiligen Veränderung der Marktzinsen ergeben.",
+      "beleg_seite": 380,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Liquiditätsrisiko",
+      "kategorie": "Finanzierung",
+      "zitat": "Liquidität bedeutet für den STRABAG SE-Konzern nicht nur die Zahlungsfähigkeit im engeren Sinn, sondern auch den notwendigen finanziellen Spielraum für das Grundgeschäft durch die Verfügbarkeit ausreichender Avallinien.",
+      "beleg_seite": 388,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Strategische Bedeutung von Akquisitionen für die Technologieführerschaft.",
+      "zitat": "Wir gestalten die Zukunft des Bauens, indem wir neue Technologien einsetzen. Dafür entwickeln wir eigene Innovationen zur Marktreife, verfolgen Partnerschaften und Akquisitionen und stärken konzernweit Kompetenzen.",
+      "beleg_seite": 24,
+      "treffertyp": "teilweise",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "aussage": "Finanzielle Stärke ermöglicht Akquisitionen.",
+      "zitat": "Finanzielle Stärke ist die Grundvoraussetzung dafür, dass unser Angebot berücksichtigt wird. Sie trägt auch entscheidend dazu bei, Geschäftschancen flexibel wahrnehmen zu können, etwa die Beteiligung an Konzessionsprojekten oder die Umsetzung von Akquisitionen.",
+      "beleg_seite": 34,
+      "treffertyp": "teilweise",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Verstaerkte Investitionen in emissionsarme Technologien sowie Ausbau nachhaltiger Partnerschaften geplant.",
+      "zitat": "Geplant sind zudem verstärkte Investitionen in emissionsarme Technologien und der Ausbau von Partnerschaften zur Förderung nachhaltiger Wertschöpfungsketten (Kapitel „ “).Klimawandel",
+      "beleg_seite": 105,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "aussage": "Zukauf einer Software zur Weiterentwicklung der Klimarisikoanalyse.",
+      "zitat": "Um den Reifegrad der Klimarisikoanalyse weiterzuentwickeln und um weitere Standorte in die Analyse einfließen zu lassen, wurde 2025 eine Software zugekauft. Die Integration der bisherigen Ergebnisse in die Plattform wird schrittweise durchgeführt.",
+      "beleg_seite": 111,
+      "treffertyp": "teilweise",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "aussage": "Investitionen in neue Technologien zur Erreichung der Klimaziele.",
+      "zitat": "Eine ambitionierte Klimazielsetzung verlangt die Investition in neue Technologien, die am Markt kurzfristig potenziell nicht den üblichen Preisen entsprechen, mit denen jedoch langfristig signifikante Wettbewerbsvorteile erzielt werden könnten.",
+      "beleg_seite": 114,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "aussage": "Rückgang der taxonomiekonformen Investitionen im Wesentlichen bedingt durch geringere Ausgaben für Investment Property",
+      "zitat": "Der taxonomiekonforme CapEx betrifft im Wesentlichen den Erwerb von Investment Property. Der rückläufige taxonomiekonforme CapEx ist daher im Wesentlichen auf geringere Immobilieninvestitionen zurückzuführen.",
+      "beleg_seite": 133,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "aussage": "Investitionen in Building Solutions, Kreislaufwirtschaft und Akquisitionen in Australien.",
+      "zitat": "Anstiege waren bei den Investment Properties sowie bei den Investitionen in Finanzanlagen und Unternehmensakquisitionen – unter anderem in den Bereichen Building Solutions, Kreislaufwirtschaft und durch die Übernahme in Australien – zu verzeichnen.",
+      "beleg_seite": null,
+      "treffertyp": "nicht_gefunden",
+      "zitat_gefunden": false,
+      "quelle_abschnitt": "unbekannt"
+    },
+    {
+      "aussage": "Unternehmensakquisitionen im Rahmen der Strategie 2030.",
+      "zitat": "Infolge von Unternehmensakquisitionen im Einklang mit der Strategie 2030 zeigten auch die Firmenwerte eine Erhöhung. Die Position Investment Property stieg durch den Aufbau des Portfolios von STRABAG Hold Estate.",
+      "beleg_seite": 252,
+      "treffertyp": "teilweise",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Investitionsprognose fuer 2026 inklusive Akquisitionen.",
+      "zitat": "Die Netto-Investitionen (Cashflow aus der Investitionstätigkeit) 2026 werden mit höchstens € 1.400 Mio. prognostiziert und spiegeln insbesondere den Erwerb von Baumaschinen sowie geplante Akquisitionen im Rahmen der Strategie 2030 wider.",
+      "beleg_seite": 278,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Akquisition der Orbittal Electromech Engineering Projects in Indien.",
+      "zitat": "Mit Abtretungsvertrag vom 24.12.2025 hat STRABAG die in Indien ansässige Orbittal Electromech Enigneering Projects Private Limited, Pune, erworben. Die Gesellschaft erbringt im TGA-Bereich mit eigener Produktion einen Jahresumsatz von rund € 45 Mio.",
+      "beleg_seite": 306,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Uebernahme der WTE Wassertechnik GmbH zur Erweiterung des Portfolios.",
+      "zitat": "Mit Abtretungsvertrag vom 18.6.2025 hat STRABAG 100 % der Anteile der WTE Wassertechnik GmbH, Essen, erworben. Die WTE-Gruppe plant, finanziert, baut und betreibt Projekte in den Bereichen Abwassermanagement, Wasserversorgung, Klärschlammbehandlung und Energierückgewinnung.",
+      "beleg_seite": 307,
+      "treffertyp": "teilweise",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Entwicklung der sonstigen Anteile an Unternehmen im Geschäftsjahr 2025 zeigt Zugänge und Abgänge bei Anteilen an verbundenen Unternehmen und Beteiligungen.",
+      "zitat": "Die sonstigen Anteile an Unternehmen enthalten Tochterunternehmen, assoziierte Unternehmen, Gemeinschaftsunternehmen sowie sonstige Beteiligungen, die aufgrund von Unwesentlichkeit nicht konsolidiert bzw. at-equity in den Konzernabschluss einbezogen werden.",
+      "beleg_seite": 357,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    }
+  ],
+  "zitatpruefung": {
+    "exakt": 34,
+    "teilweise": 11,
+    "nicht_gefunden": 4
+  },
+  "abschnittsverteilung": {
+    "elemente_nachhaltigkeitsberichterstattung": 16,
+    "elemente_geschaeftsbericht": 33,
+    "ausgewertete_seiten_nachhaltigkeitsberichterstattung": 44
+  }
+}

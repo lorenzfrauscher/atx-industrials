@@ -1,0 +1,31 @@
+{
+  "strategische_prioritaeten": [],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Steigende Kosten aufgrund der Erhöhung der CO2-Bepreisung",
+      "kategorie": "Regulierung",
+      "zitat": "PALFINGER hat ein wesentliches klimabezogenes Risiko im Zuge seiner Wesentlichkeitsanalyse identifiziert: Steigende Kosten aufgrund der Erhöhung der CO2-Bepreisung. Hierbei handelt es sich um ein Übergangsrisiko."
+    },
+    {
+      "risiko": "Mangelnde Verfügbarkeit qualifizierter Mitarbeitender",
+      "kategorie": "Markt",
+      "zitat": "Das Risiko der mangelnden Verfügbarkeit qualifizierter Mitarbeitender hat wesentlichen Einfluss auf die Strategie von PALFINGER. Mehrere langfristige Trends wirken sich auf dieses strategische Risiko aus - Wettbewerb um Talente,"
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investitionen in Sachanlagevermögen im Zusammenhang mit Photovoltaikanlagen",
+      "zitat": "Im Berichtsjahr ergaben sich somit konforme Investitionen aus Einzelmaßnahmen ausschließlich in Sachanlagevermögen (IAS 16) in Höhe von 1.227 TEUR (2024: 1.330 TEUR), das entspricht einem Anteil von 0,9 Prozent"
+    },
+    {
+      "aussage": "Installation von Ladestationen für Elektrofahrzeuge in Österreich und Deutschland",
+      "zitat": "Installation, Wartung und Reparatur von Ladestationen für Elektrofahrzeuge in Gebäuden (und auf zu Gebäuden gehörenden Parkplätzen). Aufwendungen für neu installierte Ladestationen in Österreich und Deutschland"
+    },
+    {
+      "aussage": "Installation von Photovoltaikanlagen in Deutschland und Serbien sowie KWK in Rumänien",
+      "zitat": "Installation, Wartung und Reparatur von Technologien für erneuerbare Energien vor Ort. Installation neuer PV-Anlagen in Deutschland und Serbien, sowie Kraft-Wärme-Kopplungs Applikation in Rumänien"
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}
