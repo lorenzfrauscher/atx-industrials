@@ -1,0 +1,21 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Steigerung des Frauenanteils im Management um jaehrlich 6 %",
+      "zitat": "Gemäß der EDI-Strategie soll der Anteil von Frauen in Management jährlich um 6 % gesteigert werden, insbesondere durch interne Beförderungen. STRABAG ermöglicht dies unter anderem durch den Ausbau des konzerninternen Potenzialmanagements."
+    },
+    {
+      "prioritaet": "Dekarbonisierung und Reduktion von Emissionen bis 2030 sowie Klimaneutralitaet bis 2040",
+      "zitat": "Bis zum Jahr 2030 sollen unsere Scope 1- und Scope 2-Emissionen um 42 % und unsere Scope 3-Emissionen um 25 % reduziert und bis 2040 Klimaneutralität erreicht werden."
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [],
+  "capex_ma_signale": [
+    {
+      "aussage": "Verstaerkte Investitionen in emissionsarme Technologien sowie Ausbau nachhaltiger Partnerschaften geplant.",
+      "zitat": "Geplant sind zudem verstärkte Investitionen in emissionsarme Technologien und der Ausbau von Partnerschaften zur Förderung nachhaltiger Wertschöpfungsketten (Kapitel „ “).Klimawandel"
+    }
+  ],
+  "_modell": "gemini-3.7-flash"
+}

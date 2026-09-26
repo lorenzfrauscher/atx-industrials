@@ -1,0 +1,16 @@
+{
+  "strategische_prioritaeten": [],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [],
+  "capex_ma_signale": [
+    {
+      "aussage": "Im Geschäftsjahr 2025 betrugen die Auszahlungen für Sachanlagen und immaterielle Vermögenswerte 198,1 MEUR und der Netto-Cashflow aus Unternehmenserwerben 328,6 MEUR.",
+      "zitat": "Auszahlungen für Sachanlagen und immaterielle Vermögenswerte -198,1 -179,5 Einzahlungen aus dem Verkauf von Sachanlagen und immateriellen Vermögenswerten 27,4 16,5 Auszahlungen für lang- und kurzfristige finanzielle Vermögenswerte -562,4 -362,3 Einzahlungen aus dem Verkauf von lang- und kurzfristigen finanziellen Vermögenswerten 520,1 354,7 Netto-Cashflow aus Unternehmenserwerben -328,6 -36,9"
+    },
+    {
+      "aussage": "Die vertraglichen Verpflichtungen für den Erwerb von Sachanlagen beliefen sich zum 31. Dezember 2025 auf 53,0 MEUR.",
+      "zitat": "Vertragliche Verpflichtungen für den Kauf von Sachanlagen sind nur im gewöhnlichen Geschäftsumfang vorhanden. Zum 31. Dezember 2025 betrugen diese Verpflichtungen 53,0 MEUR (31. Dezember 2024: 22,1 MEUR)."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

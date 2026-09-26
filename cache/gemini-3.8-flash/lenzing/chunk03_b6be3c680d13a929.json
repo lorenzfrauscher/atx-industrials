@@ -1,0 +1,53 @@
+{
+  "strategische_prioritaeten": [],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Zyklische Preis- und Mengenentwicklung bei Fasern sowie Konkurrenz durch alternative Fasern",
+      "kategorie": "Markt",
+      "zitat": "Die Preis - und Mengenentwicklung ist bei Fasern für T extilien und in geringerem Maße auch bei Fasern für Vliesstoffe zyklisch, da sie von globalen und regionalen Konjunkturlagen abhängig ist."
+    },
+    {
+      "risiko": "Kundenkonzentration und möglicher Ausfall von Großkunden",
+      "kategorie": "Markt",
+      "zitat": "Abnahmeausfälle bei dieser Kundengruppe oder der gänzliche Verlust eines oder mehrerer Großkunden, ohne zeitgleich Ersatz zu finden, stellen gewisse Risiken dar, denen das Unternehmen durch seine globale Präsenz und die laufende Erweiterung des Kundenspektrums bzw."
+    },
+    {
+      "risiko": "Verlust von Marktpositionen durch steigenden Wettbewerb oder neue Technologien",
+      "kategorie": "Technologie",
+      "zitat": "Die Lenzing Gruppe ist dem Risiko ausgesetzt, ihre Position auf dem Fasermarkt durch einen steigenden Wettbewerb oder neue T echnologien von Mitbewerbern zu verlieren."
+    },
+    {
+      "risiko": "Striktere Gesetze, Verordnungen und Handelsbarrieren",
+      "kategorie": "Regulierung",
+      "zitat": "Eine Änderung von Gesetzen oder sonstigen Bestimmungen wie Importzölle, Produktklassifizierungen, Umweltauflagen etc., sowie die strengere Auslegung von Verordnungen und Gesetzen können zu erheblichen Mehrkosten und zu Wettbewerbsnachteilen führen."
+    },
+    {
+      "risiko": "Zunehmende Regulierung bei Treibhausgasen und Bepreisung von Kohlenstoff",
+      "kategorie": "Regulierung",
+      "zitat": "Die zunehmende Regulierung, insbesondere in Bezug auf die Besteuerung von T reibhausgasen und die Bepreisung von Kohlenstoff, stellt für Lenzing ein erhebliches Risiko dar."
+    },
+    {
+      "risiko": "Verfügbarkeit und Preisentwicklung von Rohstoffen sowie Störungen der Lieferkette",
+      "kategorie": "Lieferkette",
+      "zitat": "Die Faserproduktion und deren Margen sind Risiken der Verfügbarkeit und der Preisentwicklung dieser Rohstoffe unterworfen, die zum Nachteil der Lenzing Gruppe schwanken und durch den Klimawandel weiter verstärkt werden können."
+    },
+    {
+      "risiko": "Alterung von Anlagen und Bedarf an laufenden Investitionen",
+      "kategorie": "Technologie",
+      "zitat": "Lenzing ist ein anlagenintensives Unternehmen, das dem Risiko der Alterung von Anlagen oder Anlagenteilen ausgesetzt ist. Es bedarf laufender Investitionen, um diese Anlagen oder Anlagenteile auf dem neuesten Stand der T echnik zu halten."
+    },
+    {
+      "risiko": "Cyberangriffe und IT-/OT-Systemstörungen",
+      "kategorie": "Technologie",
+      "zitat": "IT-Systeme sind anfällig für eine Reihe von Problemen, wie Software- oder Hardware-Fehlfunktionen, böswilliges Hacken oder Cyberangriffe, physische Schäden an wichtigen IT -Zentren und das Auftreten von Computerviren."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investitionen in immaterielle Anlagen, Sachanlagen und biologische Vermögenswerte (CAPEX) beliefen sich 2025 auf 141,1 Mio. EUR.",
+      "zitat": "Der CAPEX wird in der Lenzing Gruppe als Maßstab für die Höhe von Investitionen in immaterielle Anlagen, Sachanlagen und biologische Vermögenswerte verwendet. Er wird in der Konzern-Kapitalflussrechnung dargestellt."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

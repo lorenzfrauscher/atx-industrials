@@ -1,0 +1,26 @@
+{
+  "strategische_prioritaeten": [],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Zinsrisiko durch sich ändernde Zinssätze",
+      "kategorie": "Finanzierung",
+      "zitat": "Sich ändernde Zinssätze haben Einfluss auf den Wert von Finanzinstrumenten (vor allem bei langfristiger Zinsbindung) und auf das Zinsergebnis (Aufwendungen oder Ertrag), das aus den Finanzinstrumenten resultiert."
+    },
+    {
+      "risiko": "Währungsrisiko durch ungedeckte Risikopositionen bei Lieferungen in Fremdwährungsregionen",
+      "kategorie": "Markt",
+      "zitat": "Durch die Lieferung von Fertigprodukten und Komponenten primär von EMEA nach NAM, LATAM und APAC ergeben sich Risikopositionen vor allem im USD, BRL und in asiatischen Währungen, die nicht durch natürliche Hedges gedeckt sind."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investitionen in den Ausbau von Produktionskapazitäten in mehreren Ländern sowie Erwerb eines Grundstücks in Slowenien.",
+      "zitat": "Die Zugänge betreffen im Wesentlichen Investitionen in den Ausbau von Produktionskapazitäten in Österreich, Slowenien, den USA, Rumänien und Bulgarien sowie den Erwerb eines Grundstücks in Slowenien."
+    },
+    {
+      "aussage": "Tilgung der bedingten Gegenleistung für die Minderheitsakquisition von Palfinger Portugal im Jahr 2025.",
+      "zitat": "Die bedingte Gegenleistung für die Minderheitsakquisition von Palfinger Portugal (Palfinger comércio e aluguer de máquinas, S.A.) in Höhe von 1.100 TEUR wurde in 2025 getilgt."
+    }
+  ]
+}

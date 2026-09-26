@@ -1,0 +1,23 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Steigerung des Anteils weiblicher Führungskräfte auf 18 % bis 2030",
+      "zitat": "Die Konzernstrategie sieht vor, den Anteil weiblicher Führungskräfte bis 2030 von 14 % auf 18 % zu erhöhen."
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Berufliche Gefahren, Arbeitsunfälle und Berufskrankheiten der Beschäftigten",
+      "kategorie": "Markt",
+      "zitat": "Die Mitarbeiter:innen der voestalpine sind aufgrund der Branche, der Art ihrer Arbeit oder der Umgebung, in der sie arbeiten, beruflichen Gefahren und Risiken ausgesetzt, die zu Unfällen, Verletzungen, Krankheiten oder Erkrankungen führen können."
+    },
+    {
+      "risiko": "Menschenrechts- und Umweltrisiken in der Lieferkette",
+      "kategorie": "Lieferkette",
+      "zitat": "Als Nachhaltigkeitsrisiken gelten hier mögliche Verletzungen von Gesetzen und Richtlinien in den Bereichen Menschenrechte und Umweltschutz (siehe nachfolgende Tabelle). Dazu zählt auch das Risiko möglicher Verletzungen von Menschen- und Arbeitsrechten, von dem die Arbeitskräfte in der Lieferkette betroffen sein können."
+    }
+  ],
+  "capex_ma_signale": [],
+  "_modell": "gemini-3.8-flash"
+}

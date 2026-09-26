@@ -1,0 +1,50 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Angleichung des Anteils von Frauen in Führungspositionen an den allgemeinen Frauenanteil",
+      "zitat": "PALFINGER strebt an, den Anteil von Frauen in Führungspositionen an den allgemeinen Frauenanteil in der PALFINGER Gruppe anzugleichen."
+    },
+    {
+      "prioritaet": "Vertiefung des Verständnisses der Auswirkungen auf Beschäftigte in der Wertschöpfungskette zur Anpassung der Strategie",
+      "zitat": "In Zukunft will PALFINGER das Verständnis der tatsächlichen und potenziellen Auswirkungen auf die Beschäftigten in der Wertschöpfungskette vertiefen und diese Erkenntnisse nutzen, um die Strategie anzupassen und sicherzustellen, dass die Abläufe stärker an ethischen Arbeitspraktiken ausgerichtet sind"
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Asien-Pazifik uebrig",
+      "aussage": "Die Region APAC weist ein hohes Wachstum auf.",
+      "zitat": "Regional weist APAC durch hohes Wachstum ein moderates Risiko auf während NAM infolge niedriger CO₂-Preise eine hohe Resilienz zeigt."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Steigende Kosten aufgrund der Erhöhung der CO2-Bepreisung",
+      "kategorie": "Regulierung",
+      "zitat": "Die fortschreitende Verschärfung von CO₂-Preismechanismen – insbesondere im europäischen Emissionshandelssystem sowie durch nationale Abgaben – führt zu steigenden Betriebskosten entlang der gesamten Wertschöpfungskette."
+    },
+    {
+      "risiko": "Mangelnde Verfügbarkeit qualifizierter Mitarbeitender",
+      "kategorie": "Markt",
+      "zitat": "Das Risiko der mangelnden Verfügbarkeit qualifizierter Mitarbeitender hat wesentlichen Einßuss auf die Strategie von PALFINGER."
+    },
+    {
+      "risiko": "Risiken in Bezug auf Menschenrechte und ethische Beschaffung bei Konfliktmineralien",
+      "kategorie": "Lieferkette",
+      "zitat": "Der Abbau und Handel dieser Mineralien birgt für Unternehmen mit komplexen globalen Lieferketten, darunter auch PALFINGER, Risiken in Bezug auf Menschenrechte und ethische Beschaffung."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Konforme Investitionen aus Einzelmaßnahmen im Sachanlagevermögen betrugen 1.227 TEUR.",
+      "zitat": "Im Berichtsjahr ergaben sich somit konforme Investitionen aus Einzelmaßnahmen ausschließlich in Sachanlagevermögen (IAS 16) in Höhe von 1.227 TEUR"
+    },
+    {
+      "aussage": "Der Großteil der taxonomiekonformen Investitionen floss in Photovoltaikanlagen.",
+      "zitat": "Mehr als 80 Prozent der taxonomiekonformen Investitionen betreffen Anschaffungen von Photovoltaikanlagen."
+    },
+    {
+      "aussage": "Die gesamten Zugänge für immaterielle Vermögenswerte und Sachanlagen betrugen im Nenner der CapEx-Kennzahl 134.060 TEUR.",
+      "zitat": "Für die Berechnung der CapEx-Kennzahl sind im Nenner (134.060 TEUR) die gesamten Zugänge (vor Abschreibungen, Wertminderungen und Neubewertungen) immaterieller Vermögenswerte (31.140 TEUR) und Sachanlagen (102.619 TEUR) inklusive Zugänge von Nutzungsrechten gemäß IFRS 16 entsprechend dem Anlagenspiegel berücksichtigt"
+    }
+  ]
+}

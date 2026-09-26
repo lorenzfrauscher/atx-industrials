@@ -1,0 +1,75 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Ausweitung des After-Sales-Geschäfts und Ausbau der Service-Infrastruktur",
+      "zitat": "Die strategische Initiative zur kontinuierlichen Ausweitung des After-Sales-Geschäfts wird konsequent umgesetzt. Neue Service-Standorte stärken die Kundennähe und Verfügbarkeit von Produkten, Ersatzteilen und Reparaturmöglichkeiten"
+    },
+    {
+      "prioritaet": "Aufbau einer resilienten und flexiblen End-to-End Supply Chain",
+      "zitat": "Im Rahmen des Programms „Supply Chain Transformation“ wird der Aufbau einer kostenoptimierten, kundenorientierten, resilienten und flexiblen „End-to-End“ Supply Chain weiter vorangetrieben. Das Programm besteht aus mehreren aufeinander abgestimmten Einzelprojekten"
+    },
+    {
+      "prioritaet": "Fokus auf Digital Solutions und Tech-Cluster in F&E",
+      "zitat": "Strategische Schwerpunkte bilden PALFINGER CONNECTED, Data Analytics und produktorientierte Künstliche Intelligenz sowie Anwendungen aus dem Bereich der erweiterten Realität (XR) und 3D-Technologien."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Europa uebrig",
+      "aussage": "Südeuropa zählt innerhalb von EMEA zu den wesentlichen Wachstumsmärkten.",
+      "zitat": "Im 3. Quartal setzte eine erneut positive Trendwende ein, insbesondere in Südeuropa und im Mittleren Osten, die innerhalb von EMEA zu den wesentlichen Wachstumsmärkten zählen."
+    },
+    {
+      "region": "Naher Osten",
+      "aussage": "Der Mittlere Osten zählt innerhalb von EMEA zu den wesentlichen Wachstumsmärkten.",
+      "zitat": "Im 3. Quartal setzte eine erneut positive Trendwende ein, insbesondere in Südeuropa und im Mittleren Osten, die innerhalb von EMEA zu den wesentlichen Wachstumsmärkten zählen."
+    },
+    {
+      "region": "Indien",
+      "aussage": "Indien bildet eine treibende Kraft und einen langfristigen Zukunftsmarkt mit wachsender Bedeutung.",
+      "zitat": "Als treibende Kraft und langfristiger Zukunftsmarkt kristallisierte sich Indien heraus. Um die Potenziale dieses Marktes bestmöglich zu nutzen, startete PALFINGER die Suche nach einem geeigneten Produktionsstandort in Indien."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Eskalation zwischen China und Taiwan und deren Auswirkungen auf Elektronik-Lieferketten",
+      "kategorie": "Lieferkette",
+      "zitat": "Eine mögliche Eskalation der Situation zwischen China und Taiwan könnte zu Sanktionen, einer Blockade oder einem Krieg führen. Dies würde besonders internationale Lieferketten in der Elektronikindustrie betreffen"
+    },
+    {
+      "risiko": "US-Zölle und Handelsbeschränkungen",
+      "kategorie": "Regulierung",
+      "zitat": "Die Einführung von zusätzlichen Zöllen seitens der US-Regierung seit März 2025 betrifft PALFINGER aufgrund des Imports von Materialien und Waren in die USA. Die Zolltarife können auch im Jahr 2026 Auswirkungen auf Lieferketten sowie Absatzmöglichkeiten haben."
+    },
+    {
+      "risiko": "Konjunkturelle Schwankungen auf den Absatzmärkten",
+      "kategorie": "Markt",
+      "zitat": "Mittel- bis langfristig bringt der Konjunkturzyklus in allen wesentlichen Märkten, in denen PALFINGER aktiv ist, signifikante Unsicherheit (positiv sowie negativ) hinsichtlich der Zielerreichung mit sich."
+    },
+    {
+      "risiko": "Verlust der Wettbewerbsfähigkeit des Produktportfolios",
+      "kategorie": "Technologie",
+      "zitat": "Der Verlust der Wettbewerbsfähigkeit in einzelnen Produktlinien könnte zu einem strategischen Nachteil führen und die Marke PALFINGER schädigen."
+    },
+    {
+      "risiko": "Illiquidität und rechtliche Unsicherheiten im Russlandgeschäft",
+      "kategorie": "Finanzierung",
+      "zitat": "In der Folge erhöht sich das Risiko von Liquiditätsengpässen, was zu einer möglichen Illiquidität von Tochtergesellschaften führen könnte. Weiters besteht in Russland das Risiko, dass die russischen Gesellschaften infolge gesetzlicher Regelungen vom russischen Staat übernommen werden könnten."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Grundstückskauf und Neubau eines Lackier- und Logistikzentrums in Ormož, Slowenien.",
+      "zitat": "Für das neue Lackier- und Logistikzentrum in Ormož, Slowenien (EMEA), wurde ein Grundstück erworben, die Gemeinde hat die ersten Bodenarbeiten bereits abgeschlossen. Der Baubeginn ist im 1. Quartal 2026 geplant."
+    },
+    {
+      "aussage": "Geplanter Erwerb eines Grundstücks und Bau eines Montagewerks in Pune, Indien.",
+      "zitat": "In Indien (APAC) ist ein neues Montagewerk geplant. Die Übernahme eines dafür geeigneten Grundstücks in Pune steht kurz vor Abschluss. Die Planungsarbeiten für das Werk haben begonnen, ebenso wie die Vorbereitung für die Einholung der erforderlichen Genehmigungen für die Fabrik."
+    },
+    {
+      "aussage": "Investition in einen neuen Standort in München mit Baustart im 1. Quartal 2026.",
+      "zitat": "Die Eröffnung des Sales- und Service-Hub in Madrid, Spanien (EMEA), soll im 2. Quartal 2026 folgen. In München, Deutschland (EMEA), ist der Baustart für einen neuen Standort im 1. Quartal 2026 vorgesehen."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

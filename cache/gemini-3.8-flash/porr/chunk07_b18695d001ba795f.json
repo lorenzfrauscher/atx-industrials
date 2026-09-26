@@ -1,0 +1,32 @@
+{
+  "strategische_prioritaeten": [],
+  "wachstumsmaerkte": [
+    {
+      "region": "Europa uebrig",
+      "aussage": "Die Entwicklung der Auftragslage in den CEE-Märkten unterstreicht das zukünftige Wachstum des Unternehmens in den kommenden Jahren.",
+      "zitat": "Die Entwicklung der Auftragslage zeigt die starke Position der PORR in diesen Märkten und bekräftigt das Wachstum in den kommenden Jahren."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Kartell- und wettbewerbswidriges Verhalten sowie Korruption bergen kurz- und mittelfristige rechtliche, finanzielle und Reputationsrisiken sowie das Risiko von Auftragsverlusten.",
+      "kategorie": "Regulierung",
+      "zitat": "Neben negativen Auswirkungen auf die Gesellschaft entstehen durch potenziell kartellrechts- oder wettbewerbswidriges Verhalten sowie potenzielle Korruptionsvorfälle auch kurz- und mittelfristige rechtliche, finanzielle und Reputationsrisiken sowie Auftragsverlust (IRO3) für die PORR."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Im Berichtsjahr flossen Mittel in Beteiligungserwerbe an Knape Bahnbau und UBM Hotels, während der Erwerb der VAMED-Einheit zu einem Liquiditätszufluss führte.",
+      "zitat": "Während Beteiligungserwerbe an at-equity bilanzierten Unternehmen – unter anderem an Knape Bahnbau und UBM Hotels – zu Mittelabflüssen führten, brachte der Erwerb der VAMED Standortentwicklung und Engineering GmbH einen deutlichen Liquiditätszufluss."
+    },
+    {
+      "aussage": "Die Akquisitionen der VAMED Standortentwicklung und Engineering GmbH sowie der Knape Bahnbau GmbH trugen zur Bilanzverlängerung bei.",
+      "zitat": "Die Akquisitionen der VAMED Standortentwicklung und Engineering GmbH sowie der Knape Bahnbau GmbH führten ebenfalls zu einer Bilanzverlängerung."
+    },
+    {
+      "aussage": "Die Sachinvestitionen sanken im Berichtsjahr auf EUR 252,9 Mio. und betrafen im Wesentlichen Ersatz- und Neuinvestitionen für Geräte und Fahrzeuge.",
+      "zitat": "Der CAPEX reduzierte sich im Vergleich zum Vorjahr und betrug EUR 252,9 Mio. (2024: EUR 320,3 Mio.). Somit ergibt sich ein CAPEX Ratio im Verhältnis zur Produktionsleistung von 3,6 % (2024: 4,7 %)."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

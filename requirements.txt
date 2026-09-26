@@ -1,0 +1,13 @@
+# Feste Versionen, keine Mindestversionen.
+#
+# Grund, am 19.09.2026 gemessen: Die Textextraktion aus PDF ist versionsabhaengig.
+# pypdf 6.15.0 und 6.17.0 liefern fuer denselben Bericht geringfuegig
+# unterschiedlichen Text. Das aendert die Chunkgrenzen nicht, aber den Prompt und
+# damit den Cache-Schluessel, und es kann einzelne Zitattreffer kippen.
+#
+# Eine Pipeline, deren Verkaufsargument Reproduzierbarkeit ist, darf ihre
+# Abhaengigkeiten nicht offen lassen.
+pypdf==6.17.0
+google-genai==1.47.0
+matplotlib==3.10.9
+openpyxl==3.1.5

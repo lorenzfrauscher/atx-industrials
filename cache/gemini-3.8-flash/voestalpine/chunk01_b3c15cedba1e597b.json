@@ -1,0 +1,54 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Klimafreundliche Stahlerzeugung durch das Transformationsprojekt greentec steel",
+      "zitat": "An den österreichischen Stahlstandorten Linz und Donawitz lag der Fokus der Investitionstätigkeit auf der Umsetzung des Transformationsprojektes greentec steel."
+    },
+    {
+      "prioritaet": "Fokus auf Spitzenqualität und Service-Aktivitäten",
+      "zitat": "Die Division legte ihren Fokus daher noch weiter verstärkt auf Produktsegmente im obersten Qualitätsspektrum sowie auf Wertschöpfungs- und Service-Aktivitäten, wie beispielsweise Wärme- und Oberflächenbehandlungen."
+    },
+    {
+      "prioritaet": "Regionale Diversifizierung im Bereich Nahtlosrohre",
+      "zitat": "Diese Maßnahmen erforderten eine schrittweise Rücknahme der Produktionskapazitäten in Verbindung mit Einsparungsprogrammen sowie einer bereits längerfristig vorbereiteten regionalen Diversifizierung in Richtung MENA."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Nordamerika",
+      "aussage": "Die Rollforming Corporation baut am Standort Jeffersonville die Produktionskapazitäten aus und plant eine Verdoppelung des Leistungspotenzials.",
+      "zitat": "Am Standort Jeffersonville, USA, trieb die nordamerikanische Gesellschaft Rollforming Corporation die Erweiterung der Produktionskapazitäten weiter voran."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "US-Handelszölle und regulatorische Handelsmaßnahmen",
+      "kategorie": "Regulierung",
+      "zitat": "Seit Juni 2025 erschweren erhöhte Importzölle auf Stahlprodukte die Absatzmöglichkeiten in den USA erheblich."
+    },
+    {
+      "risiko": "Intensiver globaler Wettbewerb und Preisdruck",
+      "kategorie": "Markt",
+      "zitat": "Dieser Bereich verzeichnete über das gesamte Geschäftsjahr 2025/26 hinweg einen intensiven globalen Wettbewerb und damit einhergehenden Preisdruck."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Akquisition von 100 % der Anteile an HIRD Rail Services Limited im Bereich Railway Systems.",
+      "zitat": "Im Juli 2025 erwarb der Geschäftsbereich Railway Systems 100 % der Anteile an der Gesellschaft HIRD Rail Services Limited mit Sitz in Doncaster, Großbritannien."
+    },
+    {
+      "aussage": "Verkauf von voestalpine BÖHLER Profil an Kadant Inc.",
+      "zitat": "Im Rahmen der Neuorganisation der High Performance Metals Division beschloss das Management der Division aus strategischen Gründen den Verkauf von voestalpine BÖHLER Profil."
+    },
+    {
+      "aussage": "Verkauf der voestalpine Camtec Gruppe durch die Steel Division.",
+      "zitat": "Im August 2025 veräußerte die Steel Division die voestalpine Camtec Gruppe."
+    },
+    {
+      "aussage": "Investitionen in Höhe von rund 70 Mio. EUR zur Kapazitätserweiterung am Standort Jeffersonville.",
+      "zitat": "Das Investitionsvolumen für die zusätzlichen Profilier- und Weiterverarbeitungsanlagen beläuft sich auf rund 70 Mio. EUR."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

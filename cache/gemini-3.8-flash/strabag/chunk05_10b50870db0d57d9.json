@@ -1,0 +1,31 @@
+{
+  "strategische_prioritaeten": [],
+  "wachstumsmaerkte": [
+    {
+      "region": "Naher Osten",
+      "aussage": "Die STRABAG plant, ihre Präsenz im Markt Oman mit dem Bau eines neuen Headquarters in Maskat weiter zu stärken.",
+      "zitat": "Mit dem geplanten Bau eines eigenen Headquarters im Westen Maskats soll die Präsenz im strategisch wichtigen Markt Oman weiter gestärkt werden."
+    },
+    {
+      "region": "Europa uebrig",
+      "aussage": "In Polen wird durch die Freigabe von EU-Mitteln eine spürbare Belebung und zusätzliche Großprojekte im Infrastrukturbereich erwartet.",
+      "zitat": "In Polen hat die Freigabe der EU-Fördermittel zu einer spürbaren Belebung der staatlichen Investitionstätigkeit geführt, insbesondere im Bereich der Mobilitätsinfrastruktur."
+    }
+  ],
+  "hauptrisiken": [],
+  "capex_ma_signale": [
+    {
+      "aussage": "Im Geschäftsjahr 2025 fielen die Netto-Investitionen wegen M&A-Verschiebungen mit 813,35 Mio. Euro geringer aus als die ursprünglich prognostizierten bis zu 1.400 Mio. Euro.",
+      "zitat": "STRABAG hatte für das Geschäftsjahr 2025 Netto-Investitionen (Cashflow aus der Investitionstätigkeit) in Höhe von bis zu € 1.400 Mio. prognostiziert. Letztendlich fielen diese aufgrund von zeitlichen Verschiebungen bei M&A-Projekten mit € 813,35 Mio. niedriger als erwartet aus."
+    },
+    {
+      "aussage": "Zusatzinvestitionen flossen schwerpunktmäßig in das Baustoffnetzwerk sowie den Bahn- und Spezialtiefbau, daneben gab es Ersatzinvestitionen in mehreren Kernmärkten.",
+      "zitat": "Bei den Investitionen fallen insbesondere Ersatzinvestitionen im Flächengeschäft in Deutschland, Tschechien, Österreich und Polen ins Gewicht. Der Schwerpunkt der Zusatzinvestitionen lag auf dem Baustoffnetzwerk, dem Bahnbau und dem Spezialtiefbau in unterschiedlichen Ländern."
+    },
+    {
+      "aussage": "STRABAG übernahm in Polen das Unternehmen ZABERD zur Stärkung der Marktstellung in der Straßeninstandhaltung.",
+      "zitat": "Mit der Übernahme von ZABERD konnte sich STRABAG zudem als führendes Unternehmen im Bereich der Straßeninstandhaltung positionieren."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

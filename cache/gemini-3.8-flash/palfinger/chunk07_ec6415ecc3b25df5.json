@@ -1,0 +1,35 @@
+{
+  "strategische_prioritaeten": [],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Zinsrisiko durch Wertänderungs- und Zinsergebnisrisiken",
+      "kategorie": "Finanzierung",
+      "zitat": "Sich ändernde Zinssätze haben Einfluss auf den Wert von Finanzinstrumenten (vor allem bei langfristiger Zinsbindung) und auf das Zinsergebnis (Aufwendungen oder Ertrag), das aus den Finanzinstrumenten resultiert."
+    },
+    {
+      "risiko": "Fremdwährungsrisiken aus Forderungen, Verbindlichkeiten und internationalem Projektgeschäft",
+      "kategorie": "Finanzierung",
+      "zitat": "Die Fremdwährungsrisiken der PALFINGER AG resultieren primär aus Forderungen und Verbindlichkeiten in Fremdwährung gegenüber Konzerngesellschaften und aus dem internationalen Projektgeschäft."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investitionen in den Ausbau von Produktionskapazitäten in mehreren Ländern und Erwerb eines Grundstücks im Geschäftsjahr 2025.",
+      "zitat": "Die Zugänge betreffen im Wesentlichen Investitionen in den Ausbau von Produktionskapazitäten in Österreich, Slowenien, den USA, Rumänien und Bulgarien sowie den Erwerb eines Grundstücks in Slowenien."
+    },
+    {
+      "aussage": "Tilgung einer bedingten Gegenleistung für eine Minderheitsakquisition in Portugal sowie bestehende gestundete Kaufpreisforderung.",
+      "zitat": "Die bedingte Gegenleistung für die Minderheitsakquisition von Palfinger Portugal (Palfinger comércio e aluguer de máquinas, S.A.) in Höhe von 1.100 TEUR wurde in 2025 getilgt."
+    },
+    {
+      "aussage": "Aktivierung von selbst erstellten Entwicklungskosten im Geschäftsjahr 2025.",
+      "zitat": "Als selbst erstellte immaterielle Vermögenswerte wurden von PALFINGER im Geschäftsjahr 2025 Entwicklungskosten in Höhe von 28.601 TEUR (Vorjahr: 28.286 TEUR) aktiviert."
+    },
+    {
+      "aussage": "Investitionsvolumen wird am Konzernumsatz bemessen; Weiterführung von mehrjährigen Großprojekten in der Mehrjahresplanung.",
+      "zitat": "Das Investitionsvolumen wird im Verhältnis zum Konzernumsatz geplant. Im Budget ist das Investitionsvolumen mit einzelnen Projekten hinterlegt, in den Folgejahren werden die mehrjährigen Großprojekte in der Planung fortgeführt."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

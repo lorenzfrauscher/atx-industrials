@@ -1,0 +1,27 @@
+{
+  "strategische_prioritaeten": [],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Währungsrisiko durch Rohstoffeinkäufe in USD und weltweite Fremdwährungsexposures",
+      "kategorie": "Finanzierung",
+      "zitat": "Die größte Währungsposition im Konzern entsteht durch Einkäufe von Rohstoffen in US-Dollar, durch die weltweite Geschäftstätigkeit des voestalpine-Konzerns ergeben sich jedoch auch Währungs-exposures in diversen anderen Währungen."
+    },
+    {
+      "risiko": "Zinsänderungs- bzw. Cashflow-Risiko bei variabel verzinsten Finanzinstrumenten",
+      "kategorie": "Finanzierung",
+      "zitat": "Die voestalpine AG unterliegt primär einem Cashflow-Risiko (Risiko, dass sich der Zinsaufwand bzw. Zinsertrag zum Nachteil verändert) bei variabel verzinsten Finanzinstrumenten."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Auszahlungen für Unternehmenserwerbe im Berichtsjahr",
+      "zitat": "Im Cashflow aus der Investitionstätigkeit sind aus Unternehmenserwerben Zugänge an Zahlungsmitteln und Zahlungsmitteläquivalenten in Höhe von 0,6 Mio. EUR (2024/25: 0,0 Mio. EUR) enthalten und ein Kaufpreis in Höhe von 30,7 Mio. EUR"
+    },
+    {
+      "aussage": "Abgang von Tochtergesellschaften und Veräußerungsgruppen mit entsprechenden Cashflows",
+      "zitat": "Aufgrund des Abganges von Tochtergesellschaften im laufenden Geschäftsjahr sind 1,5 Mio. EUR (2024/25: 0,0 Mio. EUR) Zahlungsmittel und Zahlungsmitteläquivalente abgeflossen und es ist ein Verkaufserlös in der Höhe von 4,7 Mio. EUR zugeflossen."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

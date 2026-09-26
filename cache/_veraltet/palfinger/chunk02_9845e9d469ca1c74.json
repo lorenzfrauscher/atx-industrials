@@ -1,0 +1,51 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Umsetzung der strategischen Programme der Strategie 2030+",
+      "zitat": "Die PALFINGER AG fokussiert 2026 auf die rasche Umsetzung seiner strategischen Programme, wie sie in der Strategie 2030+ definiert sind."
+    },
+    {
+      "prioritaet": "Transformation zur Kreislaufwirtschaft",
+      "zitat": "Die Transformation hin zu einer Kreislaufwirtschaft ist eine zentrale strategische Aufgabe. Ein kontinuierlich reduzierter Ressourcenverbrauch steht dabei im Fokus."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Nordamerika",
+      "aussage": "Nordamerika bleibt weiterhin ein zentraler Wachstumstreiber für PALFINGER.",
+      "zitat": "EMEA und NAM bleiben weiterhin die zentralen Wachstumstreiber für PALFINGER. Die Entwicklung beider Regionen ist jedoch maßgeblich von externen Faktoren abhängig"
+    },
+    {
+      "region": "Lateinamerika",
+      "aussage": "In Lateinamerika wird mit der Fortsetzung der positiven wirtschaftlichen Entwicklung gerechnet.",
+      "zitat": "In LATAM ist mit der Fortsetzung der positiven wirtschaftlichen Entwicklung, die vor allem von Brasilien getragen wird, zu rechnen."
+    },
+    {
+      "region": "Indien",
+      "aussage": "Indien entwickelt sich als zukünftiger wichtiger Wachstumsmarkt für PALFINGER.",
+      "zitat": "In APAC entwickelt sich Indien als zukünftiger wichtiger Wachstumsmarkt für PALFINGER. Potenzial bietet neben dem Defense Business vor allem der Marinebereich"
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Immaterialgüterrechtliche Beschränkungen bei der Produktentwicklung",
+      "kategorie": "Technologie",
+      "zitat": "Die Produktentwicklung ist zunehmend mit bestehenden Immaterialgüterrechten (Patenten udgl.) konfrontiert. Bereits patentierte Erfindungen können nicht oder nur mit Mehrkosten (Lizenzen) verwendet werden."
+    },
+    {
+      "risiko": "Volatiles globales Wirtschaftsumfeld und geopolitische Konflikte",
+      "kategorie": "Markt",
+      "zitat": "Das globale Wirtschaftsumfeld bleibt volatil. Viele Unsicherheiten, wie die amerikanische Zollpolitik, der andauernde Krieg in der Ukraine und weitere geopolitische Konßikte haben Auswirkungen auf die weltweite wirtschaftliche Entwicklung"
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Veräußerung aller eigenen Aktien im Juli 2025.",
+      "zitat": "Sämtliche per 31.12.2024 gehaltenen eigenen Aktien wurden von der PALFINGER AG mittels beschleunigtem Privatplatzierungsverfahrens im Juli 2025 veräußert."
+    },
+    {
+      "aussage": "Taxonomiefähige Investitionen in Sachanlagen im Berichtsjahr.",
+      "zitat": "Im Berichtsjahr ergaben sich somit taxonomiefähige Investitionen aus Einzelmaßnahmen in Sachanlagevermögen in Höhe von 5.260 TEUR (2024: 4.535 TEUR), das entspricht einem Anteil von 3,9 Prozent"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Gruppenweiter Wissensaufbau im Bereich Corporate Sustainability zur Foerderung der Dekarbonisierung",
+      "zitat": "Im Jahr 2026 wird der gruppenweite Wissensaufbau zur Dekarbonisierung fortgeführt und strukturell weiterentwickelt. Zusätzlich ist vorgesehen, entsprechende Schulungsformate breiter zugänglich zu machen und konzernweit zur Verfügung zu stellen."
+    },
+    {
+      "prioritaet": "Etablierung eines gruppenweiten, umfassenden Schulungskonzepts bis 2030",
+      "zitat": "Bis 2030 soll ein gruppenweites, umfassendes und zielgruppenorientiertes Schulungskonzept etabliert sein, das allen Mitarbeitendengruppen zugänglich ist und die operative Umsetzung der ESG-Ziele unterstützt."
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Hoehere Bepreisung von Treibhausgasemissionen",
+      "kategorie": "Regulierung",
+      "zitat": "Erhöhte Kosten durch: – Ressourcenintensive Materialien (Bepreisung von THG-Emissionen) – Beeinträchtigung der Wettbewerbsfähigkeit aufgrund höherer Baupreise"
+    },
+    {
+      "risiko": "Komplexitaet und Volatilitaet rechtlicher Vorgaben",
+      "kategorie": "Regulierung",
+      "zitat": "Finanzielle und personelle Investitionen durch: – Zahlreiche rasche und neue regulatorische Anforderungen – Fehlende Rechtssicherheit – Instabilität von Förderprogrammen und Verordnungen"
+    },
+    {
+      "risiko": "Verschlaerfung von Umweltgesetzgebung und Produktanforderungen",
+      "kategorie": "Regulierung",
+      "zitat": "Finanzielle und personelle Schäden durch: – Steigende Anforderungen an Baumaterialien, die rückwirkende Anpassungen an Bauprojekten erforderlich machen – Potenziell veränderte Haftungs- und Gewährleistungsrisiken"
+    },
+    {
+      "risiko": "Makrowirtschaftliche Volatilitaet mit Einfluss auf nachhaltige Bautaetigkeit",
+      "kategorie": "Markt",
+      "zitat": "Erhöhte wirtschaftliche Risiken und Umsatzeinbußen durch: – Wirtschaftliche Unsicherheiten – Lange Zeitspanne zwischen Erstplanung, Baubeginn bis Fertigstellung – Verringerung des Anteils nachhaltiger Projekte"
+    },
+    {
+      "risiko": "Begrenzte Verfuegbarkeit emissionsaermerer Technologien und Kosten dafuer",
+      "kategorie": "Technologie",
+      "zitat": "Erhöhte Kosten und Umsatzeinbußen durch: – Begrenzte Verfügbarkeit emissionsarmer Technologien, Logistik, Bau maschinen und Baustoffe – Erschwerter Umstieg durch langen Lebenszyklus von Baumaschinen – Hohe Nachfrage bei begrenztem Angebot"
+    },
+    {
+      "risiko": "Regulatorische Aenderungen im Zusammenhang mit Landnutzungsaenderungen",
+      "kategorie": "Regulierung",
+      "zitat": "Transitorische Risiken entstehen insbesondere durch regulatorische Änderungen im Zusammenhang mit Landnutzungsänderungen (IRO3), die unmittelbare Auswirkungen auf die Geschäftstätigkeit haben."
+    },
+    {
+      "risiko": "Materialknappheit und volatile Rohstoffpreise",
+      "kategorie": "Lieferkette",
+      "zitat": "Kostenrisiken ergeben sich unter anderem durch volatile Rohstoffpreise und mögliche Lieferengpässe bei nachhaltigen Materialien sowie durch regulatorische Vorgaben wie CO 2e-Bepreisung und EU-Taxonomie."
+    }
+  ],
+  "capex_ma_signale": [],
+  "_modell": "gemini-3.8-flash"
+}

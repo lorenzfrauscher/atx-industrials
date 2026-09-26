@@ -1,0 +1,54 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Erreichung der Netto-Null-Emissionen bis 2050 und Umsetzung des Nachhaltigkeitsprogramms 2023–2026",
+      "zitat": "Um dieses Ziel zu verwirklichen, setzen wir uns für den Klimaschutz ein und tragen dazu bei, die Vorgaben des europäischen Green Deal umzusetzen, mit dem klaren Ziel der Netto-Null-Emissionen bis 2050."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Europa uebrig",
+      "aussage": "Zentral- und osteuropaeische Maerkte gelten wegen Nachholbedarfs langfristig als Wachstummaerkte",
+      "zitat": "Die zentral- und osteuropäischen Märkte betrachtet wienerberger auch aufgrund des Nachholbedarfs im Wohnungsneubau und in der Infrastruktur langfristig als Wachstumsmärkte. Diese Märkte zeigen erfahrungsgemäß eine höhere Volatilität"
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Abhaengigkeit von den Konjunkturzyklen der Bauindustrie und Nachfrageschwankungen",
+      "kategorie": "Markt",
+      "zitat": "Unvorteilhafte Entwicklungen einiger oder all dieser Einflussgrößen können einen negativen Einfluss auf die Nachfrage nach Produkten und Systemlösungen von wienerberger , die abgesetzten Mengen und das Preisniveau haben."
+    },
+    {
+      "risiko": "Preis- und Verfuegbarkeitsrisiken bei Rohstoffen und Zusatzstoffen",
+      "kategorie": "Lieferkette",
+      "zitat": "Neben dem Preisrisiko besteht auch ein Risiko aus der Versorgungssicherheit mit ausreichenden Rohstoffen. Eine Unterbrechung der Versorgung zieht unweigerlich einen Ausfall der Produktion nach sich."
+    },
+    {
+      "risiko": "Risiken aus geopolitischen Spannungen und Lieferkettenstoerungen",
+      "kategorie": "Lieferkette",
+      "zitat": "Mögliche Risiken ergeben sich insbesondere aus Störungen internationaler Lieferketten, steigenden Energie- und Rohstoffpreisen, Handelsbeschränkungen oder erhöhten politischen Unsicherheiten in einzelnen Märkten."
+    },
+    {
+      "risiko": "Verschaerfte Vorschriften und politische Massnahmen zur Bekaempfung des Klimawandels",
+      "kategorie": "Regulierung",
+      "zitat": "Zu den zentralen Risiken zählt, dass Regierungen Vorschriften und politische Maßnahmen zur Bekämpfung des Klimawandels, wie z. B. Emissionsreduktionsziele, verabschieden könnten."
+    },
+    {
+      "risiko": "Risiken im Zusammenhang mit Cybersicherheit und IT-Ausfaellen",
+      "kategorie": "Technologie",
+      "zitat": "Risiken eines Ausfalls unserer zentral geführten konzernweiten Datenverarbeitung aufgrund von Elementarereignissen oder Cyberangriffen werden durch parallele Installation der Systeme in räumlich getrennten Rechenzentren und Cloud-Lösungen vermindert."
+    },
+    {
+      "risiko": "Risiken bei M&A-Transaktionen durch kartellrechtliche Genehmigungsverfahren",
+      "kategorie": "Regulierung",
+      "zitat": "Abhängig von der Marktstellung in einzelnen Ländern sowie der Größe von beabsichtigten Akquisitionen unterliegen Transaktionen wettbewerbsrechtlichen Genehmigungsverfahren. Dadurch könnten sich bei Akquisitionen bzw. Zusammenschlüssen Verzögerungen bzw."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Rentabilitaetsabhaengigkeit bei Akquisitions- und Wachstumsinvestitionen",
+      "zitat": "Zur Steigerung des wienerberger Unternehmenswerts werden neben der laufenden Optimierung (Operational Excellence) Produktinnovationen sowie interne und externe Wachstumsprojekte durchgeführt. Die zukünftige Rentabilität dieser Projekte ist in hohem Maße von"
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

@@ -1,0 +1,28 @@
+{
+  "strategische_prioritaeten": [],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Fremdwährungsrisiko aus Investitionen, operativem Geschäft, Veranlagungen und Finanzierungen",
+      "kategorie": "Finanzierung",
+      "zitat": "Aufgrund von Zahlungsflüssen aus Investitionen und aus dem operativen Geschäft sowie aus Veranlagungen und Finanzierungen in Fremdwährungen sind die Konzerngesellschaften der Lenzing Gruppe Fremdwährungsrisiken ausgesetzt."
+    },
+    {
+      "risiko": "Gaspreisrisiken",
+      "kategorie": "Markt",
+      "zitat": "Aufgrund der Gasswaps ist die Lenzing Gruppe bilanziellen Preisrisiken ausgesetzt. Diese Risiken bestehen insbesondere darin, dass die Bewertung der Gasswaps zum beizulegenden Marktwert bei einer nachteiligen Veränderung der Marktpreise zu Belastungen des sonstigen Ergebnisses bzw. des Eigenkapitals führen kann."
+    },
+    {
+      "risiko": "Marktpreisrisiken bei Rohstoffen und Energie",
+      "kategorie": "Markt",
+      "zitat": "Die Lenzing Gruppe unterliegt mi t ihrer Geschäftstätigkeit branchenüblichen Marktpreisrisiken (insbesondere bei Holz, Chemikalien, Zellstoff und Energie), die nicht über Derivate bzw. Finanzinstrumente, sondern über andere Sicherungsmaßnahmen (insbesondere lang- und kurzfristige Bezugsverträge bei verschiedenen Lieferanten) abgesichert werden."
+    },
+    {
+      "risiko": "Zinsrisiken",
+      "kategorie": "Finanzierung",
+      "zitat": "Die Lenzing Gruppe ist aufgrund von geschäftsbedingten Finanzierungs- bzw. Veranlagungsaktivitäten einem Zinsrisiko ausgesetzt. Zinsrisiken bestehen aufgrund potenzieller Änderungen des Marktzinses und können bei fix verz insten Finanzinstrumenten zu einer Änderung des beizulegenden Zeitwerts"
+    }
+  ],
+  "capex_ma_signale": [],
+  "_modell": "gemini-3.8-flash"
+}

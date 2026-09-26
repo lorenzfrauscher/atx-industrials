@@ -1,0 +1,33 @@
+{
+  "strategische_prioritaeten": [],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Risiken aus Finanzinstrumenten sowie strategische und operative Risiken",
+      "kategorie": "Finanzierung",
+      "zitat": "Als global tätiges Unternehmen, das verschiedenste Märkte und Kunden bedient, ist die Gruppe Risiken in Verbindung mit Finanzinstrumenten sowie strategischen und operativen Risiken ausgesetzt."
+    },
+    {
+      "risiko": "Kredit- und Ausfallrisiko einzelner Kontrahenten",
+      "kategorie": "Finanzierung",
+      "zitat": "Das Risiko eines möglichen Ausfalls (Insolvenz) einzelner oder mehrerer Kontrahenten wird durch ein internes Kontrahentenlimitsystem minimiert."
+    },
+    {
+      "risiko": "Marktrisiken durch Zins- und Währungsschwankungen",
+      "kategorie": "Markt",
+      "zitat": "Das Marktrisiko umfasst das Risiko, dass sich die Marktpreise, zum Beispiel Währungskurse, Zinssätze oder Aktienkurse, ändern und dadurch die Erträge des Konzerns oder der Wert der gehaltenen Finanzinstrumente beeinflusst werden."
+    },
+    {
+      "risiko": "Zahlungsausfallrisiken bei Kundenprojekten",
+      "kategorie": "Finanzierung",
+      "zitat": "Es kann jedoch nicht ausgeschlossen werden, dass es einzelne Zahlungsausfälle gibt, die im Eintrittsfall einen wesentlichen negativen Einfluss auf die Ergebnis - und Liquiditätsentwicklung der Gruppe haben."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Erhöhte Auszahlungen für Unternehmenserwerbe im Geschäftsjahr 2025.",
+      "zitat": "Die Veränderung resultiert vor allem aus dem höheren Netto -Cashflow aus Unternehmenserwerben von -328,6 MEUR (2024: -36,9 MEUR) sowie den höheren Auszahlungen für den Kauf von lang- und kurzfristigen finanziellen Vermögenswerten."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

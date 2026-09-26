@@ -1,0 +1,56 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Fokus auf die Mitarbeiter als strategischer Schwerpunkt und Umsetzung des People Plans",
+      "zitat": "In Übereinstimmung mit ihrer Unternehmenskultur räumt die Lenzing Gruppe den Menschen als strategischem Schwerpunkt oberste Priorität ein, da sie ein integraler Bestandteil ihres ganzheitlichen Nachhaltigkeitsansatzes sind."
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Risiko für Geschäftstätigkeit und Lieferkette durch zunehmende chronische physische Klimagefahren",
+      "kategorie": "Lieferkette",
+      "zitat": "Klimamodelle zeigen, dass steigende globale Durchschnittstemperaturen zu einer Zunahme chronischer physischer Klimagefahren führen werden. Der Betrieb und die Lieferkette von Lenzing könnten zunehmend von extremen Wetterereignissen, Wasserknappheit und and eren physikalischen Gefahren unterschiedlichen Ausmaßes betroffen sein."
+    },
+    {
+      "risiko": "Risiko der Holzknappheit durch Waldschäden infolge steigender Temperaturen",
+      "kategorie": "Lieferkette",
+      "zitat": "Da Holz einer der wichtigsten Rohstoffe für Lenzing ist, kann das Risiko der Nichtverfügbarkeit von Holz aufgrund von Waldschäden (Krankheiten, Schädlinge usw.) als direkte Folge höherer Durchschnittstemperaturen das Kerngeschäft beeinträchtigen."
+    },
+    {
+      "risiko": "Risiko steigender Holzpreise durch Klimawandel und Biomasse-Konkurrenz",
+      "kategorie": "Markt",
+      "zitat": "Trotz der nachhaltigen Beschaffungspolitik von Lenzing und der rückwärtsintegrierten Produktion besteht die Gefahr, dass die Holzpreise aufgrund des Klimawandels und des zunehmenden Wettbewerbs um Biomasse und Landnutzung steigen."
+    },
+    {
+      "risiko": "Kostenanstieg durch Vorschriften zur Kohlenstoffbepreisung und Umweltsteuern",
+      "kategorie": "Regulierung",
+      "zitat": "Die zunehmende Regulierung, insbesondere in Bezug auf Umweltsteuern und Kohlenstoffbepreisung, stellt ein relevantes Risiko für Lenzing dar. In den Ländern, in denen Lenzing kohlenstoffintensive Prozesse durchführt, wurden bereits Vorschriften für Treibhausgasemissionen eingeführt"
+    },
+    {
+      "risiko": "Risiko der Nichteinhaltung der Europäischen Lieferkettenrichtlinie (CSDDD)",
+      "kategorie": "Regulierung",
+      "zitat": "Es besteht das Risiko der Nichteinhaltung der Europäischen Lieferkettenrichtlinie (CSDDD), wenn die internen Prozesse nicht umgesetzt werden."
+    },
+    {
+      "risiko": "Finanzielles Risiko durch unvorhergesehene Energieengpässe und Stromausfälle",
+      "kategorie": "Markt",
+      "zitat": "Unvorhergesehene Energieengpässe könnten die Geschäftstätigkeit von Lenzing beeinträchtigen, was ein finanzielles Risiko darstellen kann."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Fertigstellung einer Reinigungsanlage für Extraktionsmittel am Standort Lenzing im Jahr 2025",
+      "zitat": "Eine Reinigungsanlage für Extraktionsmittel wurde 2025 in Lenzing (Österreich) fertiggestellt"
+    },
+    {
+      "aussage": "Investition in Erdgaspipeline, Gaskessel und Turbine am Standort Nanjing",
+      "zitat": "Erdgaspipeline, Gaskessel und T urbine am Standort Nanjing (China), als Ersatz für kohlebasierten Dampf, in Betrieb seit 2025"
+    },
+    {
+      "aussage": "Austausch von Gaskesseln durch effizientere Modelle am Standort Mobile",
+      "zitat": "Austausch von Gaskesseln an Lenzings Standort in Mobile (USA) im Jahr 2025 durch effizientere Modelle"
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

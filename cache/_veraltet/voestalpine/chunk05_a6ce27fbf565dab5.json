@@ -1,0 +1,49 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Steigerung des Schrotteinsatzes in der Rohstahlherstellung um 50 % bis 2030",
+      "zitat": "Bis 2030 soll der Einsatz von Sekundärrohstoffen weiter gesteigert werden, indem der Schrotteinsatz in der Rohstahlherstellung um 50 % erhöht wird."
+    },
+    {
+      "prioritaet": "Implementierung der F&E- und Innovationsstrategie 2030+ ab dem Geschäftsjahr 2026/27",
+      "zitat": "Im Geschäftsjahr 2025/26 wurde ausgehend von der Konzernstrategie 2030+ die F&E- und Innovationsstrategie 2030+ konzeptioniert, deren Implementierung ab dem Geschäftsjahr 2026/27 geplant ist."
+    },
+    {
+      "prioritaet": "Reduktion der Treibhausgasemissionen und langfristige Erreichung von Net-Zero-Emissionen bis 2049/50",
+      "zitat": "Konkret hat sich die voestalpine das kurzfristige („near-term“) Ziel gesetzt, ihre Treibhausgasemissionen entlang Scope 1, 2 und 3 zu reduzieren und langfristig bis spätestens zum Geschäftsjahr 2049/50 Netto-Null-Emissionen (Net-Zero) zu erreichen."
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Transitorisches Risiko durch Kosten aufgrund CO2e-Bepreisung",
+      "kategorie": "Regulierung",
+      "zitat": "WEITERE AKTIVITÄTEN IM UMGANG MIT DEM TRANSITORISCHEN RISIKO: KOSTEN AUFGRUND CO2e-BEPREISUNG Die voestalpine begegnet diesem Risiko durch gezielte Investitionen im Rahmen einer schrittweisen Transformation der Produktionsprozesse."
+    },
+    {
+      "risiko": "Risiko sinkender Produktqualität bei vermehrtem Schrotteinsatz in Elektrolichtbogenöfen",
+      "kategorie": "Technologie",
+      "zitat": "Der erhöhte Einsatz von Schrott im Zuge der Umstellung von primär kohlebasierten Hochöfen auf Elektrolichtbogenöfen birgt das Risiko sinkender Produktqualität. Wesentlich ist dieses Risiko aufgrund potenzieller Qualitätseinbußen bei verändertem Rohstoffeinsatz"
+    },
+    {
+      "risiko": "Lieferengpässe bzw. höhere Kosten für wichtige Materialien und Rohstoffe",
+      "kategorie": "Lieferkette",
+      "zitat": "Transitorisches Risiko: Lieferengpässe bzw. höhere Kosten für wichtige Materialien und Rohstoffe Transitorisches Risiko: Engpässe in der Energieversor- gung und höhere Kosten für die Energie beschaffung Maßnahmen für transitorische Risiken durch Engpassressour- cen"
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investition von rund 1,5 Mrd. EUR für Elektrolichtbogenöfen in Linz und Donawitz genehmigt, davon rund 0,9 Mrd. EUR bis 2025/26 investiert",
+      "zitat": "Rund 1,5 Mrd. EUR wurden für die Elektrolichtbogenöfen in Linz und Donawitz im Zuge der Phase 1 des Klimaschutzprogramms greentec steel vom Aufsichtsrat bereits genehmigt, was einen zentralen Bestandteil des Klimaübergangsplans des Unternehmens bildet."
+    },
+    {
+      "aussage": "Ausweisung von 381,8 Mio. EUR taxonomiekonformem CapEx im aktuellen Geschäftsjahr",
+      "zitat": "Im aktuellen Geschäftsjahr wurden insgesamt 381,8 Mio. EUR CapEx als taxonomiekonform ausgewiesen (siehe auch Kapitel Angaben nach der EU -T axonomie -V erordnung), wobei 303,3 Mio. EUR auf die Wirtschaftstätigkeit 3.9 Herstellung von Eisen und Stahl entfallen"
+    },
+    {
+      "aussage": "Finanzierung nachhaltiger Projekte wie greentec steel durch Begebung einer grünen Anleihe über 500,0 Mio. EUR",
+      "zitat": "Am 3. Oktober 2024 hat die voestalpine AG eine fix verzinste grüne Anleihe in der Höhe von 500,0 Mio. EUR begeben. Die Erlöse aus dieser Emission werden zu 100 % zur Refinanzierung bzw. Finanzierung nachhaltiger voestalpine - Projekte"
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

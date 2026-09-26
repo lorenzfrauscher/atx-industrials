@@ -1,0 +1,42 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Umfassende Reduktion der Treibhausgasemissionen und Transformation zu einer emissionsaermeren Stahlproduktion",
+      "zitat": "Die voestalpine verfolgt eine umfassende Reduktion der Treibhausgasemissionen entlang der gesamten Wertschöpfungskette und hat sich im Rahmen der Science Based Targets initiative (SBTi) verpflichtet, ihre Emissionen entsprechend dem wissenschaftlich fundierten 2-Grad-Reduktionspfad zu senken."
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Risiken bei der technischen Umstellung auf emissionsarme Technologien im Rahmen von greentec steel",
+      "kategorie": "Technologie",
+      "zitat": "Die Transformation hin zu einer emissionsarmen Stahlproduktion im Rahmen von greentec steel erfordert von der voestalpine erhebliche Investitionen in neue Technologien und Anlagen, die unter teils unsicheren gesetzlichen Rahmenbedingungen getätigt werden, z. B."
+    },
+    {
+      "risiko": "Kostenbelastungen und Wettbewerbsnachteile durch CO2e-Bepreisungsmechanismen",
+      "kategorie": "Regulierung",
+      "zitat": "CO2e-Bepreisungsmechanismen wie das EU-Emissionshandelssystem (ETS) und der CO2-Grenzausgleichsmechanismus (CBAM) führen zu steigenden finanziellen Belastungen, die potenziell Wettbewerbsnachteile gegenüber Nicht-EU-Wettbewerber:innen verursachen und einen strukturellen Wandel, wie Abwanderung von Abnehmerindustrien und einen höheren Preiswettbewerb, in der Industrie auslösen können."
+    },
+    {
+      "risiko": "Lieferengpaesse und hoehere Kosten fuer wichtige Materialien und Rohstoffe",
+      "kategorie": "Lieferkette",
+      "zitat": "Im Zuge der Transformation steigt die Nachfrage nach kritischen Rohstoffen wie Stahlschrott sowie speziellen Metallen und Legierungen, wodurch das Risiko von Versorgungsengpässen zunimmt. Die voestalpine sieht sich mit einem wachsenden Bedarf konfrontiert, der potenziell zu Produktionsverzögerungen oder Qualitätsrisiken führen kann."
+    },
+    {
+      "risiko": "Versorgungsengpaesse und steigende Beschaffungskosten im Energiebereich",
+      "kategorie": "Markt",
+      "zitat": "Das transitorische Risiko für die voestalpine umfasst mögliche Versorgungsengpässe an großen Produktionsstandorten (insbesondere Linz und Donawitz) sowie steigende Energiebeschaffungskosten (erneuerbare und nicht erneuerbare Quellen) vor dem Hintergrund der europäischen Energiewende."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investitionsbudget von 1,5 Mrd. EUR fuer die erste Phase des Projekts greentec steel bis zum Geschaeftsjahr 2027/28",
+      "zitat": "Der CapEx-Plan umfasst ein Gesamtvolumen von 1,5 Mrd. EUR und wird aller Voraussicht nach im Geschäftsjahr 2027/28 abgeschlossen werden. Im abgelaufenen Geschäftsjahr wurden 292,7 Mio. EUR (2024/25: 134,4 Mio. EUR) im Zuge des CapEx-Plans als taxonomiekonform unter der Wirtschaftstätigkeit 3.9 Herstellung von Eisen und Stahl klassifiziert."
+    },
+    {
+      "aussage": "Gezielte Investitionen der naechsten Jahre in emissionsarme Technologien und energieeffiziente Anlagen",
+      "zitat": "Die finanziellen Mittel zur Umsetzung von Phase 1 dieser Transformation sind in der Mittelfristplanung berücksichtigt. Die voestalpine investiert in den nächsten Jahren gezielt in emissionsarme Technologien und energieeffiziente Anlagen."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

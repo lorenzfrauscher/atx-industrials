@@ -1,0 +1,18 @@
+{
+  "strategische_prioritaeten": [],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Regulatorische Anforderungen und Mandate der EU",
+      "kategorie": "Regulierung",
+      "zitat": "Mandate der Europäischen Union (EU) wie der Circular Economy Action Plan, die europäische Entwaldungsverordnung (EUDR), die europäische Lieferkettenrichtlinie (CSDDD) oder produktspezifische Verordnungen wie die Baustoffverordnung, Ökodesign-Richtlinie und die EU-Gebäuderichtlinie (EPBD) bringen veränderte Anforderungen mit sich"
+    },
+    {
+      "risiko": "Steigende Rohstoff- und Energiekosten",
+      "kategorie": "Markt",
+      "zitat": "Transitorische Auswirkungen für Bauunternehmen aufgrund steigender Rohstoff- und Energiepreise können stark variieren. Anhand der Szenarien der Internationalen Energieagentur (IEA) und des World Economic Outlook (WEO) lässt sich ableiten, dass bis 2050 bestimmte Rohstoffe nicht in ausreichender Menge verfügbar sein werden"
+    }
+  ],
+  "capex_ma_signale": [],
+  "_modell": "gemini-3.8-flash"
+}

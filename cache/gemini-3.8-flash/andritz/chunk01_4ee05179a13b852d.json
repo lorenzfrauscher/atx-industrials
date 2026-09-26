@@ -1,0 +1,65 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Erreichen der Position eines Komplettanbieters in allen Geschäftsbereichen durch organisches Wachstum und komplementäre Zukäufe",
+      "zitat": "Eines der wesentlichen strategischen Ziele der ANDRITZ -Gruppe besteht darin, durch organisches Wachstum und komplementäre Akquisitionen in allen Geschäftsbereichen zum Komplettanbieter zu werden."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Lateinamerika",
+      "aussage": "Wiederbelebung und Initiierung von neuen Greenfield-Projekten im Wasserkraft- und Speicherbereich",
+      "zitat": "Während in westlichen Märkten wie Nordamerika und Europa weiterhin Sanierungs - und Modernisierungsprojekte dominierten, wurden in Schwellen regionen wie Afrika, Asien und Lateinamerika wieder vermehrt neue Greenfield -Projekte (bspw. Pumpspeicher) initiiert."
+    },
+    {
+      "region": "Nordamerika",
+      "aussage": "Starke Nachfrage und Wachstumstreiber bei Neuanlagen und Modernisierungen im Bereich Clean Air Technologies",
+      "zitat": "Demgegenüber entwickelten sich die Märkte für Clean Air Technologies sehr positiv. Die größten Treiber dieser Entwicklung waren die steigende Nachfrage nach Neuanlagen sowie nach Modernisierungen bestehender Anlagen, insbesondere in etablierten Industrieregionen wie den USA."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Nachträgliche Steuer- und Zollbelastungen durch Gesetzesänderungen oder veränderte Auslegungen",
+      "kategorie": "Regulierung",
+      "zitat": "Eine Änderung von Gesetzen oder sonstigen Bestimmungen – darunter fallen auch Regelungen zu Importzöllen etc. – sowie unterschiedliche Auslegungen der jeweils geltenden Bestimmungen können zu nachträglichen Steuer - und Zollbelastungen führen."
+    },
+    {
+      "risiko": "Intensive Wettbewerbssituation und Preiskampf um wenige Großaufträge mit Auswirkungen auf Margen",
+      "kategorie": "Markt",
+      "zitat": "Die ANDRITZ -Gruppe agiert in sehr wettbewerbsintensiven Märkten, in denen einige wenige große Anbieter um einige wenige Großaufträge bieten. Darüber hinaus gibt es lokal eine Vielzahl kleiner konkurrierenden Unternehmen, die über eine vergleichsweise niedrige Kostenbasis verfügen."
+    },
+    {
+      "risiko": "Volatilität des Auftragseingangs durch konjunkturelle Schwankungen und Abhängigkeit von der Endproduktnachfrage",
+      "kategorie": "Markt",
+      "zitat": "Mögliche Preisschwankungen können daher einen direkten Einfluss auf die Investitionsentscheidungen von Kunden und in weiterer Folge auf den Auftragseingang der Gruppe haben. Dies könnte daher zu einer Volatilität in der Entwicklung des Auftragseingangs führen."
+    },
+    {
+      "risiko": "Fehlende Verfügbarkeit geeigneter Akquisitionsziele oder mangelnde Finanzierungsmittel für M&A-Vorhaben",
+      "kategorie": "Finanzierung",
+      "zitat": "Es kann jedoch nicht garantiert werden, dass die Gruppe auch künftig in der Lage sein wird, geeignete Akquisitionsziele zu identifizieren und zu erwerben, dass überhaupt geeignete Unternehmen zur Verfügung stehen und ausreichend Finanzmittel für große Akquisitionen aufgebracht werden können."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Fokus der Investitionen auf Modernisierungen und gezielte Kapazitätserweiterungen in Kernregionen",
+      "zitat": "Die Investitionsschwerpunkte betrafen – wie in den Vorjahren – insbesondere Modernisierungen von Fertigungs - stätten sowie vereinzelte Erweiterungsinvestitionen zur Unterstützung des Wachstums im Wesentlichen in Nordamerika, Europa und China."
+    },
+    {
+      "aussage": "Übernahme der LDX-Gruppe zur Stärkung des Angebots zur Emissionsreduktion",
+      "zitat": "ANDRITZ hat im Februar 2025 die in den USA ansässige Dustex LLC samt Tochtergesellschaft Western Pneumatics, LLC (gemeinsam LDX -Gruppe) erworben. LDX zählt zu den führenden Anbietern von Technologien und Dienstleistungen zur Emissionsreduktion"
+    },
+    {
+      "aussage": "Akquisition von A.Celli Paper zur Erweiterung der Papier- und Kartonsparte",
+      "zitat": "ANDRITZ erwarb im Juli 2025 die A.Celli Paper S.P.A. mit Sitz in Italien, samt weiteren Tochtergesellschaften in Italien und China. A.Celli verfügt über jahrzehntelange Erfahrung in der Lieferung von Maschinen"
+    },
+    {
+      "aussage": "Erwerb der Salico-Gruppe zur Abrundung des Angebots bei Endbearbeitungsanlagen",
+      "zitat": "Des weiteren hat ANDRITZ im Juli 2025 die Salico -Gruppe, mit Hauptsitz in Italien und Spanien erworben. Der Erwerb umfasst auch Tochtergesellschaften in Großbrita nnien, den USA und Indien."
+    },
+    {
+      "aussage": "Mehrheitserwerb an Baoding Sanzheng Electrical Equipment zur Stärkung bei Induktionserwärmung",
+      "zitat": "ANDRITZ hat im Dezember 2025 51% der Anteile an Boading Sanzheng Electrical Equipment Co., Ltd. mit dem Hauptsitz in China unterzeichnet. Die Integration von Sanzheng bringt ANDRITZ ein vollständiges Portfolio von Induktionserwärmungstechnologien"
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

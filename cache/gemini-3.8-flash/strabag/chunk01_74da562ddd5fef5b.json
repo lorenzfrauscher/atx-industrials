@@ -1,0 +1,51 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Steigerung der nachhaltigen EBIT-Marge auf 6 % bis 2030 im Rahmen der Strategie People. Planet. Progress.",
+      "zitat": "Wir sind überzeugt, dass uns People. Planet. Progress. auch wirtschaftlich erfolgreicher macht: Bis zum Jahr 2030 streben wir daher eine EBIT-Marge von nachhaltig 6 % an."
+    },
+    {
+      "prioritaet": "Dekarbonisierung des Konzerns und Reduktion der Treibhausgasemissionen bis 2030",
+      "zitat": "Auf Basis der konzernweiten Energieverbräuche wurden bestimmte Handlungsfelder definiert, um unsere Emissionen bis 2030 deutlich zu senken. Konkret streben wir an: – Reduktion der Scope 1- und 2-Emissionen um 42 % – Reduktion der Scope 3-Emissionen um 25 %"
+    },
+    {
+      "prioritaet": "Erhaltung der Kapitalkraft mit einer Mindesteigenkapitalquote von 25 %",
+      "zitat": "Die Erhaltung unserer Kapitalkraft hat für uns daher strategische Priorität. Wir verfolgen eine Eigenkapitalquote von zumindest 25 %."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Europa uebrig",
+      "aussage": "Ausbaubedarf und Nachfrage nach Mobilitätsinfrastruktur in Zentral- und Osteuropa",
+      "zitat": "Während die Verkehrsnetze in reifen Märkten zunehmend überaltern, besteht in Zentral- und Osteuropa noch erheblicher Ausbaubedarf. Die Nachfrage nach nachhaltiger, sicherer und intelligenter Mobilitätsinfrastruktur nimmt rasant zu."
+    },
+    {
+      "region": "DACH",
+      "aussage": "Öffentliche Investitionen treiben den Modernisierungsbedarf der Infrastruktur in Deutschland voran",
+      "zitat": "Substanzielle öffentliche Investitionen, wie Deutschlands € 500 Mrd.-Modernisierungsoffensive und Mittel aus dem EU- Kohäsionsfonds, kommen den Kernmärkten von STRABAG zugute."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Risiken durch angespannte Lieferketten und dynamische Baustoffpreisentwicklungen",
+      "kategorie": "Lieferkette",
+      "zitat": "Denn in Zeiten angespannter Lieferketten sichert uns beispielsweise unser dichtes das die Verfügbarkeit benötigter Materialien und wirkt ausgleichend bei dynamischen Preisentwicklungen."
+    },
+    {
+      "risiko": "Erhöhtes Risikopotenzial durch die Einzigartigkeit von Bauprojekten",
+      "kategorie": "Markt",
+      "zitat": "Denn die Vielzahl der – jedes für sich – einzigartigen Projekte bringt ein erhöhtes Risikopotenzial mit sich. Um dieses unter Kontrolle zu halten, bedarf es einer konsequent darauf ausgerichteten Organisationsstruktur"
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Verfolgung von Partnerschaften und Akquisitionen zur Etablierung neuer Technologien",
+      "zitat": "Dafür entwickeln wir eigene Innovationen zur Marktreife, verfolgen Partnerschaften und Akquisitionen und stärken konzernweit Kompetenzen, vor allem im Bereich Daten."
+    },
+    {
+      "aussage": "Finanzielle Stärke als Grundlage für Akquisitionen und Beteiligungen an Konzessionsprojekten",
+      "zitat": "Sie trägt auch entscheidend dazu bei, Geschäftschancen flexibel wahrnehmen zu können, etwa die oder die Umsetzung von Akquisitionen. Die Erhaltung unserer Kapitalkraft hat für uns daher strategische Priorität."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

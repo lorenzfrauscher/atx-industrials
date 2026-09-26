@@ -1,0 +1,47 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Compliance und ethisches Handeln",
+      "zitat": "Gesetzeskonformes und transparentes Verhalten hat oberste Priorität bei der PORR. Nur so kann Vertrauen zu Stakeholdern aufgebaut und verantwortungsvolles Wirtschaften gelebt werden. Oberstes Leitmotiv der Compliance-Organisation ist die Prävention."
+    },
+    {
+      "prioritaet": "Forschung, Entwicklung und Innovation",
+      "zitat": "Damit ist die PORR im Bereich Forschung, Entwicklung und Innovation ganzheitlich bestens aufgestellt, um Zukunftsthemen strategisch weiterzuentwickeln und Innovationen wirksam im Unternehmen zu verankern."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Oesterreich",
+      "aussage": "Wachstumsimpulse durch Investitionen und Erholung der Konjunktur ab 2026 erwartet.",
+      "zitat": "Für das Jahr 2026 rechnet die OECD mit einer allmählichen Belebung der Konjunktur. Der private Konsum dürfte sich mit rückläufiger Inflation und höheren Reallöhnen schrittweise erholen."
+    },
+    {
+      "region": "Europa uebrig",
+      "aussage": "Starke Auftragslage und Wachstumspotenzial in Polen, Rumänien und Tschechien.",
+      "zitat": "Die Entwicklung der Auftragslage zeigt die starke Position der PORR in diesen Märkten und bekräftigt das Wachstum in den kommenden Jahren. Der Auftragseingang des Segments CEE erhöhte sich um 35,5 %."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Kartell- und wettbewerbswidriges Verhalten",
+      "kategorie": "Regulierung",
+      "zitat": "In der Baubranche besteht ein besonderes Risiko für potenzielle wirtschaftliche Schäden für die Gesellschaft durch kartell- und wettbewerbswidriges Verhalten im Rahmen der eigenen Geschäftstätigkeit."
+    },
+    {
+      "risiko": "Korruptionsvorfälle und Reputationsverlust",
+      "kategorie": "Markt",
+      "zitat": "Neben negativen Auswirkungen auf die Gesellschaft entstehen durch potenziell kartellrechts- oder wettbewerbswidriges Verhalten sowie potenzielle Korruptionsvorfälle auch kurz- und mittelfristige rechtliche, finanzielle und Reputationsrisiken sowie Auftragsverlust."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Akquisitionen der VAMED Standortentwicklung und Knape Bahnbau.",
+      "zitat": "Die Akquisitionen der VAMED Standortentwicklung und Engineering GmbH sowie der Knape Bahnbau GmbH führten ebenfalls zu einer Bilanzverlängerung. Das langfristige Vermögen erhöhte sich um 6,6 % auf EUR 1.858,5 Mio."
+    },
+    {
+      "aussage": "Investitionen in Baugeräte und Fahrzeuge (CAPEX).",
+      "zitat": "Im Berichtsjahr wurden hauptsächlich Ersatz- und Neuinvestitionen für Baugeräte und Fahrzeuge getätigt. Der CAPEX reduzierte sich im Vergleich zum Vorjahr und betrug EUR 252,9 Mio."
+    }
+  ],
+  "_modell": "gemini-3-flash-preview"
+}

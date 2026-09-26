@@ -1,0 +1,28 @@
+{
+  "strategische_prioritaeten": [],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Kreditrisiko",
+      "kategorie": "Finanzierung",
+      "zitat": "Ausfallrisiken entstehen, wenn Vertragsparteien ihren Zahlungsverpflichtungen zum Fälligkeitszeitpunkt nicht nachkommen. Ein solches Risiko besteht in Bezug auf die Bezahlung von Forderungen aus dem operativen Geschäft."
+    },
+    {
+      "risiko": "Zinsrisiko",
+      "kategorie": "Finanzierung",
+      "zitat": "Das Risiko der variabel verzinsten passivseitigen Finanzinstrumente besteht in steigenden Aufwandszinsen, die sich aus einer nachteiligen Veränderung der Marktzinsen ergeben."
+    },
+    {
+      "risiko": "Liquiditätsrisiko",
+      "kategorie": "Finanzierung",
+      "zitat": "Liquidität bedeutet für den STRABAG SE-Konzern nicht nur die Zahlungsfähigkeit im engeren Sinn, sondern auch den notwendigen finanziellen Spielraum für das Grundgeschäft durch die Verfügbarkeit ausreichender Avallinien."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Entwicklung der sonstigen Anteile an Unternehmen im Geschäftsjahr 2025 zeigt Zugänge und Abgänge bei Anteilen an verbundenen Unternehmen und Beteiligungen.",
+      "zitat": "Die sonstigen Anteile an Unternehmen enthalten Tochterunternehmen, assoziierte Unternehmen, Gemeinschaftsunternehmen sowie sonstige Beteiligungen, die aufgrund von Unwesentlichkeit nicht konsolidiert bzw. at-equity in den Konzernabschluss einbezogen werden."
+    }
+  ],
+  "_modell": "gemini-3.5-flash"
+}

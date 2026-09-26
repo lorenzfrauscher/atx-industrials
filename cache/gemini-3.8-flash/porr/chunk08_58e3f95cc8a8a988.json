@@ -1,0 +1,74 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Erreichen einer EBIT-Marge von 3,5 % bis 4,0 % bis 2030",
+      "zitat": "Auf Basis des hohen Auftragsbestands sowie der erwarteten Marktentwicklung geht der Vorstand von einer moderat positiven Leistungs- und Umsatzentwicklung sowie einer Steigerung der EBIT-Marge im Jahr 2026 aus. Unverändert bleibt das langfristige Ziel einer EBIT-Marge von 3,5 % bis 4,0 % bis 2030."
+    },
+    {
+      "prioritaet": "Fokus auf Exportprodukte im Tunnel-, Bahn- und Spezialtiefbau sowie Partnerschaften mit lokalen Unternehmen",
+      "zitat": "Generell setzt die PORR als Infrastrukturexpertin in Projekt- und internationalen Märkten vor allem auf ihre Exportprodukte im Tunnel-, Bahn- und Spezialtiefbau und auf die partnerschaftliche Zusammenarbeit mit lokalen Unternehmen. Daneben bietet sie auch ihre Expertise im Bereich Slab Track sehr selektiv an."
+    },
+    {
+      "prioritaet": "Konzentration auf die Heimmärkte bei selektivem Angebot in Projektmärkten",
+      "zitat": "Das Unternehmen reagiert auf die Schwankungen in den nationalen Märkten und Geschäftssegmenten sowie auf die gegenwärtigen geopolitischen Unsicherheiten mit einer Konzentration auf die Heimmärkte Österreich, Deutschland, Schweiz, Polen, Tschechien, Slowakei und Rumänien."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Europa uebrig",
+      "aussage": "Connecting Europe Facility und European Green Deal bieten künftig stabile Wachstumsperspektiven in internationalen Märkten.",
+      "zitat": "Die Finanzierung dieser Projekte ist über die Connecting Europe Facility (CEF) sowie im Kontext des Europäischen Green Deals langfristig abgesichert und bietet damit auch künftig stabile Wachstumsperspektiven in den internationalen Märkten der PORR."
+    },
+    {
+      "region": "DACH",
+      "aussage": "In Deutschland werden für 2026 deutliche Impulse aus öffentlicher Investitionstätigkeit für Infrastruktur und Bauwirtschaft erwartet.",
+      "zitat": "Auch in Deutschland werden für das Jahr 2026 deutliche Impulse aus der öffentlichen Investitionstätigkeit erwartet. Die deutsche Bundesregierung hat ein Sondervermögen zur Stärkung von Infrastruktur und Klimaneutralität eingerichtet, aus dem im Jahr 2026 rund EUR 40 Mrd. für Investitionen vorgesehen sind."
+    },
+    {
+      "region": "Oesterreich",
+      "aussage": "In Österreich wird für 2026 eine Erholung erwartet, gestützt von Infrastrukturprojekten und wohnbaupolitischen Maßnahmen.",
+      "zitat": "Auch für Österreich wird für 2026 laut WIFO eine vorsichtige konjunkturelle Erholung erwartet. Der robuste Arbeitsmarkt, steigende reale Einkommen und ein verbessertes Finanzierungsumfeld stützen den privaten Konsum und die Investitionstätigkeit. Öffentliche Infrastrukturprojekte und wohnbaupolitische Maßnahmen wirken zusätzlich stabilisierend auf die Bauwirtschaft."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Geopolitische Spannungen, Sanktionen und Auswirkungen auf Energie- und Materialpreise",
+      "kategorie": "Markt",
+      "zitat": "Ungeachtet dessen kann die PORR von den indirekten Auswirkungen der anhaltenden geopolitischen Konflikte betroffen sein. Insbesondere der Krieg in der Ukraine geht weiterhin mit umfassenden Wirtschaftssanktionen und Handelsbeschränkungen einher."
+    },
+    {
+      "risiko": "Makroökonomische Veränderungen und konjunkturelle Disparitäten in den Kernmärkten",
+      "kategorie": "Markt",
+      "zitat": "Die Marktrisiken resultieren aus den Veränderungen der makroökonomischen Rahmenbedingungen in den wesentlichen PORR Märkten. Weiters ergeben sich aufgrund der konjunkturellen Disparitäten in den jeweiligen Märkten für die PORR divergierende Nachfragesituationen."
+    },
+    {
+      "risiko": "Kalkulations- und Ausführungsrisiken bei operativen Bauprojekten",
+      "kategorie": "Lieferkette",
+      "zitat": "Die Überwachung des Projektrisikos erstreckt sich über alle operativen Einheiten der PORR und kann hinsichtlich des Kalkulations- und Ausführungsrisikos qualifiziert werden. Alle Projekte werden von der Angebotsbearbeitung bis hin zum Vertragsabschluss auf spezifische technische, kaufmännische und rechtliche Risiken geprüft."
+    },
+    {
+      "risiko": "Handelsbeschränkungen und protektionistische Zollmaßnahmen",
+      "kategorie": "Regulierung",
+      "zitat": "Die Einführung weiterer Handelsbeschränkungen und protektionistischer Zollmaßnahmen kann unter der Trump Administration wohl nicht ausgeschlossen werden. Die PORR geht davon aus, dass sich das geopolitische Umfeld weiterhin äußerst dynamisch entwickeln wird, und beobachtet die Situation laufend."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Erwerb von 100 % an der VAMED Standortentwicklung und Engineering GmbH zur strategischen Portfolioerweiterung.",
+      "zitat": "Für den Erwerb von 100 % an der VAMED Standortentwicklung und Engineering GmbH (VSG) wurden TEUR 3.750 aufgewendet und im 1. Quartal 2026 beglichen. Die VSG betreibt im Wesentlichen zwei Geschäftsfelder: Zum einen das österreichische Projektgeschäft mit Schwerpunkt auf Planung und Errichtung von Gesundheitseinrichtungen, zum anderen hält die VSG Beteiligungen an österreichischen Thermen einschließlich deren Betriebsführung."
+    },
+    {
+      "aussage": "Erwerb von 74,97 % an der Knape Bahnbau GmbH durch PORR Bau GmbH.",
+      "zitat": "Mit Kaufvertrag vom 21. Dezember 2024, rechtswirksam mit Closing Protokoll vom 25. März 2025, hat die PORR Bau GmbH 74,97 % der Anteile an der Knape Bahnbau GmbH zu einem Kaufpreis in Höhe von TEUR 13.820 erworben."
+    },
+    {
+      "aussage": "Erwerb weiterer 50 % an der CBL City Beton Logistik GmbH & Co KG.",
+      "zitat": "Im Geschäftsjahr wurden weitere 50 % an der bisher at-equity bilanzierten CBL City Beton Logistik GmbH & Co KG um einen Kaufpreis in Höhe von EUR 1,00 erworben. Die erworbenen Vermögenswerte und Schulden waren unwesentlich."
+    },
+    {
+      "aussage": "Erwerb der Immobilie über die Gesellschaft Horizon Residence Spolka z o.o.",
+      "zitat": "Beim Erwerb der Horizon Residence Spolka z ograniczona odpowiedzialnoscia handelt es sich um den Erwerb einer Immobilie, der nicht die Kriterien einer Business Combination gemäß IFRS 3 erfüllt und daher als Erwerb von Vermögenswerten im Konzernabschluss dargestellt wird."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

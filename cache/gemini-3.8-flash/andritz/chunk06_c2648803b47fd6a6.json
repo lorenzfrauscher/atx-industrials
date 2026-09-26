@@ -1,0 +1,20 @@
+{
+  "strategische_prioritaeten": [],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [],
+  "capex_ma_signale": [
+    {
+      "aussage": "Im Geschäftsbereich Metals leitete Andritz 2025 den Verkauf von Sachanlagen in Deutschland mit einem Buchwert von 4,0 MEUR ein, dessen Abschluss für 2026 erwartet wird.",
+      "zitat": "Im Geschäftsbereich Metals wurde 2025 der Verkauf von Sachanlagen (Grundstücke, Gebäude und technische n Anlagen) in Deutschland eingeleitet. Es wurden 2025 Vermögenswerte von 4,0 MEUR als zur Veräußerung gehalten angesetzt"
+    },
+    {
+      "aussage": "Ein Ende 2024 im Geschäftsbereich Metals eingeleiteter Verkauf von Sachanlagen in Deutschland wurde 2025 mit einem Veräußerungsgewinn von 2,8 MEUR vollzogen.",
+      "zitat": "Es wurden 2024 Vermögenswerte von 7,7 MEUR als zur Veräußerung gehalten angesetzt und keine Wertminderungsaufwendungen erfasst. Der Verkauf der Sachanlagen wurde 2025 mit einem Veräußerungsgewinn von 2,8 MEUR abgeschlossen ."
+    },
+    {
+      "aussage": "Im Geschäftsbereich Pulp & Paper wurden 2025 Sachanlagen in Kanada mit einem Veräußerungsgewinn von 0,8 MEUR veräußert.",
+      "zitat": "Im Geschäftsbereich Pulp & Paper w urden Ende 2024 Sachanlagen in Kanada in der Höhe von 0,5 MEUR als zur Veräußerung gehalten ausgewiesen. Aus der vorgelagerten Bewertung wurde keine Wertminderung erfasst."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

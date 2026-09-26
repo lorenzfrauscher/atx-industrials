@@ -1,0 +1,31 @@
+{
+  "strategische_prioritaeten": [],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Erhöhung des allgemeinen Zinsniveaus, Verschlechterung des Kreditratings oder Nichteinhaltung von Covenants mit Auswirkung auf Finanzierungskosten und Kreditfälligstellung",
+      "kategorie": "Finanzierung",
+      "zitat": "Sollte sich das allgemeine Zinsniveau erhöhen, das Rating der Gruppe verschlechtern oder Covenants nicht eingehalten werden, können die zu zahlenden Zinsen durch höhere Referenzzinssätze oder höhere Kreditrisikoaufschläge steigen und höhere Finanzierungskosten sowie einen geringeren Cashflow verursachen."
+    },
+    {
+      "risiko": "Sammelklagen wegen Kartellrechtsverstößen und DOJ-Untersuchung gegen PipeLife Jet Stream",
+      "kategorie": "Regulierung",
+      "zitat": "Zusammen mit anderen, deutlich größeren Marktteilnehmern wurde PipeLife Jet Stream, Inc. in mehreren Sammelklagen vor dem United States District Court for the Northern District of Illinois als Beklagte benannt. In den Klagen werden Verstöße gegen Kartellgesetze geltend gemacht."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Schrittweiser Ersatz von Produktionslinien, Maschinen und Anlagen zur Erreichung von Klimazielen durch nachhaltigere Alternativen",
+      "zitat": "Um die Klimaziele zu erreichen, ersetzt wienerberger ausgewählte Produktionslinien, Maschinen und sonstigen Anlagen schrittweise durch effizientere und nachhaltigere Alternativen. Diese Erneuerungen erfolgen in der Regel gegen Ende der Nutzungsdauer einer Anlage."
+    },
+    {
+      "aussage": "Bestehende vertragliche Verpflichtungen zum Kauf von Sachanlagen zum Stichtag",
+      "zitat": "Zum Abschlussstichtag bestanden Verpflichtungen zum Kauf von Sachanlagen in Höhe von EUR 45 Mio (2024: EUR 27 Mio)."
+    },
+    {
+      "aussage": "Mittel- bis langfristige Veräußerungsabsicht für nicht betriebsnotwendige Liegenschaften und Gebäude",
+      "zitat": "wienerberger stuft Liegenschaften und Gebäude, die nicht im laufenden Geschäftsbetrieb eingesetzt werden, als Finanzinvestition gehaltene Immobilien ein und sieht diese mittel- bis langfristig zur Veräußerung vor ."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

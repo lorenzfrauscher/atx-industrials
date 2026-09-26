@@ -1,0 +1,31 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Marktführerschaft bei ressourcenbewusstem, kreislauffähigem Bauen und nachhaltige Profitabilität",
+      "zitat": "Die PORR möchte Marktführerin bei ressourcenbewusstem, kreislauffähi gem Bauen sein. Dafür setzt sie auf partnerschaft- liche Zusammenarbeit, eine schlanke Organisation und effiziente Prozesse, um langfristige Profitabilität zu sichern und gleichzeitig einen nachhaltigen Mehrwert für alle Stakeholder und die Gesell- schaft zu schaffen."
+    },
+    {
+      "prioritaet": "Intelligentes Wachstum und Top-3-Position in allen Heimmärkten mit Fokus auf Profitabilität",
+      "zitat": "Durch innovative Produkte und neue Technologien will die PORR intelligent wachsen und ihre Marktanteile in allen Heimmärkten sichern. Das Ziel lautet, jeweils zu den Top 3 Bauunternehmen zu gehören. Der Fokus liegt dabei klar auf der Bottom-Line, um eine nachhaltige Profitabilität mit einer EBIT-Marge von über 3,5 % zu gewährleisten."
+    },
+    {
+      "prioritaet": "Arbeit nach LEAN-Prinzipien und Vorantreiben von Digitalisierung und Automatisierung",
+      "zitat": "Die PORR arbeitet nach LEAN Prinzipien, wobei LEAN Construction auf der Bau - stelle mit LEAN Administration in der Organisation kombiniert wird, um schlanke, flexible und kosteneffiziente Strukturen zu gewährleisten."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "DACH",
+      "aussage": "Stark wachsender Bedarf an Rechenzentren durch KI und Cloud-Technologien in Deutschland",
+      "zitat": "Der Einsatz von Künstlicher Intelligenz und Cloud- Technologien nimmt stark zu – und damit auch der Bedarf an Rechenzentren. In diesem wichtigen Wachstumsmarkt der Baubranche nimmt die PORR eine führende Rolle ein."
+    }
+  ],
+  "hauptrisiken": [],
+  "capex_ma_signale": [
+    {
+      "aussage": "Veräußerung sämtlicher eigener Aktien im Wege eines beschleunigten Privatplatzierungsverfahrens",
+      "zitat": "Die PORR AG hat am 17. Juni 2025 sämtliche 1.703.674 eigenen Aktien im Zuge eines beschleunigten Privatplatzierungsverfah - rens (Accelerated Bookbuilding) erfolgreich bei internationalen institutionellen Investoren platziert. Der Verkaufspreis pro Aktie betrug EUR 26,50, womit ein Bruttoemissionserlös von EUR 45,1 Mio. erzielt wurde."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

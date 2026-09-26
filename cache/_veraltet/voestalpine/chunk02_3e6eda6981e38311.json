@@ -1,0 +1,51 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Fokussiertes Wachstum in renditestarken Bereichen und zielgerichtete Internationalisierung",
+      "zitat": "Entsprechend unserem übergeordneten strategischen Ziel der Wertsteigerung und damit der Erhöhung des Unternehmenswerts ist das fokussierte Wachstum in attraktiven, renditestarken Bereichen wie der Schieneninfrastruktur, der Luftfahrtindustrie sowie bei Spezialprofilen und in der Lagertechnik ein wesentlicher strategischer Pfeiler."
+    },
+    {
+      "prioritaet": "Aktives Portfoliomanagement, Effizienzsteigerung und Reorganisation renditeschwacher Einheiten",
+      "zitat": "Ein aktives und konsequentes Management unseres Portfolios mit Fokus auf Effizienz in allen Bereichen und Stärkung der Wettbewerbsfähigkeit unserer (Produktions-)Standorte sowie der Reorganisation renditeschwacher Geschäftsbereiche sichert zudem die Zukunftsfähigkeit und Resilienz des Unternehmens"
+    },
+    {
+      "prioritaet": "Dekarbonisierung der Stahlerzeugung mit Ziel Net-Zero bis 2050 und Ausbau der Kreislaufwirtschaft",
+      "zitat": "Die wirtschaftlich erfolgreiche Dekarbonisierung der hochofenbasierten Stahlerzeugung mit dem klaren Ziel von Net-Zero-Emissionen bis 2050 und dem weiteren Auf- und Ausbau der Kreislaufwirtschaft bildet den dritten wesentlichen Pfeiler unserer Strategie."
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "US-Zölle und handelspolitische Eingriffe",
+      "kategorie": "Regulierung",
+      "zitat": "Neben geopolitischen Konflikten beeinflussen auch handelspolitisch motivierte Eingriffe in Märkte – etwa in Form von Zöllen und Gegenzöllen bzw. Sanktionen – das Wirtschaftswachstum. So war der voestalpine-Konzern von US-Zöllen auf Stahlimporte beim Export aus dem EU-Raum in die USA betroffen"
+    },
+    {
+      "risiko": "Risiken aus Großprojekten und Investitionen bezüglich Hochlauf und Kostensteigerung",
+      "kategorie": "Technologie",
+      "zitat": "Etwaigen Risiken aus Projekten (wie z. B. aus Großprojekten, aus Investitionen) wird durch den Einsatz unterschiedlichster Projektmanagement-Tools sowie durch ein entsprechendes Projekt-Monitoring – und je nach Größe des Projektes auch durch regelmäßige Projektaufsichtssitzungen unter Einbindung des Top-Managements – entgegengewirkt."
+    },
+    {
+      "risiko": "Mehraufwand und Pflichten durch deutsche und europäische Lieferkettengesetze",
+      "kategorie": "Regulierung",
+      "zitat": "Die erforderlichen Aktivitäten zur Erfüllung des deutschen Lieferkettensorgfaltspflichtengesetzes wurden initiiert. Prozessvorgaben an betroffenen Standorten sind ausgerollt und werden laufend abgearbeitet. Zur Vorbereitung auf das europäische Lieferkettensorgfaltspflichtengesetz wurden erste Umsetzungsmaßnahmen gestartet."
+    },
+    {
+      "risiko": "Strukturwandel und Standortbelastung in der europäischen Industrie durch Kosten und Regulierung",
+      "kategorie": "Markt",
+      "zitat": "Politische Spannungen auf europäischer Ebene, hohe Energie- und Arbeitskosten, strenge Umweltanforderungen, bürokratische Hürden sowie regulatorische Unsicherheiten belasten den Standort Europa weiterhin und können z. B. zu einer zunehmenden Abwanderung der Produktion und von Investitionen, zu einem Anstieg bei Insolvenzen und zu deutlichen Wettbewerbsnachteilen infolge einseitiger Regulierungen führen."
+    },
+    {
+      "risiko": "Liquiditätsrisiko bei künftigen Verbindlichkeiten und Mittelabflüssen",
+      "kategorie": "Finanzierung",
+      "zitat": "Liquiditätsrisiken bestehen im Allgemeinen darin, dass ein Unternehmen möglicherweise nicht in der Lage ist, den finanziellen Verpflichtungen nachzukommen. Die bestehenden Liquiditätsreserven versetzen die Gesellschaft in die Lage, auch in Krisenzeiten ihre Verpflichtungen fristgerecht zu erfüllen."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investitionsabflüsse bilden einen festen Bestandteil des für die kommenden zwölf Monate prognostizierten Liquiditätsbedarfs.",
+      "zitat": "Der geplante Liquiditätsbedarf der nächsten zwölf Monate setzt sich zusammen aus den planmäßigen Mittelabflüssen für Tilgung von Anleihen, Krediten und sonstigen Finanzierungsverbindlichkeiten, der Dividende, Investitionen sowie dem identifizierten Working Capital-Bedarf."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

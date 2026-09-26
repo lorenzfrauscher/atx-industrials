@@ -1,0 +1,46 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Verstärkte Deglobalisierung mit Nearshoring und Reshoring zur Stärkung regionaler Lieferketten",
+      "zitat": "Vor dem Hintergrund zunehmender geopolitischer Unsicherheiten setzt die PORR Gruppe – verankert in ihrer Unternehmensstrategie – auf eine verstärkte Deglobalisierung. Regionale Wertschöpfungsketten im Sinne von Nearshoring und Reshoring binden lokale Lieferanten und Partner stärker ein"
+    },
+    {
+      "prioritaet": "Systematische Dekarbonisierung und THG-Reduktion bis 2030",
+      "zitat": "Die Strategie umfasst eine Reduktion der THG-Emissionen in Scope 1 und 2 um 43 % (Basis 2024) sowie in Scope 3 um 25 % (Basis 2024) bis 2030."
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Risiken des Klimawandels durch Extremwetterereignisse und veränderte Rahmenbedingungen",
+      "kategorie": "Regulierung",
+      "zitat": "Die PORR Gruppe ist aufgrund ihres Geschäftsmodells direkt von den Risiken des Klimawandels betroffen, sowohl durch veränderte rechtliche und politische Rahmenbedingungen als auch durch physische Risiken wie beispielsweise Extremwetterereignisse."
+    },
+    {
+      "risiko": "Zinsrisiko durch bestehende Finanzverbindlichkeiten im anhaltend hohen Zinsumfeld",
+      "kategorie": "Finanzierung",
+      "zitat": "Im Zusammenhang mit dem anhaltend hohen Zinsniveau wird das Zinsrisiko durch aufgenommene Finanzverbindlichkeiten umfassend analysiert und die Zinssicherungsstrategie mittels Interest Rate Swaps auf die aktuelle wirtschaftliche Marktentwicklung abgestimmt (siehe Erläuterung 41.5)."
+    },
+    {
+      "risiko": "Geopolitische Spannungen und protektionistische Maßnahmen",
+      "kategorie": "Markt",
+      "zitat": "Die Auswirkungen protektionistischer Maßnahmen der USA sowie die anhaltenden geopolitischen Spannungen sind derzeit schwer abzuschätzen. Die PORR Gruppe erwartet eine weiterhin dynamische Entwicklung der geopolitischen Rahmenbedingungen"
+    },
+    {
+      "risiko": "Materialpreis- und Beschaffungsrisiken durch gestiegene Energie- und Rohstoffpreise",
+      "kategorie": "Lieferkette",
+      "zitat": "Die Konflikte haben daher bis dato lediglich indirekte Effekte auf die Vermögens- und Finanzlage der PORR Gruppe, insbesondere durch gestiegene Energie- und Rohstoffpreise. Zur Minderung des Materialpreisrisikos werden Bedarfsmengen und Preise durch den Abschluss von Rahmenverträgen durch die Lead Buyer des Zentraleinkaufs abgesichert."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Notwendigkeit wesentlicher Investitionen in neue Technologien zur Dekarbonisierung",
+      "zitat": "Für die Umsetzung des Dekarbonisierungsplans werden wesentliche Investitionen in neue Technologien notwendig sein. Im Einklang mit der Nachhaltigkeitsstrategie werden bestehende Anlagen bis zum Ende der Nutzungsdauer eingesetzt."
+    },
+    {
+      "aussage": "Investitionen durch Erwerb von Finanzimmobilien im Geschäftsjahr 2025",
+      "zitat": "Zugänge Erwerb 3.595 Zugänge Herstellungskosten 988 Umbuchungen -2.594 Währungsumrechnung 11 Anpassung an den beizulegenden Wert -289 Stand 31.12.2025 38.103 Die PORR Gruppe hält zur Erzielung von Mieteinnahmen und zum Zwecke der Wertsteigerung als Finanzinvestition gehaltene Immobilien"
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

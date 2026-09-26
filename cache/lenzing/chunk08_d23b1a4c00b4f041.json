@@ -1,0 +1,17 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Moderne Arbeitsbedingungen mit Fokus auf die Vereinbarkeit von Beruf und Familie",
+      "zitat": "In der strategischen HR-Ausrichtung sind „Moderne Arbeitsbedingungen“ als Schwerpunkt definiert. Ein zentrales Thema in diesem Zusammenhang ist die Vereinbarkeit von Beruf und Familie, das je nach Standort und landesspezifischen Bedürfnissen umgesetzt wird."
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investitionen in immaterielle Anlagen, Sachanlagen und biologische Vermögenswerte beliefen sich 2025 auf 141,083 Mio. Euro (Vorjahr: 153,761 Mio. Euro).",
+      "zitat": "Erwerb von immateriellen Anlagen, Sachanlagen und biologischen Vermögenswerten –141.083 –153.761 – Erwerb/Auszahlung von Finanzanlagen und Beteiligungen, die nach der Equity-Methode bilanziert werden –26.061 –37.024"
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

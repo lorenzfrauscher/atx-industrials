@@ -1,0 +1,58 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Fokus auf Exzellenz und Premiumisierung",
+      "zitat": "Um auf das weiterhin heraus fordernde Marktumfeld gezielt zu reagieren, wird der Fokus noch stärker auf Exzellenz und Premiumisierung als zen - trale Prioritäten gelegt."
+    },
+    {
+      "prioritaet": "Fokus auf margenstarke Marktsegmente und Premiumfasern",
+      "zitat": "Zu den Eckpfeilern der angepassten Strategie zählt der Fokus auf margenstarke Marktsegmente und Premiumfasern, die Steige - rung der operativen Effizienz und Agilität sowie die Optimierung der Produktionsstandorte."
+    },
+    {
+      "prioritaet": "Schrittweiser Rückzug aus Commodity-Segmenten",
+      "zitat": "In diesem Kontext fokussiert sich Lenzing noch stärker auf Premium fasern mit höheren Margen, vermarktet unter den Produktmarken TENCEL ™ und VEOCEL ™ sowie LENZING™ für technische und industrielle Anwendungen. Parallel dazu wird sich das Unternehmen aus margenschwachen Commodity-Segmen - ten schrittweise zurückziehen."
+    },
+    {
+      "prioritaet": "Effizienzsteigerung und Kostenreduktion",
+      "zitat": "Der Kernbereich Exzellenz zielt darauf ab, das Unternehmen agiler, effizienter und strukturell schlanker aufzustellen, um dadurch resilienter und profitabler zu werden. Die Maßnahmen umfassen alle operativen, kaufmännischen und globalen Funk - tionseinheiten."
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Anhaltend schwache Nachfrage und asiatische Konkurrenz",
+      "kategorie": "Markt",
+      "zitat": "Ergebnisrisiken für Lenzing resultieren insbesondere aus der anhal- tend schwachen Nachfrage nach regenerierten Cellulosefasern. Diese ist auf eine Verschiebung des Marktgleichgewichts aufgrund verstärkter asiatischer Konkurrenz und der daraus folgenden nied- rigen Faserpreise sowie auf die volatile Preisentwicklung zentraler Rohstoffe und Energie zurückzuführen."
+    },
+    {
+      "risiko": "Handelskonflikte und Lieferkettenbeeinträchtigungen",
+      "kategorie": "Lieferkette",
+      "zitat": "Angesichts der geopolitischen Spannungen führen globale Han- delskonflikte zu einem erhöhten Risiko zusätzlicher Handelsbe- schränkungen mit potenziellen negativen Auswirkungen auf für Lenzing relevante Lieferketten und Absatzmärkte."
+    },
+    {
+      "risiko": "Liquiditäts- und Zinsänderungsrisiken",
+      "kategorie": "Finanzierung",
+      "zitat": "Ein deutlich ansteigendes Zinsniveau oder eine unerwartet negative Entwick- lung des operativen Geschäfts und des dadurch generierten Free Cashflows würde ein Risiko für die verfügbare Liquidität darstellen."
+    },
+    {
+      "risiko": "Covenant-Bruch bei Finanzierungsverträgen",
+      "kategorie": "Finanzierung",
+      "zitat": "Eine Nichteinhaltung der in Finanzierungsverträgen vorhandenen Financial Covenants würde zu einer Rückzahlungspflicht der Fi- nanzverbindlichkeiten führen und damit ein Risiko für die verfü g- bare Liquidität darstellen."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investitionsprogramm von insgesamt 100 Mio. EUR für österreichische Produktionsstandorte inklusive Erweiterung der Vliesstoffkapazitäten",
+      "zitat": "Dazu zählt unter anderem die beschlossene Investition von EUR 15 Mio. in die Erweiterung der Vliesstoffkapazitäten am Standort Lenzing. Diese Investition ist Teil des geplanten Investitons - programms von insgesamt EUR 100 Mio. für die österreichischen Produktionsstandorte."
+    },
+    {
+      "aussage": "Übernahme der kontrollierenden Mehrheit an TreeToTextile AB zur Skalierung neuer Technologien",
+      "zitat": "Im Februar 2026 erhöhte die Lenzing Gruppe ihre bestehende Be- teiligung an T ree T o T extile AB und übernahm damit die kontrollie- rende Mehrheit. Mit der Mehrheitsübernahme unterstreicht Lenzing ihren Anspruch, die Premiumisierungsstrategie konse- quent voranzutreiben"
+    },
+    {
+      "aussage": "Investition von über 100 Mio. EUR in die Standorte Lenzing und Heiligenkreuz",
+      "zitat": "Wir treiben gezielt die Entwicklung neuer Produkte, Anwendungen, Prozesse und Techniken zur Marktreife an und schaffen so Mehrwert für unsere Kunden und Nachhaltig - keitsagenda. Lenzing plant Investitionen von über EUR 100 Mio. für die Standorte Lenzing und Heiligenkreuz, um deren Wett - bewerbsfähigkeit zu sichern."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

@@ -1,0 +1,56 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Kreislaufwirtschaft",
+      "zitat": "Die im Segment Süd + Ost gebündelten Baustoffaktivitäten zeigen in Summe eine zufriedenstellende Tendenz und sind für das Handlungsfeld Kreislaufwirtschaft der Strategie 2030 von wesentlicher Bedeutung."
+    },
+    {
+      "prioritaet": "Energiesektor",
+      "zitat": "Im Rahmen der Konzernstrategie 2030 beabsichtigt STRABAG u. a. verstärkt im Energiesektor zu bauen. Erneuerbare Energie- bzw. Wärmeerzeugung sowie deren Speicherung stehen dabei im Vordergrund."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Europa uebrig",
+      "aussage": "Rumaenien wird als vielversprechender Wachstumsmarkt mit hohem Infrastrukturbedarf eingestuft.",
+      "zitat": "Rumänien gilt weiterhin als vielversprechender Wachstumsmarkt mit erheblichem Infrastrukturbedarf, der teilweise durch EU-finanzierte Investitionen unterstützt wird. Belastend wirken derzeit vor allem fiskalpolitische Maßnahmen zur Reduzierung des Haushaltsdefizits."
+    },
+    {
+      "region": "Europa uebrig",
+      "aussage": "In Tschechien wird ein deutliches Wachstum bei Ausschreibungen im Verkehrswegebau beobachtet.",
+      "zitat": "Im tschechischen Verkehrswegebau ist ein deutliches Wachstum der Ausschreibungsvolumina zu beobachten. Insbesondere im Bahnbau zeigt sich eine positive Marktdynamik, in der für 2026 weitere Ausschreibungen in Höhe von rund € 3,6 Mrd. vorgesehen sind."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Marktrisiko durch zyklische Schwankungen",
+      "kategorie": "Markt",
+      "zitat": "Die gesamte Bauindustrie ist zyklischen Schwankungen unterworfen und reagiert regional und nach Sektoren unterschiedlich stark. Die allgemeine wirtschaftliche Entwicklung, die Entwicklung der Baumärkte, die Wettbewerbssituation, aber auch die Verhältnisse auf den Kapitalmärkten"
+    },
+    {
+      "risiko": "Fachkräftemangel und Personalengpässe",
+      "kategorie": "Markt",
+      "zitat": "Wesentlichen Personalrisiken wie Engpässen bei der Personalbeschaffung, Fachkräftemangel, Fluktuation sowie arbeitsrechtlichen Risiken wird mit einer strategischen Personalplanung, einer nachhaltigen, bedarfsorientierten Personalentwicklung und einer zentralen Personalverwaltung gegengesteuert."
+    },
+    {
+      "risiko": "Cyberkriminalität und IT-Sicherheit",
+      "kategorie": "Technologie",
+      "zitat": "Aufgrund zunehmender Bedrohungen durch IT-Risiken werden verschiedene Maßnahmen in Form von mehrstufigen Sicherheits- und Antivirenkonzepten, der Vergabe von Zugriffsrechten, Zugangskontrollsystemen mit Passwort-Policy, zweckmäßigen Datensicherungen und einer unabhängigen Energieversorgung umgesetzt."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investitionsprognose fuer 2026 inklusive Akquisitionen.",
+      "zitat": "Die Netto-Investitionen (Cashflow aus der Investitionstätigkeit) 2026 werden mit höchstens € 1.400 Mio. prognostiziert und spiegeln insbesondere den Erwerb von Baumaschinen sowie geplante Akquisitionen im Rahmen der Strategie 2030 wider."
+    },
+    {
+      "aussage": "Akquisition der Orbittal Electromech Engineering Projects in Indien.",
+      "zitat": "Mit Abtretungsvertrag vom 24.12.2025 hat STRABAG die in Indien ansässige Orbittal Electromech Enigneering Projects Private Limited, Pune, erworben. Die Gesellschaft erbringt im TGA-Bereich mit eigener Produktion einen Jahresumsatz von rund € 45 Mio."
+    },
+    {
+      "aussage": "Uebernahme der WTE Wassertechnik GmbH zur Erweiterung des Portfolios.",
+      "zitat": "Mit Abtretungsvertrag vom 18.6.2025 hat STRABAG 100 % der Anteile der WTE Wassertechnik GmbH, Essen, erworben. Die WTE-Gruppe plant, finanziert, baut und betreibt Projekte in den Bereichen Abwassermanagement, Wasserversorgung, Klärschlammbehandlung und Energierückgewinnung."
+    }
+  ],
+  "_modell": "gemini-3-flash-preview"
+}

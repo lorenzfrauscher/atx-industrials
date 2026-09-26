@@ -1,0 +1,42 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Nachhaltigkeitsprogramm 2026",
+      "zitat": "Der Vorstand trägt die Verantwortung für strategische und operative Themen, die Entwicklung und Umsetzung von Unternehmensrichtlinien und das Nachhaltigkeitsprogramm 2026. Der Vorstand legt Nachhaltigkeitsziele fest, wird durch KPI-Verantwortliche und Gruppenfunktionen unterstützt."
+    },
+    {
+      "prioritaet": "Dekarbonisierung und Kreislaufwirtschaft",
+      "zitat": "Der Nominierungs- und Vergütungsausschuss hat folgende Kriterien aus dem Programm abgeleitet: Umwelt, Dekarbonisierung, Energiemix, Kreislaufwirtschaft, Wasserbewirtschaftung. Für die kurzfristige variable Vergütung werden maximal zwei Kriterien aus dem Kriterienkatalog berücksichtigt."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Nordamerika",
+      "aussage": "Das Unternehmen bewertet physische Klimarisiken in seinen operativen Regionen, zu denen Nordamerika zählt.",
+      "zitat": "Die Bewertung erfolgte mit Unterstützung externer Experten und umfasste alle Regionen, in denen wienerberger tätig ist, darunter Europa, Nordamerika sowie wichtige Märkte entlang seiner globalen Wertschöpfungskette."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Physische Klimarisiken",
+      "kategorie": "Markt",
+      "zitat": "wienerberger hat eine Analyse der physischen Klimarisiken durchgeführt, um festzustellen, ob klimabedingte Gefahren Risiken für Vermögenswerte und Geschäftsaktivitäten über einen kurz- (bis 2030), mittel (bis 2040) und langfristigen Zeithorizont darstellen könnten."
+    },
+    {
+      "risiko": "Bestechung und Korruption",
+      "kategorie": "Regulierung",
+      "zitat": "Schulungen zu Bestechungs- und Korruptionsbekämpfung, wie im jeweiligen Konzept festgelegt, liegen in der Verantwortung des Vorstands. Vorstand, Aufsichtsrat und Betriebsrat erwarten, dass alle Mitarbeitenden und Geschäftspartner im Einklang mit Gesetzen handeln."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Das Management nutzt Fusionen und Übernahmen (M&A) sowie den Ausbau des Werksnetzes zur Risikominderung und Chancennutzung.",
+      "zitat": "Bei Minderung von Risiken und Nutzung von Chancen wählt das Management von wienerberger einen ganzheitlichen Ansatz, der die Bereiche Produktentwicklung, Fusionen und Übernahmen (Mergers and Acquisitions, M&A), Ausbau des Werksnetzes umfasst."
+    },
+    {
+      "aussage": "Das Unternehmen analysiert Transaktionen wie Fusionen und Partnerschaften im Rahmen der Unternehmensführung.",
+      "zitat": "wienerberger analysierte die Art seiner Transaktionen, einschließlich Fusionen, Übernahmen und Partnerschaften. wienerberger bewertete seine spezifischen Tätigkeiten im Baustoffsektor, einschließlich der Beschaffung von Rohstoffen, Produktions- und Vertriebsprozessen."
+    }
+  ],
+  "_modell": "gemini-3-flash-preview"
+}

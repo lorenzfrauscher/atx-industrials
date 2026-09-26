@@ -1,0 +1,48 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Fokus auf Entwicklung digitaler Produkte und Lösungen mit Schwerpunkt Cybersicherheit, KI und neue Technologien",
+      "zitat": "ANDRITZ sieht in der Digitalisierung ein wesentliches Wachstumsfeld für die Zukunft und wird daher weiterhin stark auf die Entwicklung digitaler Produkte und Lösungen fokussiert sein. Das Hauptaugenmerk liegt dabei auf Cybersicherheit, der Verwendung von Künstlicher Intelligenz"
+    },
+    {
+      "prioritaet": "Ausrichtung der F&E auf Netzstabilität, Systemflexibilität und Dekarbonisierung",
+      "zitat": "Die Forschungs - und Entwicklungsaktivitäten richten sich konsequent auf die zukünftigen Anforderungen an Netzstabilität und Systemflexibilität aus. Die Entwicklungen orientieren sich nicht nur am heutigen Markt, sondern antizipieren die technischen Herausforderungen einer vollständig dekarbonisierten Energieversorgung."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "China",
+      "aussage": "Im Bereich Metals Forming werden strukturelle Herausforderungen im Automobilsektor unter anderem durch Wachstum in China abgefedert.",
+      "zitat": "Im Bereich Metals Forming werden strukturelle Herausforderungen im Automobilsektor durch relativ stabile Nachfrage nach Nicht‑Automobil ‑Anwendungen sowie durch Wachstum in China abgefedert."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Risiko langsamer Produktentwicklung im Bereich Digitalisierung sowie Cyberangriffe",
+      "kategorie": "Technologie",
+      "zitat": "Die rasanten Entwicklungen im Bereich der Digitalisierung stellen jedoch auch ein Risiko dar, falls es ANDRITZ nicht gelingen sollte, die am Markt nachgefragten Produkte und Lösungen in der gebotenen Geschwindigkeit zu entwickeln und anzubieten."
+    },
+    {
+      "risiko": "Ausfälle von Lieferanten aufgrund geopolitischer Krisen, Konflikte oder Naturkatastrophen",
+      "kategorie": "Lieferkette",
+      "zitat": "Globale und regionale Krisen, politische bzw. wirtschaftliche Konflikte oder Naturkatastrophen können dazu führen, dass Lieferanten nicht in der Lage sind, von ANDRITZ bestellte Produkte rechtzeitig zu fertigen und zu liefern"
+    },
+    {
+      "risiko": "Währungs- und Wechselkursrisiken durch Auftragsabwicklung in Fremdwährungen",
+      "kategorie": "Finanzierung",
+      "zitat": "Obwohl die Gruppe bestrebt ist, die Nettowährungsposition von nicht in der jeweiligen funktionalen Währung der Konzerngesellschaft abgeschlossenen Aufträge durch den Abschluss von Termingeschäften abzusichern, können sich Währungsschwankungen mit Wechselkursverlusten im Konzernabschluss niederschlagen."
+    },
+    {
+      "risiko": "Verschlechterung des makroökonomischen und geopolitischen Umfelds sowie Zunahme globaler Handelsbarrieren",
+      "kategorie": "Markt",
+      "zitat": "Sollte sich das makroökonomische und geopolitische Umfeld deutlich verschlechtern, globale Handelsbarrieren weiter zunehmen oder der Euro weiter deutlich aufwerten, könnten sich negative Auswirkungen auf die Abwicklung und den Eingang von Aufträgen ergeben"
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investitionen in eine neue Dry Molded Fiber (DMF) Pilotanlage am Standort Montbonnot in Frankreich",
+      "zitat": "ANDRITZ forciert seinen Eintritt in die Dry Molded Fiber (DMF) Technologie durch Investitionen in eine neue DMF Pilotanlage am Standort in Montbonnot in Frankreich."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

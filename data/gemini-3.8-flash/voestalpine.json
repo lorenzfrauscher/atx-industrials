@@ -1,0 +1,588 @@
+{
+  "unternehmen": "voestalpine AG",
+  "schluessel": "voestalpine",
+  "berichtsjahr": "2025/26",
+  "gruppe": "Hersteller",
+  "quelldatei": "voestalpine_2025_26.pdf",
+  "modell": "gemini-3.8-flash",
+  "tatsaechlich_benutzte_modelle": [
+    "gemini-3.8-flash"
+  ],
+  "strikter_modus": true,
+  "chunks_gesamt": 8,
+  "chunks_fehlgeschlagen": [],
+  "seiten_im_pdf": 476,
+  "seiten_ausgewertet": 125,
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Klimafreundliche Stahlerzeugung durch das Transformationsprojekt greentec steel",
+      "zitat": "An den österreichischen Stahlstandorten Linz und Donawitz lag der Fokus der Investitionstätigkeit auf der Umsetzung des Transformationsprojektes greentec steel.",
+      "beleg_seite": 72,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Fokus auf Spitzenqualität und Service-Aktivitäten",
+      "zitat": "Die Division legte ihren Fokus daher noch weiter verstärkt auf Produktsegmente im obersten Qualitätsspektrum sowie auf Wertschöpfungs- und Service-Aktivitäten, wie beispielsweise Wärme- und Oberflächenbehandlungen.",
+      "beleg_seite": 60,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Regionale Diversifizierung im Bereich Nahtlosrohre",
+      "zitat": "Diese Maßnahmen erforderten eine schrittweise Rücknahme der Produktionskapazitäten in Verbindung mit Einsparungsprogrammen sowie einer bereits längerfristig vorbereiteten regionalen Diversifizierung in Richtung MENA.",
+      "beleg_seite": 65,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Fokussiertes Wachstum in renditestarken Bereichen wie Schieneninfrastruktur, Luftfahrtindustrie, Spezialprofilen und Lagertechnik",
+      "zitat": "Entsprechend unserem übergeordneten strategischen Ziel der Wertsteigerung und damit der Erhöhung des Unternehmenswerts ist das fokussierte Wachstum in attraktiven, renditestarken Bereichen wie der Schieneninfrastruktur, der Luftfahrtindustrie sowie bei Spezialprofilen und in der Lagertechnik ein wesentlicher strategischer Pfeiler.",
+      "beleg_seite": 122,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Aktives Portfoliomanagement, Effizienzfokus und Reorganisation renditeschwacher Geschäftsbereiche",
+      "zitat": "Ein aktives und konsequentes Management unseres Portfolios mit Fokus auf Effizienz in allen Bereichen und Stärkung der Wettbewerbsfähigkeit unserer (Produktions-)Standorte sowie der Reorganisation renditeschwacher Geschäftsbereiche sichert zudem die Zukunftsfähigkeit und Resilienz des Unternehmens und bildet damit den zweiten wesentlichen Pfeiler unserer Strategie.",
+      "beleg_seite": 122,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Wirtschaftlich erfolgreiche Dekarbonisierung der Stahlerzeugung mit dem Ziel Net-Zero bis 2050 und Ausbau der Kreislaufwirtschaft",
+      "zitat": "Die wirtschaftlich erfolgreiche Dekarbonisierung der hochofenbasierten Stahlerzeugung mit dem klaren Ziel von Net-Zero-Emissionen bis 2050 und dem weiteren Auf- und Ausbau der Kreislaufwirtschaft bildet den dritten wesentlichen Pfeiler unserer Strategie.",
+      "beleg_seite": 122,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Schrittweise Dekarbonisierung der Stahlerzeugung im Rahmen des Klimaschutzprogramms greentec steel bis 2050",
+      "zitat": "Um der Herausforderung dieser Dekarbonisierung der Stahlerzeugung unter Erhalt der Wirtschaftlichkeit und Wettbewerbsfähigkeit zu begegnen und das Net-Zero-Ziel bis 2050 zu erreichen, hat die voestalpine das ambitionierte Klimaschutzprogramm greentec steel als ein Kernelement in der Konzern- und Nachhaltigkeitsstrategie entwickelt.",
+      "beleg_seite": 124,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Ausbau der Kreislaufwirtschaft und Erhöhung des Schrotteinsatzes bis 2030",
+      "zitat": "Um diese Herausforderungen zu adressieren, hat sich die voestalpine die strategischen Ziele gesetzt, die Versorgung der Produktionsstandorte mit den benötigten Rohstoffen und Energien langfristig und wirtschaftlich abzusichern sowie die Kreislaufwirtschaft weiter auszubauen und den Einsatz von Schrott als Sekundärrohstoff in der Stahlerzeugung bis 2030 um 50 % zu erhöhen.",
+      "beleg_seite": 124,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Senkung der Unfallhäufigkeitsquote bis 2030",
+      "zitat": "Daher wird kontinuierlich an der weiteren Reduktion der Unfallhäufigkeit sowie der Erhöhung der Gesundheitsquote gearbeitet, um sich der Vision von „Zero Accidents“ anzunähern. Strategisch soll die Unfallhäufigkeitsquote bis 2030 auf 5,5 gesenkt werden.",
+      "beleg_seite": 124,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Umfassende Reduktion der Treibhausgasemissionen und Transformation zu einer emissionsaermeren Stahlproduktion",
+      "zitat": "Die voestalpine verfolgt eine umfassende Reduktion der Treibhausgasemissionen entlang der gesamten Wertschöpfungskette und hat sich im Rahmen der Science Based Targets initiative (SBTi) verpflichtet, ihre Emissionen entsprechend dem wissenschaftlich fundierten 2-Grad-Reduktionspfad zu senken.",
+      "beleg_seite": 183,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Stufenweise Dekarbonisierung der Stahlproduktion (greentec steel) und Reduktion von Emissionen bis Net-Zero 2049/50",
+      "zitat": "Die Umsetzung des greentec steel-Programms – die stufenweise Transformation der Prozesse zur Rohstahlherstellung – im Rahmen des Klimaübergangsplans ermöglicht eine nachhaltige Weiterentwicklung des Kerngeschäfts, indem emissionsarme Technologien schrittweise eingeführt und bestehende Prozesse optimiert werden.",
+      "beleg_seite": 186,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Steigerung des Schrotteinsatzes in der Rohstahlherstellung im Rahmen der Kreislaufwirtschaft",
+      "zitat": "Die voestalpine setzt auf eine effiziente Ressourcennutzung, indem Schrott und andere metallhaltige Rückstände wieder in den Produktionsprozess zurückgeführt werden. Bis 2030 soll der Einsatz von Sekundärrohstoffen weiter gesteigert werden, indem der Schrotteinsatz in der Rohstahlherstellung um 50 % erhöht wird.",
+      "beleg_seite": 217,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Implementierung der F&E- und Innovationsstrategie 2030+",
+      "zitat": "Im Geschäftsjahr 2025/26 wurde ausgehend von der Konzernstrategie 2030+ die F&E- und Innovationsstrategie 2030+ konzeptioniert, deren Implementierung ab dem Geschäftsjahr 2026/27 geplant ist. Die Strategie zielt darauf ab, den wirtschaftlichen Erfolg des Unternehmens langfristig durch innovative Prozesse und nachhaltige Produkte zu sichern.",
+      "beleg_seite": 229,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Steigerung des Anteils weiblicher Führungskräfte auf 18 % bis 2030",
+      "zitat": "Die Konzernstrategie sieht vor, den Anteil weiblicher Führungskräfte bis 2030 von 14 % auf 18 % zu erhöhen. Im Fokus stehen dabei auch die Aktivitäten auf den drei Ebenen Positionierung, Halten sowie Begleiten/Fordern/Fördern.",
+      "beleg_seite": 245,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Konzernweite Umsetzung von acht strategischen Handlungsfeldern der HR-Strategie",
+      "zitat": "Zur Umsetzung der Strategie arbeitet die voestalpine konzernweit an acht strategischen Handlungsfeldern, die zentrale Hebel zur Erreichung der HR-Ziele darstellen: 1. Werte und Kulturmanagement: Aktives Management der Unternehmenswerte zur Begleitung von Technologiewandel und gesellschaftlichem Wandel",
+      "beleg_seite": 245,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Schrittweise Ausdehnung des Due-Diligence-Prozesses auf den gesamten Konzern",
+      "zitat": "Zur Weiterentwicklung des Lieferkettenmanagements schafft die voestalpine derzeit die organisatorischen und prozessualen Voraussetzungen, um den bestehenden Due-Diligence-Prozess – der bislang auf Gesellschaften mit Verpflichtung nach dem Lieferkettensorgfaltspflichtengesetz (LkSG) beschränkt ist – schrittweise auf den gesamten Konzern auszudehnen.",
+      "beleg_seite": 306,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Weiterer Ausbau von Servicedienstleistungen, Digital Sales und Optimierungsprogrammen in der CGU Value Added Services",
+      "zitat": "Der weitere Ausbau der Servicedienstleistungen im Planungszeitraum führt zu einer engeren Kundenbindung und einer Vertiefung der Wertschöpfung. Das konsequente Weitertreiben bereits bewährter Einsparungs- und Optimierungsprogramme sowie Vertriebsaktivitäten in margenstarken Subsegmenten wie auch Initiativen im Bereich Global Supply Chain Management und Digital Sales",
+      "beleg_seite": 388,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Fortführung der Ausrichtung als Komplettanbieter im Geschäftsbereich Welding",
+      "zitat": "Die strategische Ausrichtung des Geschäftsbereichs als Komplettanbieter der „Perfekten Schweißnaht“ („The Perfect Weld Seam“) wird im Planungszeitraum unverändert weiterverfolgt. Bereits eingeleitete sowie laufende Optimierungs- und Effizienzprogramme werden konsequent fortgeführt",
+      "beleg_seite": 389,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Nordamerika",
+      "aussage": "Die Rollforming Corporation baut am Standort Jeffersonville die Produktionskapazitäten aus und plant eine Verdoppelung des Leistungspotenzials.",
+      "zitat": "Am Standort Jeffersonville, USA, trieb die nordamerikanische Gesellschaft Rollforming Corporation die Erweiterung der Produktionskapazitäten weiter voran.",
+      "beleg_seite": 74,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "region": "Indien",
+      "aussage": "Indien bietet aus Sicht des Unternehmens großes Wachstumspotenzial.",
+      "zitat": "In Asien wird von einer stetigen Erholung in China ausgegangen, wobei der Rest Asiens sich langsam wieder von dem derzeit schwachen Wachstum erholen wird. Indien hat großes Wachstumspotenzial.",
+      "beleg_seite": 388,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "region": "China",
+      "aussage": "In China wird von einer stetigen Erholung ausgegangen.",
+      "zitat": "In Asien wird von einer stetigen Erholung in China ausgegangen, wobei der Rest Asiens sich langsam wieder von dem derzeit schwachen Wachstum erholen wird. Indien hat großes Wachstumspotenzial.",
+      "beleg_seite": 388,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "region": "Europa uebrig",
+      "aussage": "In Europa wird eine leichte Erholung und mittelfristig ein gedämpftes Wachstum prognostiziert.",
+      "zitat": "Die internen Prognosen und Einschätzungen – die Entwicklung dieser Regionen betreffend – stützen sich auf externe Informationsquellen. 1 In Europa wird eine leichte Erholung und mittelfristig ein gedämpftes Wachstum erwartet.",
+      "beleg_seite": 388,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "US-Handelszölle und regulatorische Handelsmaßnahmen",
+      "kategorie": "Regulierung",
+      "zitat": "Seit Juni 2025 erschweren erhöhte Importzölle auf Stahlprodukte die Absatzmöglichkeiten in den USA erheblich.",
+      "beleg_seite": 65,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Intensiver globaler Wettbewerb und Preisdruck",
+      "kategorie": "Markt",
+      "zitat": "Dieser Bereich verzeichnete über das gesamte Geschäftsjahr 2025/26 hinweg einen intensiven globalen Wettbewerb und damit einhergehenden Preisdruck.",
+      "beleg_seite": 60,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Handelspolitisch motivierte Markteingriffe, insbesondere US-Zölle auf Stahlprodukte",
+      "kategorie": "Markt",
+      "zitat": "Neben geopolitischen Konflikten beeinflussen auch handelspolitisch motivierte Eingriffe in Märkte – etwa in Form von Zöllen und Gegenzöllen bzw. Sanktionen – das Wirtschaftswachstum. So war der voestalpine-Konzern von US-Zöllen auf Stahlimporte beim Export aus dem EU-Raum in die USA betroffen",
+      "beleg_seite": 86,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Belastung des Standorts Europa durch politische Spannungen, hohe Kosten und regulatorische Hürden",
+      "kategorie": "Regulierung",
+      "zitat": "Politische Spannungen auf europäischer Ebene, hohe Energie- und Arbeitskosten, strenge Umweltanforderungen, bürokratische Hürden sowie regulatorische Unsicherheiten belasten den Standort Europa weiterhin und können z. B. zu einer zunehmenden Abwanderung der Produktion und von Investitionen, zu einem Anstieg bei Insolvenzen und zu deutlichen Wettbewerbsnachteilen infolge einseitiger Regulierungen führen.",
+      "beleg_seite": 93,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Mehraufwand und Haftungsrisiken durch Lieferkettensorgfaltspflichtengesetze",
+      "kategorie": "Regulierung",
+      "zitat": "Die erforderlichen Aktivitäten zur Erfüllung des deutschen Lieferkettensorgfaltspflichtengesetzes wurden initiiert. Prozessvorgaben an betroffenen Standorten sind ausgerollt und werden laufend abgearbeitet. Zur Vorbereitung auf das europäische Lieferkettensorgfaltspflichtengesetz wurden erste Umsetzungsmaßnahmen gestartet.",
+      "beleg_seite": 93,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Liquiditätsrisiko und Nichterfüllung finanzieller Verpflichtungen",
+      "kategorie": "Finanzierung",
+      "zitat": "Liquiditätsrisiken bestehen im Allgemeinen darin, dass ein Unternehmen möglicherweise nicht in der Lage ist, den finanziellen Verpflichtungen nachzukommen. Die bestehenden Liquiditätsreserven versetzen die Gesellschaft in die Lage, auch in Krisenzeiten ihre Verpflichtungen fristgerecht zu erfüllen.",
+      "beleg_seite": 93,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Bonitätsrisiko und Ausfall von Forderungen gegenüber Geschäftspartnern",
+      "kategorie": "Finanzierung",
+      "zitat": "Das Bonitätsrisiko bezeichnet Vermögensverluste, die aus der Nichterfüllung von Vertragsverpflichtungen einzelner Geschäftspartner:innen entstehen können. Das Bonitätsrisiko der Grundgeschäfte ist durch einen hohen Anteil an Kreditversicherungen und bankmäßigen Sicherheiten (Garantien, Akkreditive) weitestgehend abgesichert.",
+      "beleg_seite": 94,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Währungs- und Zinsrisiken im Finanzbereich",
+      "kategorie": "Finanzierung",
+      "zitat": "Die Zinsrisikobeurteilung erfolgt für den gesamten Konzern zentral in der voestalpine AG. Hier wird insbesondere das Cashflow-Risiko (Risiko, dass sich der Zinsaufwand bzw. Zinsertrag zum Nachteil verändert) gemanagt.",
+      "beleg_seite": 95,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Projektrisiken, insbesondere Hochlauf- und Kostensteigerungsrisiken bei Großprojekten",
+      "kategorie": "Technologie",
+      "zitat": "Etwaigen Risiken aus Projekten (wie z. B. aus Großprojekten, aus Investitionen) wird durch den Einsatz unterschiedlichster Projektmanagement-Tools sowie durch ein entsprechendes Projekt-Monitoring – und je nach Größe des Projektes auch durch regelmäßige Projektaufsichtssitzungen unter Einbindung des Top-Managements – entgegengewirkt.",
+      "beleg_seite": 92,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Höhere Kosten durch CO2-Bepreisung und Wettbewerbsnachteile",
+      "kategorie": "Regulierung",
+      "zitat": "CO2e-Bepreisungsmechanismen wie das EU-Emissionshandelssystem (ETS) und der CO2 -Grenzausgleichsmechanismus (CBAM) führen zu steigenden finanziellen Belastungen, die potenziell Wettbewerbsnachteile gegenüber Nicht-EU-Wettbewerber:innen verursachen und einen strukturellen Wandel, wie Abwanderung von Abnehmerindustrien und einen höheren Preiswettbewerb, in der Industrie auslösen können.",
+      "beleg_seite": 135,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Engpässe in der Energieversorgung und höhere Beschaffungskosten",
+      "kategorie": "Lieferkette",
+      "zitat": "Gleichzeitig können damit verbundene transitorische Risiken entstehen – insbesondere in Bezug auf Lieferengpässe für Energie, wichtige Rohstoffe und damit einhergehende höhere Kosten und sich verändernden Wettbewerb –, denen mit laufenden Maßnahmen entgegengewirkt wird (siehe E1-3).",
+      "beleg_seite": 135,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Sicherstellung der Produktqualität bei vermehrtem Schrotteinsatz",
+      "kategorie": "Technologie",
+      "zitat": "Dem Risiko der „Sicherstellung der Produktqualität bei vermehrtem Schrotteinsatz“ begegnet die voestalpine mit einem breiten Maßnahmenbündel. Kern dieser Maßnahmen ist der verstärkte Forschungsfokus, um nach Umstellung von der Hochofen- auf die Elektrolichtbogenofenroute weiterhin Stahlgüten in höchster Qualität herstellen zu können (siehe Kapitel I, F&E).",
+      "beleg_seite": 134,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Lieferkettenprobleme durch klimabedingte Pegelschwankungen",
+      "kategorie": "Lieferkette",
+      "zitat": "Ein chronisches Klimarisiko sind beispielsweise klimabedingte Pegelschwankungen von Flüssen, die die Schiffbarkeit beeinträchtigen (z. B. auf der Donau) und dadurch Lieferkettenprobleme verursachen können.",
+      "beleg_seite": 145,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Risiken bei der technischen Umstellung auf emissionsarme Technologien im Rahmen von greentec steel",
+      "kategorie": "Technologie",
+      "zitat": "Die Transformation hin zu einer emissionsarmen Stahlproduktion im Rahmen von greentec steel erfordert von der voestalpine erhebliche Investitionen in neue Technologien und Anlagen, die unter teils unsicheren gesetzlichen Rahmenbedingungen getätigt werden, z. B.",
+      "beleg_seite": 181,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Kostenbelastungen und Wettbewerbsnachteile durch CO2e-Bepreisungsmechanismen",
+      "kategorie": "Regulierung",
+      "zitat": "CO2e-Bepreisungsmechanismen wie das EU-Emissionshandelssystem (ETS) und der CO2-Grenzausgleichsmechanismus (CBAM) führen zu steigenden finanziellen Belastungen, die potenziell Wettbewerbsnachteile gegenüber Nicht-EU-Wettbewerber:innen verursachen und einen strukturellen Wandel, wie Abwanderung von Abnehmerindustrien und einen höheren Preiswettbewerb, in der Industrie auslösen können.",
+      "beleg_seite": 181,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Lieferengpaesse und hoehere Kosten fuer wichtige Materialien und Rohstoffe",
+      "kategorie": "Lieferkette",
+      "zitat": "Im Zuge der Transformation steigt die Nachfrage nach kritischen Rohstoffen wie Stahlschrott sowie speziellen Metallen und Legierungen, wodurch das Risiko von Versorgungsengpässen zunimmt. Die voestalpine sieht sich mit einem wachsenden Bedarf konfrontiert, der potenziell zu Produktionsverzögerungen oder Qualitätsrisiken führen kann.",
+      "beleg_seite": 182,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Versorgungsengpaesse und steigende Beschaffungskosten im Energiebereich",
+      "kategorie": "Markt",
+      "zitat": "Das transitorische Risiko für die voestalpine umfasst mögliche Versorgungsengpässe an großen Produktionsstandorten (insbesondere Linz und Donawitz) sowie steigende Energiebeschaffungskosten (erneuerbare und nicht erneuerbare Quellen) vor dem Hintergrund der europäischen Energiewende.",
+      "beleg_seite": 182,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Transitorisches Risiko durch Kosten aufgrund von CO2e-Bepreisung",
+      "kategorie": "Regulierung",
+      "zitat": "Die voestalpine begegnet diesem Risiko durch gezielte Investitionen im Rahmen einer schrittweisen Transformation der Produktionsprozesse. Ergänzend setzt der Konzern auf verstärkte Differenzierung in Produktqualität, Flexibilität und Service.",
+      "beleg_seite": 191,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Lieferengpässe bzw. höhere Kosten für wichtige Materialien und Rohstoffe",
+      "kategorie": "Lieferkette",
+      "zitat": "Zur Reduktion der indirekten Treibhausgasemissionen entlang Scope 3 bis zum Geschäftsjahr 2029/30 konzentriert sich die voestalpine auf gezielte Maßnahmen innerhalb ihrer Wertschöpfungskette. Ein zentraler Dekarbonisierungshebel ist dabei das Supplier Engagement, eine Dekarbonisierung wesentlicher bestehender Rohstoffe.",
+      "beleg_seite": 190,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Sinkende Produktqualität bei vermehrtem Schrotteinsatz",
+      "kategorie": "Technologie",
+      "zitat": "Der erhöhte Einsatz von Schrott im Zuge der Umstellung von primär kohlebasierten Hochöfen auf Elektrolichtbogenöfen birgt das Risiko sinkender Produktqualität. Wesentlich ist dieses Risiko aufgrund potenzieller Qualitätseinbußen bei verändertem Rohstoffeinsatz (Schrott, Feinerz) sowie aufgrund hoher Qualitätsanforderungen der Abnehmerbranchen.",
+      "beleg_seite": 228,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Berufliche Gefahren, Risiken für Arbeitsunfälle, Verletzungen und Erkrankungen",
+      "kategorie": "Technologie",
+      "zitat": "Die Mitarbeiter:innen der voestalpine sind aufgrund der Branche, der Art ihrer Arbeit oder der Umgebung, in der sie arbeiten, beruflichen Gefahren und Risiken ausgesetzt, die zu Unfällen, Verletzungen, Krankheiten oder Erkrankungen führen können.",
+      "beleg_seite": 242,
+      "treffertyp": "exakt_mehrdeutig",
+      "zitat_gefunden": true,
+      "weitere_fundstellen": [
+        249
+      ],
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Nachhaltigkeitsrisiken und Verletzungen von Menschen- und Arbeitsrechten in der Lieferkette",
+      "kategorie": "Lieferkette",
+      "zitat": "Als Nachhaltigkeitsrisiken gelten hier mögliche Verletzungen von Gesetzen und Richtlinien in den Bereichen Menschenrechte und Umweltschutz (siehe nachfolgende Tabelle). Dazu zählt auch das Risiko möglicher Verletzungen von Menschen- und Arbeitsrechten, von dem die Arbeitskräfte in der Lieferkette betroffen sein können.",
+      "beleg_seite": 306,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Unsicherheiten und protektionistische Maßnahmen auf dem nordamerikanischen Markt",
+      "kategorie": "Markt",
+      "zitat": "Der nordamerikanische Markt ist aufgrund der aktuellen politischen Kräfte und der protektionistischen Maßnahmen von Unsicherheiten geprägt. In Asien wird von einer stetigen Erholung in China ausgegangen",
+      "beleg_seite": 388,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Risiko der Nichterfüllung von Zahlungsverpflichtungen (Liquiditätsrisiko)",
+      "kategorie": "Finanzierung",
+      "zitat": "Das Liquiditätsrisiko bezeichnet das Risiko, Zahlungsverpflichtungen nicht durch Lieferung von Zahlungsmitteln erfüllen zu können. Ziel des Konzerns in der Steuerung der Liquidität ist es, sicherzustellen, dass stets ausreichend liquide Mittel verfügbar sind",
+      "beleg_seite": 414,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Ausfall von Forderungen bzw. Bonitätsrisiko von Geschäftspartnern",
+      "kategorie": "Finanzierung",
+      "zitat": "Das Bonitätsrisiko bezeichnet Vermögensverluste, die aus der Nichterfüllung von Vertragsverpflichtungen einzelner Geschäftspartner:innen entstehen können. Das Management des Bonitätsrisikos von Veranlagungs- und Derivatgeschäften wird in internen Richtlinien reglementiert.",
+      "beleg_seite": 418,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Währungsrisiko durch Rohstoffeinkäufe in USD und weltweite Fremdwährungsexposures",
+      "kategorie": "Finanzierung",
+      "zitat": "Die größte Währungsposition im Konzern entsteht durch Einkäufe von Rohstoffen in US-Dollar, durch die weltweite Geschäftstätigkeit des voestalpine-Konzerns ergeben sich jedoch auch Währungs-exposures in diversen anderen Währungen.",
+      "beleg_seite": 421,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Zinsänderungs- bzw. Cashflow-Risiko bei variabel verzinsten Finanzinstrumenten",
+      "kategorie": "Finanzierung",
+      "zitat": "Die voestalpine AG unterliegt primär einem Cashflow-Risiko (Risiko, dass sich der Zinsaufwand bzw. Zinsertrag zum Nachteil verändert) bei variabel verzinsten Finanzinstrumenten.",
+      "beleg_seite": 422,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Akquisition von 100 % der Anteile an HIRD Rail Services Limited im Bereich Railway Systems.",
+      "zitat": "Im Juli 2025 erwarb der Geschäftsbereich Railway Systems 100 % der Anteile an der Gesellschaft HIRD Rail Services Limited mit Sitz in Doncaster, Großbritannien.",
+      "beleg_seite": 75,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Verkauf von voestalpine BÖHLER Profil an Kadant Inc.",
+      "zitat": "Im Rahmen der Neuorganisation der High Performance Metals Division beschloss das Management der Division aus strategischen Gründen den Verkauf von voestalpine BÖHLER Profil.",
+      "beleg_seite": 75,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Verkauf der voestalpine Camtec Gruppe durch die Steel Division.",
+      "zitat": "Im August 2025 veräußerte die Steel Division die voestalpine Camtec Gruppe.",
+      "beleg_seite": 75,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Investitionen in Höhe von rund 70 Mio. EUR zur Kapazitätserweiterung am Standort Jeffersonville.",
+      "zitat": "Das Investitionsvolumen für die zusätzlichen Profilier- und Weiterverarbeitungsanlagen beläuft sich auf rund 70 Mio. EUR.",
+      "beleg_seite": 74,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Investition von 1,5 Mrd. EUR in zwei grünstrombetriebene Elektrolichtbogenöfen an den Standorten Linz und Donawitz",
+      "zitat": "In der ersten Phase werden bereits 1,5 Mrd. EUR in einen grünstrombetriebenen Elektrolichtbogenofen in Linz und in eine grünstrombetriebene Elektrolichtbogenofenanlage in Donawitz investiert, die jeweils einen Hochofen ersetzen sollen.",
+      "beleg_seite": 124,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "aussage": "Investitionen in zukunftsweisende und wasserstoffbasierte Technologien",
+      "zitat": "Die voestalpine investiert in wasserstoffbasierte und zukunftsweisende Technologien, um eine emissionsarme Produktion zu ermöglichen.",
+      "beleg_seite": 123,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "aussage": "Investitionsbudget von 1,5 Mrd. EUR fuer die erste Phase des Projekts greentec steel bis zum Geschaeftsjahr 2027/28",
+      "zitat": "Der CapEx-Plan umfasst ein Gesamtvolumen von 1,5 Mrd. EUR und wird aller Voraussicht nach im Geschäftsjahr 2027/28 abgeschlossen werden. Im abgelaufenen Geschäftsjahr wurden 292,7 Mio. EUR (2024/25: 134,4 Mio. EUR) im Zuge des CapEx-Plans als taxonomiekonform unter der Wirtschaftstätigkeit 3.9 Herstellung von Eisen und Stahl klassifiziert.",
+      "beleg_seite": 176,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "aussage": "Gezielte Investitionen der naechsten Jahre in emissionsarme Technologien und energieeffiziente Anlagen",
+      "zitat": "Die finanziellen Mittel zur Umsetzung von Phase 1 dieser Transformation sind in der Mittelfristplanung berücksichtigt. Die voestalpine investiert in den nächsten Jahren gezielt in emissionsarme Technologien und energieeffiziente Anlagen.",
+      "beleg_seite": 184,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "aussage": "Aufsichtsrat genehmigte rund 1,5 Mrd. EUR CapEx für Elektrolichtbogenöfen in Linz und Donawitz (Phase 1 greentec steel), wovon bis Ende 2025/26 rund 0,9 Mrd. EUR investiert wurden.",
+      "zitat": "Rund 1,5 Mrd. EUR wurden für die Elektrolichtbogenöfen in Linz und Donawitz im Zuge der Phase 1 des Klimaschutzprogramms greentec steel vom Aufsichtsrat bereits genehmigt, was einen zentralen Bestandteil des Klimaübergangsplans des Unternehmens bildet. Davon wurden bereits rund 0,9 Mrd. EUR bis zum Ende des Geschäftsjahres 2025/26",
+      "beleg_seite": 185,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "aussage": "Im Geschäftsjahr wurden 381,8 Mio. EUR als taxonomiekonformer CapEx ausgewiesen, wovon 292,7 Mio. EUR auf greentec steel entfallen.",
+      "zitat": "Im aktuellen Geschäftsjahr wurden insgesamt 381,8 Mio. EUR CapEx als taxonomiekonform ausgewiesen (siehe auch Kapitel Angaben nach der EU-Taxonomie-Verordnung), wobei 303,3 Mio. EUR auf die Wirtschaftstätigkeit 3.9 Herstellung von Eisen und Stahl entfallen, wovon wiederum 292,7 Mio. EUR Investitionen in Zusammenhang mit greentec steel darstellen.",
+      "beleg_seite": 185,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "aussage": "Fördermittel in Höhe von rund 90 Mio. EUR für Elektrolichtbogenofentechnologie und Forschung erhalten.",
+      "zitat": "Darüber hinaus hat die voestalpine Förderzusagen in Höhe von rund 90 Mio. EUR für die Investition in die Elektrolichtbogenofentechnologie und weitere Forschungsaktivitäten erhalten. Diese Mittel stammen aus dem Programm „Transformation der Industrie“ der österreichischen Bundesregierung und unterstützen die Umsetzung zentraler Dekarbonisierungshebel.",
+      "beleg_seite": 185,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "aussage": "Investitionen in greentec steel durch den Ersatz von Hochöfen durch Elektrolichtbogenöfen ab 2027 und 2032 sowie in CO2-Abscheidetechnologien",
+      "zitat": "In dieser sind die Investitionen in Richtung greentec steel – Ersatz von zwei der drei Hochöfen durch Elektrolichtbogenöfen mit geplanten Inbetriebnahmen ab dem Jahr 2027 und 2032 – sowie Investitionen für CO2 -Abscheidetechnologien (CCUS) enthalten.",
+      "beleg_seite": 387,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Weitgehender Abschluss der Portfoliobereinigung der HPM Division durch Unternehmensverkäufe und Standortkonsolidierungen",
+      "zitat": "Die Portfoliobereinigung der HPM Division ist mit den Unternehmensverkäufen (Buderus Edelstahl und BÖHLER Profil), den Kapazitätsanpassungen bei der voestalpine BÖHLER Bleche und den weltweiten Standortkonsolidierungen weitgehend abgeschlossen.",
+      "beleg_seite": 387,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Investitionen in eine Elektrolichtbogenofen-Anlage im Rahmen von greentec steel im Geschäftsbereich Railway Systems",
+      "zitat": "Ebenso sind die Investitionen in Richtung greentec steel in der 5-Jahres-Mittelfristplanung sowie in der Grobplanungsphase für eine Elektrolichtbogenofen-Anlage und deren Erweiterung in der Vorproduktionsstufe enthalten.",
+      "beleg_seite": 389,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Auszahlungen für Unternehmenserwerbe im Berichtsjahr",
+      "zitat": "Im Cashflow aus der Investitionstätigkeit sind aus Unternehmenserwerben Zugänge an Zahlungsmitteln und Zahlungsmitteläquivalenten in Höhe von 0,6 Mio. EUR (2024/25: 0,0 Mio. EUR) enthalten und ein Kaufpreis in Höhe von 30,7 Mio. EUR",
+      "beleg_seite": 435,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Abgang von Tochtergesellschaften und Veräußerungsgruppen mit entsprechenden Cashflows",
+      "zitat": "Aufgrund des Abganges von Tochtergesellschaften im laufenden Geschäftsjahr sind 1,5 Mio. EUR (2024/25: 0,0 Mio. EUR) Zahlungsmittel und Zahlungsmitteläquivalente abgeflossen und es ist ein Verkaufserlös in der Höhe von 4,7 Mio. EUR zugeflossen.",
+      "beleg_seite": 435,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    }
+  ],
+  "zitatpruefung": {
+    "exakt": 39,
+    "exakt_nach_normalisierung": 25,
+    "exakt_mehrdeutig": 1
+  },
+  "abschnittsverteilung": {
+    "elemente_nachhaltigkeitsberichterstattung": 26,
+    "elemente_geschaeftsbericht": 39,
+    "ausgewertete_seiten_nachhaltigkeitsberichterstattung": 46
+  }
+}

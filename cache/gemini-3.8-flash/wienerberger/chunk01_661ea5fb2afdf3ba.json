@@ -1,0 +1,25 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Positionierung als führender Komplettanbieter von Lösungen für die Gebäudehülle sowie für Energie- und Wassermanagement in der Infrastruktur",
+      "zitat": "Unser Ziel ist die konsequente Steigerung der Wertschöpfung sowie unsere Positionierung als führender Komplettanbieter von Lösungen für die Gebäudehülle sowie für Energie- und Wassermanagement in der Infrastruktur ."
+    },
+    {
+      "prioritaet": "Fokus auf Forschung und Entwicklung für Energieeffizienz, smarte Funktionalitäten und Nachhaltigkeitsziele",
+      "zitat": "Unser Ziel ist die Entwicklung von Lösungen, die einen umweltfreundlichen, schnellen und einfachen Einbau auf der Baustelle ermöglichen, zum Klimaschutz und zur Energieeffizienz von Gebäuden beitragen und spürbaren Mehrwert für unsere Kunden schaffen."
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investitionen in moderne Rohrproduktionsstätten zur Stärkung der technologischen Führerschaft",
+      "zitat": "Investitionen in unseren modernen industriellen Footprint – darunter unsere hochinnovative Rohrproduktionsstätte in Schweden – unterstreichen unser Bekenntnis zu technologischer Führerschaft und nachhaltigen Infrastrukturlösungen."
+    },
+    {
+      "aussage": "Evaluierung der Italcer-Gruppe als potenzielles Akquisitionsziel",
+      "zitat": "Im Dezember 2025 fanden zudem strategische Beratungen mit dem Management im Hinblick auf die Evaluierung der Italcer- Gruppe als mögliches Akquisitionsziel statt."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

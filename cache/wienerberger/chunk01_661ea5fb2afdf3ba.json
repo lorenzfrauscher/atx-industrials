@@ -1,0 +1,37 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Positionierung als fuehrender Komplettanbieter von Loesungen fuer die Gebaeudehuelle sowie fuer Energie- und Wassermanagement",
+      "zitat": "Unser Ziel ist die konse-quente Steigerung der Wertschöpfung sowie unsere Positio-nierung als führender Komplettanbieter von Lösungen für die Gebäudehülle sowie für Energie- und Wassermanagement in der Infrastruktur ."
+    },
+    {
+      "prioritaet": "Erhalt des Umsatzanteils innovativer Produkte durch Weiterentwicklung smarter, ressourcensparender Bau- und Infrastrukturloesungen",
+      "zitat": "Ein Drittel unserer Umsätze entfällt bereits auf innovative Pro-dukte, ein Anteil, den wienerberger durch die kontinuierliche Weiterentwicklung smarter , ressourcensparender Bau- und Infrastrukturlösungen halten will, um damit die Lebensqualität der Menschen zu verbessern."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Europa uebrig",
+      "aussage": "Strukturelles Wachstumspotenzial und wachsende Bedeutung in den Renovierungsmaerkten in Frankreich und Deutschland sowie PV-Loesungen in Europa",
+      "zitat": "Damit stärken wir unsere Position in einem der attraktivsten Wachstumsseg-mente Europas. Die Renovierungsmärkte in Frankreich und Deutschland gewannen weiter an Bedeutung und bestätigten das strukturelle Wachstumspotenzial dieses Segments."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Makrooekonomische Unsicherheit, geopolitische Spannungen, hohe Zinsen und volatile Marktbedingungen im Bausektor",
+      "kategorie": "Markt",
+      "zitat": "2025 war geprägt von anhaltender makroökonomischer Unsicherheit, geopolitischen Spannungen und einer weiterhin schwachen Entwicklung im Wohnungsneubau in vielen unserer Kernmärkte. Anhaltend hohe Zinsen und volatile Marktbedin-gungen schufen ein herausforderndes Umfeld für die gesamte Bauindustrie."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Akquisition von GSEi in Frankreich fuer Indach-Photovoltaikloesungen",
+      "zitat": "Mit der Akquisition von GSEi in Frankreich haben wir unsere Solarkompetenz weiter ausgebaut und eine skalierbare Platt-form für Indach-Photovoltaiklösungen etabliert. Damit stärken wir unsere Position in einem der attraktivsten Wachstumsseg-mente Europas."
+    },
+    {
+      "aussage": "Investitionen in Produktionsstaetten wie Schweden und Pruefung/Durchfuehrung strategischer Akquisitionen wie MFP und Italcer-Gruppe",
+      "zitat": "Eingehend behandelt wurden u.a. die strategische Ausrichtung der Gruppe, insbesondere die stärke Fokussierung auf die Bereiche Renovierung und Infrastruktur , sowie strategische Investitions- und Akquisitionsvorhaben, wie die Übernahme von MFP , einem irischen Spezialisten für Entwässerungs-, Dachrinnen und Kabelkanalsysteme"
+    }
+  ],
+  "_modell": "gemini-3.7-flash"
+}

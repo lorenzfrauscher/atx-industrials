@@ -1,0 +1,56 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Verstärktes Bauen im Energiesektor mit Schwerpunkt auf erneuerbarer Energie- bzw. Wärmeerzeugung und Speicherung",
+      "zitat": "Im Rahmen der Konzernstrategie 2030 beabsichtigt STRABAG u. a. verstärkt im Energiesektor zu bauen. Erneuerbare Energie- bzw. Wärmeerzeugung sowie deren Speicherung stehen dabei im Vordergrund."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Europa uebrig",
+      "aussage": "Rumänien gilt als vielversprechender Wachstumsmarkt mit erheblichem Infrastrukturbedarf.",
+      "zitat": "Rumänien gilt weiterhin als vielversprechender Wachstumsmarkt mit erheblichem Infrastrukturbedarf, der teilweise durch EU-finanzierte Investitionen unterstützt wird. Belastend wirken derzeit vor allem fiskalpolitische Maßnahmen zur Reduzierung des Haushaltsdefizits."
+    },
+    {
+      "region": "Europa uebrig",
+      "aussage": "Deutliches Wachstum der Ausschreibungsvolumina im tschechischen Verkehrswegebau, insbesondere im Bahnbau.",
+      "zitat": "Im tschechischen Verkehrswegebau ist ein deutliches Wachstum der Ausschreibungsvolumina zu beobachten. Insbesondere im Bahnbau zeigt sich eine positive Marktdynamik, in der für 2026 weitere Ausschreibungen in Höhe von rund € 3,6 Mrd. vorgesehen sind."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Zyklische Schwankungen und konjunkturelle Risiken in der Bauindustrie",
+      "kategorie": "Markt",
+      "zitat": "Die gesamte Bauindustrie ist zyklischen Schwankungen unterworfen und reagiert regional und nach Sektoren unterschiedlich stark. Die allgemeine wirtschaftliche Entwicklung, die Entwicklung der Baumärkte, die Wettbewerbssituation, aber auch die Verhältnisse auf den Kapitalmärkten und die technologischen Veränderungen"
+    },
+    {
+      "risiko": "Zins-, Währungsänderungs-, Kredit- und Liquiditätsrisiken",
+      "kategorie": "Finanzierung",
+      "zitat": "STRABAG unterliegt hinsichtlich ihrer Vermögenswerte, Verbindlichkeiten und geplanten Transaktionen Zins-, Währungsänderungs-, Kredit- und Liquiditätsrisiken. Ziel des finanziellen Risikomanagements ist es, diese Risiken durch laufende finanzorientierte Aktivitäten zu begrenzen."
+    },
+    {
+      "risiko": "Unterbrechungen der Bautätigkeit und Enteignungen durch politische Instabilität",
+      "kategorie": "Regulierung",
+      "zitat": "Der Konzern ist u. a. in Ländern tätig, die Schauplätze politischer Instabilität sind. Unterbrechungen der Bautätigkeit sowie Restriktionen auf Eigentum ausländischer Investor:innen bis hin zur Enteignung könnten die Folge politischer Veränderungen sein"
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Prognose von bis zu 1,4 Mrd. Euro Netto-Investitionen für Baumaschinen und geplante Akquisitionen im Jahr 2026.",
+      "zitat": "Die Netto-Investitionen (Cashflow aus der Investitionstätigkeit) 2026 werden mit höchstens € 1.400 Mio. prognostiziert und spiegeln insbesondere den Erwerb von Baumaschinen sowie geplante Akquisitionen im Rahmen der Strategie 2030 wider."
+    },
+    {
+      "aussage": "Erwerb der WTE Wassertechnik GmbH zur Erweiterung des Leistungsangebots im Bereich Wasserinfrastruktur.",
+      "zitat": "Mit Abtretungsvertrag vom 18.6.2025 hat STRABAG 100 % der Anteile der WTE Wassertechnik GmbH, Essen, erworben. Die WTE-Gruppe plant, finanziert, baut und betreibt Projekte in den Bereichen Abwassermanagement, Wasserversorgung, Klärschlammbehandlung und Energierückgewinnung"
+    },
+    {
+      "aussage": "Mehrheitserwerb der indischen Gesellschaft Orbittal Electromech Engineering Projects Private Limited.",
+      "zitat": "Mit Abtretungsvertrag vom 24.12.2025 hat STRABAG die in Indien ansässige Orbittal Electromech Enigneering Projects Private Limited, Pune, erworben. Die Gesellschaft erbringt im TGA-Bereich mit eigener Produktion einen Jahresumsatz von rund € 45 Mio."
+    },
+    {
+      "aussage": "Erwerb von 100 % der Anteile an der Gebr. Stumpp GmbH & Co. KG.",
+      "zitat": "Mit Abtretungsvertrag vom 17.7.2025 hat STRABAG 100 % der Anteile an der Gebr. Stumpp GmbH & Co. KG, Balingen, erworben. Die Stumpp-Gruppe ist auf Straßen- und Tiefbau spezialisiert, einschließlich Erdarbeiten, Kanal- und Leitungsbau."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

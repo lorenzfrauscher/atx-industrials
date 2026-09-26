@@ -1,0 +1,68 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Reach Higher – Strategie 2030+ mit drei Kernausrichtungen",
+      "zitat": "Ziel der PALFINGER-Wachstumsstrategie ist es, den langfristigen Unternehmenserfolg durch konsequente Kundenorientierung, nachhaltiges und profitables Wachstum sowie gesteigerte Effizienz zu sichern."
+    },
+    {
+      "prioritaet": "Erweiterung des Service- und Ersatzteilgeschäfts",
+      "zitat": "Ein hochqualifiziertes Service- und Partnernetzwerk gewährleistet maximale Verfügbarkeit, sichert die Versorgung mit Original-Ersatzteilen und bietet umfassende Servicepakete, Verträge und digitale Features. Dieser Bereich wird kontinuierlich ausgebaut – zu Land und zu Wasser."
+    },
+    {
+      "prioritaet": "Hubarbeitsbühnen als wesentliche Säule",
+      "zitat": "PALFINGER nutzt jahrzehntelange Expertise und das globale Netzwerk gezielt, um passgenau auf regionale Kundenbedürfnisse einzugehen und sowohl bestehende als auch neue Märkte konsequent auszubauen. Damit werden Hubarbeitsbühnen zu einer weiteren tragenden Säule des Produktportfolios von PALFINGER."
+    },
+    {
+      "prioritaet": "Optimierung der globalen Supply Chain",
+      "zitat": "Die Supply-Chain-Organisation von PALFINGER fokussiert sich daher auf die Weiterentwicklung des Fertigungs- und Montage-Setups, Bestandsoptimierung, integrierte End-to-End-Planungsprozesse, Reduktion der Portfolio-Komplexität und optimierte Logistik."
+    },
+    {
+      "prioritaet": "Optimierung der Prozess-, System- und Datenlandschaft",
+      "zitat": "Durch die Harmonisierung und Optimierung von Prozessen, Systemen und Daten erhöht PALFINGER die Effizienz und die Transparenz und ermöglicht so noch fundiertere Entscheidungen. Damit legt PALFINGER den Grundstein für den Einsatz von Künstlicher Intelligenz"
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Indien",
+      "aussage": "PALFINGER treibt seine Asien- und Indienstrategie durch den Aufbau eines neuen Werks und Engineering Centers voran.",
+      "zitat": "Im Frühling 2025 wurde vom Aufsichtsrat die Freigabe für ein neues Montagewerk in Indien erteilt. Die Übernahme eines geeigneten Grundstücks in Pune steht kurz vor dem Abschluss."
+    },
+    {
+      "region": "Europa uebrig",
+      "aussage": "Großes Potenzial für Wachstum bei Hubarbeitsbühnen in Europa.",
+      "zitat": "Die Produktlinie Hubarbeitsbühnen bietet dank einer weltweit steigenden Nachfrage – insbesondere in Europa, Nordamerika und weiteren aufstrebenden Märkten – besonders großes Potenzial für Wachstum und Wertschöpfung."
+    },
+    {
+      "region": "Nordamerika",
+      "aussage": "Großes Potenzial für Wachstum bei Hubarbeitsbühnen in Nordamerika.",
+      "zitat": "Die Produktlinie Hubarbeitsbühnen bietet dank einer weltweit steigenden Nachfrage – insbesondere in Europa, Nordamerika und weiteren aufstrebenden Märkten – besonders großes Potenzial für Wachstum und Wertschöpfung."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "US-Zollpolitik und Handelshemmnisse",
+      "kategorie": "Regulierung",
+      "zitat": "Die Unsicherheit blieb jedoch hoch, da die US-Zollpolitik zunehmend unvorhersehbar wurde und Investitionen, den internationalen Handel sowie globale Lieferketten belastete."
+    },
+    {
+      "risiko": "Geopolitische Spannungen und konjunkturelle Eintrübung",
+      "kategorie": "Markt",
+      "zitat": "Eine volatile Zollpolitik in den USA, der anhaltende russische Angriffskrieg auf die Ukraine sowie weitere geopolitische Spannungen haben die globalen Wachstumsaussichten gedämpft."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Ausbau der Produktionsanlagen in Ormož und Pune bis 2027 geplant.",
+      "zitat": "Ausbau der Produktionsanlagen in Ormož, Slowenien (EMEA) und Pune, Indien (APAC) sowie Stärkung der Lieferkette und des Lieferantennetzwerks (Schwerpunkte Indien, China, USA und Mexiko)"
+    },
+    {
+      "aussage": "Minderheitsbeteiligung am norwegischen Marinekran-Hersteller Storm.",
+      "zitat": "Im Dezember erwarb PALFINGER einen Minderheitsanteil am norwegischen Hersteller von Marinekranen Storm. Ziel dieser strategischen Partnerschaft ist es, das Portfolio an Marinekranen zu erweitern und die Position im maritimen Bereich weiter zu stärken."
+    },
+    {
+      "aussage": "Veräußerung des Megarme-Geschäfts in Dubai und Hereinnahme eines Partners bei StrucInspect.",
+      "zitat": "Schritte zu einer Verbesserung der Bilanzstruktur und Fokussierung der Ressourcenallokation wurden mit der Hereinnahme eines strategischen Mehrheitseigentümers an StrucInspect sowie der Veräußerung des Megarme-Geschäfts in Dubai erreicht."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

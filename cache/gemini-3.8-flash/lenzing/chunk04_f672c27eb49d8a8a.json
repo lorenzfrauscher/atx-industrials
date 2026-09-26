@@ -1,0 +1,30 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Monetarisierung von Nachhaltigkeit durch Spezialfasern",
+      "zitat": "Lenzing konzentriert sich in erster Linie auf die Wertschöpfung durch die Monetarisierung von Nachhaltigkeit durch Spezialfasern, welche einen geringeren ökologischen Fußabdruck, verbesserte T ransparenz und reduzierte Risiken in der Lieferkette bieten."
+    },
+    {
+      "prioritaet": "Systemischen Wandel in der Branche vorantreiben",
+      "zitat": "Durch aktive Beiträge zu branchenweiten Me- thoden, Standards und Benchmarking-T ools trägt Lenzing dazu bei, die Nachhaltigkeitsleistung in der gesamten Branche zu beschleu- nigen."
+    },
+    {
+      "prioritaet": "Förderung der Kreislaufwirtschaft und Schließung von Kreisläufen",
+      "zitat": "Lenzing ist bestrebt, die Wertschöpfung bei minimalem Einsatz neuer Rohstoffe zu maximieren und den Einsatz von fossilen Roh- stoffen sowohl im eigenen Betrieb als auch entlang der gesamten Wertschöpfungskette zu reduzieren."
+    },
+    {
+      "prioritaet": "Ökologisierung der Wertschöpfungskette",
+      "zitat": "Eine verantwortungsbewusste Beschaffung, der verantwortungsbe- wusste Umgang mit Wasser, Dekarbonisierung und nachhaltige In- novationen prägen den Beitrag von Lenzing zu einer grüneren Wertschöpfungskette."
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Eingeschränkte Verfügbarkeit und Zugänglichkeit von netzbasiertem Strom aus erneuerbaren Energien",
+      "kategorie": "Markt",
+      "zitat": "Die größte künftige Herausforderung ist die Umsetzung von Lenzings Klimaaktionsplan. Der Fortschritt wird durch mehrere ex- terne Faktoren beeinträchtigt. Dazu zählen die eingeschränkte Ver- fügbarkeit und Zugänglichkeit von netzbasiertem Strom aus erneu-"
+    }
+  ],
+  "capex_ma_signale": [],
+  "_modell": "gemini-3.8-flash"
+}

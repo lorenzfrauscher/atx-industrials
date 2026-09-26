@@ -1,0 +1,342 @@
+{
+  "unternehmen": "Wienerberger AG",
+  "schluessel": "wienerberger",
+  "berichtsjahr": "2025",
+  "gruppe": "Bau",
+  "quelldatei": "wienerberger_2025.pdf",
+  "modell": "gemini-3.8-flash",
+  "tatsaechlich_benutzte_modelle": [
+    "gemini-3.8-flash"
+  ],
+  "strikter_modus": true,
+  "chunks_gesamt": 8,
+  "chunks_fehlgeschlagen": [],
+  "seiten_im_pdf": 245,
+  "seiten_ausgewertet": 105,
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Positionierung als führender Komplettanbieter von Lösungen für die Gebäudehülle sowie für Energie- und Wassermanagement in der Infrastruktur",
+      "zitat": "Unser Ziel ist die konsequente Steigerung der Wertschöpfung sowie unsere Positionierung als führender Komplettanbieter von Lösungen für die Gebäudehülle sowie für Energie- und Wassermanagement in der Infrastruktur .",
+      "beleg_seite": 30,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Fokus auf Forschung und Entwicklung für Energieeffizienz, smarte Funktionalitäten und Nachhaltigkeitsziele",
+      "zitat": "Unser Ziel ist die Entwicklung von Lösungen, die einen umweltfreundlichen, schnellen und einfachen Einbau auf der Baustelle ermöglichen, zum Klimaschutz und zur Energieeffizienz von Gebäuden beitragen und spürbaren Mehrwert für unsere Kunden schaffen.",
+      "beleg_seite": 30,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Erreichung der Netto-Null-Emissionen bis 2050 und Umsetzung des Nachhaltigkeitsprogramms 2023–2026",
+      "zitat": "Um dieses Ziel zu verwirklichen, setzen wir uns für den Klimaschutz ein und tragen dazu bei, die Vorgaben des europäischen Green Deal umzusetzen, mit dem klaren Ziel der Netto-Null-Emissionen bis 2050.",
+      "beleg_seite": 56,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Konzentration auf nachhaltige und klimafreundliche Produkte mit dem Ziel des Umsatzes aus Netto-Null-Gebäuden im Rahmen des Nachhaltigkeitsprogramms 2026",
+      "zitat": "Die Anpassungsmaßnahmen stehen im Zusammenhang mit der Strategie und dem Geschäftsmodell von wienerberger , sich auf nachhaltige und klimafreundliche Produkte zu konzentrieren. Dies ist im Nachhaltigkeitsprogramm 2026 in Form des Ziels „Umsatz aus Netto-Null-Gebäuden” verankert.",
+      "beleg_seite": 83,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Systematische Reduktion von Treibhausgasemissionen und Wandel hin zu erneuerbaren Energien",
+      "zitat": "Systematische Reduktion der T reibhausgasemissionen im gesamten Tätigkeitsbereich, bei allen Produkten und in der gesamten Lieferkette, um ein Netto-Null-Niveau zu erreichen Wandel der Energiesysteme von wienerberger von der Abhängigkeit von fossilen Brennstoffen zu nachhaltigen und erneuerbaren Energiequellen",
+      "beleg_seite": 86,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Gesundheit und Sicherheit als oberste Priorität durch strenge Konzepte und Präventivmaßnahmen",
+      "zitat": "Gesundheit und Sicherheit haben bei wienerberger nach wie vor oberste Priorität. Strenge Konzepte und Präventivmaßnahmen sollen ein sicheres und unterstützendes Arbeitsumfeld für alle Mitarbeitenden schaffen.",
+      "beleg_seite": 122,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Europa uebrig",
+      "aussage": "Zentral- und osteuropaeische Maerkte gelten wegen Nachholbedarfs langfristig als Wachstummaerkte",
+      "zitat": "Die zentral- und osteuropäischen Märkte betrachtet wienerberger auch aufgrund des Nachholbedarfs im Wohnungsneubau und in der Infrastruktur langfristig als Wachstumsmärkte. Diese Märkte zeigen erfahrungsgemäß eine höhere Volatilität",
+      "beleg_seite": 52,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Störungen der Lieferketten und Logistikströme sowie Versorgungsengpässe infolge geopolitischer Konflikte",
+      "kategorie": "Lieferkette",
+      "zitat": "Dieser Konflikt hat Auswirkungen auf wichtige Verkehrs- und Handelsströme. Seither ist neben Störungen entlang von Lieferketten und Logistikströmen eine erhöhte Volatilität an den globalen Rohstoff- und Energiemärkten zu beobachten.",
+      "beleg_seite": 47,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Preisanstiege bei Energie, Rohstoffen und Logistik durch geopolitische Konflikte",
+      "kategorie": "Markt",
+      "zitat": "Für wienerberger kann dies zu deutlichen Preissteigerungen insbesondere in den Bereichen Energie, Rohstoffe und Logistik führen und in Versorgungsengpässen resultieren. wienerberger überwacht die Situation kontinuierlich und ergreift Maßnahmen, um die Versorgungssicherheit sicherzustellen.",
+      "beleg_seite": 47,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Übergangsrisiken und physische Risiken infolge des Klimawandels und der Wende zu einer kohlenstoffarmen Wirtschaft",
+      "kategorie": "Regulierung",
+      "zitat": "Seit 2020 unterstützen wir daher die Empfehlungen der T ask Force on Climate-related Financial Disclosures (TCFD) in Bezug auf die Identifizierung, Analyse und Bewertung von physischen Risiken und Übergangsrisiken im Zusammenhang mit der Auswirkung der Wende zu einer kohlenstoffarmen Wirtschaft",
+      "beleg_seite": 48,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Abhaengigkeit von den Konjunkturzyklen der Bauindustrie und Nachfrageschwankungen",
+      "kategorie": "Markt",
+      "zitat": "Unvorteilhafte Entwicklungen einiger oder all dieser Einflussgrößen können einen negativen Einfluss auf die Nachfrage nach Produkten und Systemlösungen von wienerberger , die abgesetzten Mengen und das Preisniveau haben.",
+      "beleg_seite": 52,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Preis- und Verfuegbarkeitsrisiken bei Rohstoffen und Zusatzstoffen",
+      "kategorie": "Lieferkette",
+      "zitat": "Neben dem Preisrisiko besteht auch ein Risiko aus der Versorgungssicherheit mit ausreichenden Rohstoffen. Eine Unterbrechung der Versorgung zieht unweigerlich einen Ausfall der Produktion nach sich.",
+      "beleg_seite": 53,
+      "treffertyp": "exakt_mehrdeutig",
+      "zitat_gefunden": true,
+      "weitere_fundstellen": [
+        182
+      ],
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Risiken aus geopolitischen Spannungen und Lieferkettenstoerungen",
+      "kategorie": "Lieferkette",
+      "zitat": "Mögliche Risiken ergeben sich insbesondere aus Störungen internationaler Lieferketten, steigenden Energie- und Rohstoffpreisen, Handelsbeschränkungen oder erhöhten politischen Unsicherheiten in einzelnen Märkten.",
+      "beleg_seite": 55,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Verschaerfte Vorschriften und politische Massnahmen zur Bekaempfung des Klimawandels",
+      "kategorie": "Regulierung",
+      "zitat": "Zu den zentralen Risiken zählt, dass Regierungen Vorschriften und politische Maßnahmen zur Bekämpfung des Klimawandels, wie z. B. Emissionsreduktionsziele, verabschieden könnten.",
+      "beleg_seite": 55,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Risiken im Zusammenhang mit Cybersicherheit und IT-Ausfaellen",
+      "kategorie": "Technologie",
+      "zitat": "Risiken eines Ausfalls unserer zentral geführten konzernweiten Datenverarbeitung aufgrund von Elementarereignissen oder Cyberangriffen werden durch parallele Installation der Systeme in räumlich getrennten Rechenzentren und Cloud-Lösungen vermindert.",
+      "beleg_seite": 55,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Risiken bei M&A-Transaktionen durch kartellrechtliche Genehmigungsverfahren",
+      "kategorie": "Regulierung",
+      "zitat": "Abhängig von der Marktstellung in einzelnen Ländern sowie der Größe von beabsichtigten Akquisitionen unterliegen Transaktionen wettbewerbsrechtlichen Genehmigungsverfahren. Dadurch könnten sich bei Akquisitionen bzw. Zusammenschlüssen Verzögerungen bzw.",
+      "beleg_seite": 54,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Physische Klimarisiken und klimabedingte Gefahren für Vermögenswerte und Geschäftsaktivitäten über kurz-, mittel- und langfristige Zeithorizonte",
+      "kategorie": "Markt",
+      "zitat": "wienerberger hat eine Analyse der physischen Klimarisiken durchgeführt, um festzustellen, ob klimabedingte Gefahren Risiken für Vermögenswerte und Geschäftsaktivitäten über einen kurz- (bis 2030), mittel (bis 2040) und langfristigen Zeithorizont (bis 2050) darstellen könnten.",
+      "beleg_seite": 71,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Vorschriften und Maßnahmen zur Bekämpfung des Klimawandels wie CO2-Bepreisung oder Strafen bei unzureichenden Investitionen",
+      "kategorie": "Regulierung",
+      "zitat": "Regierungen setzen Vorschriften und Maßnahmen zur Bekämpfung des Klimawandels um, zum Beispiel Emissionsreduktionsziele; die Einführung zusätzlicher CO2-Bepreisungsmechanismen oder -Steuern kann zur Erhöhung der Produktionskosten führen, die Gesamtrentabilität bedrohen und Investitionszyklen beschleunigen",
+      "beleg_seite": 84,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Veränderung von Verbraucherpräferenzen und Marktnachfrage weg von traditionellen Ziegeln hin zu energieeffizienten Baustoffen",
+      "kategorie": "Markt",
+      "zitat": "Das Bewusstsein für den Klimawandel und Überlegungen zur Nachhaltigkeit können die Verbraucherpräferenzen und die Marktnachfrage beeinflussen – es könnte zu einer Verlagerung hin zu umweltfreundlichen und energieeffizienten Baustoffen kommen, was die Nachfrage nach traditionellen Ziegeln möglicherweise beeinträchtigt.",
+      "beleg_seite": 84,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Erhöhte Volatilität der Energiepreise infolge des Übergangs zu erneuerbaren Energien und CO2-Bepreisung",
+      "kategorie": "Markt",
+      "zitat": "Der Übergang zu erneuerbaren Energiequellen und die CO2-Bepreisung können zu einer erhöhten Volatilität der Energiepreise führen; die Ziegelherstellung ist energieintensiv und unerwartete Schwankungen der Energiekosten können sich auf die Betriebsausgaben des Unternehmens auswirken",
+      "beleg_seite": 84,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Begrenztes Angebot und erhöhte Kosten bei gesetzlich verpflichtender Verwendung von recyceltem Kunststoff",
+      "kategorie": "Lieferkette",
+      "zitat": "Änderung der Gesetzgebung in Richtung der verpflichtenden Verwendung von recyceltem Kunststoff EU/NA Erhöhte Kosten aufgrund eines begrenzten Angebots",
+      "beleg_seite": 85,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Erhöhung des allgemeinen Zinsniveaus, Verschlechterung des Kreditratings oder Nichteinhaltung von Covenants mit Auswirkung auf Finanzierungskosten und Kreditfälligstellung",
+      "kategorie": "Finanzierung",
+      "zitat": "Sollte sich das allgemeine Zinsniveau erhöhen, das Rating der Gruppe verschlechtern oder Covenants nicht eingehalten werden, können die zu zahlenden Zinsen durch höhere Referenzzinssätze oder höhere Kreditrisikoaufschläge steigen und höhere Finanzierungskosten sowie einen geringeren Cashflow verursachen.",
+      "beleg_seite": 209,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Sammelklagen wegen Kartellrechtsverstößen und DOJ-Untersuchung gegen PipeLife Jet Stream",
+      "kategorie": "Regulierung",
+      "zitat": "Zusammen mit anderen, deutlich größeren Marktteilnehmern wurde PipeLife Jet Stream, Inc. in mehreren Sammelklagen vor dem United States District Court for the Northern District of Illinois als Beklagte benannt. In den Klagen werden Verstöße gegen Kartellgesetze geltend gemacht.",
+      "beleg_seite": 215,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investitionen in moderne Rohrproduktionsstätten zur Stärkung der technologischen Führerschaft",
+      "zitat": "Investitionen in unseren modernen industriellen Footprint – darunter unsere hochinnovative Rohrproduktionsstätte in Schweden – unterstreichen unser Bekenntnis zu technologischer Führerschaft und nachhaltigen Infrastrukturlösungen.",
+      "beleg_seite": 7,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Evaluierung der Italcer-Gruppe als potenzielles Akquisitionsziel",
+      "zitat": "Im Dezember 2025 fanden zudem strategische Beratungen mit dem Management im Hinblick auf die Evaluierung der Italcer- Gruppe als mögliches Akquisitionsziel statt.",
+      "beleg_seite": 8,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Übernahme der Italcer Group im Jahr 2026 vereinbart",
+      "zitat": "Am 24. Februar 2026 hat wienerberger eine verbindliche Vereinbarung zum Erwerb von Italcer unterzeichnet, einem führenden Hersteller hochwertiger keramischer Lösungen mit Produktionsstandorten in Italien und Spanien. Der Abschluss der T ransaktion wird – vorbehaltlich der behördlichen Genehmigungen – im zweiten Quartal 2026 erwartet.",
+      "beleg_seite": 47,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Ausgaben für Unternehmensakquisitionen beliefen sich 2025 auf EUR 24 Mio",
+      "zitat": "Im Geschäftsjahr 2025 beliefen sich die Ausgaben für Unternehmensakquisitionen auf EUR 24 Mio (2024: EUR 637 Mio). Alle T ransaktionen standen in vollem Einklang mit den strategischen und finanziellen Kriterien des Konzerns und konzentrierten sich auf wertsteigerndes Wachstum ohne Beeinträchtigung der Bilanzstärke.",
+      "beleg_seite": 42,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Übernahme von MFP Ltd. zur Stärkung der Rohrplattform",
+      "zitat": "In Irland und Großbritannien wurde durch die Übernahme von MFP Ltd., einem Spezialisten für Entwässerungs-, Dachrinnen- und Kabelkanalsysteme, die Plattform für Rohrlösungen und die regionale Präsenz weiter gestärkt.",
+      "beleg_seite": 42,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Erwerb der verbleibenden Anteile an GSE Integration",
+      "zitat": "Darüber hinaus wurden EUR 24 Mio für den Erwerb von nicht beherrschenden Anteilen (2024: EUR 0 Mio) aufgewendet, die sich auf die verbleibende Beteiligung an GSE Integration (GSEi) beziehen.",
+      "beleg_seite": 42,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Rentabilitaetsabhaengigkeit bei Akquisitions- und Wachstumsinvestitionen",
+      "zitat": "Zur Steigerung des wienerberger Unternehmenswerts werden neben der laufenden Optimierung (Operational Excellence) Produktinnovationen sowie interne und externe Wachstumsprojekte durchgeführt. Die zukünftige Rentabilität dieser Projekte ist in hohem Maße von",
+      "beleg_seite": 54,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "aussage": "Ganzheitlicher Ansatz des Managements im Umgang mit Risiken und Chancen umfasst Fusionen und Übernahmen (M&A) sowie den Ausbau des Werksnetzes.",
+      "zitat": "Bei Minderung von Risiken und Nutzung von Chancen wählt das Management von wienerberger einen ganzheitlichen Ansatz, der die Bereiche Produktentwicklung, Fusionen und Übernahmen (Mergers and Acquisitions, M&A), Ausbau des Werksnetzes und Auswahl der Energieträger sowie eine breite Palette an Initiativen",
+      "beleg_seite": 60,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "aussage": "Rückgang des CapEx-Anteils nach der Terreal-Übernahme im Vorjahr und Ausbleiben vergleichbarer Zukäufe im Jahr 2025",
+      "zitat": "Der taxonomiekonforme Anteil der CapEx im Berichtszeitraum erreichte 50,8 % des gesamten CapEx (2024: 81,1 %). Der Betrag für 2024 ist aufgrund der Übernahme von T erreal, dessen Dachproduktion eine taxonomiekonforme Geschäftstätigkeit war , erhöht. Im Jahr 2025 erfolgte keine Akquisition. in diesem Ausmaß.",
+      "beleg_seite": 82,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "aussage": "Auszahlungen für Investitionen in Sachanlagen und immaterielle Vermögenswerte sowie Netto-Auszahlungen für Akquisitionen im Geschäftsjahr 2025",
+      "zitat": "Auszahlungen für Investitionen in Sachanlagen und immaterielle Vermögenswerte 18 –281 –312 Auszahlungen für Investitionen in Finanzanlagen – –2 Dividendenzahlungen von assoziierten Unternehmen und Gemeinschaftsunternehmen 1 2 Veränderungen von Wertpapieren und sonstigen finanziellen Vermögenswerten 45 –10 Netto-Auszahlungen für Unternehmensakquisitionen",
+      "beleg_seite": 159,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Schrittweiser Ersatz von Produktionslinien, Maschinen und Anlagen zur Erreichung von Klimazielen durch nachhaltigere Alternativen",
+      "zitat": "Um die Klimaziele zu erreichen, ersetzt wienerberger ausgewählte Produktionslinien, Maschinen und sonstigen Anlagen schrittweise durch effizientere und nachhaltigere Alternativen. Diese Erneuerungen erfolgen in der Regel gegen Ende der Nutzungsdauer einer Anlage.",
+      "beleg_seite": 184,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Bestehende vertragliche Verpflichtungen zum Kauf von Sachanlagen zum Stichtag",
+      "zitat": "Zum Abschlussstichtag bestanden Verpflichtungen zum Kauf von Sachanlagen in Höhe von EUR 45 Mio (2024: EUR 27 Mio).",
+      "beleg_seite": 184,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Mittel- bis langfristige Veräußerungsabsicht für nicht betriebsnotwendige Liegenschaften und Gebäude",
+      "zitat": "wienerberger stuft Liegenschaften und Gebäude, die nicht im laufenden Geschäftsbetrieb eingesetzt werden, als Finanzinvestition gehaltene Immobilien ein und sieht diese mittel- bis langfristig zur Veräußerung vor .",
+      "beleg_seite": 184,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    }
+  ],
+  "zitatpruefung": {
+    "exakt": 30,
+    "exakt_nach_normalisierung": 5,
+    "exakt_mehrdeutig": 1
+  },
+  "abschnittsverteilung": {
+    "elemente_nachhaltigkeitsberichterstattung": 19,
+    "elemente_geschaeftsbericht": 17,
+    "ausgewertete_seiten_nachhaltigkeitsberichterstattung": 45
+  }
+}

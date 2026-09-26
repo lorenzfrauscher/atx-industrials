@@ -1,0 +1,17 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Gesundheit und Sicherheit als oberste Priorität durch strenge Konzepte und Präventivmaßnahmen",
+      "zitat": "Gesundheit und Sicherheit haben bei wienerberger nach wie vor oberste Priorität. Strenge Konzepte und Präventivmaßnahmen sollen ein sicheres und unterstützendes Arbeitsumfeld für alle Mitarbeitenden schaffen."
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [],
+  "capex_ma_signale": [
+    {
+      "aussage": "Auszahlungen für Investitionen in Sachanlagen und immaterielle Vermögenswerte sowie Netto-Auszahlungen für Akquisitionen im Geschäftsjahr 2025",
+      "zitat": "Auszahlungen für Investitionen in Sachanlagen und immaterielle Vermögenswerte 18 –281 –312 Auszahlungen für Investitionen in Finanzanlagen – –2 Dividendenzahlungen von assoziierten Unternehmen und Gemeinschaftsunternehmen 1 2 Veränderungen von Wertpapieren und sonstigen finanziellen Vermögenswerten 45 –10 Netto-Auszahlungen für Unternehmensakquisitionen"
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

@@ -1,0 +1,32 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Dekarbonisierung bis 2030 über sieben strategische Hebel",
+      "zitat": "Für die Umsetzung des Dekarbonisierungsplans bilden sieben strategische Hebel den strukturellen Rahmen, über den die identifizierten Emissionsquellen systematisch adressiert und die priorisierten Maßnahmen gruppenweit umgesetzt werden."
+    },
+    {
+      "prioritaet": "Klimaanpassung und Resilienz als strategisches Handlungsfeld",
+      "zitat": "Zur Umsetzung dieses Anspruchs wurden folgende strategische Handlungsfelder definiert: – Reduzierung der Effekte von Klimarisiken: Entwicklung resilienter Infrastrukturen sowie verstärkte Berücksichtigung klimabedingter Risiken in Planung, Bauausführung und Betrieb."
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Transitorische Risiken durch regulatorische Vorgaben, CO2e-Preise und Marktanforderungen",
+      "kategorie": "Regulierung",
+      "zitat": "Zu den wesentlichen Risiken zählen insbesondere die in der Klimarisikenübersicht auf S. 94 dargestellten transitorischen Risiken (IRO5), die sich unter anderem aus verschärften regulatorischen Vorgaben, steigenden CO2e-Preisen sowie veränderten Marktanforderungen ergeben."
+    },
+    {
+      "risiko": "Physische und transitorische Klimarisiken für Bauprozesse, Vermögenswerte und Lieferketten",
+      "kategorie": "Markt",
+      "zitat": "Als international tätiges Bauunternehmen ist die PORR direkt von Risiken aufgrund des Klimawandels (IRO5) betroffen. Diese betreffen sämtliche Stufen der Wertschöpfungskette und wirken sich auf Vermögenswerte, Bauprozesse, Lieferketten und Mitarbeitende aus."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Jährliche Sachanlageninvestitionen (CAPEX) von rund 5,5 Mio. Euro zur Umsetzung emissionsreduzierender Maßnahmen im Dekarbonisierungsplan vorgesehen",
+      "zitat": "Die derzeitigen Planannahmen sehen jährliche Investitionen in Sachanlagen (CAPEX) von rund EUR 5,5 Mio. sowie laufende betriebliche Aufwendungen (OPEX) von rund EUR 14,7 Mio. vor. Dem stehen erwartete Effizienz- und Kosteneinsparungen von rund EUR 13,2 Mio. gegenüber."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

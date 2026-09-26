@@ -1,0 +1,20 @@
+{
+  "strategische_prioritaeten": [],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [],
+  "capex_ma_signale": [
+    {
+      "aussage": "Im Geschäftsjahr 2025 wurde das schwedische Cellulosefaserunternehmen TreeToTextile AB nach dem Closing im Februar at-equity in den Konsolidierungskreis aufgenommen.",
+      "zitat": "Im Oktober 2024 wurde eine Minderheitsbeteiligung am schwedischen Cellulosefaserunternehmen T ree T o T extile AB (TTT), Stockholm, Schweden erworben. Mit dem Closing im Februar 2025 wurde das assoziierte Unternehmen TTT at-equity in den Konsolidierungskreis aufgenommen."
+    },
+    {
+      "aussage": "Die Lenzing Gruppe hielt zum 31. Dezember 2025 eine Beteiligung von 22,6 Prozent an der TreeToTextile AB.",
+      "zitat": "Die Lenzing Gruppe hält per 31. Dezember 2025 22,6 Prozent am Kapital und an den Stimmrechten der TTT (31. Dezember 2024: 0,0 Prozent)."
+    },
+    {
+      "aussage": "Im Geschäftsjahr 2025 investierte die Lenzing Gruppe Zugänge bei den Sachanlagen in Höhe von 123.123 TEUR.",
+      "zitat": "Die Sachanlagen haben sich wie folgt entwickelt: Entwicklung der Sachanlagen TEUR 2025 Grundstücke und Bauten Technische Anlagen und Maschinen, Betriebs- und Geschäftsausstattung Geleistete Anzahlungen und Anlagen in Bau Summe Anschaffungs- und Herstellungskosten Stand zum 01.01.2025"
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

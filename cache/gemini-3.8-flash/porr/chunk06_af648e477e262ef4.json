@@ -1,0 +1,35 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Förderung des Kompetenzaufbaus von Führungskräften im Rahmen der Strategie 2030",
+      "zitat": "Bis 2030 sollen gruppenweit mindestens 90,0 % der Führungskräfte vier Module der Leadership Academy absolviert haben. Dieses Ziel ist quantitativ definiert. Im Basisjahr 2024 haben 44,0 % der Führungskräfte zumindest ein Modul absolviert."
+    },
+    {
+      "prioritaet": "Gruppenweite Implementierung eines Entwicklungskompasses für Mitarbeitende bis 2030",
+      "zitat": "Die Implementierung in allen Heimmärkten bis 2030 erfolgt etappenweise und wird unter Berücksichtigung der Organisationsentwicklung schrittweise vertieft. Es handelt sich um ein quantitatives Ziel. Ein erfolgreicher Pilot soll bis Ende 2027 umgesetzt werden"
+    },
+    {
+      "prioritaet": "Bereitstellung eines sicheren Arbeitsumfelds und Senkung der Unfallhäufigkeit (LTIFR)",
+      "zitat": "Bereitstellung eines sicheren Arbeitsumfelds auf der Baustelle IRO1 LTIFR 13,5 12,1 5,0 Strategische Maßnahmen Präventive Schutzmaßnahmen aufgrund der durchgeführten Safety Walks"
+    },
+    {
+      "prioritaet": "Sicherstellung von Transparenz und ethischem Handeln durch Compliance-Schulungen",
+      "zitat": "Transparenz und ethisches Handeln IRO1, IRO2, IRO3, IRO4, IRO5, IRO6, Teilnahmequote an den Compliance- und Anti-Korruption- Schulungen 88,7 % 96,5 % 95,0 % Strategische Maßnahmen Schulung von Mitarbeitenden zu Anti-Korruption & Compliance"
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Betriebliche Risiken durch krankheitsbedingte Personalausfälle",
+      "kategorie": "Markt",
+      "zitat": "Gesundheitliche Auswirkungen durch Krankheiten auf der Baustelle, im Büro und in sonstigen Betriebsstätten Positive Auswirkungen Keine wesentlichen positiven Auswirkungen identifiziert Risiken IR03 Betriebliche Risiken durch krankheitsbedingte Ausfälle"
+    },
+    {
+      "risiko": "Rechtliche, finanzielle und Reputationsrisiken sowie Auftragsverlust bei Kartell- und Wettbewerbsverstößen oder Korruption",
+      "kategorie": "Regulierung",
+      "zitat": "Risiken IRO3 Rechtliche, finanzielle und Reputationsrisiken sowie Auftragsverlust bei a) potenziellem kartell- und wettbewerbswidrigem Verhalten b) potenziellen Korruptionsvorfällen Chancen IRO4 Reputationsgewinn und Mitarbeiterbindung durch wertebasierte Unternehmenskultur"
+    }
+  ],
+  "capex_ma_signale": [],
+  "_modell": "gemini-3.8-flash"
+}

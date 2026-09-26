@@ -1,0 +1,36 @@
+{
+  "strategische_prioritaeten": [],
+  "wachstumsmaerkte": [
+    {
+      "region": "Global",
+      "aussage": "Der Geschäftsbereich Warehouse & Rack Solutions setzt seinen positiven Trend fort und bleibt einer der wesentlichen Wachstumstreiber der Division.",
+      "zitat": "Der Geschäftsbereich Warehouse & Rack Solutions setzte seinen positiven Trend über das gesamte Geschäftsjahr 2025/26 hinweg fort und blieb einer der wesentlichen Wachstumstreiber der Division."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Auswirkungen der US-Handelszölle auf das Produktsegment Tubulars",
+      "kategorie": "Regulierung",
+      "zitat": "Das Produktsegment Tubulars (Nahtlosrohre) war im Geschäftsjahr 2025/26 von den tiefgreifenden Auswirkungen der US-Handelszölle geprägt. Seit Juni 2025 erschweren erhöhte Importzölle auf Stahlprodukte die Absatzmöglichkeiten in den USA erheblich."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Die voestalpine realisierte im Geschäftsjahr 2025/26 wichtige Wachstumsvorhaben in Verarbeitungsbereichen und startete zahlreiche Projekte an internationalen Standorten.",
+      "zitat": "Im Geschäftsjahr 2025/26 realisierte die voestalpine wichtige Wachstumsvorhaben in Verarbeitungsbereichen. An internationalen Standorten wurden zahlreiche Projekte gestartet oder bereits umgesetzt."
+    },
+    {
+      "aussage": "Der Geschäftsbereich Railway Systems erwarb im Juli 2025 alle Anteile an der britischen Gesellschaft HIRD Rail Services Limited.",
+      "zitat": "Im Juli 2025 erwarb der Geschäftsbereich Railway Systems 100 % der Anteile an der Gesellschaft HIRD Rail Services Limited mit Sitz in Doncaster, Großbritannien."
+    },
+    {
+      "aussage": "Die Steel Division veräußerte im August 2025 die voestalpine Camtec Gruppe im Zuge einer Portfoliobereinigung.",
+      "zitat": "Im August 2025 veräußerte die Steel Division die voestalpine Camtec Gruppe. Diese ist auf die Herstellung von Schiebern und wartungsfreien Gleitelementen aus Messing, Kupfer und Aluminium spezialisiert"
+    },
+    {
+      "aussage": "Die High Performance Metals Division verkaufte voestalpine BÖHLER Profil an den Erwerber Kadant Inc.",
+      "zitat": "Im Rahmen der Neuorganisation der High Performance Metals Division beschloss das Management der Division aus strategischen Gründen den Verkauf von voestalpine BÖHLER Profil. Ende Januar 2026 erfolgte der Vertragsabschluss mit dem Erwerber Kadant Inc."
+    }
+  ],
+  "_modell": "gemini-3.5-flash"
+}

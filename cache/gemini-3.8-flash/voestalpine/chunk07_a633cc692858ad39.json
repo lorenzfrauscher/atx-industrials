@@ -1,0 +1,61 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Weiterer Ausbau von Servicedienstleistungen, Digital Sales und Optimierungsprogrammen in der CGU Value Added Services",
+      "zitat": "Der weitere Ausbau der Servicedienstleistungen im Planungszeitraum führt zu einer engeren Kundenbindung und einer Vertiefung der Wertschöpfung. Das konsequente Weitertreiben bereits bewährter Einsparungs- und Optimierungsprogramme sowie Vertriebsaktivitäten in margenstarken Subsegmenten wie auch Initiativen im Bereich Global Supply Chain Management und Digital Sales"
+    },
+    {
+      "prioritaet": "Fortführung der Ausrichtung als Komplettanbieter im Geschäftsbereich Welding",
+      "zitat": "Die strategische Ausrichtung des Geschäftsbereichs als Komplettanbieter der „Perfekten Schweißnaht“ („The Perfect Weld Seam“) wird im Planungszeitraum unverändert weiterverfolgt. Bereits eingeleitete sowie laufende Optimierungs- und Effizienzprogramme werden konsequent fortgeführt"
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Indien",
+      "aussage": "Indien bietet aus Sicht des Unternehmens großes Wachstumspotenzial.",
+      "zitat": "In Asien wird von einer stetigen Erholung in China ausgegangen, wobei der Rest Asiens sich langsam wieder von dem derzeit schwachen Wachstum erholen wird. Indien hat großes Wachstumspotenzial."
+    },
+    {
+      "region": "China",
+      "aussage": "In China wird von einer stetigen Erholung ausgegangen.",
+      "zitat": "In Asien wird von einer stetigen Erholung in China ausgegangen, wobei der Rest Asiens sich langsam wieder von dem derzeit schwachen Wachstum erholen wird. Indien hat großes Wachstumspotenzial."
+    },
+    {
+      "region": "Europa uebrig",
+      "aussage": "In Europa wird eine leichte Erholung und mittelfristig ein gedämpftes Wachstum prognostiziert.",
+      "zitat": "Die internen Prognosen und Einschätzungen – die Entwicklung dieser Regionen betreffend – stützen sich auf externe Informationsquellen. 1 In Europa wird eine leichte Erholung und mittelfristig ein gedämpftes Wachstum erwartet."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Unsicherheiten und protektionistische Maßnahmen auf dem nordamerikanischen Markt",
+      "kategorie": "Markt",
+      "zitat": "Der nordamerikanische Markt ist aufgrund der aktuellen politischen Kräfte und der protektionistischen Maßnahmen von Unsicherheiten geprägt. In Asien wird von einer stetigen Erholung in China ausgegangen"
+    },
+    {
+      "risiko": "Risiko der Nichterfüllung von Zahlungsverpflichtungen (Liquiditätsrisiko)",
+      "kategorie": "Finanzierung",
+      "zitat": "Das Liquiditätsrisiko bezeichnet das Risiko, Zahlungsverpflichtungen nicht durch Lieferung von Zahlungsmitteln erfüllen zu können. Ziel des Konzerns in der Steuerung der Liquidität ist es, sicherzustellen, dass stets ausreichend liquide Mittel verfügbar sind"
+    },
+    {
+      "risiko": "Ausfall von Forderungen bzw. Bonitätsrisiko von Geschäftspartnern",
+      "kategorie": "Finanzierung",
+      "zitat": "Das Bonitätsrisiko bezeichnet Vermögensverluste, die aus der Nichterfüllung von Vertragsverpflichtungen einzelner Geschäftspartner:innen entstehen können. Das Management des Bonitätsrisikos von Veranlagungs- und Derivatgeschäften wird in internen Richtlinien reglementiert."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investitionen in greentec steel durch den Ersatz von Hochöfen durch Elektrolichtbogenöfen ab 2027 und 2032 sowie in CO2-Abscheidetechnologien",
+      "zitat": "In dieser sind die Investitionen in Richtung greentec steel – Ersatz von zwei der drei Hochöfen durch Elektrolichtbogenöfen mit geplanten Inbetriebnahmen ab dem Jahr 2027 und 2032 – sowie Investitionen für CO2 -Abscheidetechnologien (CCUS) enthalten."
+    },
+    {
+      "aussage": "Weitgehender Abschluss der Portfoliobereinigung der HPM Division durch Unternehmensverkäufe und Standortkonsolidierungen",
+      "zitat": "Die Portfoliobereinigung der HPM Division ist mit den Unternehmensverkäufen (Buderus Edelstahl und BÖHLER Profil), den Kapazitätsanpassungen bei der voestalpine BÖHLER Bleche und den weltweiten Standortkonsolidierungen weitgehend abgeschlossen."
+    },
+    {
+      "aussage": "Investitionen in eine Elektrolichtbogenofen-Anlage im Rahmen von greentec steel im Geschäftsbereich Railway Systems",
+      "zitat": "Ebenso sind die Investitionen in Richtung greentec steel in der 5-Jahres-Mittelfristplanung sowie in der Grobplanungsphase für eine Elektrolichtbogenofen-Anlage und deren Erweiterung in der Vorproduktionsstufe enthalten."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

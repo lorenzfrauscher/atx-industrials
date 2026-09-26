@@ -1,0 +1,42 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Konzentration auf nachhaltige und klimafreundliche Produkte mit dem Ziel des Umsatzes aus Netto-Null-Gebäuden im Rahmen des Nachhaltigkeitsprogramms 2026",
+      "zitat": "Die Anpassungsmaßnahmen stehen im Zusammenhang mit der Strategie und dem Geschäftsmodell von wienerberger , sich auf nachhaltige und klimafreundliche Produkte zu konzentrieren. Dies ist im Nachhaltigkeitsprogramm 2026 in Form des Ziels „Umsatz aus Netto-Null-Gebäuden” verankert."
+    },
+    {
+      "prioritaet": "Systematische Reduktion von Treibhausgasemissionen und Wandel hin zu erneuerbaren Energien",
+      "zitat": "Systematische Reduktion der T reibhausgasemissionen im gesamten Tätigkeitsbereich, bei allen Produkten und in der gesamten Lieferkette, um ein Netto-Null-Niveau zu erreichen Wandel der Energiesysteme von wienerberger von der Abhängigkeit von fossilen Brennstoffen zu nachhaltigen und erneuerbaren Energiequellen"
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Vorschriften und Maßnahmen zur Bekämpfung des Klimawandels wie CO2-Bepreisung oder Strafen bei unzureichenden Investitionen",
+      "kategorie": "Regulierung",
+      "zitat": "Regierungen setzen Vorschriften und Maßnahmen zur Bekämpfung des Klimawandels um, zum Beispiel Emissionsreduktionsziele; die Einführung zusätzlicher CO2-Bepreisungsmechanismen oder -Steuern kann zur Erhöhung der Produktionskosten führen, die Gesamtrentabilität bedrohen und Investitionszyklen beschleunigen"
+    },
+    {
+      "risiko": "Veränderung von Verbraucherpräferenzen und Marktnachfrage weg von traditionellen Ziegeln hin zu energieeffizienten Baustoffen",
+      "kategorie": "Markt",
+      "zitat": "Das Bewusstsein für den Klimawandel und Überlegungen zur Nachhaltigkeit können die Verbraucherpräferenzen und die Marktnachfrage beeinflussen – es könnte zu einer Verlagerung hin zu umweltfreundlichen und energieeffizienten Baustoffen kommen, was die Nachfrage nach traditionellen Ziegeln möglicherweise beeinträchtigt."
+    },
+    {
+      "risiko": "Erhöhte Volatilität der Energiepreise infolge des Übergangs zu erneuerbaren Energien und CO2-Bepreisung",
+      "kategorie": "Markt",
+      "zitat": "Der Übergang zu erneuerbaren Energiequellen und die CO2-Bepreisung können zu einer erhöhten Volatilität der Energiepreise führen; die Ziegelherstellung ist energieintensiv und unerwartete Schwankungen der Energiekosten können sich auf die Betriebsausgaben des Unternehmens auswirken"
+    },
+    {
+      "risiko": "Begrenztes Angebot und erhöhte Kosten bei gesetzlich verpflichtender Verwendung von recyceltem Kunststoff",
+      "kategorie": "Lieferkette",
+      "zitat": "Änderung der Gesetzgebung in Richtung der verpflichtenden Verwendung von recyceltem Kunststoff EU/NA Erhöhte Kosten aufgrund eines begrenzten Angebots"
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Rückgang des CapEx-Anteils nach der Terreal-Übernahme im Vorjahr und Ausbleiben vergleichbarer Zukäufe im Jahr 2025",
+      "zitat": "Der taxonomiekonforme Anteil der CapEx im Berichtszeitraum erreichte 50,8 % des gesamten CapEx (2024: 81,1 %). Der Betrag für 2024 ist aufgrund der Übernahme von T erreal, dessen Dachproduktion eine taxonomiekonforme Geschäftstätigkeit war , erhöht. Im Jahr 2025 erfolgte keine Akquisition. in diesem Ausmaß."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

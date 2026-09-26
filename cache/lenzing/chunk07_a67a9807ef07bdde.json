@@ -1,0 +1,37 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Erhebliche Verringerung der Treibhausgasemissionen und Netto-Null bis 2050",
+      "zitat": "Lenzing wird seine Treibhausgasemissionen in den kommenden Jahren durch eine Reihe von Maßnahmen im Rahmen seiner Dekarbonisierungsstrategie und seiner SBTs erheblich reduzieren. Darüber hinaus strebt Lenzing bis 2050 eine Netto-Null-Treibhausgasemissionen an."
+    },
+    {
+      "prioritaet": "Erhöhung des Anteils und der Arten alternativer Rohstoffe bis 2030",
+      "zitat": "Die Ziele sind auf die Beschaffung aus erneuerbaren Quellen und den Einsatz von recycelter Cellulose aus T extilabfällen sowie von landwirtschaftlichen Reststoffen ausgerichtet, um den Anteil und die Vielfalt alternativer Rohstoffe zu erhöhen."
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Künftige Regelungen zum Kohlenstoffpreis und Umweltsteuern",
+      "kategorie": "Regulierung",
+      "zitat": "Neu entstehende Vorschriften, vor allem in Bezug auf Umweltsteuern und Kohlenstoffpreise, stellen für Lenzing ein relevantes Risiko dar. In den Ländern, in denen Lenzing Prozesse mit hohen Emissionen betreibt, wurden bereits Vorschriften zu THG-Emissionen eingeführt"
+    },
+    {
+      "risiko": "Erhöhte Kosten für Biomasse und Holz",
+      "kategorie": "Lieferkette",
+      "zitat": "Trotz der nachhaltigen Beschaffungspolitik von Lenzing und der rückwärtsintegrierten Produktion besteht die Gefahr, dass die Holzpreise aufgrund des Klimawandels, der weltweit steigenden Nachfrage nach Biomasse und alternative Formen der Landnutzung steigen."
+    },
+    {
+      "risiko": "Reputationsrisiko in der Textilindustrie",
+      "kategorie": "Markt",
+      "zitat": "Die Textilindustrie, in der die Produkte von Lenzing gewöhnlich verwendet werden, wird wegen ihrer teilweise nicht nachhaltigen und ressourcenintensiven Wirtschaftsweise und ihrer Produktionsprozesse kritisch beäugt. Dies könnte zu negativer Medienberichterstattung und einer weiteren Stigmatisierung der Branche führen"
+    },
+    {
+      "risiko": "Chronische physische Klimarisiken beeinträchtigen Betrieb und Lieferkette",
+      "kategorie": "Lieferkette",
+      "zitat": "Die Geschäftstätigkeit und die Lieferkette der Lenzing Gruppe könnten zunehmend von extremen Wetterereignissen, Wasserknappheit oder anderen physischen Gefahren unterschiedlichen Ausmaßes betroffen sein. Aus Sicht der Lieferkette könnten beispielsweise klimawandelbedingte Auswirkungen wie starke Niederschläge"
+    }
+  ],
+  "capex_ma_signale": [],
+  "_modell": "gemini-3.8-flash"
+}

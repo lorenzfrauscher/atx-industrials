@@ -1,0 +1,581 @@
+{
+  "unternehmen": "Porr AG",
+  "schluessel": "porr",
+  "berichtsjahr": "2025",
+  "gruppe": "Bau",
+  "quelldatei": "porr_2025.pdf",
+  "modell": "gemini-3.8-flash",
+  "tatsaechlich_benutzte_modelle": [
+    "gemini-3.8-flash"
+  ],
+  "strikter_modus": true,
+  "chunks_gesamt": 11,
+  "chunks_fehlgeschlagen": [],
+  "seiten_im_pdf": 326,
+  "seiten_ausgewertet": 134,
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Marktführerschaft bei ressourcenbewusstem, kreislauffähigem Bauen und nachhaltige Profitabilität",
+      "zitat": "Die PORR möchte Marktführerin bei ressourcenbewusstem, kreislauffähi gem Bauen sein. Dafür setzt sie auf partnerschaft- liche Zusammenarbeit, eine schlanke Organisation und effiziente Prozesse, um langfristige Profitabilität zu sichern und gleichzeitig einen nachhaltigen Mehrwert für alle Stakeholder und die Gesell- schaft zu schaffen.",
+      "beleg_seite": 31,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Intelligentes Wachstum und Top-3-Position in allen Heimmärkten mit Fokus auf Profitabilität",
+      "zitat": "Durch innovative Produkte und neue Technologien will die PORR intelligent wachsen und ihre Marktanteile in allen Heimmärkten sichern. Das Ziel lautet, jeweils zu den Top 3 Bauunternehmen zu gehören. Der Fokus liegt dabei klar auf der Bottom-Line, um eine nachhaltige Profitabilität mit einer EBIT-Marge von über 3,5 % zu gewährleisten.",
+      "beleg_seite": 31,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Arbeit nach LEAN-Prinzipien und Vorantreiben von Digitalisierung und Automatisierung",
+      "zitat": "Die PORR arbeitet nach LEAN Prinzipien, wobei LEAN Construction auf der Bau - stelle mit LEAN Administration in der Organisation kombiniert wird, um schlanke, flexible und kosteneffiziente Strukturen zu gewährleisten.",
+      "beleg_seite": 31,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Reduktion von Treibhausgasemissionen und Ressourceneffizienz",
+      "zitat": "Dieses Handlungsfeld adressiert die Reduktion von Treibhaus - gasemissionen und den effizienten Einsatz von Energie und Ressourcen entlang der Wertschöpfungskette. Im Mittelpunkt stehen die schrittweise Dekarbonisierung emissionsintensiver Prozesse und Materialien, der Ausbau erneuerbarer Energien sowie eine effiziente Energie- und Ressourcennutzung.",
+      "beleg_seite": 34,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Deutliche Erhöhung des Frauenanteils bis 2030",
+      "zitat": "Im Zuge ihrer Nachhaltigkeitsstrategie hat die PORR für 2030 mehrere Ziele zu den erwähnten Dimensionen formuliert. Eines davon ist die deutliche Erhöhung des Frauenanteils im Unter - nehmen und auf den Führungsebenen.",
+      "beleg_seite": 49,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Dekarbonisierung bis 2030 über sieben strategische Hebel",
+      "zitat": "Für die Umsetzung des Dekarbonisierungsplans bilden sieben strategische Hebel den strukturellen Rahmen, über den die identifizierten Emissionsquellen systematisch adressiert und die priorisierten Maßnahmen gruppenweit umgesetzt werden.",
+      "beleg_seite": 81,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Klimaanpassung und Resilienz als strategisches Handlungsfeld",
+      "zitat": "Zur Umsetzung dieses Anspruchs wurden folgende strategische Handlungsfelder definiert: – Reduzierung der Effekte von Klimarisiken: Entwicklung resilienter Infrastrukturen sowie verstärkte Berücksichtigung klimabedingter Risiken in Planung, Bauausführung und Betrieb.",
+      "beleg_seite": 94,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Gruppenweiter Wissensaufbau im Bereich Corporate Sustainability zur Foerderung der Dekarbonisierung",
+      "zitat": "Im Jahr 2026 wird der gruppenweite Wissensaufbau zur Dekarbonisierung fortgeführt und strukturell weiterentwickelt. Zusätzlich ist vorgesehen, entsprechende Schulungsformate breiter zugänglich zu machen und konzernweit zur Verfügung zu stellen.",
+      "beleg_seite": 98,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Etablierung eines gruppenweiten, umfassenden Schulungskonzepts bis 2030",
+      "zitat": "Bis 2030 soll ein gruppenweites, umfassendes und zielgruppenorientiertes Schulungskonzept etabliert sein, das allen Mitarbeitendengruppen zugänglich ist und die operative Umsetzung der ESG-Ziele unterstützt.",
+      "beleg_seite": 98,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Förderung des Kompetenzaufbaus von Führungskräften im Rahmen der Strategie 2030",
+      "zitat": "Bis 2030 sollen gruppenweit mindestens 90,0 % der Führungskräfte vier Module der Leadership Academy absolviert haben. Dieses Ziel ist quantitativ definiert. Im Basisjahr 2024 haben 44,0 % der Führungskräfte zumindest ein Modul absolviert.",
+      "beleg_seite": 142,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Gruppenweite Implementierung eines Entwicklungskompasses für Mitarbeitende bis 2030",
+      "zitat": "Die Implementierung in allen Heimmärkten bis 2030 erfolgt etappenweise und wird unter Berücksichtigung der Organisationsentwicklung schrittweise vertieft. Es handelt sich um ein quantitatives Ziel. Ein erfolgreicher Pilot soll bis Ende 2027 umgesetzt werden",
+      "beleg_seite": 143,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Bereitstellung eines sicheren Arbeitsumfelds und Senkung der Unfallhäufigkeit (LTIFR)",
+      "zitat": "Bereitstellung eines sicheren Arbeitsumfelds auf der Baustelle IRO1 LTIFR 13,5 12,1 5,0 Strategische Maßnahmen Präventive Schutzmaßnahmen aufgrund der durchgeführten Safety Walks",
+      "beleg_seite": 155,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Sicherstellung von Transparenz und ethischem Handeln durch Compliance-Schulungen",
+      "zitat": "Transparenz und ethisches Handeln IRO1, IRO2, IRO3, IRO4, IRO5, IRO6, Teilnahmequote an den Compliance- und Anti-Korruption- Schulungen 88,7 % 96,5 % 95,0 % Strategische Maßnahmen Schulung von Mitarbeitenden zu Anti-Korruption & Compliance",
+      "beleg_seite": 179,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Erreichen einer EBIT-Marge von 3,5 % bis 4,0 % bis 2030",
+      "zitat": "Auf Basis des hohen Auftragsbestands sowie der erwarteten Marktentwicklung geht der Vorstand von einer moderat positiven Leistungs- und Umsatzentwicklung sowie einer Steigerung der EBIT-Marge im Jahr 2026 aus. Unverändert bleibt das langfristige Ziel einer EBIT-Marge von 3,5 % bis 4,0 % bis 2030.",
+      "beleg_seite": 204,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Fokus auf Exportprodukte im Tunnel-, Bahn- und Spezialtiefbau sowie Partnerschaften mit lokalen Unternehmen",
+      "zitat": "Generell setzt die PORR als Infrastrukturexpertin in Projekt- und internationalen Märkten vor allem auf ihre Exportprodukte im Tunnel-, Bahn- und Spezialtiefbau und auf die partnerschaftliche Zusammenarbeit mit lokalen Unternehmen. Daneben bietet sie auch ihre Expertise im Bereich Slab Track sehr selektiv an.",
+      "beleg_seite": 201,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Konzentration auf die Heimmärkte bei selektivem Angebot in Projektmärkten",
+      "zitat": "Das Unternehmen reagiert auf die Schwankungen in den nationalen Märkten und Geschäftssegmenten sowie auf die gegenwärtigen geopolitischen Unsicherheiten mit einer Konzentration auf die Heimmärkte Österreich, Deutschland, Schweiz, Polen, Tschechien, Slowakei und Rumänien.",
+      "beleg_seite": 206,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Verstärkte Deglobalisierung mit Nearshoring und Reshoring zur Stärkung regionaler Lieferketten",
+      "zitat": "Vor dem Hintergrund zunehmender geopolitischer Unsicherheiten setzt die PORR Gruppe – verankert in ihrer Unternehmensstrategie – auf eine verstärkte Deglobalisierung. Regionale Wertschöpfungsketten im Sinne von Nearshoring und Reshoring binden lokale Lieferanten und Partner stärker ein",
+      "beleg_seite": 229,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Systematische Dekarbonisierung und THG-Reduktion bis 2030",
+      "zitat": "Die Strategie umfasst eine Reduktion der THG-Emissionen in Scope 1 und 2 um 43 % (Basis 2024) sowie in Scope 3 um 25 % (Basis 2024) bis 2030.",
+      "beleg_seite": 228,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "DACH",
+      "aussage": "Stark wachsender Bedarf an Rechenzentren durch KI und Cloud-Technologien in Deutschland",
+      "zitat": "Der Einsatz von Künstlicher Intelligenz und Cloud- Technologien nimmt stark zu – und damit auch der Bedarf an Rechenzentren. In diesem wichtigen Wachstumsmarkt der Baubranche nimmt die PORR eine führende Rolle ein.",
+      "beleg_seite": 15,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "region": "Europa uebrig",
+      "aussage": "Die Entwicklung der Auftragslage in den CEE-Märkten unterstreicht das zukünftige Wachstum des Unternehmens in den kommenden Jahren.",
+      "zitat": "Die Entwicklung der Auftragslage zeigt die starke Position der PORR in diesen Märkten und bekräftigt das Wachstum in den kommenden Jahren.",
+      "beleg_seite": 200,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "region": "Europa uebrig",
+      "aussage": "Connecting Europe Facility und European Green Deal bieten künftig stabile Wachstumsperspektiven in internationalen Märkten.",
+      "zitat": "Die Finanzierung dieser Projekte ist über die Connecting Europe Facility (CEF) sowie im Kontext des Europäischen Green Deals langfristig abgesichert und bietet damit auch künftig stabile Wachstumsperspektiven in den internationalen Märkten der PORR.",
+      "beleg_seite": 201,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "region": "DACH",
+      "aussage": "In Deutschland werden für 2026 deutliche Impulse aus öffentlicher Investitionstätigkeit für Infrastruktur und Bauwirtschaft erwartet.",
+      "zitat": "Auch in Deutschland werden für das Jahr 2026 deutliche Impulse aus der öffentlichen Investitionstätigkeit erwartet. Die deutsche Bundesregierung hat ein Sondervermögen zur Stärkung von Infrastruktur und Klimaneutralität eingerichtet, aus dem im Jahr 2026 rund EUR 40 Mrd. für Investitionen vorgesehen sind.",
+      "beleg_seite": 204,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "region": "Oesterreich",
+      "aussage": "In Österreich wird für 2026 eine Erholung erwartet, gestützt von Infrastrukturprojekten und wohnbaupolitischen Maßnahmen.",
+      "zitat": "Auch für Österreich wird für 2026 laut WIFO eine vorsichtige konjunkturelle Erholung erwartet. Der robuste Arbeitsmarkt, steigende reale Einkommen und ein verbessertes Finanzierungsumfeld stützen den privaten Konsum und die Investitionstätigkeit. Öffentliche Infrastrukturprojekte und wohnbaupolitische Maßnahmen wirken zusätzlich stabilisierend auf die Bauwirtschaft.",
+      "beleg_seite": 204,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Regulatorische Änderungen im Zusammenhang mit Landnutzungsänderungen",
+      "kategorie": "Regulierung",
+      "zitat": "E4-Biologische Vielfalt und Ökosysteme Risiko Regulatorisches Risiko durch gesetzliche Änderungen im Zusammenhang mit Landnutzungsänderungen langfristig Operatives Risiko durch Abhängigkeiten von Ökosystemdienstleistungen alle Zeithorizonte",
+      "beleg_seite": 53,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Steigende Kosten durch Materialknappheit",
+      "kategorie": "Lieferkette",
+      "zitat": "Steigende Kosten durch (a) Verzögerungen im Betrieb aufgrund von Materialknappheit (b) lineare Abfallentsorgung bei „Business as usual“ Abfallrechtliche Konsequenzen durch veränderte Grundlagen bei „Business as usual“",
+      "beleg_seite": 53,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Risiken aus dynamischen Regulierungsänderungen der Berichterstattung",
+      "kategorie": "Regulierung",
+      "zitat": "Darüber hinaus können sich Risiken aus der sich dynamisch entwickelnden Regulierungslandschaft ergeben. Änderungen in den Anforderungen an die Nachhaltigkeitsberichterstattung, etwa durch neue EU-Richtlinien oder Marktstandards, können Anpassungen in Prozessen und Systemen erfordern.",
+      "beleg_seite": 53,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Transitorische Risiken durch regulatorische Vorgaben, CO2e-Preise und Marktanforderungen",
+      "kategorie": "Regulierung",
+      "zitat": "Zu den wesentlichen Risiken zählen insbesondere die in der Klimarisikenübersicht auf S. 94 dargestellten transitorischen Risiken (IRO5), die sich unter anderem aus verschärften regulatorischen Vorgaben, steigenden CO2e-Preisen sowie veränderten Marktanforderungen ergeben.",
+      "beleg_seite": 76,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Physische und transitorische Klimarisiken für Bauprozesse, Vermögenswerte und Lieferketten",
+      "kategorie": "Markt",
+      "zitat": "Als international tätiges Bauunternehmen ist die PORR direkt von Risiken aufgrund des Klimawandels (IRO5) betroffen. Diese betreffen sämtliche Stufen der Wertschöpfungskette und wirken sich auf Vermögenswerte, Bauprozesse, Lieferketten und Mitarbeitende aus.",
+      "beleg_seite": 92,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Hoehere Bepreisung von Treibhausgasemissionen",
+      "kategorie": "Regulierung",
+      "zitat": "Erhöhte Kosten durch: – Ressourcenintensive Materialien (Bepreisung von THG-Emissionen) – Beeinträchtigung der Wettbewerbsfähigkeit aufgrund höherer Baupreise",
+      "beleg_seite": 96,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Komplexitaet und Volatilitaet rechtlicher Vorgaben",
+      "kategorie": "Regulierung",
+      "zitat": "Finanzielle und personelle Investitionen durch: – Zahlreiche rasche und neue regulatorische Anforderungen – Fehlende Rechtssicherheit – Instabilität von Förderprogrammen und Verordnungen",
+      "beleg_seite": 96,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Verschlaerfung von Umweltgesetzgebung und Produktanforderungen",
+      "kategorie": "Regulierung",
+      "zitat": "Finanzielle und personelle Schäden durch: – Steigende Anforderungen an Baumaterialien, die rückwirkende Anpassungen an Bauprojekten erforderlich machen – Potenziell veränderte Haftungs- und Gewährleistungsrisiken",
+      "beleg_seite": 96,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Makrowirtschaftliche Volatilitaet mit Einfluss auf nachhaltige Bautaetigkeit",
+      "kategorie": "Markt",
+      "zitat": "Erhöhte wirtschaftliche Risiken und Umsatzeinbußen durch: – Wirtschaftliche Unsicherheiten – Lange Zeitspanne zwischen Erstplanung, Baubeginn bis Fertigstellung – Verringerung des Anteils nachhaltiger Projekte",
+      "beleg_seite": 96,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Begrenzte Verfuegbarkeit emissionsaermerer Technologien und Kosten dafuer",
+      "kategorie": "Technologie",
+      "zitat": "Erhöhte Kosten und Umsatzeinbußen durch: – Begrenzte Verfügbarkeit emissionsarmer Technologien, Logistik, Bau maschinen und Baustoffe – Erschwerter Umstieg durch langen Lebenszyklus von Baumaschinen – Hohe Nachfrage bei begrenztem Angebot",
+      "beleg_seite": 96,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Regulatorische Aenderungen im Zusammenhang mit Landnutzungsaenderungen",
+      "kategorie": "Regulierung",
+      "zitat": "Transitorische Risiken entstehen insbesondere durch regulatorische Änderungen im Zusammenhang mit Landnutzungsänderungen (IRO3), die unmittelbare Auswirkungen auf die Geschäftstätigkeit haben.",
+      "beleg_seite": 108,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Materialknappheit und volatile Rohstoffpreise",
+      "kategorie": "Lieferkette",
+      "zitat": "Kostenrisiken ergeben sich unter anderem durch volatile Rohstoffpreise und mögliche Lieferengpässe bei nachhaltigen Materialien sowie durch regulatorische Vorgaben wie CO 2e-Bepreisung und EU-Taxonomie.",
+      "beleg_seite": 116,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Betriebliche Risiken durch krankheitsbedingte Personalausfälle",
+      "kategorie": "Markt",
+      "zitat": "Gesundheitliche Auswirkungen durch Krankheiten auf der Baustelle, im Büro und in sonstigen Betriebsstätten Positive Auswirkungen Keine wesentlichen positiven Auswirkungen identifiziert Risiken IR03 Betriebliche Risiken durch krankheitsbedingte Ausfälle",
+      "beleg_seite": 154,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Rechtliche, finanzielle und Reputationsrisiken sowie Auftragsverlust bei Kartell- und Wettbewerbsverstößen oder Korruption",
+      "kategorie": "Regulierung",
+      "zitat": "Risiken IRO3 Rechtliche, finanzielle und Reputationsrisiken sowie Auftragsverlust bei a) potenziellem kartell- und wettbewerbswidrigem Verhalten b) potenziellen Korruptionsvorfällen Chancen IRO4 Reputationsgewinn und Mitarbeiterbindung durch wertebasierte Unternehmenskultur",
+      "beleg_seite": 178,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Kartell- und wettbewerbswidriges Verhalten sowie Korruption bergen kurz- und mittelfristige rechtliche, finanzielle und Reputationsrisiken sowie das Risiko von Auftragsverlusten.",
+      "kategorie": "Regulierung",
+      "zitat": "Neben negativen Auswirkungen auf die Gesellschaft entstehen durch potenziell kartellrechts- oder wettbewerbswidriges Verhalten sowie potenzielle Korruptionsvorfälle auch kurz- und mittelfristige rechtliche, finanzielle und Reputationsrisiken sowie Auftragsverlust (IRO3) für die PORR.",
+      "beleg_seite": 180,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Geopolitische Spannungen, Sanktionen und Auswirkungen auf Energie- und Materialpreise",
+      "kategorie": "Markt",
+      "zitat": "Ungeachtet dessen kann die PORR von den indirekten Auswirkungen der anhaltenden geopolitischen Konflikte betroffen sein. Insbesondere der Krieg in der Ukraine geht weiterhin mit umfassenden Wirtschaftssanktionen und Handelsbeschränkungen einher.",
+      "beleg_seite": 205,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Makroökonomische Veränderungen und konjunkturelle Disparitäten in den Kernmärkten",
+      "kategorie": "Markt",
+      "zitat": "Die Marktrisiken resultieren aus den Veränderungen der makroökonomischen Rahmenbedingungen in den wesentlichen PORR Märkten. Weiters ergeben sich aufgrund der konjunkturellen Disparitäten in den jeweiligen Märkten für die PORR divergierende Nachfragesituationen.",
+      "beleg_seite": 206,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Kalkulations- und Ausführungsrisiken bei operativen Bauprojekten",
+      "kategorie": "Lieferkette",
+      "zitat": "Die Überwachung des Projektrisikos erstreckt sich über alle operativen Einheiten der PORR und kann hinsichtlich des Kalkulations- und Ausführungsrisikos qualifiziert werden. Alle Projekte werden von der Angebotsbearbeitung bis hin zum Vertragsabschluss auf spezifische technische, kaufmännische und rechtliche Risiken geprüft.",
+      "beleg_seite": 206,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Handelsbeschränkungen und protektionistische Zollmaßnahmen",
+      "kategorie": "Regulierung",
+      "zitat": "Die Einführung weiterer Handelsbeschränkungen und protektionistischer Zollmaßnahmen kann unter der Trump Administration wohl nicht ausgeschlossen werden. Die PORR geht davon aus, dass sich das geopolitische Umfeld weiterhin äußerst dynamisch entwickeln wird, und beobachtet die Situation laufend.",
+      "beleg_seite": 206,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Risiken des Klimawandels durch Extremwetterereignisse und veränderte Rahmenbedingungen",
+      "kategorie": "Regulierung",
+      "zitat": "Die PORR Gruppe ist aufgrund ihres Geschäftsmodells direkt von den Risiken des Klimawandels betroffen, sowohl durch veränderte rechtliche und politische Rahmenbedingungen als auch durch physische Risiken wie beispielsweise Extremwetterereignisse.",
+      "beleg_seite": 228,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Zinsrisiko durch bestehende Finanzverbindlichkeiten im anhaltend hohen Zinsumfeld",
+      "kategorie": "Finanzierung",
+      "zitat": "Im Zusammenhang mit dem anhaltend hohen Zinsniveau wird das Zinsrisiko durch aufgenommene Finanzverbindlichkeiten umfassend analysiert und die Zinssicherungsstrategie mittels Interest Rate Swaps auf die aktuelle wirtschaftliche Marktentwicklung abgestimmt (siehe Erläuterung 41.5).",
+      "beleg_seite": 229,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Geopolitische Spannungen und protektionistische Maßnahmen",
+      "kategorie": "Markt",
+      "zitat": "Die Auswirkungen protektionistischer Maßnahmen der USA sowie die anhaltenden geopolitischen Spannungen sind derzeit schwer abzuschätzen. Die PORR Gruppe erwartet eine weiterhin dynamische Entwicklung der geopolitischen Rahmenbedingungen",
+      "beleg_seite": 229,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Materialpreis- und Beschaffungsrisiken durch gestiegene Energie- und Rohstoffpreise",
+      "kategorie": "Lieferkette",
+      "zitat": "Die Konflikte haben daher bis dato lediglich indirekte Effekte auf die Vermögens- und Finanzlage der PORR Gruppe, insbesondere durch gestiegene Energie- und Rohstoffpreise. Zur Minderung des Materialpreisrisikos werden Bedarfsmengen und Preise durch den Abschluss von Rahmenverträgen durch die Lead Buyer des Zentraleinkaufs abgesichert.",
+      "beleg_seite": 229,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Risiko von Rohstoffpreisänderungen gegenüber dem Kalkulationszeitpunkt von Bauprojekten",
+      "kategorie": "Markt",
+      "zitat": "Das Risiko von Rohstoffpreisänderungen ist definiert als das Risiko steigender Preise gegenüber dem Kalkulationszeitpunkt des Bauprojekts. Das Risiko wird zumeist durch mittel- und langfristige Rahmenverträge mit Schlüssellieferanten sowie Preisanpassungsklauseln mit Kunden gemildert.",
+      "beleg_seite": 283,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Liquiditätsrisiko bei Fälligkeit von Verbindlichkeiten",
+      "kategorie": "Finanzierung",
+      "zitat": "Das Liquiditätsrisiko ist definiert als das Risiko, dass Verbindlichkeiten bei Fälligkeit nicht beglichen werden können. Das Management des Liquiditätsrisikos basiert auf einer im Zuge der konzernalen Ergebnisplanung und Vorschaurechnung integrierten Finanzplanung, die ihren Ausgang auf operativer Ebene nimmt.",
+      "beleg_seite": 282,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Zinsrisiko aus steigenden Aufwands- oder sinkenden Ertragszinsen",
+      "kategorie": "Finanzierung",
+      "zitat": "Das Zinsrisiko der Gruppe ist definiert als das Risiko steigender Aufwands- oder sinkender Ertragszinsen aus Finanzpositionen und resultiert bei der PORR Gruppe für die Finanzverbindlichkeiten aus dem Szenario steigender Zinsen, insbesondere im kurzfristigen Bereich.",
+      "beleg_seite": 283,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Transaktionsorientiertes Fremdwährungsrisiko aus Bauaufträgen und Finanzierungen",
+      "kategorie": "Finanzierung",
+      "zitat": "Das Fremdwährungsrisiko wird in der PORR Gruppe transaktionsorientiert behandelt und resultiert aus Bauaufträgen bzw. aus Finanzierungen im Zusammenhang mit solchen Verträgen. Konzernpolitik ist es, die operativen Fremdwährungsrisiken zur Gänze abzusichern.",
+      "beleg_seite": 284,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Veräußerung sämtlicher eigener Aktien im Wege eines beschleunigten Privatplatzierungsverfahrens",
+      "zitat": "Die PORR AG hat am 17. Juni 2025 sämtliche 1.703.674 eigenen Aktien im Zuge eines beschleunigten Privatplatzierungsverfah - rens (Accelerated Bookbuilding) erfolgreich bei internationalen institutionellen Investoren platziert. Der Verkaufspreis pro Aktie betrug EUR 26,50, womit ein Bruttoemissionserlös von EUR 45,1 Mio. erzielt wurde.",
+      "beleg_seite": 18,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "aussage": "Die PORR hat zum 31. Dezember 2025 die Übernahme der VSG, einer VAMED-Tochtergesellschaft, abgeschlossen.",
+      "zitat": "Mit Wirkung zum 31. Dezember 2025 hat die PORR die Über - nahme der VAMED Standortentwicklung und Engineering GmbH (VSG), einer Tochtergesellschaft der VIACAMA (vormals VAMED AG), abgeschlossen.",
+      "beleg_seite": 64,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "aussage": "Jährliche Sachanlageninvestitionen (CAPEX) von rund 5,5 Mio. Euro zur Umsetzung emissionsreduzierender Maßnahmen im Dekarbonisierungsplan vorgesehen",
+      "zitat": "Die derzeitigen Planannahmen sehen jährliche Investitionen in Sachanlagen (CAPEX) von rund EUR 5,5 Mio. sowie laufende betriebliche Aufwendungen (OPEX) von rund EUR 14,7 Mio. vor. Dem stehen erwartete Effizienz- und Kosteneinsparungen von rund EUR 13,2 Mio. gegenüber.",
+      "beleg_seite": 82,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "aussage": "Im Berichtsjahr flossen Mittel in Beteiligungserwerbe an Knape Bahnbau und UBM Hotels, während der Erwerb der VAMED-Einheit zu einem Liquiditätszufluss führte.",
+      "zitat": "Während Beteiligungserwerbe an at-equity bilanzierten Unternehmen – unter anderem an Knape Bahnbau und UBM Hotels – zu Mittelabflüssen führten, brachte der Erwerb der VAMED Standortentwicklung und Engineering GmbH einen deutlichen Liquiditätszufluss.",
+      "beleg_seite": 189,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Die Akquisitionen der VAMED Standortentwicklung und Engineering GmbH sowie der Knape Bahnbau GmbH trugen zur Bilanzverlängerung bei.",
+      "zitat": "Die Akquisitionen der VAMED Standortentwicklung und Engineering GmbH sowie der Knape Bahnbau GmbH führten ebenfalls zu einer Bilanzverlängerung.",
+      "beleg_seite": 188,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Die Sachinvestitionen sanken im Berichtsjahr auf EUR 252,9 Mio. und betrafen im Wesentlichen Ersatz- und Neuinvestitionen für Geräte und Fahrzeuge.",
+      "zitat": "Der CAPEX reduzierte sich im Vergleich zum Vorjahr und betrug EUR 252,9 Mio. (2024: EUR 320,3 Mio.). Somit ergibt sich ein CAPEX Ratio im Verhältnis zur Produktionsleistung von 3,6 % (2024: 4,7 %).",
+      "beleg_seite": 189,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Erwerb von 100 % an der VAMED Standortentwicklung und Engineering GmbH zur strategischen Portfolioerweiterung.",
+      "zitat": "Für den Erwerb von 100 % an der VAMED Standortentwicklung und Engineering GmbH (VSG) wurden TEUR 3.750 aufgewendet und im 1. Quartal 2026 beglichen. Die VSG betreibt im Wesentlichen zwei Geschäftsfelder: Zum einen das österreichische Projektgeschäft mit Schwerpunkt auf Planung und Errichtung von Gesundheitseinrichtungen, zum anderen hält die VSG Beteiligungen an österreichischen Thermen einschließlich deren Betriebsführung.",
+      "beleg_seite": 223,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Erwerb von 74,97 % an der Knape Bahnbau GmbH durch PORR Bau GmbH.",
+      "zitat": "Mit Kaufvertrag vom 21. Dezember 2024, rechtswirksam mit Closing Protokoll vom 25. März 2025, hat die PORR Bau GmbH 74,97 % der Anteile an der Knape Bahnbau GmbH zu einem Kaufpreis in Höhe von TEUR 13.820 erworben.",
+      "beleg_seite": 224,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Erwerb weiterer 50 % an der CBL City Beton Logistik GmbH & Co KG.",
+      "zitat": "Im Geschäftsjahr wurden weitere 50 % an der bisher at-equity bilanzierten CBL City Beton Logistik GmbH & Co KG um einen Kaufpreis in Höhe von EUR 1,00 erworben. Die erworbenen Vermögenswerte und Schulden waren unwesentlich.",
+      "beleg_seite": 224,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Erwerb der Immobilie über die Gesellschaft Horizon Residence Spolka z o.o.",
+      "zitat": "Beim Erwerb der Horizon Residence Spolka z ograniczona odpowiedzialnoscia handelt es sich um den Erwerb einer Immobilie, der nicht die Kriterien einer Business Combination gemäß IFRS 3 erfüllt und daher als Erwerb von Vermögenswerten im Konzernabschluss dargestellt wird.",
+      "beleg_seite": 223,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Notwendigkeit wesentlicher Investitionen in neue Technologien zur Dekarbonisierung",
+      "zitat": "Für die Umsetzung des Dekarbonisierungsplans werden wesentliche Investitionen in neue Technologien notwendig sein. Im Einklang mit der Nachhaltigkeitsstrategie werden bestehende Anlagen bis zum Ende der Nutzungsdauer eingesetzt.",
+      "beleg_seite": 228,
+      "treffertyp": "exakt_mehrdeutig",
+      "zitat_gefunden": true,
+      "weitere_fundstellen": [
+        244
+      ],
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "aussage": "Investitionen durch Erwerb von Finanzimmobilien im Geschäftsjahr 2025",
+      "zitat": "Zugänge Erwerb 3.595 Zugänge Herstellungskosten 988 Umbuchungen -2.594 Währungsumrechnung 11 Anpassung an den beizulegenden Wert -289 Stand 31.12.2025 38.103 Die PORR Gruppe hält zur Erzielung von Mieteinnahmen und zum Zwecke der Wertsteigerung als Finanzinvestition gehaltene Immobilien",
+      "beleg_seite": 246,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Verkauf der Beteiligung an der UBM Development Deutschland GmbH im Geschäftsjahr 2025",
+      "zitat": "Die in den übrigen Finanzanlagen, die erfolgsneutral zum beizulegenden Zeitwert bewertet werden, enthaltene Beteiligung an der UBM Development Deutschland GmbH wurde im Geschäftsjahr 2025 verkauft.",
+      "beleg_seite": 278,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Vorhaltung von liquiden Mitteln für potenzielle Firmenzukäufe und saisonalen Spitzenbedarf",
+      "zitat": "Die Gruppe weist zum Jahresultimo 2025 einen Liquiditätsstand in Höhe von TEUR 748.427 (Vorjahr: TEUR 583.165) aus, der für den im Bau typischen saisonalen Liquiditätsspitzenbedarf von April bis November, zur Rückführung fälliger Kredite und SSD-Tranchen und für potenzielle Firmenzukäufe dient.",
+      "beleg_seite": 282,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    }
+  ],
+  "zitatpruefung": {
+    "exakt_nach_normalisierung": 21,
+    "exakt": 42,
+    "exakt_mehrdeutig": 1
+  },
+  "abschnittsverteilung": {
+    "elemente_nachhaltigkeitsberichterstattung": 25,
+    "elemente_geschaeftsbericht": 39,
+    "ausgewertete_seiten_nachhaltigkeitsberichterstattung": 54
+  }
+}

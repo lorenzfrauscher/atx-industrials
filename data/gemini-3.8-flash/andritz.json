@@ -1,0 +1,318 @@
+{
+  "unternehmen": "Andritz AG",
+  "schluessel": "andritz",
+  "berichtsjahr": "2025",
+  "gruppe": "Hersteller",
+  "quelldatei": "andritz_2025.pdf",
+  "modell": "gemini-3.8-flash",
+  "tatsaechlich_benutzte_modelle": [
+    "gemini-3.8-flash"
+  ],
+  "strikter_modus": true,
+  "chunks_gesamt": 6,
+  "chunks_fehlgeschlagen": [],
+  "seiten_im_pdf": 162,
+  "seiten_ausgewertet": 88,
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Erreichen der Position eines Komplettanbieters in allen Geschäftsbereichen durch organisches Wachstum und komplementäre Zukäufe",
+      "zitat": "Eines der wesentlichen strategischen Ziele der ANDRITZ -Gruppe besteht darin, durch organisches Wachstum und komplementäre Akquisitionen in allen Geschäftsbereichen zum Komplettanbieter zu werden.",
+      "beleg_seite": 26,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Fokus auf Entwicklung digitaler Produkte und Lösungen mit Schwerpunkt Cybersicherheit, KI und neue Technologien",
+      "zitat": "ANDRITZ sieht in der Digitalisierung ein wesentliches Wachstumsfeld für die Zukunft und wird daher weiterhin stark auf die Entwicklung digitaler Produkte und Lösungen fokussiert sein. Das Hauptaugenmerk liegt dabei auf Cybersicherheit, der Verwendung von Künstlicher Intelligenz",
+      "beleg_seite": 27,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Ausrichtung der F&E auf Netzstabilität, Systemflexibilität und Dekarbonisierung",
+      "zitat": "Die Forschungs - und Entwicklungsaktivitäten richten sich konsequent auf die zukünftigen Anforderungen an Netzstabilität und Systemflexibilität aus. Die Entwicklungen orientieren sich nicht nur am heutigen Markt, sondern antizipieren die technischen Herausforderungen einer vollständig dekarbonisierten Energieversorgung.",
+      "beleg_seite": 37,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Steigerung des Anteils nachhaltiger Technologien am Gesamtumsatz durch neue Produkte wie Green Hydrogen und Carbon Storage",
+      "zitat": "Dieser Anteil soll künftig durch neue Produkte (zB Green Hydrogen und Carb on Storage) noch gesteigert werden. Aktuell sehen wir auf der Produktseite keine wesentlichen Risiken, da unsere Produkte unseren Kunden helfen ihre Klimaziele zu erreichen.",
+      "beleg_seite": 90,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Lateinamerika",
+      "aussage": "Wiederbelebung und Initiierung von neuen Greenfield-Projekten im Wasserkraft- und Speicherbereich",
+      "zitat": "Während in westlichen Märkten wie Nordamerika und Europa weiterhin Sanierungs - und Modernisierungsprojekte dominierten, wurden in Schwellen regionen wie Afrika, Asien und Lateinamerika wieder vermehrt neue Greenfield -Projekte (bspw. Pumpspeicher) initiiert.",
+      "beleg_seite": 8,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "region": "Nordamerika",
+      "aussage": "Starke Nachfrage und Wachstumstreiber bei Neuanlagen und Modernisierungen im Bereich Clean Air Technologies",
+      "zitat": "Demgegenüber entwickelten sich die Märkte für Clean Air Technologies sehr positiv. Die größten Treiber dieser Entwicklung waren die steigende Nachfrage nach Neuanlagen sowie nach Modernisierungen bestehender Anlagen, insbesondere in etablierten Industrieregionen wie den USA.",
+      "beleg_seite": 9,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "region": "China",
+      "aussage": "Im Bereich Metals Forming werden strukturelle Herausforderungen im Automobilsektor unter anderem durch Wachstum in China abgefedert.",
+      "zitat": "Im Bereich Metals Forming werden strukturelle Herausforderungen im Automobilsektor durch relativ stabile Nachfrage nach Nicht‑Automobil ‑Anwendungen sowie durch Wachstum in China abgefedert.",
+      "beleg_seite": 40,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Nachträgliche Steuer- und Zollbelastungen durch Gesetzesänderungen oder veränderte Auslegungen",
+      "kategorie": "Regulierung",
+      "zitat": "Eine Änderung von Gesetzen oder sonstigen Bestimmungen – darunter fallen auch Regelungen zu Importzöllen etc. – sowie unterschiedliche Auslegungen der jeweils geltenden Bestimmungen können zu nachträglichen Steuer - und Zollbelastungen führen.",
+      "beleg_seite": 24,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Intensive Wettbewerbssituation und Preiskampf um wenige Großaufträge mit Auswirkungen auf Margen",
+      "kategorie": "Markt",
+      "zitat": "Die ANDRITZ -Gruppe agiert in sehr wettbewerbsintensiven Märkten, in denen einige wenige große Anbieter um einige wenige Großaufträge bieten. Darüber hinaus gibt es lokal eine Vielzahl kleiner konkurrierenden Unternehmen, die über eine vergleichsweise niedrige Kostenbasis verfügen.",
+      "beleg_seite": 25,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Volatilität des Auftragseingangs durch konjunkturelle Schwankungen und Abhängigkeit von der Endproduktnachfrage",
+      "kategorie": "Markt",
+      "zitat": "Mögliche Preisschwankungen können daher einen direkten Einfluss auf die Investitionsentscheidungen von Kunden und in weiterer Folge auf den Auftragseingang der Gruppe haben. Dies könnte daher zu einer Volatilität in der Entwicklung des Auftragseingangs führen.",
+      "beleg_seite": 25,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Fehlende Verfügbarkeit geeigneter Akquisitionsziele oder mangelnde Finanzierungsmittel für M&A-Vorhaben",
+      "kategorie": "Finanzierung",
+      "zitat": "Es kann jedoch nicht garantiert werden, dass die Gruppe auch künftig in der Lage sein wird, geeignete Akquisitionsziele zu identifizieren und zu erwerben, dass überhaupt geeignete Unternehmen zur Verfügung stehen und ausreichend Finanzmittel für große Akquisitionen aufgebracht werden können.",
+      "beleg_seite": 26,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Risiko langsamer Produktentwicklung im Bereich Digitalisierung sowie Cyberangriffe",
+      "kategorie": "Technologie",
+      "zitat": "Die rasanten Entwicklungen im Bereich der Digitalisierung stellen jedoch auch ein Risiko dar, falls es ANDRITZ nicht gelingen sollte, die am Markt nachgefragten Produkte und Lösungen in der gebotenen Geschwindigkeit zu entwickeln und anzubieten.",
+      "beleg_seite": 27,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Ausfälle von Lieferanten aufgrund geopolitischer Krisen, Konflikte oder Naturkatastrophen",
+      "kategorie": "Lieferkette",
+      "zitat": "Globale und regionale Krisen, politische bzw. wirtschaftliche Konflikte oder Naturkatastrophen können dazu führen, dass Lieferanten nicht in der Lage sind, von ANDRITZ bestellte Produkte rechtzeitig zu fertigen und zu liefern",
+      "beleg_seite": 28,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Währungs- und Wechselkursrisiken durch Auftragsabwicklung in Fremdwährungen",
+      "kategorie": "Finanzierung",
+      "zitat": "Obwohl die Gruppe bestrebt ist, die Nettowährungsposition von nicht in der jeweiligen funktionalen Währung der Konzerngesellschaft abgeschlossenen Aufträge durch den Abschluss von Termingeschäften abzusichern, können sich Währungsschwankungen mit Wechselkursverlusten im Konzernabschluss niederschlagen.",
+      "beleg_seite": 30,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Verschlechterung des makroökonomischen und geopolitischen Umfelds sowie Zunahme globaler Handelsbarrieren",
+      "kategorie": "Markt",
+      "zitat": "Sollte sich das makroökonomische und geopolitische Umfeld deutlich verschlechtern, globale Handelsbarrieren weiter zunehmen oder der Euro weiter deutlich aufwerten, könnten sich negative Auswirkungen auf die Abwicklung und den Eingang von Aufträgen ergeben",
+      "beleg_seite": 41,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Risiken des Klimawandels (physische Risiken sowie Übergangsrisiken)",
+      "kategorie": "Regulierung",
+      "zitat": "Zu den Risiken des Klimawandels für die ANDRITZ -Gruppe zählen einerseits physische Risiken sowie auch Übergangsrisiken. Diesen Risiken begegnet ANDRITZ durch ein breites Produktportfolio im Bereich der „nachhaltigen Technologien“.",
+      "beleg_seite": 90,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Risiken aus Finanzinstrumenten sowie strategische und operative Risiken",
+      "kategorie": "Finanzierung",
+      "zitat": "Als global tätiges Unternehmen, das verschiedenste Märkte und Kunden bedient, ist die Gruppe Risiken in Verbindung mit Finanzinstrumenten sowie strategischen und operativen Risiken ausgesetzt.",
+      "beleg_seite": 129,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Kredit- und Ausfallrisiko einzelner Kontrahenten",
+      "kategorie": "Finanzierung",
+      "zitat": "Das Risiko eines möglichen Ausfalls (Insolvenz) einzelner oder mehrerer Kontrahenten wird durch ein internes Kontrahentenlimitsystem minimiert.",
+      "beleg_seite": 131,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Marktrisiken durch Zins- und Währungsschwankungen",
+      "kategorie": "Markt",
+      "zitat": "Das Marktrisiko umfasst das Risiko, dass sich die Marktpreise, zum Beispiel Währungskurse, Zinssätze oder Aktienkurse, ändern und dadurch die Erträge des Konzerns oder der Wert der gehaltenen Finanzinstrumente beeinflusst werden.",
+      "beleg_seite": 136,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Zahlungsausfallrisiken bei Kundenprojekten",
+      "kategorie": "Finanzierung",
+      "zitat": "Es kann jedoch nicht ausgeschlossen werden, dass es einzelne Zahlungsausfälle gibt, die im Eintrittsfall einen wesentlichen negativen Einfluss auf die Ergebnis - und Liquiditätsentwicklung der Gruppe haben.",
+      "beleg_seite": 135,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Fokus der Investitionen auf Modernisierungen und gezielte Kapazitätserweiterungen in Kernregionen",
+      "zitat": "Die Investitionsschwerpunkte betrafen – wie in den Vorjahren – insbesondere Modernisierungen von Fertigungs - stätten sowie vereinzelte Erweiterungsinvestitionen zur Unterstützung des Wachstums im Wesentlichen in Nordamerika, Europa und China.",
+      "beleg_seite": 20,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Übernahme der LDX-Gruppe zur Stärkung des Angebots zur Emissionsreduktion",
+      "zitat": "ANDRITZ hat im Februar 2025 die in den USA ansässige Dustex LLC samt Tochtergesellschaft Western Pneumatics, LLC (gemeinsam LDX -Gruppe) erworben. LDX zählt zu den führenden Anbietern von Technologien und Dienstleistungen zur Emissionsreduktion",
+      "beleg_seite": 22,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Akquisition von A.Celli Paper zur Erweiterung der Papier- und Kartonsparte",
+      "zitat": "ANDRITZ erwarb im Juli 2025 die A.Celli Paper S.P.A. mit Sitz in Italien, samt weiteren Tochtergesellschaften in Italien und China. A.Celli verfügt über jahrzehntelange Erfahrung in der Lieferung von Maschinen",
+      "beleg_seite": 22,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Erwerb der Salico-Gruppe zur Abrundung des Angebots bei Endbearbeitungsanlagen",
+      "zitat": "Des weiteren hat ANDRITZ im Juli 2025 die Salico -Gruppe, mit Hauptsitz in Italien und Spanien erworben. Der Erwerb umfasst auch Tochtergesellschaften in Großbrita nnien, den USA und Indien.",
+      "beleg_seite": 22,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Mehrheitserwerb an Baoding Sanzheng Electrical Equipment zur Stärkung bei Induktionserwärmung",
+      "zitat": "ANDRITZ hat im Dezember 2025 51% der Anteile an Boading Sanzheng Electrical Equipment Co., Ltd. mit dem Hauptsitz in China unterzeichnet. Die Integration von Sanzheng bringt ANDRITZ ein vollständiges Portfolio von Induktionserwärmungstechnologien",
+      "beleg_seite": 22,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Investitionen in eine neue Dry Molded Fiber (DMF) Pilotanlage am Standort Montbonnot in Frankreich",
+      "zitat": "ANDRITZ forciert seinen Eintritt in die Dry Molded Fiber (DMF) Technologie durch Investitionen in eine neue DMF Pilotanlage am Standort in Montbonnot in Frankreich.",
+      "beleg_seite": 34,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Im Geschäftsjahr 2025 betrugen die Auszahlungen für Sachanlagen und immaterielle Vermögenswerte 198,1 MEUR und der Netto-Cashflow aus Unternehmenserwerben 328,6 MEUR.",
+      "zitat": "Auszahlungen für Sachanlagen und immaterielle Vermögenswerte -198,1 -179,5 Einzahlungen aus dem Verkauf von Sachanlagen und immateriellen Vermögenswerten 27,4 16,5 Auszahlungen für lang- und kurzfristige finanzielle Vermögenswerte -562,4 -362,3 Einzahlungen aus dem Verkauf von lang- und kurzfristigen finanziellen Vermögenswerten 520,1 354,7 Netto-Cashflow aus Unternehmenserwerben -328,6 -36,9",
+      "beleg_seite": 46,
+      "treffertyp": "teilweise",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Die vertraglichen Verpflichtungen für den Erwerb von Sachanlagen beliefen sich zum 31. Dezember 2025 auf 53,0 MEUR.",
+      "zitat": "Vertragliche Verpflichtungen für den Kauf von Sachanlagen sind nur im gewöhnlichen Geschäftsumfang vorhanden. Zum 31. Dezember 2025 betrugen diese Verpflichtungen 53,0 MEUR (31. Dezember 2024: 22,1 MEUR).",
+      "beleg_seite": 82,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Closing der Akquisition von Sanzheng im Dezember 2025",
+      "zitat": "Das Closing der Akquisition Sanzheng fand im Dezember 2025 nach dem jährlichen Werthaltigkeitstest zum 30. September 2025 statt. Diese ZGE wurde zum 31. Dezember 2025 getestet.",
+      "beleg_seite": 89,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Erhöhte Auszahlungen für Unternehmenserwerbe im Geschäftsjahr 2025.",
+      "zitat": "Die Veränderung resultiert vor allem aus dem höheren Netto -Cashflow aus Unternehmenserwerben von -328,6 MEUR (2024: -36,9 MEUR) sowie den höheren Auszahlungen für den Kauf von lang- und kurzfristigen finanziellen Vermögenswerten.",
+      "beleg_seite": 21,
+      "treffertyp": "exakt_mehrdeutig",
+      "zitat_gefunden": true,
+      "weitere_fundstellen": [
+        140
+      ],
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Im Geschäftsbereich Metals leitete Andritz 2025 den Verkauf von Sachanlagen in Deutschland mit einem Buchwert von 4,0 MEUR ein, dessen Abschluss für 2026 erwartet wird.",
+      "zitat": "Im Geschäftsbereich Metals wurde 2025 der Verkauf von Sachanlagen (Grundstücke, Gebäude und technische n Anlagen) in Deutschland eingeleitet. Es wurden 2025 Vermögenswerte von 4,0 MEUR als zur Veräußerung gehalten angesetzt",
+      "beleg_seite": 142,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Ein Ende 2024 im Geschäftsbereich Metals eingeleiteter Verkauf von Sachanlagen in Deutschland wurde 2025 mit einem Veräußerungsgewinn von 2,8 MEUR vollzogen.",
+      "zitat": "Es wurden 2024 Vermögenswerte von 7,7 MEUR als zur Veräußerung gehalten angesetzt und keine Wertminderungsaufwendungen erfasst. Der Verkauf der Sachanlagen wurde 2025 mit einem Veräußerungsgewinn von 2,8 MEUR abgeschlossen .",
+      "beleg_seite": 143,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Im Geschäftsbereich Pulp & Paper wurden 2025 Sachanlagen in Kanada mit einem Veräußerungsgewinn von 0,8 MEUR veräußert.",
+      "zitat": "Im Geschäftsbereich Pulp & Paper w urden Ende 2024 Sachanlagen in Kanada in der Höhe von 0,5 MEUR als zur Veräußerung gehalten ausgewiesen. Aus der vorgelagerten Bewertung wurde keine Wertminderung erfasst.",
+      "beleg_seite": 143,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    }
+  ],
+  "zitatpruefung": {
+    "exakt": 29,
+    "exakt_nach_normalisierung": 2,
+    "teilweise": 1,
+    "exakt_mehrdeutig": 1
+  },
+  "abschnittsverteilung": {
+    "elemente_nachhaltigkeitsberichterstattung": 0,
+    "elemente_geschaeftsbericht": 33,
+    "ausgewertete_seiten_nachhaltigkeitsberichterstattung": 0
+  }
+}

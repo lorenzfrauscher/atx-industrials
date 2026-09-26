@@ -1,0 +1,32 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Reduktion von Treibhausgasemissionen und Ressourceneffizienz",
+      "zitat": "Dieses Handlungsfeld adressiert die Reduktion von Treibhaus - gasemissionen und den effizienten Einsatz von Energie und Ressourcen entlang der Wertschöpfungskette. Im Mittelpunkt stehen die schrittweise Dekarbonisierung emissionsintensiver Prozesse und Materialien, der Ausbau erneuerbarer Energien sowie eine effiziente Energie- und Ressourcennutzung."
+    },
+    {
+      "prioritaet": "Deutliche Erhöhung des Frauenanteils bis 2030",
+      "zitat": "Im Zuge ihrer Nachhaltigkeitsstrategie hat die PORR für 2030 mehrere Ziele zu den erwähnten Dimensionen formuliert. Eines davon ist die deutliche Erhöhung des Frauenanteils im Unter - nehmen und auf den Führungsebenen."
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Regulatorische Änderungen im Zusammenhang mit Landnutzungsänderungen",
+      "kategorie": "Regulierung",
+      "zitat": "E4-Biologische Vielfalt und Ökosysteme Risiko Regulatorisches Risiko durch gesetzliche Änderungen im Zusammenhang mit Landnutzungsänderungen langfristig Operatives Risiko durch Abhängigkeiten von Ökosystemdienstleistungen alle Zeithorizonte"
+    },
+    {
+      "risiko": "Steigende Kosten durch Materialknappheit",
+      "kategorie": "Lieferkette",
+      "zitat": "Steigende Kosten durch (a) Verzögerungen im Betrieb aufgrund von Materialknappheit (b) lineare Abfallentsorgung bei „Business as usual“ Abfallrechtliche Konsequenzen durch veränderte Grundlagen bei „Business as usual“"
+    },
+    {
+      "risiko": "Risiken aus dynamischen Regulierungsänderungen der Berichterstattung",
+      "kategorie": "Regulierung",
+      "zitat": "Darüber hinaus können sich Risiken aus der sich dynamisch entwickelnden Regulierungslandschaft ergeben. Änderungen in den Anforderungen an die Nachhaltigkeitsberichterstattung, etwa durch neue EU-Richtlinien oder Marktstandards, können Anpassungen in Prozessen und Systemen erfordern."
+    }
+  ],
+  "capex_ma_signale": [],
+  "_modell": "gemini-3.8-flash"
+}

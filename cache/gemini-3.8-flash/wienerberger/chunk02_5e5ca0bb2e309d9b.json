@@ -1,0 +1,40 @@
+{
+  "strategische_prioritaeten": [],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Störungen der Lieferketten und Logistikströme sowie Versorgungsengpässe infolge geopolitischer Konflikte",
+      "kategorie": "Lieferkette",
+      "zitat": "Dieser Konflikt hat Auswirkungen auf wichtige Verkehrs- und Handelsströme. Seither ist neben Störungen entlang von Lieferketten und Logistikströmen eine erhöhte Volatilität an den globalen Rohstoff- und Energiemärkten zu beobachten."
+    },
+    {
+      "risiko": "Preisanstiege bei Energie, Rohstoffen und Logistik durch geopolitische Konflikte",
+      "kategorie": "Markt",
+      "zitat": "Für wienerberger kann dies zu deutlichen Preissteigerungen insbesondere in den Bereichen Energie, Rohstoffe und Logistik führen und in Versorgungsengpässen resultieren. wienerberger überwacht die Situation kontinuierlich und ergreift Maßnahmen, um die Versorgungssicherheit sicherzustellen."
+    },
+    {
+      "risiko": "Übergangsrisiken und physische Risiken infolge des Klimawandels und der Wende zu einer kohlenstoffarmen Wirtschaft",
+      "kategorie": "Regulierung",
+      "zitat": "Seit 2020 unterstützen wir daher die Empfehlungen der T ask Force on Climate-related Financial Disclosures (TCFD) in Bezug auf die Identifizierung, Analyse und Bewertung von physischen Risiken und Übergangsrisiken im Zusammenhang mit der Auswirkung der Wende zu einer kohlenstoffarmen Wirtschaft"
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Übernahme der Italcer Group im Jahr 2026 vereinbart",
+      "zitat": "Am 24. Februar 2026 hat wienerberger eine verbindliche Vereinbarung zum Erwerb von Italcer unterzeichnet, einem führenden Hersteller hochwertiger keramischer Lösungen mit Produktionsstandorten in Italien und Spanien. Der Abschluss der T ransaktion wird – vorbehaltlich der behördlichen Genehmigungen – im zweiten Quartal 2026 erwartet."
+    },
+    {
+      "aussage": "Ausgaben für Unternehmensakquisitionen beliefen sich 2025 auf EUR 24 Mio",
+      "zitat": "Im Geschäftsjahr 2025 beliefen sich die Ausgaben für Unternehmensakquisitionen auf EUR 24 Mio (2024: EUR 637 Mio). Alle T ransaktionen standen in vollem Einklang mit den strategischen und finanziellen Kriterien des Konzerns und konzentrierten sich auf wertsteigerndes Wachstum ohne Beeinträchtigung der Bilanzstärke."
+    },
+    {
+      "aussage": "Übernahme von MFP Ltd. zur Stärkung der Rohrplattform",
+      "zitat": "In Irland und Großbritannien wurde durch die Übernahme von MFP Ltd., einem Spezialisten für Entwässerungs-, Dachrinnen- und Kabelkanalsysteme, die Plattform für Rohrlösungen und die regionale Präsenz weiter gestärkt."
+    },
+    {
+      "aussage": "Erwerb der verbleibenden Anteile an GSE Integration",
+      "zitat": "Darüber hinaus wurden EUR 24 Mio für den Erwerb von nicht beherrschenden Anteilen (2024: EUR 0 Mio) aufgewendet, die sich auf die verbleibende Beteiligung an GSE Integration (GSEi) beziehen."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

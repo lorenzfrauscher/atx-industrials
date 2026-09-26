@@ -1,0 +1,47 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Dekarbonisierungsplan",
+      "zitat": "Der Konzern begegnet den Herausforderungen des Klimawandels proaktiv mit einem strategisch verankerten Dekarbonisierungsplan, der Klimaschutz systematisch in die Geschäftsstrategie integriert, physische und transitorische Risiken adressiert und durch Maßnahmen wie Energieeffizienz nachhaltig reduziert."
+    },
+    {
+      "prioritaet": "Deglobalisierung",
+      "zitat": "Vor dem Hintergrund zunehmender geopolitischer Unsicherheiten setzt die PORR Gruppe – verankert in ihrer Unternehmensstrategie – auf eine verstärkte Deglobalisierung. Regionale Wertschöpfungsketten im Sinne von Nearshoring und Reshoring binden lokale Lieferanten und Partner stärker ein."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Global",
+      "aussage": "Das Unternehmen sieht in der strategischen Nutzung von Marktentwicklungen die Basis für weiteres Wachstum.",
+      "zitat": "Trotz des anspruchsvollen Umfeldes konnte die PORR Gruppe ihre Leistungspalette erweitern und Marktentwicklungen strategisch nutzen. Dadurch wurde die Basis für weiteres Wachstum und eine stabile Geschäftsentwicklung geschaffen."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Klimawandel und Extremwetterereignisse",
+      "kategorie": "Markt",
+      "zitat": "Die PORR Gruppe ist aufgrund ihres Geschäftsmodells direkt von den Risiken des Klimawandels betroffen, sowohl durch veränderte rechtliche und politische Rahmenbedingungen als auch durch physische Risiken wie beispielsweise Extremwetterereignisse."
+    },
+    {
+      "risiko": "Hohe Bau- und Finanzierungskosten",
+      "kategorie": "Finanzierung",
+      "zitat": "Im Jahr 2025 zeichnete sich in der Bauwirtschaft der Heimmärkte der PORR Gruppe ein Stabilisierungstrend ab, trotz regionaler Schwankungen und weiterhin herausfordernder Rahmenbedingungen wie hoher Bau- und Finanzierungskosten."
+    },
+    {
+      "risiko": "Geopolitische Konflikte und Rohstoffpreise",
+      "kategorie": "Lieferkette",
+      "zitat": "Die Konflikte haben daher bis dato lediglich indirekte Effekte auf die Vermögens- und Finanzlage der PORR Gruppe, insbesondere durch gestiegene Energie- und Rohstoffpreise. Zur Minderung des Materialpreisrisikos werden Bedarfsmengen und Preise abgesichert."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investitionen in neue Technologien für den Dekarbonisierungsplan.",
+      "zitat": "Für die Umsetzung des Dekarbonisierungsplans werden wesentliche Investitionen in neue Technologien notwendig sein. Im Einklang mit der Nachhaltigkeitsstrategie werden bestehende Anlagen bis zum Ende der Nutzungsdauer eingesetzt."
+    },
+    {
+      "aussage": "Zunahme der Investitionstätigkeit durch verbesserte Finanzierungsbedingungen.",
+      "zitat": "Der Hochbau, insbesondere der Wohnungsbau, blieb im Jahr 2025 aufgrund anhaltend hoher Zinsen sowie steigender Baukosten weiterhin belastet. Gleichzeitig führten verbesserte Finanzierungsbedingungen zu einer Zunahme der Investitionstätigkeit."
+    }
+  ],
+  "_modell": "gemini-3-flash-preview"
+}

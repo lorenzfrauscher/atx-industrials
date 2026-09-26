@@ -1,0 +1,47 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Fokus auf nachhaltige und klimafreundliche Produkte",
+      "zitat": "Die Anpassungsmaßnahmen stehen im Zusammenhang mit der Strategie und dem Geschäftsmodell von wienerberger , sich auf nachhaltige und klimafreundliche Produkte zu konzentrieren. Dies ist im Nachhaltigkeitsprogramm 2026 in Form des Ziels „Umsatz aus Netto-Null-Gebäuden” verankert."
+    },
+    {
+      "prioritaet": "Systematische Reduktion der Treibhausgasemissionen",
+      "zitat": "Systematische Reduktion der T reibhausgasemissionen im gesamten Tätigkeitsbereich, bei allen Produkten und in der gesamten Lieferkette, um ein Netto-Null-Niveau zu erreichen Wandel der Energiesysteme von wienerberger von der Abhängigkeit von fossilen Brennstoffen zu nachhaltigen und erneuerbaren Energiequellen"
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Europa uebrig",
+      "aussage": "Wachstumschancen durch neue EU-Marktrichtlinien für nachhaltige Ziegelprodukte.",
+      "zitat": "Durch neue EU-Marktrichtlinien entstehen Absatzmärkte für innovative, nachhaltige und kli- mafreundliche Ziegelprodukte. Dies kann neue Einnahmequel- len eröffnen, umweltbewusste Kundenansprechen und einen Wettbewerbsvorteil für First Mover darstellen."
+    },
+    {
+      "region": "Global",
+      "aussage": "Steigende Nachfrage nach Produkten für Netto-Null-Gebäude.",
+      "zitat": "Das Ziel aus unserem Nachhaltigkeitsprogramm 2026, 75 % der Gesamteinnahmen aus Bauprodukten zu erzielen, die einen substanziellen Beitrag zu Netto-Null-Gebäuden liefern, ist eine sehr starke strategische Säule."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Erhöhung der Produktionskosten durch CO2-Bepreisung",
+      "kategorie": "Regulierung",
+      "zitat": "die Einführung zusätzlicher CO2-Bepreisungsme- chanismen oder -Steuern kann zur Erhöhung der Produktionskosten führen, die Gesamt- rentabilität bedrohen und Investitionszyklen beschleunigen, während verzögerte oder unzureichende Investitionen in Dekarbonisierung oder T echnologien zur Anpassung an den Klimawandel"
+    },
+    {
+      "risiko": "Volatilität der Energiepreise",
+      "kategorie": "Markt",
+      "zitat": "Der Übergang zu erneuerbaren Energiequellen und die CO2-Bepreisung können zu einer erhöhten Volatilität der Energiepreise führen; die Ziegelherstellung ist energieintensiv und unerwartete Schwankungen der Energiekosten können sich auf die Betriebsausgaben des Unternehmens auswirken"
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Rückgang der CapEx-Quote im Vergleich zum Vorjahr aufgrund fehlender Großakquisitionen.",
+      "zitat": "Der taxonomiekonforme Anteil der CapEx im Berichtszeitraum erreichte 50,8 % des gesamten CapEx (2024: 81,1 %). Der Betrag für 2024 ist aufgrund der Übernahme von T erreal, dessen Dachproduktion eine taxonomiekonforme Geschäftstätigkeit war , erhöht."
+    },
+    {
+      "aussage": "Keine Akquisitionen im Umfang des Vorjahres im Jahr 2025.",
+      "zitat": "Der Betrag für 2024 ist aufgrund der Übernahme von T erreal, dessen Dachproduktion eine taxonomiekonforme Geschäftstätigkeit war , erhöht. Im Jahr 2025 erfolgte keine Akquisition. in diesem Ausmaß."
+    }
+  ],
+  "_modell": "gemini-3-flash-preview"
+}

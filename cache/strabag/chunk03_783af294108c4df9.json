@@ -1,0 +1,47 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Dekarbonisierung und Kreislaufwirtschaft",
+      "zitat": "Im Umweltbereich tragen insbesondere die konzernweiten Dekarbonisierungsmaßnahmen, der verantwortungsvoller Umgang mit natürlichen Ressourcen sowie der Ausbau von Kreislaufwirtschaft und Ressourceneffizienz im Bauwesen zur langfristigen Anpassungsfähigkeit bei."
+    },
+    {
+      "prioritaet": "Soziale Widerstandsfähigkeit",
+      "zitat": "Auf sozialer Ebene wird die Widerstandsfähigkeit durch die Bewältigung des Fachkräftemangels, ein präventives Managementsystem zur Sicherstellung von Arbeitssicherheit und Gesundheit sowie die verantwortungsvolle Gestaltung von Lieferketten gestärkt."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Global",
+      "aussage": "Wachstumschancen durch umweltfreundlichere Dienstleistungen aufgrund veränderter Auftraggeberanforderungen.",
+      "zitat": "Es werden langfristig veränderte Anforderungen der Auftraggeber:innen in Richtung emissionsarmer und energieeffizienter Baudienstleistungen erwartet, womit der Entwicklung und dem Ausbau von umweltfreundlicheren Dienstleistungen und Produkten im Bausektor Wachstumschancen prognostiziert werden."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Klimawandelbedingte Extremwetterereignisse",
+      "kategorie": "Markt",
+      "zitat": "Risiko Klimawandelbedingte Extremwettereignisse und damit verbundene Schäden an Anlagevermögen, eingeschränkte Produktionskapazitäten, Lieferengpässe, Bauzeitverzögerungen Kurz-, mittel- und langfristig Vorgelagert Anpassung an den Klimawandel"
+    },
+    {
+      "risiko": "Regulatorische Anforderungen durch EU-Mandate",
+      "kategorie": "Regulierung",
+      "zitat": "Mandate der Europäischen Union wie der Circular Economy Action Plan, die europäische Entwaldungsverordnung, die europäische Lieferkettenrichtlinie oder produktspezifische Verordnungen wie die Baustoffverordnung, Ökodesign-Richtlinie und die EU-Gebäuderichtlinie bringen veränderte Anforderungen mit sich."
+    },
+    {
+      "risiko": "Volatile Energiekosten",
+      "kategorie": "Markt",
+      "zitat": "Transitorische Auswirkungen für Bauunternehmen aufgrund steigender Rohstoff- und Energiepreise können stark variieren. Anhand der Szenarien der Internationalen Energieagentur und des World Economic Outlook lässt sich ableiten, dass bestimmte Rohstoffe nicht ausreichen."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Zukauf einer Software zur Weiterentwicklung der Klimarisikoanalyse.",
+      "zitat": "Um den Reifegrad der Klimarisikoanalyse weiterzuentwickeln und um weitere Standorte in die Analyse einfließen zu lassen, wurde 2025 eine Software zugekauft. Die Integration der bisherigen Ergebnisse in die Plattform wird schrittweise durchgeführt."
+    },
+    {
+      "aussage": "Investitionen in neue Technologien zur Erreichung der Klimaziele.",
+      "zitat": "Eine ambitionierte Klimazielsetzung verlangt die Investition in neue Technologien, die am Markt kurzfristig potenziell nicht den üblichen Preisen entsprechen, mit denen jedoch langfristig signifikante Wettbewerbsvorteile erzielt werden könnten."
+    }
+  ],
+  "_modell": "gemini-3-flash-preview"
+}

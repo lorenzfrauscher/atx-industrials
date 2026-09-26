@@ -1,0 +1,37 @@
+{
+  "strategische_prioritaeten": [],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Risiko von Rohstoffpreisänderungen gegenüber dem Kalkulationszeitpunkt von Bauprojekten",
+      "kategorie": "Markt",
+      "zitat": "Das Risiko von Rohstoffpreisänderungen ist definiert als das Risiko steigender Preise gegenüber dem Kalkulationszeitpunkt des Bauprojekts. Das Risiko wird zumeist durch mittel- und langfristige Rahmenverträge mit Schlüssellieferanten sowie Preisanpassungsklauseln mit Kunden gemildert."
+    },
+    {
+      "risiko": "Liquiditätsrisiko bei Fälligkeit von Verbindlichkeiten",
+      "kategorie": "Finanzierung",
+      "zitat": "Das Liquiditätsrisiko ist definiert als das Risiko, dass Verbindlichkeiten bei Fälligkeit nicht beglichen werden können. Das Management des Liquiditätsrisikos basiert auf einer im Zuge der konzernalen Ergebnisplanung und Vorschaurechnung integrierten Finanzplanung, die ihren Ausgang auf operativer Ebene nimmt."
+    },
+    {
+      "risiko": "Zinsrisiko aus steigenden Aufwands- oder sinkenden Ertragszinsen",
+      "kategorie": "Finanzierung",
+      "zitat": "Das Zinsrisiko der Gruppe ist definiert als das Risiko steigender Aufwands- oder sinkender Ertragszinsen aus Finanzpositionen und resultiert bei der PORR Gruppe für die Finanzverbindlichkeiten aus dem Szenario steigender Zinsen, insbesondere im kurzfristigen Bereich."
+    },
+    {
+      "risiko": "Transaktionsorientiertes Fremdwährungsrisiko aus Bauaufträgen und Finanzierungen",
+      "kategorie": "Finanzierung",
+      "zitat": "Das Fremdwährungsrisiko wird in der PORR Gruppe transaktionsorientiert behandelt und resultiert aus Bauaufträgen bzw. aus Finanzierungen im Zusammenhang mit solchen Verträgen. Konzernpolitik ist es, die operativen Fremdwährungsrisiken zur Gänze abzusichern."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Verkauf der Beteiligung an der UBM Development Deutschland GmbH im Geschäftsjahr 2025",
+      "zitat": "Die in den übrigen Finanzanlagen, die erfolgsneutral zum beizulegenden Zeitwert bewertet werden, enthaltene Beteiligung an der UBM Development Deutschland GmbH wurde im Geschäftsjahr 2025 verkauft."
+    },
+    {
+      "aussage": "Vorhaltung von liquiden Mitteln für potenzielle Firmenzukäufe und saisonalen Spitzenbedarf",
+      "zitat": "Die Gruppe weist zum Jahresultimo 2025 einen Liquiditätsstand in Höhe von TEUR 748.427 (Vorjahr: TEUR 583.165) aus, der für den im Bau typischen saisonalen Liquiditätsspitzenbedarf von April bis November, zur Rückführung fälliger Kredite und SSD-Tranchen und für potenzielle Firmenzukäufe dient."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

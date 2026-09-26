@@ -1,0 +1,55 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Mensch als strategischer Schwerpunkt",
+      "zitat": "In Übereinstimmung mit ihrer Unternehmenskultur räumt die Lenzing Gruppe den Menschen als strategischem Schwerpunkt oberste Priorität ein, da sie ein integraler Bestandteil ihres ganzheitlichen Nachhaltigkeitsansatzes sind."
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Zunahme chronischer physischer Klimagefahren",
+      "kategorie": "Lieferkette",
+      "zitat": "Der Betrieb und die Lieferkette von Lenzing könnten zunehmend von extremen Wetterereignissen, Wasserknappheit und anderen physikalischen Gefahren unterschiedlichen Ausmaßes betroffen sein."
+    },
+    {
+      "risiko": "Risiko der Holzknappheit",
+      "kategorie": "Markt",
+      "zitat": "Da Holz einer der wichtigsten Rohstoffe für Lenzing ist, kann das Risiko der Nichtverfügbarkeit von Holz aufgrund von Waldschäden (Krankheiten, Schädlinge usw.) als direkte Folge höherer Durchschnittstemperaturen das Kerngeschäft beeinträchtigen."
+    },
+    {
+      "risiko": "Risiko steigender Holzpreise",
+      "kategorie": "Markt",
+      "zitat": "Trotz der nachhaltigen Beschaffungspolitik von Lenzing und der rückwärtsintegrierten Produktion besteht die Gefahr, dass die Holzpreise aufgrund des Klimawandels und des zunehmenden Wettbewerbs um Biomasse und Landnutzung steigen."
+    },
+    {
+      "risiko": "Risiko steigender Kosten von Treibhausgasemissionen",
+      "kategorie": "Regulierung",
+      "zitat": "Die zunehmende Regulierung, insbesondere in Bezug auf Umweltsteuern und Kohlenstoffbepreisung, stellt ein relevantes Risiko für Lenzing dar. In den Ländern, in denen Lenzing kohlenstoffintensive Prozesse durchführt, wurden bereits Vorschriften für Treibhausgasemissionen eingeführt"
+    },
+    {
+      "risiko": "Risiko der Nichteinhaltung der Europäischen Lieferkettenrichtlinie (CSDDD)",
+      "kategorie": "Regulierung",
+      "zitat": "Es besteht das Risiko der Nichteinhaltung der Europäischen Lieferkettenrichtlinie (CSDDD), wenn die internen Prozesse nicht umgesetzt werden."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investition in Erdgaspipeline, Gaskessel und Turbine am Standort Nanjing (China)",
+      "zitat": "Erdgaspipeline, Gaskessel und Turbine am Standort Nanjing (China), als Ersatz für kohlebasierten Dampf, in Betrieb seit 2025"
+    },
+    {
+      "aussage": "Austausch von Gaskesseln am Standort Mobile (USA)",
+      "zitat": "Austausch von Gaskesseln an Lenzings Standort in Mobile (USA) im Jahr 2025 durch effizientere Modelle"
+    },
+    {
+      "aussage": "Inbetriebnahme und Fertigstellung von Kläranlagen in Grimsby, Mobile und Purwakarta",
+      "zitat": "Die Kläranlagen in Grimsby (Großbritannien) wurde 2025 vollständig in Betrieb genommen. Die Kläranlagen in Mobile (USA) und Purwakarta (Indonesien) wurden 2024 fertiggestellt und entwickeln sich gut"
+    },
+    {
+      "aussage": "Fertigstellung einer Reinigungsanlage für Extraktionsmittel in Lenzing (Österreich)",
+      "zitat": "Eine Reinigungsanlage für Extraktionsmittel wurde 2025 in Lenzing (Österreich) fertiggestellt"
+    }
+  ],
+  "_modell": "gemini-3.5-flash"
+}

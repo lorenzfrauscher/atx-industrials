@@ -1,0 +1,21 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Steigerung des Frauenanteils im Management um 6 % jährlich",
+      "zitat": "Gemäß der EDI-Strategie soll der Anteil von Frauen in Management jährlich um 6 % gesteigert werden, insbesondere durch interne Beförderungen."
+    },
+    {
+      "prioritaet": "Reduktion von Treibhausgasemissionen bis 2030 und Erreichung der Klimaneutralität bis 2040",
+      "zitat": "Bis zum Jahr 2030 sollen unsere Scope 1- und Scope 2-Emissionen um 42 % und unsere Scope 3-Emissionen um 25 % reduziert und bis 2040 Klimaneutralität erreicht werden."
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [],
+  "capex_ma_signale": [
+    {
+      "aussage": "Verstärkte Investitionen in emissionsarme Technologien und Ausbau von partnerschaftlichen Wertschöpfungsketten geplant",
+      "zitat": "Geplant sind zudem verstärkte Investitionen in emissionsarme Technologien und der Ausbau von Partnerschaften zur Förderung nachhaltiger Wertschöpfungsketten"
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

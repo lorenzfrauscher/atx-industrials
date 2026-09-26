@@ -1,0 +1,22 @@
+{
+  "strategische_prioritaeten": [],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Finanzielle Risiken aus Finanzinstrumenten (Ausfalls-, Liquiditäts-, Fremdwährungs-, Rohstoffpreis- und Zinsrisiko)",
+      "kategorie": "Finanzierung",
+      "zitat": "Die finanziellen Risiken aus Finanzinstrumenten – Ausfallsrisiko, Liquiditätsrisiko, Fremdwährungsrisiko (insbesondere BRL, CNY, CZK, HKD, IDR, THB und USD), Rohstoffpreisrisiko und Zinsrisiko – werden als für die Lenzing Gruppe relevante Risiken eingestuft."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Die Lenzing Gruppe hält per 31. Dezember 2025 unverändert eine 40-prozentige Beteiligung am Kapital und an den Stimmrechten der LPP.",
+      "zitat": "Die Lenzing Gruppe hält per 31. Dezember 2025 40 Prozent am Kapital und an den Stimmrechten der LPP (31. Dezember 2024: 40 Prozent). Die Haupttätigkeit der nicht börsennotierten LPP besteht in der Erzeugung von auf Zellulose basierenden Produkten, insbesondere Papier."
+    },
+    {
+      "aussage": "Die Lenzing Gruppe hält per 31. Dezember 2025 eine 20-prozentige Beteiligung an der Equi-Fibres Beteiligungsgesellschaft mbH (EFB), deren Tochter KFG den Betrieb einstellt.",
+      "zitat": "Die Lenzing Gruppe hält per 31. Dezember 2025 20 Prozent am Kapital und an den Stimmrechten der nicht börsennotierten Equi-Fibres Beteiligungsgesellschaft mbH (EFB) (31. Dezember 2024: 20 Prozent)."
+    }
+  ],
+  "_modell": "gemini-3.7-flash"
+}

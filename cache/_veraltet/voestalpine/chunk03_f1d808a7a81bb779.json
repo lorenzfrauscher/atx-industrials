@@ -1,0 +1,46 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Erreichen von Net-Zero-Emissionen bis 2050 und Reduktion von Scope-1- und Scope-2-Emissionen bis 2029 um 30 % sowie Scope-3 um 25 %",
+      "zitat": "Die voestalpine bekennt sich zu klaren Nachhaltigkeitszielen und sieht bis 2050 Net-Zero-Emissionen vor. Im Rahmen der Science Based Targets initiative (SBTi) verpflichtet sich das Unternehmen, die Summe der Scope-1- und Scope-2-Emissionen bis 2029 um 30 % und die Scope-3-Emissionen um 25 % gegenüber dem Referenzjahr 2019 zu reduzieren."
+    },
+    {
+      "prioritaet": "Langfristige Absicherung der Rohstoff- und Energieversorgung sowie Ausbau der Kreislaufwirtschaft mit 50 % Schrotteinsatz bis 2030",
+      "zitat": "Um diese Herausforderungen zu adressieren, hat sich die voestalpine die strategischen Ziele gesetzt, die Versorgung der Produktionsstandorte mit den benötigten Rohstoffen und Energien langfristig und wirtschaftlich abzusichern sowie die Kreislaufwirtschaft weiter auszubauen und den Einsatz von Schrott als Sekundärrohstoff in der Stahlerzeugung bis 2030 um 50 % zu erhöhen."
+    },
+    {
+      "prioritaet": "Senkung der Unfallhaeufigkeitsquote bis 2030 auf 5,5 und Annaeherung an 'Zero Accidents'",
+      "zitat": "Daher wird kontinuierlich an der weiteren Reduktion der Unfallhäufigkeit sowie der Erhöhung der Gesundheitsquote gearbeitet, um sich der Vision von „Zero Accidents“ anzunähern. Strategisch soll die Unfallhäufigkeitsquote bis 2030 auf 5,5 gesenkt werden."
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Transitorisches Risiko von Lieferengpaessen bzw. hoeheren Kosten fuer wichtige Materialien und Rohstoffe",
+      "kategorie": "Lieferkette",
+      "zitat": "Gleichzeitig können damit verbundene transitorische Risiken entstehen – insbesondere in Bezug auf Lieferengpässe für Energie, wichtige Rohstoffe und damit einhergehende höhere Kosten und sich verändernden Wettbewerb –, denen mit laufenden Maßnahmen entgegengewirkt wird (siehe E1-3)."
+    },
+    {
+      "risiko": "Kosten aufgrund CO2e-Bepreisungsmechanismen und damit verbundene Wettbewerbsnachteile",
+      "kategorie": "Regulierung",
+      "zitat": "CO2e-Bepreisungsmechanismen wie das EU-Emissionshandelssystem (ETS) und der CO2 -Grenzausgleichsmechanismus (CBAM) führen zu steigenden finanziellen Belastungen, die potenziell Wettbewerbsnachteile gegenüber Nicht-EU-Wettbewerber:innen verursachen und einen strukturellen Wandel, wie Abwanderung von Abnehmerindustrien und einen höheren Preiswettbewerb, in der Industrie auslösen können."
+    },
+    {
+      "risiko": "Transitorisches Risiko der technischen Umstellung auf emissionsarme Technologien",
+      "kategorie": "Technologie",
+      "zitat": "Die voestalpine hat fünf wesentliche klimabezogene Risiken identifiziert, bei denen es sich um ein klimabezogenes physisches Risiko und vier klimabezogene Übergangsrisiken handelt: Klimabezogene Risiken Risiko Klimabezogenes physisches Risiko Akute und chronische physische Klimarisiken Klimabezogenes Übergangsrisiko Transitorisches Risiko: Technische Umstellung auf emissionsarme Technologien"
+    },
+    {
+      "risiko": "Risiko bezueglich der Sicherstellung der Produktqualitaet bei vermehrtem Schrotteinsatz",
+      "kategorie": "Technologie",
+      "zitat": "Dem Risiko der „Sicherstellung der Produktqualität bei vermehrtem Schrotteinsatz“ begegnet die voestalpine mit einem breiten Maßnahmenbündel. Kern dieser Maßnahmen ist der verstärkte Forschungsfokus, um nach Umstellung von der Hochofen- auf die Elektrolichtbogenofenroute weiterhin Stahlgüten in höchster Qualität herstellen zu können"
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investition von 1,5 Mrd. EUR in zwei gruenstrombetriebene Elektrolichtbogenoefen in Linz und Donawitz",
+      "zitat": "In der ersten Phase werden bereits 1,5 Mrd. EUR in einen grünstrombetriebenen Elektrolichtbogenofen in Linz und in eine grünstrombetriebene Elektrolichtbogenofenanlage in Donawitz investiert, die jeweils einen Hochofen ersetzen sollen."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

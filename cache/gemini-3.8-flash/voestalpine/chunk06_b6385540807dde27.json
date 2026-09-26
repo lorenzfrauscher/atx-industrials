@@ -1,0 +1,31 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Steigerung des Anteils weiblicher Führungskräfte auf 18 % bis 2030",
+      "zitat": "Die Konzernstrategie sieht vor, den Anteil weiblicher Führungskräfte bis 2030 von 14 % auf 18 % zu erhöhen. Im Fokus stehen dabei auch die Aktivitäten auf den drei Ebenen Positionierung, Halten sowie Begleiten/Fordern/Fördern."
+    },
+    {
+      "prioritaet": "Konzernweite Umsetzung von acht strategischen Handlungsfeldern der HR-Strategie",
+      "zitat": "Zur Umsetzung der Strategie arbeitet die voestalpine konzernweit an acht strategischen Handlungsfeldern, die zentrale Hebel zur Erreichung der HR-Ziele darstellen: 1. Werte und Kulturmanagement: Aktives Management der Unternehmenswerte zur Begleitung von Technologiewandel und gesellschaftlichem Wandel"
+    },
+    {
+      "prioritaet": "Schrittweise Ausdehnung des Due-Diligence-Prozesses auf den gesamten Konzern",
+      "zitat": "Zur Weiterentwicklung des Lieferkettenmanagements schafft die voestalpine derzeit die organisatorischen und prozessualen Voraussetzungen, um den bestehenden Due-Diligence-Prozess – der bislang auf Gesellschaften mit Verpflichtung nach dem Lieferkettensorgfaltspflichtengesetz (LkSG) beschränkt ist – schrittweise auf den gesamten Konzern auszudehnen."
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Berufliche Gefahren, Risiken für Arbeitsunfälle, Verletzungen und Erkrankungen",
+      "kategorie": "Technologie",
+      "zitat": "Die Mitarbeiter:innen der voestalpine sind aufgrund der Branche, der Art ihrer Arbeit oder der Umgebung, in der sie arbeiten, beruflichen Gefahren und Risiken ausgesetzt, die zu Unfällen, Verletzungen, Krankheiten oder Erkrankungen führen können."
+    },
+    {
+      "risiko": "Nachhaltigkeitsrisiken und Verletzungen von Menschen- und Arbeitsrechten in der Lieferkette",
+      "kategorie": "Lieferkette",
+      "zitat": "Als Nachhaltigkeitsrisiken gelten hier mögliche Verletzungen von Gesetzen und Richtlinien in den Bereichen Menschenrechte und Umweltschutz (siehe nachfolgende Tabelle). Dazu zählt auch das Risiko möglicher Verletzungen von Menschen- und Arbeitsrechten, von dem die Arbeitskräfte in der Lieferkette betroffen sein können."
+    }
+  ],
+  "capex_ma_signale": [],
+  "_modell": "gemini-3.8-flash"
+}

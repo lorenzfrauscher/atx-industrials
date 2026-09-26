@@ -1,0 +1,49 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Stufenweise Dekarbonisierung der Stahlproduktion (greentec steel) und Reduktion von Emissionen bis Net-Zero 2049/50",
+      "zitat": "Die Umsetzung des greentec steel-Programms – die stufenweise Transformation der Prozesse zur Rohstahlherstellung – im Rahmen des Klimaübergangsplans ermöglicht eine nachhaltige Weiterentwicklung des Kerngeschäfts, indem emissionsarme Technologien schrittweise eingeführt und bestehende Prozesse optimiert werden."
+    },
+    {
+      "prioritaet": "Steigerung des Schrotteinsatzes in der Rohstahlherstellung im Rahmen der Kreislaufwirtschaft",
+      "zitat": "Die voestalpine setzt auf eine effiziente Ressourcennutzung, indem Schrott und andere metallhaltige Rückstände wieder in den Produktionsprozess zurückgeführt werden. Bis 2030 soll der Einsatz von Sekundärrohstoffen weiter gesteigert werden, indem der Schrotteinsatz in der Rohstahlherstellung um 50 % erhöht wird."
+    },
+    {
+      "prioritaet": "Implementierung der F&E- und Innovationsstrategie 2030+",
+      "zitat": "Im Geschäftsjahr 2025/26 wurde ausgehend von der Konzernstrategie 2030+ die F&E- und Innovationsstrategie 2030+ konzeptioniert, deren Implementierung ab dem Geschäftsjahr 2026/27 geplant ist. Die Strategie zielt darauf ab, den wirtschaftlichen Erfolg des Unternehmens langfristig durch innovative Prozesse und nachhaltige Produkte zu sichern."
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Transitorisches Risiko durch Kosten aufgrund von CO2e-Bepreisung",
+      "kategorie": "Regulierung",
+      "zitat": "Die voestalpine begegnet diesem Risiko durch gezielte Investitionen im Rahmen einer schrittweisen Transformation der Produktionsprozesse. Ergänzend setzt der Konzern auf verstärkte Differenzierung in Produktqualität, Flexibilität und Service."
+    },
+    {
+      "risiko": "Lieferengpässe bzw. höhere Kosten für wichtige Materialien und Rohstoffe",
+      "kategorie": "Lieferkette",
+      "zitat": "Zur Reduktion der indirekten Treibhausgasemissionen entlang Scope 3 bis zum Geschäftsjahr 2029/30 konzentriert sich die voestalpine auf gezielte Maßnahmen innerhalb ihrer Wertschöpfungskette. Ein zentraler Dekarbonisierungshebel ist dabei das Supplier Engagement, eine Dekarbonisierung wesentlicher bestehender Rohstoffe."
+    },
+    {
+      "risiko": "Sinkende Produktqualität bei vermehrtem Schrotteinsatz",
+      "kategorie": "Technologie",
+      "zitat": "Der erhöhte Einsatz von Schrott im Zuge der Umstellung von primär kohlebasierten Hochöfen auf Elektrolichtbogenöfen birgt das Risiko sinkender Produktqualität. Wesentlich ist dieses Risiko aufgrund potenzieller Qualitätseinbußen bei verändertem Rohstoffeinsatz (Schrott, Feinerz) sowie aufgrund hoher Qualitätsanforderungen der Abnehmerbranchen."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Aufsichtsrat genehmigte rund 1,5 Mrd. EUR CapEx für Elektrolichtbogenöfen in Linz und Donawitz (Phase 1 greentec steel), wovon bis Ende 2025/26 rund 0,9 Mrd. EUR investiert wurden.",
+      "zitat": "Rund 1,5 Mrd. EUR wurden für die Elektrolichtbogenöfen in Linz und Donawitz im Zuge der Phase 1 des Klimaschutzprogramms greentec steel vom Aufsichtsrat bereits genehmigt, was einen zentralen Bestandteil des Klimaübergangsplans des Unternehmens bildet. Davon wurden bereits rund 0,9 Mrd. EUR bis zum Ende des Geschäftsjahres 2025/26"
+    },
+    {
+      "aussage": "Im Geschäftsjahr wurden 381,8 Mio. EUR als taxonomiekonformer CapEx ausgewiesen, wovon 292,7 Mio. EUR auf greentec steel entfallen.",
+      "zitat": "Im aktuellen Geschäftsjahr wurden insgesamt 381,8 Mio. EUR CapEx als taxonomiekonform ausgewiesen (siehe auch Kapitel Angaben nach der EU-Taxonomie-Verordnung), wobei 303,3 Mio. EUR auf die Wirtschaftstätigkeit 3.9 Herstellung von Eisen und Stahl entfallen, wovon wiederum 292,7 Mio. EUR Investitionen in Zusammenhang mit greentec steel darstellen."
+    },
+    {
+      "aussage": "Fördermittel in Höhe von rund 90 Mio. EUR für Elektrolichtbogenofentechnologie und Forschung erhalten.",
+      "zitat": "Darüber hinaus hat die voestalpine Förderzusagen in Höhe von rund 90 Mio. EUR für die Investition in die Elektrolichtbogenofentechnologie und weitere Forschungsaktivitäten erhalten. Diese Mittel stammen aus dem Programm „Transformation der Industrie“ der österreichischen Bundesregierung und unterstützen die Umsetzung zentraler Dekarbonisierungshebel."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

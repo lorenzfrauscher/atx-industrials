@@ -1,0 +1,70 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Fokus auf Exzellenz und Premiumisierung",
+      "zitat": "Unsere Strategie basiert auf vier zentralen Treibern: Exzellenz, Premiumisierung, Innovation und Nachhaltigkeit. Sie stärken die Differenzierung und die Wettbewerbsfähigkeit von Lenzing und helfen uns dabei, in allen Marktsegmenten besseres Wachs - tum und höhere Profitabilität zu erzielen."
+    },
+    {
+      "prioritaet": "Kosten- und Effizienzstrukturverbesserung im Rahmen des Kernbereichs Exzellenz",
+      "zitat": "Angesichts einer weiterhin verhaltenen Markt - erholung sowie steigender Kosten für Personal, Energie und Rohstoffe wurden zusätzliche Maßnahmen zur Verbesserung der Kosten und Effizienzstruktur beschlossen. Dazu zählen eine straffere Personal struktur im Verwaltungsbereich am Standort Lenzing"
+    },
+    {
+      "prioritaet": "Fokus auf Premiumfasern und schrittweiser Rückzug aus Commodity-Segmenten",
+      "zitat": "In diesem Kontext fokussiert sich Lenzing noch stärker auf Premium fasern mit höheren Margen, vermarktet unter den Produktmarken TENCEL ™ und VEOCEL ™ sowie LENZING™ für technische und industrielle Anwendungen. Parallel dazu wird sich das Unternehmen aus margenschwachen Commodity-Segmen - ten schrittweise zurückziehen."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Asien-Pazifik uebrig",
+      "aussage": "Gezielte Stärkung der Präsenz in Asien",
+      "zitat": "Dazu zählen eine straffere Personal struktur im Verwaltungsbereich am Standort Lenzing sowie eine gezielte Stärkung der Präsenz in Asien und Nordamerika. Insgesamt ergeben sich daraus jährliche Einspa - rungen von mehr als EUR 45 Mio."
+    },
+    {
+      "region": "Nordamerika",
+      "aussage": "Gezielte Stärkung der Präsenz in Nordamerika",
+      "zitat": "Dazu zählen eine straffere Personal struktur im Verwaltungsbereich am Standort Lenzing sowie eine gezielte Stärkung der Präsenz in Asien und Nordamerika. Insgesamt ergeben sich daraus jährliche Einspa - rungen von mehr als EUR 45 Mio."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Anhaltend schwache Nachfrage nach regenerierten Cellulosefasern, asiatische Konkurrenz und Preisdruck",
+      "kategorie": "Markt",
+      "zitat": "Ergebnisrisiken für Lenzing resultieren insbesondere aus der anhal- tend schwachen Nachfrage nach regenerierten Cellulosefasern. Diese ist auf eine Verschiebung des Marktgleichgewichts aufgrund verstärkter asiatischer Konkurrenz und der daraus folgenden nied- rigen Faserpreise sowie auf die volatile Preisentwicklung zentraler Rohstoffe und Energie zurückzuführen."
+    },
+    {
+      "risiko": "Handelsbeschränkungen durch geopolitische Spannungen und Handelskonflikte",
+      "kategorie": "Markt",
+      "zitat": "Angesichts der geopolitischen Spannungen führen globale Han- delskonflikte zu einem erhöhten Risiko zusätzlicher Handelsbe- schränkungen mit potenziellen negativen Auswirkungen auf für Lenzing relevante Lieferketten und Absatzmärkte."
+    },
+    {
+      "risiko": "Liquiditätsrisiken durch Zinsanstieg, Covenant-Nichteinhaltung oder Wegfall von Working-Capital-Programmen",
+      "kategorie": "Finanzierung",
+      "zitat": "Ein deutlich ansteigendes Zinsniveau oder eine unerwartet negative Entwick- lung des operativen Geschäfts und des dadurch generierten Free Cashflows würde ein Risiko für die verfügbare Liquidität darstellen. Eine Nichteinhaltung der in Finanzierungsverträgen vorhandenen Financial Covenants würde zu einer Rückzahlungspflicht der Fi- nanzverbindlichkeiten führen"
+    },
+    {
+      "risiko": "Währungsrisiko durch Abwertung des US-Dollars und des chinesischen Yuans",
+      "kategorie": "Finanzierung",
+      "zitat": "Auf der Währungsseite würde sich eine Abwertung des US-Dollars als auch des chinesischen Yuans negativ auf das offene Währungs- volumen von Lenzing auswirken."
+    },
+    {
+      "risiko": "Risiken durch Künstliche Intelligenz und Cyberrisiken",
+      "kategorie": "Technologie",
+      "zitat": "T echnologische Umbrüche, insbesondere in den Bereichen künst- liche Intelligenz und Cyberrisiken, erhöhen die Anfälligkeit von Or- ganisationen und Unternehmen gleichermaßen."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investitionsprogramm von über EUR 100 Mio. für österreichische Produktionsstandorte Lenzing und Heiligenkreuz",
+      "zitat": "Lenzing plant Investitionen von über EUR 100 Mio. für die Standorte Lenzing und Heiligenkreuz, um deren Wett - bewerbsfähigkeit zu sichern."
+    },
+    {
+      "aussage": "Investition von EUR 15 Mio. zur Erweiterung der Vliesstoffkapazitäten am Standort Lenzing",
+      "zitat": "Dazu zählt unter anderem die beschlossene Investition von EUR 15 Mio. in die Erweiterung der Vliesstoffkapazitäten am Standort Lenzing. Diese Investition ist Teil des geplanten Investitons - programms von insgesamt EUR 100 Mio. für die österreichischen Produktionsstandorte."
+    },
+    {
+      "aussage": "Übernahme der kontrollierenden Mehrheit am schwedischen Unternehmen TreeToTextile AB im Februar 2026",
+      "zitat": "Im Februar 2026 erhöhte die Lenzing Gruppe ihre bestehende Be- teiligung an T ree T o T extile AB und übernahm damit die kontrollie- rende Mehrheit. Mit der Mehrheitsübernahme unterstreicht Lenzing ihren Anspruch, die Premiumisierungsstrategie konse- quent voranzutreiben"
+    }
+  ],
+  "_modell": "gemini-3.7-flash"
+}

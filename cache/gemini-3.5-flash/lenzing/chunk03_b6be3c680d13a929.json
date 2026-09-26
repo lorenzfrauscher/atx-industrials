@@ -1,0 +1,38 @@
+{
+  "strategische_prioritaeten": [],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Marktrisiko",
+      "kategorie": "Markt",
+      "zitat": "Die Preis - und Mengenentwicklung ist bei Fasern für T extilien und in geringerem Maße auch bei Fasern für Vliesstoffe zyklisch, da sie von globalen und regionalen Konjunkturlagen abhängig ist."
+    },
+    {
+      "risiko": "Absatzrisiko",
+      "kategorie": "Markt",
+      "zitat": "Abnahmeausfälle bei dieser Kundengruppe oder der gänzliche Verlust eines oder mehrerer Großkunden, ohne zeitgleich Ersatz zu finden, stellen gewisse Risiken dar, denen das Unternehmen durch seine globale Präsenz und die laufende Erweiterung des Kundenspektrums bzw. der Absatzsegmente entgegenwirkt."
+    },
+    {
+      "risiko": "Wettbewerbs- und Innovationsrisiko",
+      "kategorie": "Technologie",
+      "zitat": "Die Lenzing Gruppe ist dem Risiko ausgesetzt, ihre Position auf dem Fasermarkt durch einen steigenden Wettbewerb oder neue Technologien von Mitbewerbern zu verlieren."
+    },
+    {
+      "risiko": "Gesetze und Verordnungen",
+      "kategorie": "Regulierung",
+      "zitat": "Eine Änderung von Gesetzen oder sonstigen Bestimmungen wie Importzölle, Produktklassifizierungen, Umweltauflagen etc., sowie die strengere Auslegung von Verordnungen und Gesetzen können zu erheblichen Mehrkosten und zu Wettbewerbsnachteilen führen."
+    },
+    {
+      "risiko": "Beschaffungsrisiko",
+      "kategorie": "Lieferkette",
+      "zitat": "Die Faserproduktion und deren Margen sind Risiken der Verfügbarkeit und der Preisentwicklung dieser Rohstoffe unterworfen, die zum Nachteil der Lenzing Gruppe schwanken und durch den Klimawandel weiter verstärkt werden können."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Im Geschäftsjahr 2023 wurden im Rahmen eines Unternehmenserwerbes im Wesentlichen Sachanlagen erworben und somit dem CAPEX zugerechnet.",
+      "zitat": "Im Ge schäftsjahr 2023 wurden im Rahmen eines Unternehmenserwerbes im Wesentlichen Sachanlagen erworben und somit dem CAPEX zugerechnet (siehe Note 3 im Konzernabschluss 31. Dezember 2023)."
+    }
+  ],
+  "_modell": "gemini-3.5-flash"
+}

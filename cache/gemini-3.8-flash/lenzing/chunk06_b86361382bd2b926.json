@@ -1,0 +1,70 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Klimaaktionsplan bis 2030 zur Reduktion von THG-Emissionen und Erreichung von Netto-Null bis 2050",
+      "zitat": "Bis 2030 will das Unternehmen die absoluten THG-Emissionen in Scope 1 und 2 um 42 Prozent und in Scope 3 um 25 Prozent reduzieren (Bezugsjahr 2021)."
+    },
+    {
+      "prioritaet": "Erfuellung der formalen Anforderungen eines ESRS-Uebergangsplans bis 2028",
+      "zitat": "Lenzing arbeitet aktuell daran, den Plan zu stärken, um die formalen Anforderungen eines Übergangsplans gemäß den Europäischen Standards für die Nachhaltigkeitsberichterstattung (ESRS) bis 2028 zu erfüllen."
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Chronische physische Klimagefahren und Lieferkettenbeeintraechtigung",
+      "kategorie": "Lieferkette",
+      "zitat": "Der Betrieb und die Lieferkette von Lenzing könnten zunehmend von extremen Wetterereignissen, Wasserknappheit und anderen physikalischen Gefahren unterschiedlichen Ausmaßes betroffen sein."
+    },
+    {
+      "risiko": "Nichtverfuegbarkeit von Holz aufgrund von Waldschaeden",
+      "kategorie": "Lieferkette",
+      "zitat": "Da Holz einer der wichtigsten Rohstoffe für Lenzing ist, kann das Risiko der Nichtverfügbarkeit von Holz aufgrund von Waldschäden (Krankheiten, Schädlinge usw.) als direkte Folge höherer Durchschnittstemperaturen das Kerngeschäft beeinträchtigen."
+    },
+    {
+      "risiko": "Steigende Holzpreise durch Klimawandel und Biomasse-Wettbewerb",
+      "kategorie": "Markt",
+      "zitat": "Trotz der nachhaltigen Beschaffungspolitik von Lenzing und der rückwärtsintegrierten Produktion besteht die Gefahr, dass die Holzpreise aufgrund des Klimawandels und des zunehmenden Wettbewerbs um Biomasse und Landnutzung steigen."
+    },
+    {
+      "risiko": "Regulatorische Neueinstufung von Biomasse unter RED II/III",
+      "kategorie": "Regulierung",
+      "zitat": "Mit der Richtlinie über erneuerbare Energien (RED II /III) könnte Biomasse neu eingestuft werden und nicht mehr als erneuerbar gelten."
+    },
+    {
+      "risiko": "Unvorhergesehene Energieengpaesse mit finanziellen Folgen",
+      "kategorie": "Lieferkette",
+      "zitat": "Unvorhergesehene Energieengpässe könnten die Geschäftstätigkeit von Lenzing beeinträchtigen, was ein finanzielles Risiko darstellen kann."
+    },
+    {
+      "risiko": "Strengere Kohlenstoffvorschriften und Kohlenstoffbepreisung",
+      "kategorie": "Regulierung",
+      "zitat": "In einem Netto-Null-Szenario bis 2050 würde der Übergang zu einer kohlenstoffarmen Wirtschaft strengere Kohlenstoffvorschriften erfordern, die sich weltweit in den Kohlenstoffpreisen widerspiegeln, um die Temperaturen unter 1,5 °C zu halten."
+    },
+    {
+      "risiko": "Technologische Wertminderung bestehender Anlagen",
+      "kategorie": "Technologie",
+      "zitat": "In einem Netto-Null-Szenario bis 2050 muss der Übergang zu umweltfreundlichen Anlagen weltweit schneller erfolgen, um die Temperaturen unter 1,5 °C zu halten, was für Lenzing kurzfristig ein größeres Risiko für eine technologische Wertminderung bedeutet."
+    },
+    {
+      "risiko": "Rueckgang des Kundenstamms und der Gesamtnachfrage",
+      "kategorie": "Markt",
+      "zitat": "In einem Netto-Null-Szenario bis 2050 würde der Übergang zu einer kohlenstoffarmen Wirtschaft zu einem Rückgang in einigen der von Lenzing bedienten Sektoren führen, wodurch sich der Kundenstamm von Lenzing und damit die Gesamtnachfrage verringern würde."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investitionsausgaben (CapEx) beliefen sich im Geschaeftsjahr 2025 auf 144,7 Millionen Euro",
+      "zitat": "Die gesamten Investitionsausgaben (CapEx) erstrecken sich auf buchmäßige (nicht zahlungswirksame) Zugänge zu Sachanlagen, immateriellen Vermögenswerten, biologischen Vermögenswerten und Nutzungsrechten."
+    },
+    {
+      "aussage": "Lenzing investierte rund 30 Millionen Euro in Nanjing fuer die Umstellung von Kohle auf Erdgas",
+      "zitat": "Lenzing hat an ihrem Viscosestandort in Nanjing (China) rund EUR 30 Mio. investiert, um von Kohle auf Erdgas umzustellen."
+    },
+    {
+      "aussage": "Pruefung einer Investition am Standort Heiligenkreuz zur Reduzierung von Treibhausgasen",
+      "zitat": "So erwägt Lenzing beispielsweise eine Investition an ihrem Standort Heiligenkreuz (Österreich) in ein Projekt, das den Verbrauch fossiler Brennstoffe und die Treibhausgasemissionen erheblich reduzieren würde."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

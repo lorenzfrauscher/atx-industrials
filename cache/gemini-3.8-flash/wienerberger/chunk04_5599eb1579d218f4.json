@@ -1,0 +1,18 @@
+{
+  "strategische_prioritaeten": [],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Physische Klimarisiken und klimabedingte Gefahren für Vermögenswerte und Geschäftsaktivitäten über kurz-, mittel- und langfristige Zeithorizonte",
+      "kategorie": "Markt",
+      "zitat": "wienerberger hat eine Analyse der physischen Klimarisiken durchgeführt, um festzustellen, ob klimabedingte Gefahren Risiken für Vermögenswerte und Geschäftsaktivitäten über einen kurz- (bis 2030), mittel (bis 2040) und langfristigen Zeithorizont (bis 2050) darstellen könnten."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Ganzheitlicher Ansatz des Managements im Umgang mit Risiken und Chancen umfasst Fusionen und Übernahmen (M&A) sowie den Ausbau des Werksnetzes.",
+      "zitat": "Bei Minderung von Risiken und Nutzung von Chancen wählt das Management von wienerberger einen ganzheitlichen Ansatz, der die Bereiche Produktentwicklung, Fusionen und Übernahmen (Mergers and Acquisitions, M&A), Ausbau des Werksnetzes und Auswahl der Energieträger sowie eine breite Palette an Initiativen"
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

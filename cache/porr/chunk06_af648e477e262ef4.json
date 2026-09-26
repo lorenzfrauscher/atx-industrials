@@ -1,0 +1,43 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Förderung des Kompetenzaufbaus von Führungskräften",
+      "zitat": "Die PORR verfolgt das Ziel, Führungskräfte systematisch in ihrem fachlichen, methodischen und sozialen Kompetenzaufbau zu stärken. Durch gezielte Weiterbildungsangebote sollen Führungskräfte optimal auf ihre Aufgaben vorbereitet werden, eine konsistente und verantwortungsvolle Führungspraxis entwickeln."
+    },
+    {
+      "prioritaet": "Implementierung eines Entwicklungskompasses",
+      "zitat": "Durch die Konzeption und gruppenweite Umsetzung eines Entwicklungskompasses für Mitarbeitende sollen individuelle Stärken und Kompetenzen nachhaltig gefördert werden – unter Berücksichtigung aktueller Markttrends. Der PORR Entwicklungskompass hat das Ziel, interne Fachkräfte gezielt zu fördern."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "DACH",
+      "aussage": "Durchführung eines Programms für Nachwuchsführungskräfte in der DACH-Region.",
+      "zitat": "Das Nachwuchsführungskräfteprogramm für die DACH-Region wurde im Berichtsjahr erneut erfolgreich durchgeführt. Nach einem vorbereitenden Webinar werden potenzielle Nachwuchsführungskräfte zügig in das weiterführende Modul der Leadership Academy integriert."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Gesundheitliche Auswirkungen durch Unfälle auf der Baustelle",
+      "kategorie": "Markt",
+      "zitat": "Die Arbeit im Baugewerbe birgt das Risiko von Unfällen auf der Baustelle, im Büro und in sonstigen Betriebsstätten (IRO1), die sich negativ auf die Gesundheit und das Wohlbefinden der Mitarbeitenden auswirken können."
+    },
+    {
+      "risiko": "Betriebliche Risiken durch krankheitsbedingte Ausfälle",
+      "kategorie": "Markt",
+      "zitat": "IR03 Betriebliche Risiken durch krankheitsbedingte Ausfälle. Gesundheitliche Auswirkungen durch Krankheiten auf der Baustelle, im Büro und in sonstigen Betriebsstätten. Diese Vorfälle können zu physischen Verletzungen, selten auch zu Todesfällen, führen."
+    },
+    {
+      "risiko": "Rechtliche, finanzielle und Reputationsrisiken durch Compliance-Verstöße",
+      "kategorie": "Regulierung",
+      "zitat": "IRO3 Rechtliche, finanzielle und Reputationsrisiken sowie Auftragsverlust bei a) potenziellem kartell- und wettbewerbswidrigem Verhalten b) potenziellen Korruptionsvorfällen. Potenzielle wirtschaftliche Schäden für die Gesellschaft durch kartell- und wettbewerbswidriges Verhalten."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investitionen in Weiterbildungsangebote zur Steigerung der Kompetenz und Leistungsfähigkeit.",
+      "zitat": "Investitionen in Weiterbildungsangebote (IRO5d) steigern die Kompetenz und Leistungsfähigkeit der Mitarbeitenden. Besser ausgebildete Arbeitskräfte können effizienter arbeiten und tragen dazu bei, Projekte schneller, qualitativ hochwertig und kostengünstiger abzuschließen."
+    }
+  ],
+  "_modell": "gemini-3-flash-preview"
+}

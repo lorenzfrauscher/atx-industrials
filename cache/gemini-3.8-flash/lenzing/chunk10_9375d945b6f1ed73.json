@@ -1,0 +1,31 @@
+{
+  "strategische_prioritaeten": [],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Finanzielle Risiken aus Finanzinstrumenten (Ausfalls-, Liquiditäts-, Fremdwährungs-, Rohstoffpreis- und Zinsrisiko)",
+      "kategorie": "Finanzierung",
+      "zitat": "Die finanziellen Risiken aus Finanzinstrumenten – Ausfallsrisiko, Liquiditätsrisiko, Fremdwährungsrisiko (insbesondere BRL, CNY, CZK, HKD, IDR, THB und USD), Rohstoffpreisrisiko und Zinsrisiko – werden als für die Lenzing Gruppe relevante Risiken eingestuft."
+    },
+    {
+      "risiko": "Ausfallsrisiko aus der Nichterfüllung von Vertragsverpflichtungen durch Geschäftspartner",
+      "kategorie": "Markt",
+      "zitat": "Das Ausfallsrisiko bezeichnet das Risiko von Vermögensverlusten, die aus der Nichterfüllung von Vertragsverpflichtungen einzelner Geschäftspartner entstehen können. Das dem Grundgeschäft immanente Bonitätsrisiko ist bei Liefergeschäften (insbesondere Forderungen aus Lieferungen und Leistungen) zum T eil durch namhafte Kreditversicherungen"
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Lenzing hält 40 Prozent am Kapital und an den Stimmrechten der LPP, deren Haupttätigkeit die Erzeugung zellulosebasierter Produkte ist.",
+      "zitat": "Die Lenzing Gruppe hält per 31. Dezember 2025 40 Prozent am Ka- pital und an den Stimmrechten der LPP (31. Dezember 2024: 40 Pro- zent). Die Haupttätigkeit der nicht börsennotierten LPP besteht in der"
+    },
+    {
+      "aussage": "Lenzing hält 20 Prozent am Kapital und den Stimmrechten der EFB, deren Tochtergesellschaft KFG den Geschäftsbetrieb insolvenzbedingt einstellt.",
+      "zitat": "Die Lenzing Gruppe hält per 31. Dezember 2025 20 Prozent am Kapital und an den Stimmrechten der nicht börsennotierten Equi- Fibres Beteiligungsgesellschaft mbH (EFB) (31. Dezember 2024: 20 Prozent)."
+    },
+    {
+      "aussage": "Lenzing hält zum Bilanzstichtag eine Beteiligung von 50 Prozent an der LDF.",
+      "zitat": "Die Lenzing Gruppe hält per 31. Dezember 2025 50 Prozent am Ka- pital und an den Stimmrechten der LDF (31. Dezember 2024: 50 Pro- zent). Die Haupttätigkeit der nicht börsennotierten LDF besteht in"
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

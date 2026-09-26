@@ -1,16 +1,27 @@
 # macOS
 .DS_Store
 
+# Excel-Sperrdateien, entstehen waehrend eine Mappe geoeffnet ist
+~$*
+
 # Python
 __pycache__/
 *.pyc
 .venv/
 
-# Geschaeftsberichte liegen eine Ebene hoeher und gehoeren nicht ins Repository.
-# Sicherheitsnetz, falls doch einmal eine Kopie hier landet:
-*.pdf
+# eigene Sicherungskopien, kein Teil der Dokumentation
+pruefliste_sicherung_*
+
+# Zwischendatei, deren Inhalt in verification.md eingearbeitet ist
+verifikation_ergebnisse.md
 
 # Die Rohantworten des Modells unter cache/ werden BEWUSST versioniert.
 # Begruendung: Sie machen die gesamte Auswertung ohne API-Schluessel
 # nachvollziehbar und sind die Beleggrundlage des Modellvergleichs.
 # Groesse rund 800 KB, das ist vertretbar.
+
+# Geschaeftsberichte liegen eine Ebene hoeher und gehoeren nicht ins Repository.
+# Sicherheitsnetz, falls doch einmal eine Kopie hier landet:
+*.pdf
+!briefing.pdf
+!briefing_en.pdf

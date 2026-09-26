@@ -1,0 +1,52 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Kapitalrisikomanagement",
+      "zitat": "Das Kapitalmanagement der Gruppe zielt auf eine substanzielle Stärkung der Eigenmittel und den Erhalt einer niedrigen Verschuldung ab. Im Berichtsjahr ist das Eigenkapital um TEUR 69.962 gestiegen."
+    },
+    {
+      "prioritaet": "Finanzrisikomanagement",
+      "zitat": "Das Management der Risiken im Finanzbereich, insbesondere des Liquiditätsrisikos und des Zins- und Währungs risikos, ist durch Konzernrichtlinien einheitlich geregelt. Ziel des Managements ist, die Risiken so weit als möglich zu minimieren."
+    }
+  ],
+  "wachstumsmaerkte": [
+    {
+      "region": "Oesterreich",
+      "aussage": "Oesterreich ist ein Heimmarkt mit vollem Leistungsportfolio.",
+      "zitat": "Das Segment AT / CH bündelt die Länderverantwortung für die beiden Heimmärkte Österreich und Schweiz. In Österreich ist die PORR mit ihrem gesamten Leistungsportfolio vertreten. Sämtliche Leistungen entlang der Bau-Wertschöpfungskette werden hier aus einer Hand angeboten."
+    },
+    {
+      "region": "DACH",
+      "aussage": "Fokus auf den internationalen Tunnelbau in der DACH-Region.",
+      "zitat": "Das Segment Infrastruktur International besteht im Wesentlichen aus dem internationalen Tunnelbau der PORR, der sich auf die Heimmärkte in der DACH-Region und Osteuropa konzentriert."
+    }
+  ],
+  "hauptrisiken": [
+    {
+      "risiko": "Umwelt- und klimabezogene Risiken",
+      "kategorie": "Markt",
+      "zitat": "Umwelt- und klimabezogene Risiken, insbesondere veränderte wirtschaftliche und rechtliche Rahmenbedingungen als auch physische Risiken wie Extremwetterereignisse, werden bei der Planung der voraussichtlichen Auftragsergebnisse in Form von Szenarien berücksichtigt und entsprechend eingeschätzt."
+    },
+    {
+      "risiko": "Rohstoffpreisänderungen",
+      "kategorie": "Lieferkette",
+      "zitat": "Das Risiko von Rohstoffpreisänderungen ist definiert als das Risiko steigender Preise gegenüber dem Kalkulationszeitpunkt des Bauprojekts. Das Risiko wird zumeist durch mittel- und langfristige Rahmenverträge mit Schlüssellieferanten sowie Preisanpassungsklau- seln mit Kunden gemildert."
+    },
+    {
+      "risiko": "Liquiditätsrisiko",
+      "kategorie": "Finanzierung",
+      "zitat": "Das Liquiditätsrisiko ist definiert als das Risiko, dass Verbindlichkeiten bei Fälligkeit nicht beglichen werden können. Das Management des Liquiditätsrisikos basiert auf einer im Zuge der konzernalen Ergebnisplanung und Vorschaurechnung integrierten Finanzplanung."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Verkauf einer Beteiligung an der UBM Development Deutschland GmbH.",
+      "zitat": "Die in den übrigen Finanzanlagen, die erfolgsneutral zum beizulegenden Zeitwert bewertet werden, enthaltene Beteiligung an der UBM Development Deutschland GmbH wurde im Geschäftsjahr 2025 verkauft."
+    },
+    {
+      "aussage": "Vorhaltung von Liquidität für potenzielle Firmenzukäufe.",
+      "zitat": "Die Gruppe weist zum Jahresultimo 2025 einen Liquiditätsstand in Höhe von TEUR 748.427 aus, der für den im Bau typischen saisonalen Liquiditätsspitzenbedarf von April bis November, zur Rückführung fälliger Kredite und SSD-Tranchen und für potenzielle Firmenzukäufe dient."
+    }
+  ],
+  "_modell": "gemini-3-flash-preview"
+}

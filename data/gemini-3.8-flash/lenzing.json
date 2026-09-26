@@ -1,0 +1,697 @@
+{
+  "unternehmen": "Lenzing AG",
+  "schluessel": "lenzing",
+  "berichtsjahr": "2025",
+  "gruppe": "Hersteller",
+  "quelldatei": "lenzing_2025.pdf",
+  "modell": "gemini-3.8-flash",
+  "tatsaechlich_benutzte_modelle": [
+    "gemini-3.8-flash"
+  ],
+  "strikter_modus": true,
+  "chunks_gesamt": 11,
+  "chunks_fehlgeschlagen": [],
+  "seiten_im_pdf": 310,
+  "seiten_ausgewertet": 122,
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Fokus auf margenstarke Marktsegmente und nachhaltige Premiumfasern sowie Rueckzug aus margenschwachen Commodity-Segmenten",
+      "zitat": "Lenzing wird sich zukünftig auf margenstarke Marktsegmente und Premiumfasern fokussieren, während man sich schrittweise aus margenschwachen Commodity-Segmenten zurückziehen wird.",
+      "beleg_seite": 8,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Fokus auf die Kernsaeulen Premiumisierung, Exzellenz, Innovation und Nachhaltigkeit",
+      "zitat": "Um dies zu erreichen, setzen wir verstärkt auf die strategischen Kernsäulen Premiumisierung und Exzellenz, und bleiben führend bei Innovation und Nachhaltigkeit.",
+      "beleg_seite": 7,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Vollstaendige Klimaneutralitaet und Reduktion von Treibhausgasemissionen bis 2050",
+      "zitat": "Lenzing verfolgt wissenschaft- lich fundierte Ziele zur Reduktion von Treibhausgas emissionen und strebt an, bis 2050 klimaneutral zu werden.",
+      "beleg_seite": 15,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Fokus auf Exzellenz und Premiumisierung",
+      "zitat": "Um auf das weiterhin heraus fordernde Marktumfeld gezielt zu reagieren, wird der Fokus noch stärker auf Exzellenz und Premiumisierung als zen - trale Prioritäten gelegt.",
+      "beleg_seite": 20,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Fokus auf margenstarke Marktsegmente und Premiumfasern",
+      "zitat": "Zu den Eckpfeilern der angepassten Strategie zählt der Fokus auf margenstarke Marktsegmente und Premiumfasern, die Steige - rung der operativen Effizienz und Agilität sowie die Optimierung der Produktionsstandorte.",
+      "beleg_seite": 19,
+      "treffertyp": "teilweise",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Schrittweiser Rückzug aus Commodity-Segmenten",
+      "zitat": "In diesem Kontext fokussiert sich Lenzing noch stärker auf Premium fasern mit höheren Margen, vermarktet unter den Produktmarken TENCEL ™ und VEOCEL ™ sowie LENZING™ für technische und industrielle Anwendungen. Parallel dazu wird sich das Unternehmen aus margenschwachen Commodity-Segmen - ten schrittweise zurückziehen.",
+      "beleg_seite": 19,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Effizienzsteigerung und Kostenreduktion",
+      "zitat": "Der Kernbereich Exzellenz zielt darauf ab, das Unternehmen agiler, effizienter und strukturell schlanker aufzustellen, um dadurch resilienter und profitabler zu werden. Die Maßnahmen umfassen alle operativen, kaufmännischen und globalen Funk - tionseinheiten.",
+      "beleg_seite": 20,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Monetarisierung von Nachhaltigkeit durch Spezialfasern",
+      "zitat": "Lenzing konzentriert sich in erster Linie auf die Wertschöpfung durch die Monetarisierung von Nachhaltigkeit durch Spezialfasern, welche einen geringeren ökologischen Fußabdruck, verbesserte T ransparenz und reduzierte Risiken in der Lieferkette bieten.",
+      "beleg_seite": 62,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Systemischen Wandel in der Branche vorantreiben",
+      "zitat": "Durch aktive Beiträge zu branchenweiten Me- thoden, Standards und Benchmarking-T ools trägt Lenzing dazu bei, die Nachhaltigkeitsleistung in der gesamten Branche zu beschleu- nigen.",
+      "beleg_seite": 63,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Förderung der Kreislaufwirtschaft und Schließung von Kreisläufen",
+      "zitat": "Lenzing ist bestrebt, die Wertschöpfung bei minimalem Einsatz neuer Rohstoffe zu maximieren und den Einsatz von fossilen Roh- stoffen sowohl im eigenen Betrieb als auch entlang der gesamten Wertschöpfungskette zu reduzieren.",
+      "beleg_seite": 63,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Ökologisierung der Wertschöpfungskette",
+      "zitat": "Eine verantwortungsbewusste Beschaffung, der verantwortungsbe- wusste Umgang mit Wasser, Dekarbonisierung und nachhaltige In- novationen prägen den Beitrag von Lenzing zu einer grüneren Wertschöpfungskette.",
+      "beleg_seite": 63,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Fokus auf die Mitarbeiter als strategischer Schwerpunkt und Umsetzung des People Plans",
+      "zitat": "In Übereinstimmung mit ihrer Unternehmenskultur räumt die Lenzing Gruppe den Menschen als strategischem Schwerpunkt oberste Priorität ein, da sie ein integraler Bestandteil ihres ganzheitlichen Nachhaltigkeitsansatzes sind.",
+      "beleg_seite": 73,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Klimaaktionsplan bis 2030 zur Reduktion von THG-Emissionen und Erreichung von Netto-Null bis 2050",
+      "zitat": "Bis 2030 will das Unternehmen die absoluten THG-Emissionen in Scope 1 und 2 um 42 Prozent und in Scope 3 um 25 Prozent reduzieren (Bezugsjahr 2021).",
+      "beleg_seite": 99,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Erfuellung der formalen Anforderungen eines ESRS-Uebergangsplans bis 2028",
+      "zitat": "Lenzing arbeitet aktuell daran, den Plan zu stärken, um die formalen Anforderungen eines Übergangsplans gemäß den Europäischen Standards für die Nachhaltigkeitsberichterstattung (ESRS) bis 2028 zu erfüllen.",
+      "beleg_seite": 99,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Erhebliche Verringerung der Treibhausgasemissionen und Netto-Null bis 2050",
+      "zitat": "Lenzing wird seine Treibhausgasemissionen in den kommenden Jahren durch eine Reihe von Maßnahmen im Rahmen seiner Dekarbonisierungsstrategie und seiner SBTs erheblich reduzieren. Darüber hinaus strebt Lenzing bis 2050 eine Netto-Null-Treibhausgasemissionen an.",
+      "beleg_seite": 104,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "prioritaet": "Erhöhung des Anteils und der Arten alternativer Rohstoffe bis 2030",
+      "zitat": "Die Ziele sind auf die Beschaffung aus erneuerbaren Quellen und den Einsatz von recycelter Cellulose aus T extilabfällen sowie von landwirtschaftlichen Reststoffen ausgerichtet, um den Anteil und die Vielfalt alternativer Rohstoffe zu erhöhen.",
+      "beleg_seite": 148,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "prioritaet": "Moderne Arbeitsbedingungen mit Fokus auf die Vereinbarkeit von Beruf und Familie",
+      "zitat": "In der strategischen HR-Ausrichtung sind „Moderne Arbeitsbedingungen“ als Schwerpunkt definiert. Ein zentrales Thema in diesem Zusammenhang ist die Vereinbarkeit von Beruf und Familie, das je nach Standort und landesspezifischen Bedürfnissen umgesetzt wird.",
+      "beleg_seite": 209,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Spannungen durch wechselnde Handelszoelle und globaler Zollkonflikt mit negativen Auswirkungen auf die Nachfrage",
+      "kategorie": "Markt",
+      "zitat": "Die Rahmen - bedingungen für die globale Textil- und Vliesstoffindustrie blieben herausfordernd: geopolitische Spannungen mit wechselnden Handelszöllen, ein volatiles Marktumfeld sowie anhaltender Kosten- und Wettbewerbsdruck entlang der Wertschöpfungs - ketten belasten Nachfrage und Preise.",
+      "beleg_seite": 6,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Marktverwerfungen und Belastung der textilen Wertschoepfungskette durch US-Zoelle und globale Handelskonflikte",
+      "kategorie": "Markt",
+      "zitat": "Auf die Ankündigung hoher internationaler US-Zölle und den darauffolgenden globalen Zoll- und Handelskonflikt erfolgte allerdings erneut eine deutliche Marktverwerfung, mit negativen Implikationen auf Konsumentenvertrauen und die globale Textilwertkette.",
+      "beleg_seite": 8,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Anhaltend schwache Nachfrage und asiatische Konkurrenz",
+      "kategorie": "Markt",
+      "zitat": "Ergebnisrisiken für Lenzing resultieren insbesondere aus der anhal- tend schwachen Nachfrage nach regenerierten Cellulosefasern. Diese ist auf eine Verschiebung des Marktgleichgewichts aufgrund verstärkter asiatischer Konkurrenz und der daraus folgenden nied- rigen Faserpreise sowie auf die volatile Preisentwicklung zentraler Rohstoffe und Energie zurückzuführen.",
+      "beleg_seite": 39,
+      "treffertyp": "teilweise",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Handelskonflikte und Lieferkettenbeeinträchtigungen",
+      "kategorie": "Lieferkette",
+      "zitat": "Angesichts der geopolitischen Spannungen führen globale Han- delskonflikte zu einem erhöhten Risiko zusätzlicher Handelsbe- schränkungen mit potenziellen negativen Auswirkungen auf für Lenzing relevante Lieferketten und Absatzmärkte.",
+      "beleg_seite": 39,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Liquiditäts- und Zinsänderungsrisiken",
+      "kategorie": "Finanzierung",
+      "zitat": "Ein deutlich ansteigendes Zinsniveau oder eine unerwartet negative Entwick- lung des operativen Geschäfts und des dadurch generierten Free Cashflows würde ein Risiko für die verfügbare Liquidität darstellen.",
+      "beleg_seite": 39,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Covenant-Bruch bei Finanzierungsverträgen",
+      "kategorie": "Finanzierung",
+      "zitat": "Eine Nichteinhaltung der in Finanzierungsverträgen vorhandenen Financial Covenants würde zu einer Rückzahlungspflicht der Fi- nanzverbindlichkeiten führen und damit ein Risiko für die verfü g- bare Liquidität darstellen.",
+      "beleg_seite": 39,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Zyklische Preis- und Mengenentwicklung bei Fasern sowie Konkurrenz durch alternative Fasern",
+      "kategorie": "Markt",
+      "zitat": "Die Preis - und Mengenentwicklung ist bei Fasern für T extilien und in geringerem Maße auch bei Fasern für Vliesstoffe zyklisch, da sie von globalen und regionalen Konjunkturlagen abhängig ist.",
+      "beleg_seite": 40,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Kundenkonzentration und möglicher Ausfall von Großkunden",
+      "kategorie": "Markt",
+      "zitat": "Abnahmeausfälle bei dieser Kundengruppe oder der gänzliche Verlust eines oder mehrerer Großkunden, ohne zeitgleich Ersatz zu finden, stellen gewisse Risiken dar, denen das Unternehmen durch seine globale Präsenz und die laufende Erweiterung des Kundenspektrums bzw.",
+      "beleg_seite": 40,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Verlust von Marktpositionen durch steigenden Wettbewerb oder neue Technologien",
+      "kategorie": "Technologie",
+      "zitat": "Die Lenzing Gruppe ist dem Risiko ausgesetzt, ihre Position auf dem Fasermarkt durch einen steigenden Wettbewerb oder neue T echnologien von Mitbewerbern zu verlieren.",
+      "beleg_seite": 41,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Striktere Gesetze, Verordnungen und Handelsbarrieren",
+      "kategorie": "Regulierung",
+      "zitat": "Eine Änderung von Gesetzen oder sonstigen Bestimmungen wie Importzölle, Produktklassifizierungen, Umweltauflagen etc., sowie die strengere Auslegung von Verordnungen und Gesetzen können zu erheblichen Mehrkosten und zu Wettbewerbsnachteilen führen.",
+      "beleg_seite": 41,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Zunehmende Regulierung bei Treibhausgasen und Bepreisung von Kohlenstoff",
+      "kategorie": "Regulierung",
+      "zitat": "Die zunehmende Regulierung, insbesondere in Bezug auf die Besteuerung von T reibhausgasen und die Bepreisung von Kohlenstoff, stellt für Lenzing ein erhebliches Risiko dar.",
+      "beleg_seite": 41,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Verfügbarkeit und Preisentwicklung von Rohstoffen sowie Störungen der Lieferkette",
+      "kategorie": "Lieferkette",
+      "zitat": "Die Faserproduktion und deren Margen sind Risiken der Verfügbarkeit und der Preisentwicklung dieser Rohstoffe unterworfen, die zum Nachteil der Lenzing Gruppe schwanken und durch den Klimawandel weiter verstärkt werden können.",
+      "beleg_seite": 41,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Alterung von Anlagen und Bedarf an laufenden Investitionen",
+      "kategorie": "Technologie",
+      "zitat": "Lenzing ist ein anlagenintensives Unternehmen, das dem Risiko der Alterung von Anlagen oder Anlagenteilen ausgesetzt ist. Es bedarf laufender Investitionen, um diese Anlagen oder Anlagenteile auf dem neuesten Stand der T echnik zu halten.",
+      "beleg_seite": 42,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Cyberangriffe und IT-/OT-Systemstörungen",
+      "kategorie": "Technologie",
+      "zitat": "IT-Systeme sind anfällig für eine Reihe von Problemen, wie Software- oder Hardware-Fehlfunktionen, böswilliges Hacken oder Cyberangriffe, physische Schäden an wichtigen IT -Zentren und das Auftreten von Computerviren.",
+      "beleg_seite": 42,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Eingeschränkte Verfügbarkeit und Zugänglichkeit von netzbasiertem Strom aus erneuerbaren Energien",
+      "kategorie": "Markt",
+      "zitat": "Die größte künftige Herausforderung ist die Umsetzung von Lenzings Klimaaktionsplan. Der Fortschritt wird durch mehrere ex- terne Faktoren beeinträchtigt. Dazu zählen die eingeschränkte Ver- fügbarkeit und Zugänglichkeit von netzbasiertem Strom aus erneu-",
+      "beleg_seite": 63,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Risiko für Geschäftstätigkeit und Lieferkette durch zunehmende chronische physische Klimagefahren",
+      "kategorie": "Lieferkette",
+      "zitat": "Klimamodelle zeigen, dass steigende globale Durchschnittstemperaturen zu einer Zunahme chronischer physischer Klimagefahren führen werden. Der Betrieb und die Lieferkette von Lenzing könnten zunehmend von extremen Wetterereignissen, Wasserknappheit und and eren physikalischen Gefahren unterschiedlichen Ausmaßes betroffen sein.",
+      "beleg_seite": 74,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Risiko der Holzknappheit durch Waldschäden infolge steigender Temperaturen",
+      "kategorie": "Lieferkette",
+      "zitat": "Da Holz einer der wichtigsten Rohstoffe für Lenzing ist, kann das Risiko der Nichtverfügbarkeit von Holz aufgrund von Waldschäden (Krankheiten, Schädlinge usw.) als direkte Folge höherer Durchschnittstemperaturen das Kerngeschäft beeinträchtigen.",
+      "beleg_seite": 74,
+      "treffertyp": "exakt_mehrdeutig",
+      "zitat_gefunden": true,
+      "weitere_fundstellen": [
+        96
+      ],
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Risiko steigender Holzpreise durch Klimawandel und Biomasse-Konkurrenz",
+      "kategorie": "Markt",
+      "zitat": "Trotz der nachhaltigen Beschaffungspolitik von Lenzing und der rückwärtsintegrierten Produktion besteht die Gefahr, dass die Holzpreise aufgrund des Klimawandels und des zunehmenden Wettbewerbs um Biomasse und Landnutzung steigen.",
+      "beleg_seite": 74,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Kostenanstieg durch Vorschriften zur Kohlenstoffbepreisung und Umweltsteuern",
+      "kategorie": "Regulierung",
+      "zitat": "Die zunehmende Regulierung, insbesondere in Bezug auf Umweltsteuern und Kohlenstoffbepreisung, stellt ein relevantes Risiko für Lenzing dar. In den Ländern, in denen Lenzing kohlenstoffintensive Prozesse durchführt, wurden bereits Vorschriften für Treibhausgasemissionen eingeführt",
+      "beleg_seite": 75,
+      "treffertyp": "exakt_mehrdeutig",
+      "zitat_gefunden": true,
+      "weitere_fundstellen": [
+        97
+      ],
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Risiko der Nichteinhaltung der Europäischen Lieferkettenrichtlinie (CSDDD)",
+      "kategorie": "Regulierung",
+      "zitat": "Es besteht das Risiko der Nichteinhaltung der Europäischen Lieferkettenrichtlinie (CSDDD), wenn die internen Prozesse nicht umgesetzt werden.",
+      "beleg_seite": 79,
+      "treffertyp": "exakt_mehrdeutig",
+      "zitat_gefunden": true,
+      "weitere_fundstellen": [
+        181
+      ],
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Finanzielles Risiko durch unvorhergesehene Energieengpässe und Stromausfälle",
+      "kategorie": "Markt",
+      "zitat": "Unvorhergesehene Energieengpässe könnten die Geschäftstätigkeit von Lenzing beeinträchtigen, was ein finanzielles Risiko darstellen kann.",
+      "beleg_seite": 75,
+      "treffertyp": "exakt_mehrdeutig",
+      "zitat_gefunden": true,
+      "weitere_fundstellen": [
+        98
+      ],
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Chronische physische Klimagefahren und Lieferkettenbeeintraechtigung",
+      "kategorie": "Lieferkette",
+      "zitat": "Der Betrieb und die Lieferkette von Lenzing könnten zunehmend von extremen Wetterereignissen, Wasserknappheit und anderen physikalischen Gefahren unterschiedlichen Ausmaßes betroffen sein.",
+      "beleg_seite": 96,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Nichtverfuegbarkeit von Holz aufgrund von Waldschaeden",
+      "kategorie": "Lieferkette",
+      "zitat": "Da Holz einer der wichtigsten Rohstoffe für Lenzing ist, kann das Risiko der Nichtverfügbarkeit von Holz aufgrund von Waldschäden (Krankheiten, Schädlinge usw.) als direkte Folge höherer Durchschnittstemperaturen das Kerngeschäft beeinträchtigen.",
+      "beleg_seite": 74,
+      "treffertyp": "exakt_mehrdeutig",
+      "zitat_gefunden": true,
+      "weitere_fundstellen": [
+        96
+      ],
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Steigende Holzpreise durch Klimawandel und Biomasse-Wettbewerb",
+      "kategorie": "Markt",
+      "zitat": "Trotz der nachhaltigen Beschaffungspolitik von Lenzing und der rückwärtsintegrierten Produktion besteht die Gefahr, dass die Holzpreise aufgrund des Klimawandels und des zunehmenden Wettbewerbs um Biomasse und Landnutzung steigen.",
+      "beleg_seite": 74,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Regulatorische Neueinstufung von Biomasse unter RED II/III",
+      "kategorie": "Regulierung",
+      "zitat": "Mit der Richtlinie über erneuerbare Energien (RED II /III) könnte Biomasse neu eingestuft werden und nicht mehr als erneuerbar gelten.",
+      "beleg_seite": 75,
+      "treffertyp": "exakt_mehrdeutig",
+      "zitat_gefunden": true,
+      "weitere_fundstellen": [
+        98
+      ],
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Unvorhergesehene Energieengpaesse mit finanziellen Folgen",
+      "kategorie": "Lieferkette",
+      "zitat": "Unvorhergesehene Energieengpässe könnten die Geschäftstätigkeit von Lenzing beeinträchtigen, was ein finanzielles Risiko darstellen kann.",
+      "beleg_seite": 75,
+      "treffertyp": "exakt_mehrdeutig",
+      "zitat_gefunden": true,
+      "weitere_fundstellen": [
+        98
+      ],
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Strengere Kohlenstoffvorschriften und Kohlenstoffbepreisung",
+      "kategorie": "Regulierung",
+      "zitat": "In einem Netto-Null-Szenario bis 2050 würde der Übergang zu einer kohlenstoffarmen Wirtschaft strengere Kohlenstoffvorschriften erfordern, die sich weltweit in den Kohlenstoffpreisen widerspiegeln, um die Temperaturen unter 1,5 °C zu halten.",
+      "beleg_seite": 101,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Technologische Wertminderung bestehender Anlagen",
+      "kategorie": "Technologie",
+      "zitat": "In einem Netto-Null-Szenario bis 2050 muss der Übergang zu umweltfreundlichen Anlagen weltweit schneller erfolgen, um die Temperaturen unter 1,5 °C zu halten, was für Lenzing kurzfristig ein größeres Risiko für eine technologische Wertminderung bedeutet.",
+      "beleg_seite": 101,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Rueckgang des Kundenstamms und der Gesamtnachfrage",
+      "kategorie": "Markt",
+      "zitat": "In einem Netto-Null-Szenario bis 2050 würde der Übergang zu einer kohlenstoffarmen Wirtschaft zu einem Rückgang in einigen der von Lenzing bedienten Sektoren führen, wodurch sich der Kundenstamm von Lenzing und damit die Gesamtnachfrage verringern würde.",
+      "beleg_seite": 102,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Künftige Regelungen zum Kohlenstoffpreis und Umweltsteuern",
+      "kategorie": "Regulierung",
+      "zitat": "Neu entstehende Vorschriften, vor allem in Bezug auf Umweltsteuern und Kohlenstoffpreise, stellen für Lenzing ein relevantes Risiko dar. In den Ländern, in denen Lenzing Prozesse mit hohen Emissionen betreibt, wurden bereits Vorschriften zu THG-Emissionen eingeführt",
+      "beleg_seite": 103,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Erhöhte Kosten für Biomasse und Holz",
+      "kategorie": "Lieferkette",
+      "zitat": "Trotz der nachhaltigen Beschaffungspolitik von Lenzing und der rückwärtsintegrierten Produktion besteht die Gefahr, dass die Holzpreise aufgrund des Klimawandels, der weltweit steigenden Nachfrage nach Biomasse und alternative Formen der Landnutzung steigen.",
+      "beleg_seite": 103,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Reputationsrisiko in der Textilindustrie",
+      "kategorie": "Markt",
+      "zitat": "Die Textilindustrie, in der die Produkte von Lenzing gewöhnlich verwendet werden, wird wegen ihrer teilweise nicht nachhaltigen und ressourcenintensiven Wirtschaftsweise und ihrer Produktionsprozesse kritisch beäugt. Dies könnte zu negativer Medienberichterstattung und einer weiteren Stigmatisierung der Branche führen",
+      "beleg_seite": 103,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Chronische physische Klimarisiken beeinträchtigen Betrieb und Lieferkette",
+      "kategorie": "Lieferkette",
+      "zitat": "Die Geschäftstätigkeit und die Lieferkette der Lenzing Gruppe könnten zunehmend von extremen Wetterereignissen, Wasserknappheit oder anderen physischen Gefahren unterschiedlichen Ausmaßes betroffen sein. Aus Sicht der Lieferkette könnten beispielsweise klimawandelbedingte Auswirkungen wie starke Niederschläge",
+      "beleg_seite": 104,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "risiko": "Finanzielle Risiken aus Finanzinstrumenten (Ausfalls-, Liquiditäts-, Fremdwährungs-, Rohstoffpreis- und Zinsrisiko)",
+      "kategorie": "Finanzierung",
+      "zitat": "Die finanziellen Risiken aus Finanzinstrumenten – Ausfallsrisiko, Liquiditätsrisiko, Fremdwährungsrisiko (insbesondere BRL, CNY, CZK, HKD, IDR, THB und USD), Rohstoffpreisrisiko und Zinsrisiko – werden als für die Lenzing Gruppe relevante Risiken eingestuft.",
+      "beleg_seite": 275,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Ausfallsrisiko aus der Nichterfüllung von Vertragsverpflichtungen durch Geschäftspartner",
+      "kategorie": "Markt",
+      "zitat": "Das Ausfallsrisiko bezeichnet das Risiko von Vermögensverlusten, die aus der Nichterfüllung von Vertragsverpflichtungen einzelner Geschäftspartner entstehen können. Das dem Grundgeschäft immanente Bonitätsrisiko ist bei Liefergeschäften (insbesondere Forderungen aus Lieferungen und Leistungen) zum T eil durch namhafte Kreditversicherungen",
+      "beleg_seite": 275,
+      "treffertyp": "teilweise",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Fremdwährungsrisiko aus Investitionen, operativem Geschäft, Veranlagungen und Finanzierungen",
+      "kategorie": "Finanzierung",
+      "zitat": "Aufgrund von Zahlungsflüssen aus Investitionen und aus dem operativen Geschäft sowie aus Veranlagungen und Finanzierungen in Fremdwährungen sind die Konzerngesellschaften der Lenzing Gruppe Fremdwährungsrisiken ausgesetzt.",
+      "beleg_seite": 280,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Gaspreisrisiken",
+      "kategorie": "Markt",
+      "zitat": "Aufgrund der Gasswaps ist die Lenzing Gruppe bilanziellen Preisrisiken ausgesetzt. Diese Risiken bestehen insbesondere darin, dass die Bewertung der Gasswaps zum beizulegenden Marktwert bei einer nachteiligen Veränderung der Marktpreise zu Belastungen des sonstigen Ergebnisses bzw. des Eigenkapitals führen kann.",
+      "beleg_seite": 280,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Marktpreisrisiken bei Rohstoffen und Energie",
+      "kategorie": "Markt",
+      "zitat": "Die Lenzing Gruppe unterliegt mi t ihrer Geschäftstätigkeit branchenüblichen Marktpreisrisiken (insbesondere bei Holz, Chemikalien, Zellstoff und Energie), die nicht über Derivate bzw. Finanzinstrumente, sondern über andere Sicherungsmaßnahmen (insbesondere lang- und kurzfristige Bezugsverträge bei verschiedenen Lieferanten) abgesichert werden.",
+      "beleg_seite": 280,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "risiko": "Zinsrisiken",
+      "kategorie": "Finanzierung",
+      "zitat": "Die Lenzing Gruppe ist aufgrund von geschäftsbedingten Finanzierungs- bzw. Veranlagungsaktivitäten einem Zinsrisiko ausgesetzt. Zinsrisiken bestehen aufgrund potenzieller Änderungen des Marktzinses und können bei fix verz insten Finanzinstrumenten zu einer Änderung des beizulegenden Zeitwerts",
+      "beleg_seite": 281,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investition in den Ausbau der Produktion von VEOCEL Viscostar-Fasern im Tampon-Geschaeft",
+      "zitat": "Lenzing investiert EUR 15 Mio. in den Ausbau der Produktion von VEOCEL™ Viscostar-Fasern, um seine Marktstellung im Bereich Damenhygieneprodukte zu stärken und eine umweltfreundliche Alternative zu synthetischen Fasern zu bieten.",
+      "beleg_seite": 15,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Strategische Pruefung und moeglicher Verkauf des Produktionsstandortes in Indonesien",
+      "zitat": "Im dritten Quartal 2025 wurde eine strategische Überprüfung des Produktionsstandortes in Indonesien eingeleitet, um verschiedene Optionen einschließlich eines möglichen Verkaufs zu evaluieren.",
+      "beleg_seite": 6,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Investitionsprogramm von insgesamt 100 Mio. EUR für österreichische Produktionsstandorte inklusive Erweiterung der Vliesstoffkapazitäten",
+      "zitat": "Dazu zählt unter anderem die beschlossene Investition von EUR 15 Mio. in die Erweiterung der Vliesstoffkapazitäten am Standort Lenzing. Diese Investition ist Teil des geplanten Investitons - programms von insgesamt EUR 100 Mio. für die österreichischen Produktionsstandorte.",
+      "beleg_seite": 20,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Übernahme der kontrollierenden Mehrheit an TreeToTextile AB zur Skalierung neuer Technologien",
+      "zitat": "Im Februar 2026 erhöhte die Lenzing Gruppe ihre bestehende Be- teiligung an T ree T o T extile AB und übernahm damit die kontrollie- rende Mehrheit. Mit der Mehrheitsübernahme unterstreicht Lenzing ihren Anspruch, die Premiumisierungsstrategie konse- quent voranzutreiben",
+      "beleg_seite": 37,
+      "treffertyp": "exakt_mehrdeutig",
+      "zitat_gefunden": true,
+      "weitere_fundstellen": [
+        147
+      ],
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Investition von über 100 Mio. EUR in die Standorte Lenzing und Heiligenkreuz",
+      "zitat": "Wir treiben gezielt die Entwicklung neuer Produkte, Anwendungen, Prozesse und Techniken zur Marktreife an und schaffen so Mehrwert für unsere Kunden und Nachhaltig - keitsagenda. Lenzing plant Investitionen von über EUR 100 Mio. für die Standorte Lenzing und Heiligenkreuz, um deren Wett - bewerbsfähigkeit zu sichern.",
+      "beleg_seite": 20,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Investitionen in immaterielle Anlagen, Sachanlagen und biologische Vermögenswerte (CAPEX) beliefen sich 2025 auf 141,1 Mio. EUR.",
+      "zitat": "Der CAPEX wird in der Lenzing Gruppe als Maßstab für die Höhe von Investitionen in immaterielle Anlagen, Sachanlagen und biologische Vermögenswerte verwendet. Er wird in der Konzern-Kapitalflussrechnung dargestellt.",
+      "beleg_seite": 49,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Fertigstellung einer Reinigungsanlage für Extraktionsmittel am Standort Lenzing im Jahr 2025",
+      "zitat": "Eine Reinigungsanlage für Extraktionsmittel wurde 2025 in Lenzing (Österreich) fertiggestellt",
+      "beleg_seite": 80,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "aussage": "Investition in Erdgaspipeline, Gaskessel und Turbine am Standort Nanjing",
+      "zitat": "Erdgaspipeline, Gaskessel und T urbine am Standort Nanjing (China), als Ersatz für kohlebasierten Dampf, in Betrieb seit 2025",
+      "beleg_seite": 80,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "aussage": "Austausch von Gaskesseln durch effizientere Modelle am Standort Mobile",
+      "zitat": "Austausch von Gaskesseln an Lenzings Standort in Mobile (USA) im Jahr 2025 durch effizientere Modelle",
+      "beleg_seite": 80,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "aussage": "Investitionsausgaben (CapEx) beliefen sich im Geschaeftsjahr 2025 auf 144,7 Millionen Euro",
+      "zitat": "Die gesamten Investitionsausgaben (CapEx) erstrecken sich auf buchmäßige (nicht zahlungswirksame) Zugänge zu Sachanlagen, immateriellen Vermögenswerten, biologischen Vermögenswerten und Nutzungsrechten.",
+      "beleg_seite": 95,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "aussage": "Lenzing investierte rund 30 Millionen Euro in Nanjing fuer die Umstellung von Kohle auf Erdgas",
+      "zitat": "Lenzing hat an ihrem Viscosestandort in Nanjing (China) rund EUR 30 Mio. investiert, um von Kohle auf Erdgas umzustellen.",
+      "beleg_seite": 99,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "aussage": "Pruefung einer Investition am Standort Heiligenkreuz zur Reduzierung von Treibhausgasen",
+      "zitat": "So erwägt Lenzing beispielsweise eine Investition an ihrem Standort Heiligenkreuz (Österreich) in ein Projekt, das den Verbrauch fossiler Brennstoffe und die Treibhausgasemissionen erheblich reduzieren würde.",
+      "beleg_seite": 100,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Nachhaltigkeitsberichterstattung"
+    },
+    {
+      "aussage": "Investitionen in immaterielle Anlagen, Sachanlagen und biologische Vermögenswerte beliefen sich 2025 auf 141,083 Mio. Euro (Vorjahr: 153,761 Mio. Euro).",
+      "zitat": "Erwerb von immateriellen Anlagen, Sachanlagen und biologischen Vermögenswerten –141.083 –153.761 – Erwerb/Auszahlung von Finanzanlagen und Beteiligungen, die nach der Equity-Methode bilanziert werden –26.061 –37.024",
+      "beleg_seite": 217,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Im Geschäftsjahr 2025 wurde das schwedische Cellulosefaserunternehmen TreeToTextile AB nach dem Closing im Februar at-equity in den Konsolidierungskreis aufgenommen.",
+      "zitat": "Im Oktober 2024 wurde eine Minderheitsbeteiligung am schwedischen Cellulosefaserunternehmen T ree T o T extile AB (TTT), Stockholm, Schweden erworben. Mit dem Closing im Februar 2025 wurde das assoziierte Unternehmen TTT at-equity in den Konsolidierungskreis aufgenommen.",
+      "beleg_seite": 223,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Die Lenzing Gruppe hielt zum 31. Dezember 2025 eine Beteiligung von 22,6 Prozent an der TreeToTextile AB.",
+      "zitat": "Die Lenzing Gruppe hält per 31. Dezember 2025 22,6 Prozent am Kapital und an den Stimmrechten der TTT (31. Dezember 2024: 0,0 Prozent).",
+      "beleg_seite": 241,
+      "treffertyp": "exakt",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Im Geschäftsjahr 2025 investierte die Lenzing Gruppe Zugänge bei den Sachanlagen in Höhe von 123.123 TEUR.",
+      "zitat": "Die Sachanlagen haben sich wie folgt entwickelt: Entwicklung der Sachanlagen TEUR 2025 Grundstücke und Bauten Technische Anlagen und Maschinen, Betriebs- und Geschäftsausstattung Geleistete Anzahlungen und Anlagen in Bau Summe Anschaffungs- und Herstellungskosten Stand zum 01.01.2025",
+      "beleg_seite": 236,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Lenzing hält 40 Prozent am Kapital und an den Stimmrechten der LPP, deren Haupttätigkeit die Erzeugung zellulosebasierter Produkte ist.",
+      "zitat": "Die Lenzing Gruppe hält per 31. Dezember 2025 40 Prozent am Ka- pital und an den Stimmrechten der LPP (31. Dezember 2024: 40 Pro- zent). Die Haupttätigkeit der nicht börsennotierten LPP besteht in der",
+      "beleg_seite": 242,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Lenzing hält 20 Prozent am Kapital und den Stimmrechten der EFB, deren Tochtergesellschaft KFG den Geschäftsbetrieb insolvenzbedingt einstellt.",
+      "zitat": "Die Lenzing Gruppe hält per 31. Dezember 2025 20 Prozent am Kapital und an den Stimmrechten der nicht börsennotierten Equi- Fibres Beteiligungsgesellschaft mbH (EFB) (31. Dezember 2024: 20 Prozent).",
+      "beleg_seite": 242,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    },
+    {
+      "aussage": "Lenzing hält zum Bilanzstichtag eine Beteiligung von 50 Prozent an der LDF.",
+      "zitat": "Die Lenzing Gruppe hält per 31. Dezember 2025 50 Prozent am Ka- pital und an den Stimmrechten der LDF (31. Dezember 2024: 50 Pro- zent). Die Haupttätigkeit der nicht börsennotierten LDF besteht in",
+      "beleg_seite": 242,
+      "treffertyp": "exakt_nach_normalisierung",
+      "zitat_gefunden": true,
+      "quelle_abschnitt": "Geschaeftsbericht"
+    }
+  ],
+  "zitatpruefung": {
+    "exakt": 45,
+    "exakt_nach_normalisierung": 19,
+    "teilweise": 3,
+    "exakt_mehrdeutig": 8
+  },
+  "abschnittsverteilung": {
+    "elemente_nachhaltigkeitsberichterstattung": 33,
+    "elemente_geschaeftsbericht": 42,
+    "ausgewertete_seiten_nachhaltigkeitsberichterstattung": 39
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "strategische_prioritaeten": [
+    {
+      "prioritaet": "Kreislaufwirtschaft und Expertise im Energiesektor als strategische Geschäftsmodelle ausbauen",
+      "zitat": "Kreislauffähiges Bauen und Expertise im Energiesektor werden dabei eine zentrale Rolle spielen. Aus diesem Grund hat die STRABAG diese Bereiche als strategische Kernthemen definiert und wird betreffende Geschäftsmodelle weiter ausbauen."
+    },
+    {
+      "prioritaet": "Konzernweite Implementierung des Social Compliance Management-Systems und Einhaltung von Sorgfaltspflichten",
+      "zitat": "Für das Fokusthema „Menschenrechte entlang der Wertschöpfungskette“ sind die konzernweite Implementierung des Social Compliance Management-Systems (SCMS), die Einhaltung von Menschenrechten sowie die Erfüllung unserer unternehmerischen Sorgfaltspflichten als strategische Ziele festgehalten."
+    }
+  ],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Verletzungen gegen das Verbot von Zwangsarbeit und daraus resultierende Lieferkettenstörungen",
+      "kategorie": "Lieferkette",
+      "zitat": "Verletzungen gegen das Verbot von Zwangsarbeit können ein finanzielles Risiko darstellen, etwa durch die Notwendigkeit, Geschäftsbeziehungen unmittelbar zu beenden, was zu Störungen in der Lieferkette führen kann."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Rückgang der taxonomiekonformen Investitionen im Wesentlichen bedingt durch geringere Ausgaben für Investment Property",
+      "zitat": "Der taxonomiekonforme CapEx betrifft im Wesentlichen den Erwerb von Investment Property. Der rückläufige taxonomiekonforme CapEx ist daher im Wesentlichen auf geringere Immobilieninvestitionen zurückzuführen."
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

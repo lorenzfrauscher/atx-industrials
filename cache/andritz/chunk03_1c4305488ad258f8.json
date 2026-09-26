@@ -1,0 +1,16 @@
+{
+  "strategische_prioritaeten": [],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [],
+  "capex_ma_signale": [
+    {
+      "aussage": "Im Geschäftsjahr 2025 fielen Netto-Auszahlungen für Unternehmenserwerbe in Höhe von 328,6 MEUR an.",
+      "zitat": "Auszahlungen für lang- und kurzfristige finanzielle Vermögenswerte -562,4 -362,3 Einzahlungen aus dem Verkauf von lang- und kurzfristigen finanziellen Vermögenswerten 520,1 354,7 Netto-Cashflow aus Unternehmenserwerben 39. -328,6 -36,9 CASHFLOW AUS INVESTITIONSTÄTIGKEIT 39. -541,6 -207,5"
+    },
+    {
+      "aussage": "Zum 31. Dezember 2025 bestanden vertragliche Verpflichtungen für den Erwerb von Sachanlagen in Höhe von 53,0 MEUR.",
+      "zitat": "Vertragliche Verpflichtungen für den Kauf von Sachanlagen sind nur im gewöhnlichen Geschäftsumfang vorhanden. Zum 31. Dezember 2025 betrugen diese Verpflichtungen 53,0 MEUR (31. Dezember 2024: 22,1 MEUR)."
+    }
+  ],
+  "_modell": "gemini-3.7-flash"
+}

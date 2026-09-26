@@ -1,0 +1,33 @@
+{
+  "strategische_prioritaeten": [],
+  "wachstumsmaerkte": [],
+  "hauptrisiken": [
+    {
+      "risiko": "Kredit- und Ausfallrisiken aus Zahlungsverpflichtungen von Vertragsparteien aus dem operativen Geschaeft",
+      "kategorie": "Finanzierung",
+      "zitat": "Ausfallrisiken entstehen, wenn Vertragsparteien ihren Zahlungsverpflichtungen zum Fälligkeitszeitpunkt nicht nachkommen. Ein solches Risiko besteht in Bezug auf die Bezahlung von Forderungen aus dem operativen Geschäft."
+    },
+    {
+      "risiko": "Finanzielle Kredit-, Markt- und Liquiditaetsrisiken bezueglich Vermoegenswerten und Verbindlichkeiten",
+      "kategorie": "Markt",
+      "zitat": "Der STRABAG SE-Konzern unterliegt hinsichtlich seiner finanziellen Vermögenswerte, finanziellen Verbindlichkeiten und geplanten Transaktionen Kredit-, Markt- und Liquiditätsrisiken. Ziel des finanziellen Risikomanagements ist es, diese Risiken durch laufende finanzorientierte Aktivitäten zu begrenzen."
+    },
+    {
+      "risiko": "Branchenuebliche Marktpreisrisiken",
+      "kategorie": "Markt",
+      "zitat": "Die Gruppe unterliegt mit ihrer Geschäftstätigkeit branchenüblichen Marktpreisrisiken, die nicht über Derivate oder Finanzinstrumente, sondern über andere Sicherungsmaßnahmen wie insbesondere vertragliche Vereinbarungen abgesichert werden."
+    },
+    {
+      "risiko": "Zinsrisiko durch sinkende Ertragszinsen bei aktivseitigen bzw. steigende Aufwandszinsen bei variabel verzinsten passivseitigen Instrumenten",
+      "kategorie": "Finanzierung",
+      "zitat": "Das Risiko der aktivseitigen Finanzinstrumente besteht in sinkenden Ertragszinsen. Die anhaltenden hohen Zinsen in den wesentlichen Konzernländern haben aufgrund der Net-Cash-Position des Konzerns einen positiven Effekt auf das Zinsergebnis."
+    }
+  ],
+  "capex_ma_signale": [
+    {
+      "aussage": "Investitionen in Sachanlagen und immaterielle Vermoegenswerte sowie Investment Property im Geschaeftsjahr 2025",
+      "zitat": "Investitionen in Sachanlagen und immaterielle Vermögenswerte 0 0 0 738.349 0 738.349 Investitionen in Investment Property 0 0 113.774 0 0 113.774"
+    }
+  ],
+  "_modell": "gemini-3.8-flash"
+}

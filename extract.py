@@ -226,6 +226,21 @@ def normalisieren_hart(text):
     return _WS.sub(" ", _NUR_ALNUM.sub(" ", normalisieren(text))).strip()
 
 
+def normalisieren_ohne_leerzeichen(text):
+    """Dritte Stufe: zusaetzlich alle Leerzeichen entfernt.
+
+    Begruendung aus der Handpruefung, AND-033: Die PDF-Extraktion streut
+    gelegentlich Leerzeichen mitten in Woerter ("d as closing" statt "das
+    closing"), dieselbe Ursache wie die gesperrt gesetzten Kopfzeilen. Ein
+    wortweiser Vergleich scheitert daran vollstaendig, obwohl das Zitat echt ist.
+
+    Die Stufe wurde eingefuehrt, nachdem die Handpruefung ein als erfunden
+    gezaehltes Zitat im Bericht nachgewiesen hatte. Sie korrigiert die gemessene
+    Halluzinationsrate nach unten, nicht nach oben.
+    """
+    return normalisieren_hart(text).replace(" ", "")
+
+
 class Korpus(object):
     """Haelt den normalisierten Gesamttext eines Berichts plus Seitenindex."""
 
@@ -251,8 +266,20 @@ class Korpus(object):
             pos += len(h) + 1
         self.text_hart = " ".join(teile_hart)
 
-    def _seite_von_position(self, p, hart=False):
-        for start, ende, nr in (self.offsets_hart if hart else self.offsets):
+        teile_ol = []
+        self.offsets_ol = []
+        pos = 0
+        for i, s in enumerate(seiten):
+            o = normalisieren_ohne_leerzeichen(s)
+            teile_ol.append(o)
+            self.offsets_ol.append((pos, pos + len(o), i + 1))
+            pos += len(o)
+        self.text_ol = "".join(teile_ol)
+
+    def _seite_von_position(self, p, hart=False, ohne_leerzeichen=False):
+        tabelle = (self.offsets_ol if ohne_leerzeichen
+                   else (self.offsets_hart if hart else self.offsets))
+        for start, ende, nr in tabelle:
             if start <= p < ende:
                 return nr
         return None
@@ -297,6 +324,20 @@ class Korpus(object):
                 return stellen[0], typ, sorted(set(x for x in stellen if x))
 
         # Fallback: laengsten passenden Wortpraefix suchen, mindestens 8 Woerter
+        # Dritte Stufe: Leerzeichen ganz ignorieren. Faengt Extraktionsartefakte
+        # wie "d as" statt "das" ab, an denen jeder wortweise Vergleich scheitert.
+        o = normalisieren_ohne_leerzeichen(zitat)
+        if len(o) >= 20:
+            stellen = []
+            start = self.text_ol.find(o)
+            while start >= 0 and len(stellen) < 10:
+                stellen.append(self._seite_von_position(start, ohne_leerzeichen=True))
+                start = self.text_ol.find(o, start + 1)
+            if stellen:
+                typ = ("exakt_nach_normalisierung" if len(set(stellen)) == 1
+                       else "exakt_mehrdeutig")
+                return stellen[0], typ, sorted(set(x for x in stellen if x))
+
         woerter = h.split(" ") if len(h) >= 15 else z.split(" ")
         quelle = self.text_hart if len(h) >= 15 else self.text
         untere, obere, bester = 8, len(woerter), -1
@@ -610,7 +651,28 @@ def _config(mit_denkbudget):
 # Wartezeiten im strikten Modus, in Sekunden. Danach gilt der Chunk als gescheitert.
 # Summe rund 32 Minuten je Chunk. Bewusst endlich: Ein Lauf, der unbegrenzt wartet,
 # haengt im Zweifel bis zum naechsten Morgen an einer einzigen Anfrage.
-STRIKT_WARTEZEITEN = [20, 40, 60, 90, 120, 180, 240, 300, 300, 300, 300]
+# Wenige, kurze Versuche. Begruendung aus dem Lauf vom 06.09.2026: Fehlgeschlagene
+# Anfragen zaehlen gegen das Tageskontingent. Zwoelf Wiederholungen an einem
+# ueberlasteten Modell verbrauchten 19 von 20 Tagesanfragen und lieferten einen
+# einzigen Chunk. Geduld ist teuer, wenn Versuche kontingentiert sind.
+STRIKT_WARTEZEITEN = [15, 45, 90]
+
+# Sicherheitsabstand zum Tageslimit. Der Lauf stoppt von selbst, bevor die Grenze
+# greift, damit der Abbruch geordnet und nicht mitten in einer Wiederholung erfolgt.
+STANDARD_ANFRAGEBUDGET = 200
+
+# Preise Gemini 3.8 Flash, bezahlter Tarif, Stand 06.09.2026, gueltig bis 31.12.2026.
+# Quelle: ai.google.dev/gemini-api/docs/pricing
+PREIS_INPUT_JE_MIO = 0.75
+PREIS_OUTPUT_JE_MIO = 3.75
+# Bewusst konservativ: 3,0 Zeichen je Token statt der ueblichen 3,3. Deutscher
+# Fachtext ist dichter als englischer, und eine Unterschaetzung waere der
+# gefaehrlichere Fehler.
+ZEICHEN_JE_TOKEN = 3.0
+# Ausgabe wird nicht gemessen, sondern grosszuegig angesetzt. Beobachtet wurden
+# rund 3 KB JSON je Chunk, angesetzt wird das Doppelte.
+GESCHAETZTE_OUTPUT_TOKEN_JE_ANFRAGE = 2000
+STANDARD_KOSTENLIMIT = 2.00
 
 # Kennzeichen eines Tageslimits im Fehlertext von Google. Ein Minutenlimit loest
 # sich durch Warten, ein Tageslimit nicht. Gemessen am Konto: 20 Anfragen pro Tag
@@ -618,6 +680,11 @@ STRIKT_WARTEZEITEN = [20, 40, 60, 90, 120, 180, 240, 300, 300, 300, 300]
 # also die Anzahl der Anfragen, nicht deren Groesse.
 TAGESLIMIT_MARKER = ["perday", "per day", "requestsperday", "generaterequestsperday",
                      "daily limit", "quota_limit_value"]
+
+
+class BudgetErschoepft(Exception):
+    """Selbst gesetzte Obergrenze erreicht. Kein Fehler, ein geordneter Halt."""
+    pass
 
 
 class TageslimitErreicht(Exception):
@@ -630,7 +697,18 @@ def _ist_tageslimit(meldung):
     return any(x.replace("_", "").replace(" ", "") in m for x in TAGESLIMIT_MARKER)
 
 
-def modell_aufrufen(client, modelle, prompt, cache_pfad, versuche_je_modell=3,
+ANFRAGEN = {"gesendet": 0, "budget": STANDARD_ANFRAGEBUDGET,
+            "input_tokens": 0, "kostenlimit": STANDARD_KOSTENLIMIT}
+
+
+def geschaetzte_kosten():
+    """Schaetzung, keine Abrechnung. Dient dem Selbstschutz, nicht der Buchhaltung."""
+    ein = ANFRAGEN["input_tokens"] / 1e6 * PREIS_INPUT_JE_MIO
+    aus = (ANFRAGEN["gesendet"] * GESCHAETZTE_OUTPUT_TOKEN_JE_ANFRAGE) / 1e6 * PREIS_OUTPUT_JE_MIO
+    return ein + aus
+
+
+def modell_aufrufen(hole_client, modelle, prompt, cache_pfad, versuche_je_modell=3,
                     strikt=False):
     """Fragt die Modelle der Reihe nach, bis eines antwortet.
 
@@ -654,8 +732,18 @@ def modell_aufrufen(client, modelle, prompt, cache_pfad, versuche_je_modell=3,
     for m_index, model in enumerate(modelle):
         for versuch in range(1, versuche_je_modell + 1):
             for denkbudget in (True, False):
+                if ANFRAGEN["gesendet"] >= ANFRAGEN["budget"]:
+                    raise BudgetErschoepft(
+                        "%d Anfragen gesendet, Anfragebudget erreicht."
+                        % ANFRAGEN["gesendet"])
+                if geschaetzte_kosten() >= ANFRAGEN["kostenlimit"]:
+                    raise BudgetErschoepft(
+                        "geschaetzte Kosten %.2f USD, Limit %.2f USD erreicht."
+                        % (geschaetzte_kosten(), ANFRAGEN["kostenlimit"]))
                 try:
-                    antwort = client.models.generate_content(
+                    ANFRAGEN["gesendet"] += 1
+                    ANFRAGEN["input_tokens"] += len(prompt) / ZEICHEN_JE_TOKEN
+                    antwort = hole_client().models.generate_content(
                         model=model, contents=prompt, config=_config(denkbudget))
                     daten = json.loads(antwort.text)
                     daten["_modell"] = model
@@ -677,6 +765,8 @@ def modell_aufrufen(client, modelle, prompt, cache_pfad, versuche_je_modell=3,
             meldung = str(letzter_fehler)
             ist_429 = "429" in meldung or "RESOURCE_EXHAUSTED" in meldung
             ist_503 = "503" in meldung or "UNAVAILABLE" in meldung
+            if ist_503:
+                _fehler_protokollieren(cache_pfad, model, letzter_fehler)
             if ist_429 and _ist_tageslimit(meldung):
                 raise TageslimitErreicht(
                     "Tageskontingent fuer %s ist aufgebraucht." % model)
@@ -744,7 +834,16 @@ def unternehmen_verarbeiten(key, model, dry_run=False, strikt=False):
                          else os.path.join(CACHE_DIR, key))
     os.makedirs(cache_verzeichnis, exist_ok=True)
     os.makedirs(DATA_DIR, exist_ok=True)
-    client = _client()
+
+    # Der Client wird erst angelegt, wenn ein Chunk tatsaechlich fehlt. Liegt alles
+    # im Cache, laeuft der Lauf ohne API-Schluessel durch. Das ist die Voraussetzung
+    # dafuer, dass Dritte die Auswertung aus dem Repository nachrechnen koennen.
+    client = [None]
+
+    def hole_client():
+        if client[0] is None:
+            client[0] = _client()
+        return client[0]
 
     roh = dict((f, []) for f in FELDER)
     benutzte_modelle = set()
@@ -758,9 +857,9 @@ def unternehmen_verarbeiten(key, model, dry_run=False, strikt=False):
         cache_pfad = os.path.join(cache_verzeichnis, "chunk%02d_%s.json" % (nr, sig))
         kette = [model] + [m for m in MODELL_KANDIDATEN if m != model]
         try:
-            daten, aus_cache = modell_aufrufen(client, kette, prompt, cache_pfad,
+            daten, aus_cache = modell_aufrufen(hole_client, kette, prompt, cache_pfad,
                                                strikt=strikt)
-        except TageslimitErreicht:
+        except (TageslimitErreicht, BudgetErschoepft):
             raise
         except Exception as e:
             # Ein einzelner Chunk darf einen Lauf ueber Dutzende Anfragen nicht
@@ -919,9 +1018,16 @@ def main():
     p.add_argument("--list-models", action="store_true", help="verfuegbare Modelle anzeigen")
     p.add_argument("--probe", action="store_true", help="testen, welches Modell gerade antwortet")
     p.add_argument("--strict-model", action="store_true",
-                   help="kein Modellwechsel, stattdessen geduldig warten")
+                   help="kein Modellwechsel, stattdessen wenige geduldige Versuche")
+    p.add_argument("--max-requests", type=int, default=STANDARD_ANFRAGEBUDGET,
+                   help="Obergrenze gesendeter Anfragen, Fehlversuche eingerechnet")
+    p.add_argument("--max-cost", type=float, default=STANDARD_KOSTENLIMIT,
+                   metavar="USD", help="Lauf stoppt bei dieser geschaetzten Summe")
     p.add_argument("--model", default=DEFAULT_MODEL)
     a = p.parse_args()
+
+    ANFRAGEN["budget"] = a.max_requests
+    ANFRAGEN["kostenlimit"] = a.max_cost
 
     if a.list_models:
         modelle_auflisten()
@@ -951,9 +1057,11 @@ def main():
                 probleme.append("%s: %d von %d Chunks fehlgeschlagen"
                                 % (k, len(ergebnis["chunks_fehlgeschlagen"]),
                                    ergebnis["chunks_gesamt"]))
-        except TageslimitErreicht as e:
+        except (TageslimitErreicht, BudgetErschoepft) as e:
             print("\n" + "=" * 60)
-            print("TAGESKONTINGENT AUFGEBRAUCHT: %s" % e)
+            print("LAUF GESTOPPT: %s" % e)
+            print("Gesendete Anfragen in diesem Lauf: %d" % ANFRAGEN["gesendet"])
+            print("Geschaetzte Kosten dieses Laufs: %.2f USD" % geschaetzte_kosten())
             print("Der Lauf wird hier beendet, weiteres Warten waere zwecklos.")
             print("Alles bisher Erfolgreiche liegt im Cache.")
             print("Morgen denselben Befehl erneut aufrufen, er setzt genau hier auf.")
@@ -974,6 +1082,10 @@ def main():
 
     if not a.dry_run:
         csv_schreiben(a.model if a.strict_model else None)
+        if ANFRAGEN["gesendet"]:
+            print("\nGesendete Anfragen: %d, geschaetzte Kosten: %.2f USD "
+                  "(Schaetzung, keine Abrechnung)"
+                  % (ANFRAGEN["gesendet"], geschaetzte_kosten()))
 
 
 if __name__ == "__main__":
