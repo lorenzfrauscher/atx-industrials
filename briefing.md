@@ -132,5 +132,5 @@ dieser Satz diese Aussage". Das ist die Frage, die 15,7 Prozent der Fälle entsc
 Wer eine solche Pipeline ohne Handprüfung produktiv einsetzt, bekommt Ergebnisse, die jeder
 automatischen Kontrolle standhalten und trotzdem in jedem sechsten Fall falsch belegt sind.
 
-*Code, Rohdaten, Verifikationsprotokoll und Entscheidungslog: github.com/<benutzername>/atx-industrials.
+*Code, Rohdaten, Verifikationsprotokoll und Entscheidungslog: github.com/lorenzrauscher1-create/atx-industrials.
 Die Geschäftsberichte selbst sind nicht Teil des Repositories.*

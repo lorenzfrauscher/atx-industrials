@@ -3,6 +3,8 @@
 LLM-gestützte Extraktion aus sieben Geschäftsberichten ATX-notierter Industrieunternehmen,
 mit maschineller Zitatverifikation und einer von Hand gemessenen Fehlerquote.
 
+Lorenz Frauscher, WU Wien, September 2026.
+
 **Ergebnis in einem Satz:** 369 extrahierte Aussagen, null erfundene Zitate, aber 15,7 Prozent
 der von Hand geprüften Aussagen stützen sich auf den falschen echten Satz. Eine automatische
 Zitatprüfung beweist, dass ein Satz im Dokument steht, nicht dass er die Aussage trägt.

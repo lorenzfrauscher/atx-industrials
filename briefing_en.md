@@ -131,5 +131,5 @@ statement". That is the question which decides 15.7 per cent of cases.
 Anyone running such a pipeline in production without manual review gets results that survive
 every automated check and are nonetheless wrongly evidenced in roughly one case out of six.
 
-*Code, raw data, verification protocol and decision log: github.com/<username>/atx-industrials.
+*Code, raw data, verification protocol and decision log: github.com/lorenzrauscher1-create/atx-industrials.
 The annual reports themselves are not part of the repository.*
