@@ -55,12 +55,15 @@ Regel zuerst, Daten danach ist im Repository über die Dateihistorie belegbar.
 
 ### 2.3 Datenbasis: Konzernlagebericht statt Magazinteil
 
-**Auslöser.** Der zuerst geladene Andritz-Geschäftsbericht 2025 hatte 162 Seiten Umfang
+**Auslöser.** Der zuerst geladene Andritz-Geschäftsbericht 2025 umfasste 76 Seiten
 im Magazinformat.
 
 **Prüfung.** Strukturcheck über alle sieben Dateien. Im Andritz-Dokument kam
 "Konzernlagebericht" null Mal vor und "Konzernabschluss" null Mal. Zum Vergleich Strabag
-456 und 121, Wienerberger 251 und 311.
+66 und 121, Wienerberger 244 und 301. Die Zaehlwerte sind mit der in `requirements.txt`
+festgenagelten pypdf-Version nachgemessen und weichen von der urspruenglichen Messung ab,
+weil die Textextraktion versionsabhaengig ist. Der Befund null zu null bei Andritz ist davon
+unberuehrt.
 
 **Entscheidung.** Pro Unternehmen genau das Dokument, das den Konzernlagebericht samt
 Risikobericht enthält. Bei getrennter Publikation gilt der Jahresfinanzbericht. Andritz
@@ -179,13 +182,13 @@ Nicht der ganze Bericht geht ins Modell. Je Feldtyp werden Seiten nach Schlagwor
 gepunktet, die dichtesten ausgewählt, Nachbarseiten ergänzt. Seiten mit über 30 Prozent
 Ziffernanteil fallen als reine Zahlentabellen heraus.
 
-Ergebnis: 803 von 2.217 Seiten, also rund 35 Prozent. Grund ist nicht die Kostenersparnis,
+Ergebnis: 803 von 2.217 Seiten, also rund 36 Prozent. Grund ist nicht die Kostenersparnis,
 sondern die Präzision. Je mehr irrelevanten Kontext das Modell sieht, desto eher greift es
 das falsche Zitat.
 
 ### 5.2 ESRS-Kennzeichnung statt ESRS-Ausschluss
 
-**Auslöser.** Rund ein Viertel der PALFINGER-Treffer stammte nicht aus dem Geschäftsteil,
+**Auslöser.** 10 von 51 PALFINGER-Treffern des Pilotlaufs stammten nicht aus dem Geschäftsteil,
 sondern aus der Nachhaltigkeitsberichterstattung. Vier von zehn Capex-Signalen waren reine
 EU-Taxonomie-Offenlegungen wie "Konforme Investitionen betrugen 1.227 TEUR". Das ist keine
 Investitionsaussage, das ist eine Meldepflicht.
@@ -221,7 +224,7 @@ unsichtbar machen würde.
 0 Prozent. Letzteres ist der beste Beleg, dass die Regel greift, denn Andritz publiziert
 seinen Nachhaltigkeitsteil in einem anderen Dokument.
 
-**Interviewwert.** Aus einem Störfaktor wird ein Befund. Die Aussage "ein Viertel dessen,
+**Interviewwert.** Aus einem Störfaktor wird ein Befund. Die Aussage "ein Drittel dessen,
 was formal wie eine strategische Priorität aussieht, stammt aus der ESRS-Pflichtberichterstattung"
 ist analytisch wertvoller als eine bereinigte Heatmap.
 

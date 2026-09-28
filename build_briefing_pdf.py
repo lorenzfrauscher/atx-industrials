@@ -150,8 +150,8 @@ def bauen(md_pfad, pdf_pfad, charts):
                 iw, ih = ImageReader(pfad).getSize()
                 b = nutzbreite
                 h = b * ih / float(iw)
-                if h > 46 * mm:
-                    h = 46 * mm
+                if h > 42 * mm:
+                    h = 42 * mm
                     b = h * iw / float(ih)
                 story.append(Spacer(1, 3))
                 story.append(Image(pfad, width=b, height=h, hAlign="LEFT"))

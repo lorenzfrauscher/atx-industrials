@@ -91,11 +91,18 @@ geographically**, not where it is pursued.
 | Supply chain | 7 | 5 | 12 |
 | **Technology** | **9** | **0** | **9** |
 
-Technology is the only row with a qualitative jump: nine mentions among the manufacturers, **not
-one** among construction and building materials. What they name there is product portfolio
-competitiveness, intellectual property constraints and cyber risk. With four against three
-companies this is not statistically robust, but the contrast is unambiguous because one group
-does not touch the category at all.
+*Mentions in the management report, excluding sustainability reporting.*
+
+Technology is the only row with a qualitative jump. **All four manufacturers use the category, none
+of the three construction companies does.** Three manufacturers name cyber attacks and IT
+disruption, the rest is product development, portfolio competitiveness and ageing plant.
+
+Two limitations belong to this. Porr and Wienerberger each name one technology risk in their
+sustainability reporting, at Wienerberger cyber security. The category is missing from their
+management report, not from their annual report. And the closed category list forces an
+assignment: three of the nine manufacturer mentions come from voestalpine and describe
+operational rather than technology risks. More robust than the frequency is the spread across
+companies, four of four against none of three.
 
 <!--chart:2-->
 

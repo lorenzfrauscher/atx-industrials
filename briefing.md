@@ -92,11 +92,18 @@ segmentbezogene Wachstumsaussagen fallen durch das Raster. Der Befund beschreibt
 | Lieferkette | 7 | 5 | 12 |
 | **Technologie** | **9** | **0** | **9** |
 
-Technologie ist die einzige Zeile mit einem qualitativen Sprung: neun Nennungen bei den
-Herstellern, **keine einzige** bei Bau und Baustoffen. Genannt werden dort Wettbewerbsfähigkeit
-des Produktportfolios, immaterialgüterrechtliche Beschränkungen und Cyberrisiken. Bei vier zu
-drei Unternehmen ist das statistisch nicht belastbar, der Kontrast aber eindeutig, weil eine
-Gruppe die Kategorie überhaupt nicht bespielt.
+*Nennungen im Geschäftsbericht, ohne Nachhaltigkeitsberichterstattung.*
+
+Technologie ist die einzige Zeile mit einem qualitativen Sprung. **Alle vier Hersteller bespielen
+die Kategorie, keines der drei Bauunternehmen.** Drei Hersteller nennen Cyberangriffe und
+IT-Störungen, dazu kommen Produktentwicklung, Portfoliowettbewerb und Anlagenalterung.
+
+Zwei Einschränkungen gehören dazu. Porr und Wienerberger nennen je ein Technologierisiko in der
+Nachhaltigkeitsberichterstattung, bei Wienerberger Cybersicherheit. Die Kategorie fehlt ihnen
+also im Geschäftsteil, nicht im ganzen Bericht. Und die geschlossene Kategorienliste erzwingt
+eine Zuordnung: Drei der neun Herstellernennungen stammen von voestalpine und beschreiben eher
+Betriebsrisiken. Belastbarer als die Häufigkeit ist die Verteilung über Unternehmen, vier von
+vier gegen null von drei.
 
 <!--chart:2-->
 
