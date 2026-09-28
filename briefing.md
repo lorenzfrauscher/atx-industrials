@@ -66,10 +66,11 @@ Korrektur: null. **Eine gemessene Fehlerquote misst zuerst die eigene Pipeline.*
 
 Die Hersteller nennen Wachstumsmärkte außerhalb Europas. PALFINGER nennt Indien dreimal, dazu
 Nordamerika und den Nahen Osten. voestalpine nennt China und Indien, Andritz Nordamerika,
-Lateinamerika und den Nahen Osten.
+Lateinamerika und China.
 
-Die Bauunternehmen nennen den Heimatmarkt und pauschale Kategorien. Porr nennt Österreich, DACH
-und Europa, Strabag DACH und Europa. Weder Porr noch Strabag noch Wienerberger nennt Indien oder
+Die Bauunternehmen nennen überwiegend den Heimatmarkt und pauschale Kategorien. Porr nennt
+Österreich, DACH und Europa, Strabag DACH, Europa und einmal den Nahen Osten. Weder Porr noch
+Strabag noch Wienerberger nennt Indien oder
 China ein einziges Mal.
 
 **Einschränkung.** Über alle sieben Unternehmen entfallen nur 27 belegte Regionsnennungen,
@@ -106,7 +107,7 @@ Gruppe die Kategorie überhaupt nicht bespielt.
 **Stichprobengröße.** Sieben Unternehmen, vier zu drei aufgeteilt. Die Gruppentabellen
 beschreiben, sie beweisen nicht.
 
-**Ein Drittel stammt aus der Pflichtberichterstattung.** 114 der 369 Elemente entstammen den
+**Ein Drittel stammt aus der Pflichtberichterstattung.** 124 der 369 Elemente entstammen den
 ESRS- und Taxonomieteilen. Sie sind gekennzeichnet, nicht entfernt. Bei Wienerberger sind es
 53 Prozent, bei Andritz null, weil dort der Nachhaltigkeitsteil separat erscheint. Die
 Handprüfung zeigt für ESRS-Abschnitte 78 gegen 85 Prozent Korrektheit.

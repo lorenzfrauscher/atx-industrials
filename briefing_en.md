@@ -65,10 +65,11 @@ correction: zero. **A measured error rate first measures your own pipeline.**
 
 The manufacturers name growth markets outside Europe. PALFINGER names India three times, plus
 North America and the Middle East. voestalpine names China and India, Andritz names North
-America, Latin America and the Middle East.
+America, Latin America and China.
 
-The construction companies name the home market and broad categories. Porr names Austria, DACH
-and Europe, Strabag names DACH and Europe. Neither Porr nor Strabag nor Wienerberger names India
+The construction companies mostly name the home market and broad categories. Porr names Austria,
+DACH and Europe, Strabag names DACH, Europe and the Middle East once. Neither Porr nor Strabag nor
+Wienerberger names India
 or China a single time.
 
 **Limitation.** Across all seven companies there are only 27 quote-verified regional mentions,
@@ -105,7 +106,7 @@ does not touch the category at all.
 **Sample size.** Seven companies, split four to three. The group tables describe, they do not
 prove.
 
-**One third comes from mandatory reporting.** 114 of 369 elements originate in the ESRS and
+**One third comes from mandatory reporting.** 124 of 369 elements originate in the ESRS and
 taxonomy sections. They are labelled, not removed. For Wienerberger the share is 53 per cent, for
 Andritz zero, because that company publishes its sustainability section separately. The manual
 check shows 78 against 85 per cent accuracy for ESRS sections.

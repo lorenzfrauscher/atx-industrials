@@ -107,9 +107,10 @@ eine nächste Version, nicht in die Fehlerquote dieser.
 `exakt` bestätigt. Die Aussage ist inhaltlich richtig und steht so im Bericht. Sie steht
 aber **nicht im zitierten Satz**, sondern daneben.
 
-Gefunden an AND-032: Das Zitat berichtet, dass Ende 2024 Sachanlagen in Kanada mit
-0,5 MEUR als zur Veräußerung gehalten ausgewiesen wurden. Die Aussage berichtet, dass sie
-2025 mit einem Gewinn von 0,8 MEUR veräußert wurden. Diese Information steht im
+Gefunden an AND-032 (Seite 143): Die Aussage berichtet, dass ein Ende 2024 im
+Geschäftsbereich Metals eingeleiteter Verkauf von Sachanlagen in Deutschland 2025 mit
+einem Veräußerungsgewinn abgeschlossen wurde. Das zitierte Satzstück belegt nur den Ausweis
+Ende 2024. Der Abschluss des Verkaufs steht im Folgesatz des Berichts, nicht im Zitat. Diese Information steht im
 darauffolgenden Satz des Berichts, nicht im Zitat.
 
 **Warum eine eigene Klasse und nicht `inhalt_verzerrt`.** Bei `inhalt_verzerrt` ist die
