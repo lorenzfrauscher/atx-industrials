@@ -1,3 +1,5 @@
+**Strategic priorities of Austrian industrials**
+LLM-assisted extraction from seven annual reports of ATX-listed industrial companies, 2,217 pages. The model returns verbatim quotations only, the pipeline locates them in the source text, so citations cannot be fabricated undetected. 369 statements extracted, none fabricated. Of 134 hand-checked, 15.7% cite a real sentence that does not support the claim. English write-up: briefing_en.md.
 # Strategische Prioritäten österreichischer Industrieunternehmen
 
 LLM-gestützte Extraktion aus sieben Geschäftsberichten ATX-notierter Industrieunternehmen,
